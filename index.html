@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Looop - Know they're safe, across any distance</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/png" href="images/logo_small.png">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar">
+    <a href="index.html" class="logo">
+      <img src="images/logo_small.png" alt="Looop">
+    </a>
+    <button class="hamburger" onclick="document.querySelector('.nav-links').classList.toggle('active')" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#why">Why Looop?</a></li>
+      <li><a href="#contact">Get in Touch</a></li>
+      <li><a href="https://apps.apple.com/us/app/silver360/id6742692834" class="btn-download">Download Healthy</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero" id="about">
+    <p class="subtitle">Far from Family?</p>
+    <h1>Know they're safe, across any distance.</h1>
+    <a href="https://apps.apple.com/us/app/silver360/id6742692834" class="app-store-badge">
+      <img src="images/appstore-badge.png" alt="Download on the App Store">
+    </a>
+    <div class="hero-people">
+      <img src="images/1.png" alt="Family member">
+      <img src="images/2.png" alt="Family member">
+      <img src="images/3.png" alt="Family member">
+      <img src="images/4.png" alt="Family member">
+      <img src="images/5.png" alt="Family member">
+      <img src="images/6.png" alt="Family member">
+      <img src="images/7.png" alt="Family member">
+      <img src="images/8.png" alt="Family member">
+    </div>
+  </section>
+
+  <!-- Connection & Care Section -->
+  <section class="connection-section">
+    <h2>Connection & Care across Countries & Continents</h2>
+    <p class="tagline">Designed for families, friends, and caregivers...</p>
+    <p>Looop gives you peace of mind that all is well, at a glance, without being intrusive. See loved ones' activity, health, and weather... wherever they go. Quickly determine if things look typical or unusual - maybe it's time to check-in with them.</p>
+  </section>
+
+  <!-- Notification Section -->
+  <section class="notification-section">
+    <h2>Know when to check-in!</h2>
+    <p>Get notified when things seem unusual.</p>
+    <img src="images/screenshot-notifications.png" alt="Looop notification cards">
+  </section>
+
+  <!-- Why Looop Section -->
+  <section class="why-section" id="why">
+    <h2>Why Looop?</h2>
+    <p class="section-subtitle">Because caring from a distance should bring peace of mind, not added stress.</p>
+    <div class="features-grid">
+      <div class="feature-card">
+        <img class="icon" src="images/a.png" alt="Daily Reassurance">
+        <h3>Daily Reassurance</h3>
+        <p>Know your loved ones are safe and going about their day, even without the details.</p>
+      </div>
+      <div class="feature-card">
+        <img class="icon" src="images/i.png" alt="Wellness Snapshots">
+        <h3>Wellness Snapshots</h3>
+        <p>Optional updates like steps, heart rate, or sleep patterns, so you can stay in the loop if you'd like.</p>
+      </div>
+      <div class="feature-card">
+        <img class="icon" src="images/h.png" alt="Weather Awareness">
+        <h3>Weather Awareness</h3>
+        <p>Get alerts for storms, flood warnings, extreme heat, or cold that might affect them.</p>
+      </div>
+      <div class="feature-card">
+        <img class="icon" src="images/f.png" alt="Moments That Matter">
+        <h3>Moments That Matter</h3>
+        <p>Receive gentle notifications when something important changes.</p>
+      </div>
+    </div>
+    <a href="https://apps.apple.com/us/app/silver360/id6742692834" class="app-store-badge">
+      <img src="images/appstore-badge.png" alt="Download on the App Store">
+    </a>
+  </section>
+
+  <!-- Contact Section -->
+  <section class="contact-section" id="contact">
+    <h2>Get in Touch!</h2>
+    <p class="section-subtitle">Have questions? Need assistance? Got Feedback? We want to hear it!</p>
+    <form class="contact-form" action="https://formspree.io/f/info@TheLooopApp.com" method="POST">
+      <div class="form-row">
+        <input type="text" name="firstName" placeholder="First Name *" required>
+        <input type="text" name="lastName" placeholder="Last Name *" required>
+      </div>
+      <input type="email" name="email" placeholder="Email *" required>
+      <select name="category" required>
+        <option value="" disabled selected>Category *</option>
+        <option value="general">General Inquiry</option>
+        <option value="support">Support</option>
+        <option value="feedback">Feedback</option>
+        <option value="other">Other</option>
+      </select>
+      <textarea name="message" placeholder="Write a Message: *" required></textarea>
+      <button type="submit">Submit</button>
+    </form>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-content">
+      <div class="footer-col">
+        <img src="images/logo_small_white.png" alt="Looop" style="height: 36px; margin-bottom: 12px;">
+      </div>
+      <div class="footer-col">
+        <h4>Menu</h4>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#why">Why Looop?</a></li>
+          <li><a href="#contact">Get in Touch</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Policy</h4>
+        <ul>
+          <li><a href="privacy.html">Privacy Policy</a></li>
+          <li><a href="useragreement.html">User Agreement</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      &copy; 2025 Looop, LLC
+    </div>
+  </footer>
+
+</body>
+</html>
