@@ -89,7 +89,7 @@ img {
    Hero Section
    ======================================== */
 .hero {
-  background: linear-gradient(180deg, #d9e3f1 0%, #dfe8f2 30%, #e8eef2 60%, #edf2f0 100%);
+  background: linear-gradient(180deg, #e8eff8 0%, #eaf0f6 30%, #eef3f2 60%, #f2f6f2 100%);
   text-align: center;
   padding: 140px 20px 80px;
   position: relative;
@@ -103,8 +103,8 @@ img {
 
 .hero h1 {
   font-size: 52px;
-  font-weight: 800;
-  color: #1a1a3e;
+  font-weight: 700;
+  color: #1a2b5a;
   max-width: 700px;
   margin: 0 auto 16px;
   line-height: 1.15;
@@ -112,7 +112,7 @@ img {
 
 .hero .subtitle {
   font-size: 26px;
-  color: #3a7d3a;
+  color: #5a8a5a;
   font-weight: 400;
   margin-bottom: 32px;
 }
@@ -130,7 +130,7 @@ img {
    Two-column: text left, phones image right
    ======================================== */
 .connection-section {
-  background: linear-gradient(180deg, #edf2f0 0%, #e8eef2 50%, #edf1f4 100%);
+  background: linear-gradient(180deg, #f2f6f2 0%, #eef3f4 50%, #edf1f4 100%);
   padding: 80px 20px;
 }
 
@@ -146,7 +146,7 @@ img {
 .connection-text h2 {
   font-size: 46px;
   font-weight: 700;
-  color: #1a1a3e;
+  color: #1a3c7a;
   line-height: 1.15;
   margin-bottom: 24px;
 }
@@ -218,13 +218,13 @@ img {
 .why-section h2 {
   font-size: 52px;
   font-weight: 700;
-  color: #3a5a9e;
+  color: #2b5ea7;
   margin-bottom: 16px;
 }
 
 .why-section .section-subtitle {
-  font-size: 20px;
-  color: #1a1a3e;
+  font-size: 18px;
+  color: #1a2b5a;
   font-weight: 600;
   max-width: 700px;
   margin: 0 auto 40px;
@@ -238,12 +238,27 @@ img {
 
 .feature-item {
   margin-bottom: 20px;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.5;
 }
 
 .feature-item .feature-label {
   font-weight: 700;
+}
+
+.feature-item .label-blue {
+  color: #2b5ea7;
+}
+
+.feature-item .label-red {
+  color: #c0392b;
+}
+
+.feature-item .label-green {
+  color: #2e7d32;
+}
+
+.feature-item .label-orange {
   color: #d4952a;
 }
 
@@ -272,7 +287,7 @@ img {
 .contact-text h2 {
   font-size: 48px;
   font-weight: 700;
-  color: #3a5a9e;
+  color: #2b5ea7;
   margin-bottom: 20px;
   line-height: 1.1;
 }
