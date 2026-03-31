@@ -134,41 +134,41 @@ img {
 }
 
 /* ========================================
-   Lock Screen Phones Section
+   Phones Image Sections (centered)
    ======================================== */
-.lockscreen-section {
-  padding: 40px 20px 60px;
+.phones-section {
+  padding: 40px 20px;
   text-align: center;
 }
 
-.lockscreen-image {
+.phones-image {
   max-width: 700px;
   margin: 0 auto;
 }
 
-.lockscreen-image img {
+.phones-image.phones-large {
+  max-width: 875px;
+}
+
+.phones-image img {
   width: 100%;
 }
 
 /* ========================================
-   Connection & Care Section
-   Two-column: text left, phones image right
+   Connection & Care Section (centered text)
    ======================================== */
 .connection-section {
-  padding: 80px 20px;
+  padding: 60px 20px;
+  text-align: center;
 }
 
-.connection-inner {
-  max-width: 1100px;
+.connection-content {
+  max-width: 800px;
   margin: 0 auto;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 48px;
-  align-items: center;
 }
 
 /* Tier 1 - title */
-.connection-text h2 {
+.connection-content h2 {
   font-size: 48px;
   font-weight: 700;
   color: #256FCE;
@@ -177,7 +177,7 @@ img {
 }
 
 /* Tier 3 - tagline */
-.connection-text .tagline {
+.connection-content .tagline {
   font-size: 18px;
   color: #13083E;
   font-weight: 600;
@@ -185,32 +185,22 @@ img {
 }
 
 /* Body text */
-.connection-text .body-text {
+.connection-content .body-text {
   font-size: 16px;
   color: #757575;
   line-height: 1.8;
 }
 
-.connection-image {
-  display: flex;
-  justify-content: center;
-}
-
-.connection-image img {
-  max-width: 520px;
-  width: 100%;
-}
-
 /* ========================================
-   Map Section
+   Check-in Section (text only)
    ======================================== */
-.map-section {
-  padding: 80px 20px 60px;
+.checkin-section {
+  padding: 60px 20px 20px;
   text-align: center;
 }
 
 /* Tier 1 - title */
-.map-section h2 {
+.checkin-section h2 {
   font-size: 48px;
   font-weight: 700;
   color: #256FCE;
@@ -218,15 +208,22 @@ img {
 }
 
 /* Tier 2 - subtitle */
-.map-section .section-sub {
+.checkin-section .section-sub {
   font-size: 24px;
   color: #27B80D;
-  margin-bottom: 48px;
   font-weight: 400;
 }
 
+/* ========================================
+   Map Section
+   ======================================== */
+.map-section {
+  padding: 20px 20px 60px;
+  text-align: center;
+}
+
 .map-image {
-  max-width: 900px;
+  max-width: 1125px;
   margin: 0 auto;
 }
 
@@ -398,7 +395,7 @@ img {
    Footer
    ======================================== */
 .footer {
-  background: #69A6F6;
+  background: #3B82F6;
   color: #fff;
   padding: 48px 40px 24px;
 }
@@ -573,28 +570,19 @@ img {
     width: 180px;
   }
 
-  .lockscreen-image {
-    max-width: 400px;
+  .phones-image.phones-large {
+    max-width: 500px;
   }
 
-  .connection-inner {
-    grid-template-columns: 1fr;
-    gap: 32px;
-  }
-
-  .connection-text h2 {
+  .connection-content h2 {
     font-size: 30px;
   }
 
-  .connection-image img {
-    max-width: 400px;
-  }
-
-  .map-section h2 {
+  .checkin-section h2 {
     font-size: 30px;
   }
 
-  .map-section .section-sub {
+  .checkin-section .section-sub {
     font-size: 18px;
   }
 
