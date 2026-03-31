@@ -11,7 +11,7 @@ html {
 
 body {
   font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #1a1a3e;
+  color: #13083E;
   line-height: 1.6;
   background: #fff;
   overflow-x: hidden;
@@ -61,12 +61,12 @@ img {
 .nav-links a {
   font-size: 16px;
   font-weight: 500;
-  color: #1a1a3e;
+  color: #13083E;
   transition: color 0.2s;
 }
 
 .nav-links a:hover {
-  color: #4a7dbd;
+  color: #116DFF;
 }
 
 .hamburger {
@@ -81,7 +81,7 @@ img {
 .hamburger span {
   width: 24px;
   height: 2px;
-  background: #1a1a3e;
+  background: #13083E;
   transition: 0.3s;
 }
 
@@ -104,7 +104,7 @@ img {
 .hero h1 {
   font-size: 52px;
   font-weight: 700;
-  color: #1a2b5a;
+  color: #0000EE;
   max-width: 700px;
   margin: 0 auto 16px;
   line-height: 1.15;
@@ -112,7 +112,7 @@ img {
 
 .hero .subtitle {
   font-size: 26px;
-  color: #5a8a5a;
+  color: #27B80D;
   font-weight: 400;
   margin-bottom: 32px;
 }
@@ -146,21 +146,21 @@ img {
 .connection-text h2 {
   font-size: 46px;
   font-weight: 700;
-  color: #1a3c7a;
+  color: #0000EE;
   line-height: 1.15;
   margin-bottom: 24px;
 }
 
 .connection-text .tagline {
   font-size: 22px;
-  color: #1a1a3e;
+  color: #13083E;
   font-weight: 600;
   margin-bottom: 16px;
 }
 
 .connection-text .body-text {
   font-size: 17px;
-  color: #333;
+  color: #757575;
   line-height: 1.8;
 }
 
@@ -186,13 +186,13 @@ img {
 .map-section h2 {
   font-size: 48px;
   font-weight: 700;
-  color: #2e7d32;
+  color: #27B80D;
   margin-bottom: 8px;
 }
 
 .map-section .section-sub {
   font-size: 24px;
-  color: #2e7d32;
+  color: #27B80D;
   margin-bottom: 48px;
   font-weight: 400;
 }
@@ -210,7 +210,7 @@ img {
    Why Looop Section
    ======================================== */
 .why-section {
-  background: linear-gradient(180deg, #dfe8e4 0%, #f0f2f4 50%, #f4f6f4 100%);
+  background: linear-gradient(180deg, #dfe8e4 0%, #f0f2f4 50%, #F7F7F7 100%);
   padding: 80px 20px 60px;
   text-align: center;
 }
@@ -218,13 +218,13 @@ img {
 .why-section h2 {
   font-size: 52px;
   font-weight: 700;
-  color: #2b5ea7;
+  color: #256FCE;
   margin-bottom: 16px;
 }
 
 .why-section .section-subtitle {
   font-size: 18px;
-  color: #1a2b5a;
+  color: #13083E;
   font-weight: 600;
   max-width: 700px;
   margin: 0 auto 40px;
@@ -247,23 +247,23 @@ img {
 }
 
 .feature-item .label-blue {
-  color: #2b5ea7;
+  color: #256FCE;
 }
 
 .feature-item .label-red {
-  color: #c0392b;
+  color: #FF9D11;
 }
 
 .feature-item .label-green {
-  color: #2e7d32;
+  color: #27B80D;
 }
 
 .feature-item .label-orange {
-  color: #d4952a;
+  color: #FF9D11;
 }
 
 .feature-item .feature-desc {
-  color: #1a1a3e;
+  color: #13083E;
   font-weight: 400;
 }
 
@@ -271,7 +271,7 @@ img {
    Contact Section
    ======================================== */
 .contact-section {
-  background: linear-gradient(180deg, #f4f6f4 0%, #e8eef0 50%, #dde6dc 100%);
+  background: linear-gradient(180deg, #F7F7F7 0%, #eef2f4 50%, #e4ecdf 100%);
   padding: 80px 20px;
 }
 
@@ -287,14 +287,14 @@ img {
 .contact-text h2 {
   font-size: 48px;
   font-weight: 700;
-  color: #2b5ea7;
+  color: #256FCE;
   margin-bottom: 20px;
   line-height: 1.1;
 }
 
 .contact-text p {
   font-size: 17px;
-  color: #1a1a3e;
+  color: #13083E;
   line-height: 1.6;
 }
 
@@ -307,7 +307,7 @@ img {
 .contact-form label {
   font-size: 15px;
   font-weight: 500;
-  color: #1a1a3e;
+  color: #13083E;
   display: block;
   margin-bottom: 6px;
 }
@@ -317,12 +317,12 @@ img {
 .contact-form textarea {
   width: 100%;
   padding: 14px 20px;
-  border: 2px solid #1a1a3e;
+  border: 2px solid #13083E;
   border-radius: 28px;
   font-size: 15px;
   font-family: inherit;
   background: #fff;
-  color: #1a1a3e;
+  color: #13083E;
   outline: none;
   transition: border-color 0.2s;
   -webkit-appearance: none;
@@ -330,7 +330,7 @@ img {
 }
 
 .contact-form select {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%231a1a3e' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2313083E' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
   background-repeat: no-repeat;
   background-position: right 18px center;
   padding-right: 48px;
@@ -339,7 +339,7 @@ img {
 .contact-form input:focus,
 .contact-form select:focus,
 .contact-form textarea:focus {
-  border-color: #3a5a9e;
+  border-color: #116DFF;
 }
 
 .contact-form textarea {
@@ -349,7 +349,7 @@ img {
 }
 
 .contact-form button {
-  background: #1a1a3e;
+  background: #13083E;
   color: #fff;
   border: none;
   padding: 16px 48px;
@@ -362,14 +362,14 @@ img {
 }
 
 .contact-form button:hover {
-  background: #2a2a5e;
+  background: #2F2B36;
 }
 
 /* ========================================
    Footer
    ======================================== */
 .footer {
-  background: #4a7dbd;
+  background: #69A6F6;
   color: #fff;
   padding: 48px 40px 24px;
 }
@@ -412,7 +412,7 @@ img {
 }
 
 .footer-col ul li a {
-  color: rgba(255,255,255,0.8);
+  color: rgba(255,255,255,0.85);
   font-size: 15px;
   transition: color 0.2s;
 }
@@ -440,19 +440,19 @@ img {
 
 .legal-page h1 {
   font-size: 36px;
-  color: #3a5a9e;
+  color: #256FCE;
   margin-bottom: 8px;
 }
 
 .legal-page .legal-meta {
   font-size: 14px;
-  color: #888;
+  color: #76747B;
   margin-bottom: 32px;
 }
 
 .legal-page h2 {
   font-size: 22px;
-  color: #1a1a3e;
+  color: #13083E;
   margin-top: 32px;
   margin-bottom: 12px;
 }
@@ -460,7 +460,7 @@ img {
 .legal-page p,
 .legal-page li {
   font-size: 15px;
-  color: #555;
+  color: #757575;
   line-height: 1.8;
   margin-bottom: 12px;
 }
@@ -471,7 +471,7 @@ img {
 }
 
 .legal-page .toc {
-  background: #f7f9fc;
+  background: #F7F7F7;
   padding: 20px 24px;
   border-radius: 8px;
   margin-bottom: 32px;
@@ -492,7 +492,7 @@ img {
 }
 
 .legal-page .toc ul li a {
-  color: #3a5a9e;
+  color: #256FCE;
 }
 
 /* ========================================
