@@ -28,6 +28,14 @@ img {
 }
 
 /* ========================================
+   Typography Hierarchy
+   Tier 1 - Section titles (h2): #256FCE, 48px, 700
+   Tier 2 - Subtitles: #27B80D, 24px, 400
+   Tier 3 - Taglines: #13083E, 18px, 600
+   Body - #757575, 16px, 400
+   ======================================== */
+
+/* ========================================
    Navigation - floating pill
    ======================================== */
 .navbar {
@@ -99,6 +107,7 @@ img {
   display: block;
 }
 
+/* Tier 1 - title */
 .hero h1 {
   font-size: 48px;
   font-weight: 700;
@@ -108,6 +117,7 @@ img {
   line-height: 1.15;
 }
 
+/* Tier 2 - subtitle */
 .hero .subtitle {
   font-size: 24px;
   color: #27B80D;
@@ -142,6 +152,7 @@ img {
 
 /* ========================================
    Connection & Care Section
+   Two-column: text left, phones image right
    ======================================== */
 .connection-section {
   padding: 80px 20px;
@@ -156,6 +167,7 @@ img {
   align-items: center;
 }
 
+/* Tier 1 - title */
 .connection-text h2 {
   font-size: 48px;
   font-weight: 700;
@@ -164,6 +176,7 @@ img {
   margin-bottom: 24px;
 }
 
+/* Tier 3 - tagline */
 .connection-text .tagline {
   font-size: 18px;
   color: #13083E;
@@ -171,6 +184,7 @@ img {
   margin-bottom: 16px;
 }
 
+/* Body text */
 .connection-text .body-text {
   font-size: 16px;
   color: #757575;
@@ -195,6 +209,7 @@ img {
   text-align: center;
 }
 
+/* Tier 1 - title */
 .map-section h2 {
   font-size: 48px;
   font-weight: 700;
@@ -202,6 +217,7 @@ img {
   margin-bottom: 8px;
 }
 
+/* Tier 2 - subtitle */
 .map-section .section-sub {
   font-size: 24px;
   color: #27B80D;
@@ -226,6 +242,7 @@ img {
   text-align: center;
 }
 
+/* Tier 1 - title */
 .why-section h2 {
   font-size: 48px;
   font-weight: 700;
@@ -233,6 +250,7 @@ img {
   margin-bottom: 16px;
 }
 
+/* Tier 3 - tagline */
 .why-section .section-subtitle {
   font-size: 18px;
   color: #13083E;
@@ -247,6 +265,7 @@ img {
   text-align: center;
 }
 
+/* Body text with colored labels */
 .feature-item {
   margin-bottom: 16px;
   font-size: 16px;
@@ -269,8 +288,9 @@ img {
   color: #FF9D11;
 }
 
+/* Body text */
 .feature-item .feature-desc {
-  color: #13083E;
+  color: #000000;
   font-weight: 400;
 }
 
@@ -290,6 +310,7 @@ img {
   align-items: start;
 }
 
+/* Tier 1 - title */
 .contact-text h2 {
   font-size: 48px;
   font-weight: 700;
@@ -298,9 +319,11 @@ img {
   line-height: 1.1;
 }
 
+/* Tier 3 - tagline (same style as other taglines) */
 .contact-text p {
-  font-size: 16px;
-  color: #757575;
+  font-size: 18px;
+  color: #13083E;
+  font-weight: 600;
   line-height: 1.6;
 }
 
