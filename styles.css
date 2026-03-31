@@ -13,7 +13,7 @@ body {
   font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #13083E;
   line-height: 1.6;
-  background: #fff;
+  background: linear-gradient(180deg, #e0eaf4 0%, #e8eff6 10%, #eef3f2 25%, #f2f6f2 40%, #edf1f4 55%, #e4ecf0 70%, #eef2f4 80%, #F7F7F7 90%, #fff 100%);
   overflow-x: hidden;
 }
 
@@ -89,10 +89,8 @@ img {
    Hero Section
    ======================================== */
 .hero {
-  background: linear-gradient(180deg, #e8eff8 0%, #eaf0f6 30%, #eef3f2 60%, #f2f6f2 100%);
   text-align: center;
-  padding: 140px 20px 80px;
-  position: relative;
+  padding: 140px 20px 60px;
 }
 
 .hero .logo-wordmark {
@@ -102,16 +100,16 @@ img {
 }
 
 .hero h1 {
-  font-size: 52px;
+  font-size: 48px;
   font-weight: 700;
-  color: #13083E;
+  color: #256FCE;
   max-width: 700px;
   margin: 0 auto 16px;
   line-height: 1.15;
 }
 
 .hero .subtitle {
-  font-size: 26px;
+  font-size: 24px;
   color: #27B80D;
   font-weight: 400;
   margin-bottom: 32px;
@@ -126,11 +124,26 @@ img {
 }
 
 /* ========================================
+   Lock Screen Phones Section
+   ======================================== */
+.lockscreen-section {
+  padding: 40px 20px 60px;
+  text-align: center;
+}
+
+.lockscreen-image {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.lockscreen-image img {
+  width: 100%;
+}
+
+/* ========================================
    Connection & Care Section
-   Two-column: text left, phones image right
    ======================================== */
 .connection-section {
-  background: linear-gradient(180deg, #f2f6f2 0%, #eef3f4 50%, #edf1f4 100%);
   padding: 80px 20px;
 }
 
@@ -144,7 +157,7 @@ img {
 }
 
 .connection-text h2 {
-  font-size: 46px;
+  font-size: 48px;
   font-weight: 700;
   color: #256FCE;
   line-height: 1.15;
@@ -152,14 +165,14 @@ img {
 }
 
 .connection-text .tagline {
-  font-size: 22px;
+  font-size: 18px;
   color: #13083E;
   font-weight: 600;
   margin-bottom: 16px;
 }
 
 .connection-text .body-text {
-  font-size: 17px;
+  font-size: 16px;
   color: #757575;
   line-height: 1.8;
 }
@@ -178,20 +191,19 @@ img {
    Map Section
    ======================================== */
 .map-section {
-  background: linear-gradient(180deg, #edf1f4 0%, #dce6f0 30%, #d5e0e8 60%, #dfe8e4 100%);
   padding: 80px 20px 60px;
   text-align: center;
 }
 
 .map-section h2 {
   font-size: 48px;
-  font-weight: 800;
-  color: #27B80D;
+  font-weight: 700;
+  color: #256FCE;
   margin-bottom: 8px;
 }
 
 .map-section .section-sub {
-  font-size: 20px;
+  font-size: 24px;
   color: #27B80D;
   margin-bottom: 48px;
   font-weight: 400;
@@ -210,20 +222,19 @@ img {
    Why Looop Section
    ======================================== */
 .why-section {
-  background: linear-gradient(180deg, #e8eef0 0%, #eef2f4 30%, #f4f8f6 60%, #f0f6f2 100%);
   padding: 80px 20px 60px;
   text-align: center;
 }
 
 .why-section h2 {
-  font-size: 52px;
+  font-size: 48px;
   font-weight: 700;
   color: #256FCE;
   margin-bottom: 16px;
 }
 
 .why-section .section-subtitle {
-  font-size: 16px;
+  font-size: 18px;
   color: #13083E;
   font-weight: 600;
   max-width: 800px;
@@ -247,11 +258,7 @@ img {
 }
 
 .feature-item .label-blue {
-  color: #0000EE;
-}
-
-.feature-item .label-red {
-  color: #FF9D11;
+  color: #256FCE;
 }
 
 .feature-item .label-green {
@@ -263,7 +270,7 @@ img {
 }
 
 .feature-item .feature-desc {
-  color: #000;
+  color: #13083E;
   font-weight: 400;
 }
 
@@ -271,7 +278,6 @@ img {
    Contact Section
    ======================================== */
 .contact-section {
-  background: linear-gradient(180deg, #F7F7F7 0%, #eef2f4 50%, #e4ecdf 100%);
   padding: 80px 20px;
 }
 
@@ -287,14 +293,14 @@ img {
 .contact-text h2 {
   font-size: 48px;
   font-weight: 700;
-  color: #13083E;
+  color: #256FCE;
   margin-bottom: 20px;
   line-height: 1.1;
 }
 
 .contact-text p {
-  font-size: 17px;
-  color: #13083E;
+  font-size: 16px;
+  color: #757575;
   line-height: 1.6;
 }
 
@@ -529,7 +535,7 @@ img {
 
   .hero {
     padding-top: 110px;
-    padding-bottom: 60px;
+    padding-bottom: 40px;
   }
 
   .hero h1 {
@@ -542,6 +548,10 @@ img {
 
   .hero .logo-wordmark {
     width: 180px;
+  }
+
+  .lockscreen-image {
+    max-width: 400px;
   }
 
   .connection-inner {
