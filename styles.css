@@ -87,19 +87,17 @@ img {
 
 /* ========================================
    Hero Section
-   Background: very light lavender/periwinkle
    ======================================== */
 .hero {
-  background: linear-gradient(180deg, #d9e3f1 0%, #dfe8f2 30%, #e4eaf0 60%, #e6ece8 100%);
+  background: linear-gradient(180deg, #d9e3f1 0%, #dfe8f2 30%, #e8eef2 60%, #edf2f0 100%);
   text-align: center;
-  padding: 130px 20px 0;
+  padding: 140px 20px 80px;
   position: relative;
-  overflow: hidden;
 }
 
 .hero .logo-wordmark {
   width: 260px;
-  margin: 0 auto 20px;
+  margin: 0 auto 24px;
   display: block;
 }
 
@@ -116,7 +114,7 @@ img {
   font-size: 26px;
   color: #3a7d3a;
   font-weight: 400;
-  margin-bottom: 28px;
+  margin-bottom: 32px;
 }
 
 .app-store-badge {
@@ -128,197 +126,88 @@ img {
 }
 
 /* ========================================
-   Hero visual: phones + scattered people
-   ======================================== */
-.hero-visual {
-  position: relative;
-  max-width: 1100px;
-  margin: 40px auto 0;
-  padding-bottom: 60px;
-}
-
-.hero-phones {
-  display: flex;
-  justify-content: center;
-  gap: 16px;
-  position: relative;
-  z-index: 2;
-}
-
-.hero-phones img {
-  width: 260px;
-}
-
-/* People avatars positioned to match original layout */
-.hero-avatar {
-  position: absolute;
-  z-index: 1;
-}
-
-/* Left side - walking lady (5.png) bottom-left, large */
-.hero-avatar.av-left-bottom {
-  width: 160px;
-  left: 2%;
-  bottom: 20px;
-}
-
-/* Left side - bicycle girl (4.png) mid-left */
-.hero-avatar.av-left-mid {
-  width: 110px;
-  left: 8%;
-  top: 120px;
-}
-
-/* Left side - tornado man (6.png) upper-left area */
-.hero-avatar.av-left-top {
-  width: 120px;
-  left: 4%;
-  top: 320px;
-}
-
-/* Right side - older lady with house (1.png) upper-right */
-.hero-avatar.av-right-top {
-  width: 110px;
-  right: 12%;
-  top: 30px;
-}
-
-/* Right side - gym guy (3.png) mid-right */
-.hero-avatar.av-right-mid {
-  width: 120px;
-  right: 2%;
-  top: 100px;
-}
-
-/* Right side - old man bicycle (7.png) large, lower-right */
-.hero-avatar.av-right-bottom-1 {
-  width: 150px;
-  right: 2%;
-  top: 280px;
-}
-
-/* Right side - concerned lady (8.png) bottom-right */
-.hero-avatar.av-right-bottom-2 {
-  width: 110px;
-  right: 10%;
-  bottom: 30px;
-}
-
-/* ========================================
    Connection & Care Section
-   Left-aligned, large dark navy heading
+   Two-column: text left, phones image right
    ======================================== */
 .connection-section {
-  background: linear-gradient(180deg, #e6ece8 0%, #e8eef2 50%, #edf1f4 100%);
+  background: linear-gradient(180deg, #edf2f0 0%, #e8eef2 50%, #edf1f4 100%);
   padding: 80px 20px;
 }
 
-.connection-content {
-  max-width: 1000px;
+.connection-inner {
+  max-width: 1100px;
   margin: 0 auto;
-  padding-left: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: center;
 }
 
-.connection-section h2 {
-  font-size: 50px;
+.connection-text h2 {
+  font-size: 46px;
   font-weight: 700;
   color: #1a1a3e;
   line-height: 1.15;
   margin-bottom: 24px;
 }
 
-.connection-section .tagline {
+.connection-text .tagline {
   font-size: 22px;
   color: #1a1a3e;
   font-weight: 600;
   margin-bottom: 16px;
 }
 
-.connection-section .body-text {
+.connection-text .body-text {
   font-size: 17px;
   color: #333;
   line-height: 1.8;
-  max-width: 820px;
+}
+
+.connection-image {
+  display: flex;
+  justify-content: center;
+}
+
+.connection-image img {
+  max-width: 520px;
+  width: 100%;
 }
 
 /* ========================================
-   Notification / Showcase Section
-   "Know when to check-in!" - green heading
-   Icons scattered around two phones
+   Map Section
    ======================================== */
-.notification-section {
+.map-section {
   background: linear-gradient(180deg, #edf1f4 0%, #dce6f0 30%, #d5e0e8 60%, #dfe8e4 100%);
-  padding: 80px 20px 40px;
+  padding: 80px 20px 60px;
   text-align: center;
-  position: relative;
-  overflow: hidden;
 }
 
-.notification-section h2 {
+.map-section h2 {
   font-size: 48px;
   font-weight: 700;
   color: #2e7d32;
   margin-bottom: 8px;
 }
 
-.notification-section .section-sub {
+.map-section .section-sub {
   font-size: 24px;
   color: #2e7d32;
   margin-bottom: 48px;
   font-weight: 400;
 }
 
-/* Showcase container for phones + icons */
-.showcase-container {
-  max-width: 1100px;
+.map-image {
+  max-width: 900px;
   margin: 0 auto;
-  position: relative;
-  min-height: 650px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
-.showcase-phones {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  position: relative;
-  z-index: 3;
+.map-image img {
+  width: 100%;
 }
-
-.showcase-phones img {
-  width: 260px;
-}
-
-/* Floating icons scattered around phones */
-.floating-icon {
-  position: absolute;
-  width: 68px;
-  height: 68px;
-  z-index: 2;
-}
-
-/* Left column icons */
-.floating-icon.fi-1 { left: 8%; top: 80px; }       /* heart rate - red */
-.floating-icon.fi-2 { left: 3%; top: 220px; }       /* fire/hot - red */
-.floating-icon.fi-3 { left: 5%; top: 370px; }       /* shield/police - blue */
-.floating-icon.fi-4 { left: 12%; bottom: 60px; }    /* lock/safe - green */
-
-/* Right column icons */
-.floating-icon.fi-5 { right: 8%; top: 60px; }       /* battery - green */
-.floating-icon.fi-6 { right: 3%; top: 200px; }      /* people/family - orange */
-.floating-icon.fi-7 { right: 5%; top: 350px; }      /* home/house - blue */
-.floating-icon.fi-8 { right: 12%; bottom: 80px; }   /* emergency - red */
-
-/* Extra icons */
-.floating-icon.fi-9  { left: 14%; top: 140px; }     /* medical - red */
-.floating-icon.fi-10 { right: 14%; top: 130px; }    /* weather - orange */
-.floating-icon.fi-11 { right: 10%; bottom: 180px; } /* run/activity - orange */
 
 /* ========================================
    Why Looop Section
-   Centered, blue heading, inline feature text
    ======================================== */
 .why-section {
   background: linear-gradient(180deg, #dfe8e4 0%, #f0f2f4 50%, #f4f6f4 100%);
@@ -365,8 +254,6 @@ img {
 
 /* ========================================
    Contact Section
-   Two columns: text left, form right
-   Light gradient background
    ======================================== */
 .contact-section {
   background: linear-gradient(180deg, #f4f6f4 0%, #e8eef0 50%, #dde6dc 100%);
@@ -464,7 +351,7 @@ img {
 }
 
 /* ========================================
-   Footer - blue background
+   Footer
    ======================================== */
 .footer {
   background: #4a7dbd;
@@ -627,6 +514,7 @@ img {
 
   .hero {
     padding-top: 110px;
+    padding-bottom: 60px;
   }
 
   .hero h1 {
@@ -641,35 +529,24 @@ img {
     width: 180px;
   }
 
-  .hero-phones img {
-    width: 150px;
+  .connection-inner {
+    grid-template-columns: 1fr;
+    gap: 32px;
   }
 
-  .hero-avatar {
-    display: none;
-  }
-
-  .showcase-container {
-    min-height: 400px;
-  }
-
-  .showcase-phones img {
-    width: 150px;
-  }
-
-  .floating-icon {
-    display: none;
-  }
-
-  .connection-section h2 {
+  .connection-text h2 {
     font-size: 30px;
   }
 
-  .notification-section h2 {
+  .connection-image img {
+    max-width: 400px;
+  }
+
+  .map-section h2 {
     font-size: 30px;
   }
 
-  .notification-section .section-sub {
+  .map-section .section-sub {
     font-size: 18px;
   }
 
