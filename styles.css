@@ -150,6 +150,10 @@ img {
   max-width: 875px;
 }
 
+.phones-image.phones-large-wide {
+  max-width: 1010px;
+}
+
 .phones-image img {
   width: 100%;
 }
@@ -218,7 +222,7 @@ img {
    Map Section
    ======================================== */
 .map-section {
-  padding: 20px 20px 60px;
+  padding: 20px 20px 20px;
   text-align: center;
 }
 
@@ -235,7 +239,7 @@ img {
    Why Looop Section
    ======================================== */
 .why-section {
-  padding: 80px 20px 60px;
+  padding: 40px 20px 60px;
   text-align: center;
 }
 
@@ -570,7 +574,8 @@ img {
     width: 180px;
   }
 
-  .phones-image.phones-large {
+  .phones-image.phones-large,
+  .phones-image.phones-large-wide {
     max-width: 500px;
   }
 
