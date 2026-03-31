@@ -167,5 +167,12 @@
     </div>
   </footer>
 
+  <script>
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+    }, { threshold: 0.15 });
+    document.querySelectorAll('.phones-image img').forEach(img => observer.observe(img));
+  </script>
+
 </body>
 </html>
