@@ -14,6 +14,44 @@
   <link rel="stylesheet" href="styles.css">
   <link rel="icon" type="image/png" href="images/logo_small.png">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    .vs-summary .section-inner{max-width:960px}
+    .vs-wrap{margin:28px auto 0;border-radius:24px;overflow:hidden;background:#fff;box-shadow:0 8px 32px rgba(19,8,62,.08)}
+    .vs-table{width:100%;border-collapse:collapse;table-layout:fixed;font-size:15px}
+    .vs-table th,.vs-table td{padding:16px 18px;text-align:left;vertical-align:middle;border-bottom:1px solid #eef1f5}
+    .vs-table tbody tr:last-child th,.vs-table tbody tr:last-child td{border-bottom:none}
+    .vs-table thead th:first-child{width:40%}
+    .vs-table tbody th{font-weight:600;color:#13083E;line-height:1.35}
+    .vs-head{font-size:18px;font-weight:700;text-align:center!important;padding:20px 12px!important}
+    .vs-looop.vs-head{background:#116DFF;color:#fff;border-bottom:none}
+    .vs-l360.vs-head{background:#e9ecf1;color:#6b7280;border-bottom:none}
+    .vs-logo{height:21px;width:auto;vertical-align:-4px;margin-right:6px}
+    td.vs-looop{background:rgba(17,109,255,.07);color:#13083E;font-weight:600}
+    td.vs-l360{background:#f6f7f9;color:#8a8f98}
+    .vs-table td{line-height:1.35}
+    .vs-table td .vs-note{display:block;font-size:13px;margin-top:2px}
+    td.vs-l360 .vs-note{font-weight:400}
+    .vs-mark{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;margin-bottom:4px}
+    .vs-mark .icon{width:18px;height:18px}
+    .vs-yes{background:#27B80D;color:#fff}
+    .vs-no{background:#dfe2e7;color:#8a8f98}
+    .vs-part{background:#e9ecf1;color:#a0a5ad}
+    .vs-foot{max-width:760px;margin:16px auto 0;font-size:13px;color:#8a8f98;text-align:center;line-height:1.5}
+    .vs-foot a{color:#116DFF}
+    @media (max-width:600px){
+      .vs-table{font-size:14px}
+      .vs-table th,.vs-table td{padding:12px 10px}
+      .vs-table thead th:first-child{width:42%}
+      .vs-head{font-size:15px}
+      .vs-logo{display:none}
+      .vs-table td .vs-note{font-size:12px}
+      .vs-wrap{border-radius:18px}
+      td.vs-l360 .vs-note{display:none}
+      td.vs-l360{text-align:center}
+      .vs-table thead th:first-child{width:46%}
+      .vs-table td .vs-note{overflow-wrap:anywhere}
+    }
+  </style>
 </head>
 <body>
 
@@ -36,6 +74,77 @@
     <p class="lead">Looking for a Life360 alternative? Looop is a safety notifications app for families who care from a distance. It stays quiet when all is well and sends a calm heads-up when it might be a good time to call. It never sells your data and doesn't work with advertisers.</p>
     <p class="lead">Here's an honest, sourced look at how the two compare, including where Life360 may be the better fit.</p>
     <a href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111" class="app-store-badge"><img src="images/appstore-badge.png" alt="Download Looop on the App Store"></a>
+  </section>
+
+  <section class="page-section vs-summary" id="summary">
+    <div class="section-inner">
+      <h2 class="center">Looop vs. Life360 in 30 seconds</h2>
+      <p class="section-subtitle center">Built to tell you when to check in. Never built to sell your data.</p>
+      <div class="vs-wrap">
+        <table class="vs-table">
+          <thead>
+            <tr>
+              <th scope="col"><span class="visually-hidden">Feature</span></th>
+              <th scope="col" class="vs-looop vs-head"><img src="images/logo_small_white.png" alt="" width="28" height="21" class="vs-logo"> Looop</th>
+              <th scope="col" class="vs-l360 vs-head">Life360</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Never sells your data</th>
+              <td class="vs-looop"><span class="vs-mark vs-yes"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 6 9 17l-5-5" /></svg><span class="visually-hidden">Yes. </span></span><span class="vs-note">Never sold</span></td>
+              <td class="vs-l360"><span class="vs-mark vs-no"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M18 6 6 18" /><path d="m6 6 12 12" /></svg><span class="visually-hidden">No. </span></span><span class="vs-note">Sold location data to brokers; still sells location data</span></td>
+            </tr>
+            <tr>
+              <th scope="row">No advertisers, no ads in your alerts</th>
+              <td class="vs-looop"><span class="vs-mark vs-yes"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 6 9 17l-5-5" /></svg><span class="visually-hidden">Yes. </span></span><span class="vs-note">No advertisers</span></td>
+              <td class="vs-l360"><span class="vs-mark vs-no"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M18 6 6 18" /><path d="m6 6 12 12" /></svg><span class="visually-hidden">No. </span></span><span class="vs-note">Ad business, including Uber offers in notifications</span></td>
+            </tr>
+            <tr>
+              <th scope="row">Built to tell you when to check in</th>
+              <td class="vs-looop"><span class="vs-mark vs-yes"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 6 9 17l-5-5" /></svg><span class="visually-hidden">Yes. </span></span><span class="vs-note">Quiet until it matters</span></td>
+              <td class="vs-l360"><span class="vs-mark vs-no"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M18 6 6 18" /><path d="m6 6 12 12" /></svg><span class="visually-hidden">No. </span></span><span class="vs-note">Built around a live map and location history</span></td>
+            </tr>
+            <tr>
+              <th scope="row">Unusual Day alerts, based on their own routine</th>
+              <td class="vs-looop"><span class="vs-mark vs-yes"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 6 9 17l-5-5" /></svg><span class="visually-hidden">Yes. </span></span><span class="vs-note">Included</span></td>
+              <td class="vs-l360"><span class="vs-mark vs-no"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M18 6 6 18" /><path d="m6 6 12 12" /></svg><span class="visually-hidden">No. </span></span><span class="vs-note">Wellness checks described to investors as in development</span></td>
+            </tr>
+            <tr>
+              <th scope="row">Nearby crime alerts, at a distance you choose</th>
+              <td class="vs-looop"><span class="vs-mark vs-yes"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 6 9 17l-5-5" /></svg><span class="visually-hidden">Yes. </span></span><span class="vs-note">200+ US cities and counties</span></td>
+              <td class="vs-l360"><span class="vs-mark vs-no"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M18 6 6 18" /><path d="m6 6 12 12" /></svg><span class="visually-hidden">No. </span></span><span class="vs-note">Not in its App Store listing</span></td>
+            </tr>
+            <tr>
+              <th scope="row">Severe weather heads-up with no ads attached</th>
+              <td class="vs-looop"><span class="vs-mark vs-yes"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 6 9 17l-5-5" /></svg><span class="visually-hidden">Yes. </span></span><span class="vs-note">Included</span></td>
+              <td class="vs-l360"><span class="vs-mark vs-part"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14" /></svg><span class="visually-hidden">Partly. </span></span><span class="vs-note">Weather alerts, with weather-based ad targeting announced</span></td>
+            </tr>
+            <tr>
+              <th scope="row">Unusual spending alerts, before a loss</th>
+              <td class="vs-looop"><span class="vs-mark vs-yes"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 6 9 17l-5-5" /></svg><span class="visually-hidden">Yes. </span></span><span class="vs-note">Optional, via Plaid</span></td>
+              <td class="vs-l360"><span class="vs-mark vs-part"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14" /></svg><span class="visually-hidden">Partly. </span></span><span class="vs-note">Reimbursement after a loss on paid plans</span></td>
+            </tr>
+            <tr>
+              <th scope="row">Hospital, police and airport arrival alerts, automatically</th>
+              <td class="vs-looop"><span class="vs-mark vs-yes"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 6 9 17l-5-5" /></svg><span class="visually-hidden">Yes. </span></span><span class="vs-note">Included</span></td>
+              <td class="vs-l360"><span class="vs-mark vs-part"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14" /></svg><span class="visually-hidden">Partly. </span></span><span class="vs-note">Alerts for places you save, plus flight landings</span></td>
+            </tr>
+            <tr>
+              <th scope="row">Apple Watch health alerts, no extra app</th>
+              <td class="vs-looop"><span class="vs-mark vs-yes"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 6 9 17l-5-5" /></svg><span class="visually-hidden">Yes. </span></span><span class="vs-note">Through Apple Health</span></td>
+              <td class="vs-l360"><span class="vs-mark vs-part"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14" /></svg><span class="visually-hidden">Partly. </span></span><span class="vs-note">A separate watch app</span></td>
+            </tr>
+            <tr>
+              <th scope="row">Built only for people</th>
+              <td class="vs-looop"><span class="vs-mark vs-yes"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 6 9 17l-5-5" /></svg><span class="visually-hidden">Yes. </span></span><span class="vs-note">Just your people</span></td>
+              <td class="vs-l360"><span class="vs-mark vs-no"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M18 6 6 18" /><path d="m6 6 12 12" /></svg><span class="visually-hidden">No. </span></span><span class="vs-note">Shares the app with pets and item trackers</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="vs-foot">Life360 details as checked October 6, 2026, from the sources listed below. Life360 offers some things Looop doesn't, like crash detection, 24/7 emergency dispatch and Android support. <a href="#where-life360-fits">See where Life360 may fit better</a>.</p>
+    </div>
   </section>
 
   <section class="page-section" id="at-a-glance">
