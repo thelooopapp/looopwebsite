@@ -1,0 +1,7 @@
+# GitHub Pages (Jekyll) build settings.
+# Draft sources and pages awaiting legal review stay in the repo but are not published.
+exclude:
+  - content/
+  - readme.txt
+  - looop-vs-life360.html
+  - blog/whos-paying-for-your-family-safety-app.html

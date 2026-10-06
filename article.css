@@ -1,0 +1,254 @@
+/* ========================================
+   Article pages (blog/*.html)
+   Loaded after styles.css
+   ======================================== */
+
+.article-page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 140px 20px 80px;
+}
+
+.article-eyebrow {
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 600;
+  color: #27B80D;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 12px;
+}
+
+.article-eyebrow a:hover {
+  color: #256FCE;
+}
+
+.article-page h1 {
+  font-size: 44px;
+  font-weight: 700;
+  color: #256FCE;
+  line-height: 1.15;
+  margin-bottom: 16px;
+}
+
+.article-byline {
+  font-size: 14px;
+  color: #757575;
+  padding-bottom: 24px;
+  margin-bottom: 32px;
+  border-bottom: 1px solid rgba(19, 8, 62, 0.1);
+}
+
+.article-byline .byline-sep {
+  margin: 0 8px;
+  color: #FF9D11;
+}
+
+.article-body {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #757575;
+}
+
+.article-body p {
+  margin-bottom: 20px;
+}
+
+.article-body h2 {
+  font-size: 30px;
+  font-weight: 700;
+  color: #256FCE;
+  line-height: 1.25;
+  margin: 48px 0 16px;
+}
+
+.article-body h3 {
+  font-size: 21px;
+  font-weight: 600;
+  color: #13083E;
+  line-height: 1.35;
+  margin: 32px 0 12px;
+}
+
+.article-body strong {
+  color: #13083E;
+  font-weight: 600;
+}
+
+.article-body em {
+  font-style: italic;
+}
+
+.article-body a {
+  color: #256FCE;
+  text-decoration: underline;
+  text-decoration-color: rgba(37, 111, 206, 0.35);
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.2s;
+}
+
+.article-body a:hover {
+  text-decoration-color: #256FCE;
+}
+
+.article-body ul,
+.article-body ol {
+  margin: 0 0 24px;
+  padding-left: 24px;
+}
+
+.article-body li {
+  margin-bottom: 10px;
+  padding-left: 4px;
+}
+
+.article-body ul li::marker {
+  color: #27B80D;
+}
+
+.article-body ol li::marker {
+  color: #256FCE;
+  font-weight: 600;
+}
+
+/* Checklist */
+.article-body ul.checklist {
+  list-style: none;
+  padding-left: 0;
+  background: #fff;
+  border-radius: 20px;
+  padding: 24px 28px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+}
+
+.article-body ul.checklist li {
+  position: relative;
+  padding-left: 36px;
+}
+
+.article-body ul.checklist li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 6px;
+  width: 20px;
+  height: 20px;
+  border-radius: 6px;
+  background: #27B80D;
+}
+
+.article-body ul.checklist li::after {
+  content: "";
+  position: absolute;
+  left: 7px;
+  top: 9px;
+  width: 6px;
+  height: 11px;
+  border: solid #fff;
+  border-width: 0 2.5px 2.5px 0;
+  transform: rotate(45deg);
+}
+
+/* Blockquotes and notices */
+.article-body blockquote {
+  margin: 28px 0;
+  padding: 20px 24px;
+  background: #fff;
+  border-left: 4px solid #27B80D;
+  border-radius: 0 16px 16px 0;
+  color: #13083E;
+  font-size: 17px;
+}
+
+.article-body blockquote p {
+  margin-bottom: 12px;
+}
+
+.article-body blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.article-body blockquote.notice {
+  border-left-color: #FF9D11;
+  font-weight: 600;
+}
+
+/* CTA block */
+.article-cta {
+  margin: 48px 0;
+  padding: 36px 28px;
+  background: #fff;
+  border-radius: 24px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+.article-cta h2 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #256FCE;
+  margin: 0 0 8px;
+}
+
+.article-cta p {
+  font-size: 18px;
+  color: #27B80D;
+  margin-bottom: 24px;
+}
+
+.article-body .article-cta a {
+  text-decoration: none;
+}
+
+.article-cta .app-store-badge img {
+  height: 50px;
+}
+
+/* Back link */
+.article-back {
+  margin-top: 48px;
+  padding-top: 24px;
+  border-top: 1px solid rgba(19, 8, 62, 0.1);
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.article-back a {
+  color: #256FCE;
+}
+
+.article-back a:hover {
+  color: #13083E;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .article-page {
+    padding: 110px 20px 60px;
+  }
+
+  .article-page h1 {
+    font-size: 32px;
+  }
+
+  .article-body {
+    font-size: 17px;
+  }
+
+  .article-body h2 {
+    font-size: 25px;
+    margin-top: 40px;
+  }
+
+  .article-body h3 {
+    font-size: 19px;
+  }
+
+  .article-cta {
+    padding: 28px 20px;
+  }
+
+  .article-cta h2 {
+    font-size: 24px;
+  }
+}

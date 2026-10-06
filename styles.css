@@ -620,3 +620,687 @@ img {
     flex-direction: column;
   }
 }
+
+/* ========================================
+   Inner pages
+   Shared styles for features, privacy promise,
+   audience pages, resources and comparison pages.
+   All rules are scoped to .inner-page (on <main>)
+   so the homepage is unaffected, except the
+   navbar spacing and 4-column footer rules below.
+   ======================================== */
+
+/* Navbar: room for five links on mid-size screens */
+@media (max-width: 1024px) and (min-width: 769px) {
+  .nav-links {
+    gap: 24px;
+  }
+  .nav-links a {
+    font-size: 15px;
+  }
+}
+
+/* Footer: four columns (logo + three link groups) */
+.footer-col h4 {
+  white-space: nowrap;
+}
+
+@media (max-width: 900px) and (min-width: 769px) {
+  .footer-content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .footer-col:first-child {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer {
+    padding: 40px 24px 24px;
+  }
+  .footer-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px;
+  }
+  .footer-col:first-child {
+    grid-column: 1 / -1;
+  }
+  .footer-col {
+    min-width: 0;
+  }
+}
+
+@media (max-width: 420px) {
+  .footer-content {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Page layout */
+.inner-page {
+  display: block;
+}
+
+.inner-page .page-hero {
+  text-align: center;
+  padding: 150px 20px 40px;
+}
+
+/* Tier 1 - title */
+.inner-page .page-hero h1 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #256FCE;
+  max-width: 820px;
+  margin: 0 auto 16px;
+  line-height: 1.15;
+}
+
+/* Tier 2 - subtitle */
+.inner-page .page-subtitle {
+  font-size: 24px;
+  color: #27B80D;
+  font-weight: 400;
+  max-width: 760px;
+  margin: 0 auto 20px;
+  line-height: 1.4;
+}
+
+.inner-page .page-hero .lead {
+  max-width: 720px;
+  margin: 0 auto 28px;
+}
+
+.inner-page .page-hero-image {
+  max-width: 760px;
+  margin: 36px auto 0;
+}
+
+.inner-page .page-hero-image img {
+  width: 100%;
+  display: block;
+}
+
+.inner-page .page-section {
+  padding: 56px 20px;
+}
+
+.inner-page .section-inner {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.inner-page .section-inner.narrow {
+  max-width: 760px;
+}
+
+.inner-page .center {
+  text-align: center;
+}
+
+/* Question headline above an h2 (Tier 3 weight, brand orange) */
+.inner-page .question {
+  font-size: 18px;
+  font-weight: 600;
+  color: #FF9D11;
+  margin-bottom: 6px;
+}
+
+/* Tier 1 - section title */
+.inner-page h2 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #256FCE;
+  line-height: 1.15;
+  margin-bottom: 12px;
+}
+
+/* Tier 2 - section subtitle */
+.inner-page .section-subtitle {
+  font-size: 24px;
+  color: #27B80D;
+  font-weight: 400;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+/* Tier 3 - tagline */
+.inner-page .tagline {
+  font-size: 18px;
+  color: #13083E;
+  font-weight: 600;
+  line-height: 1.6;
+  margin-bottom: 12px;
+}
+
+.inner-page h3 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #13083E;
+  line-height: 1.3;
+  margin-bottom: 8px;
+}
+
+/* Body */
+.inner-page p,
+.inner-page li {
+  font-size: 16px;
+  color: #757575;
+  line-height: 1.8;
+}
+
+.inner-page p + p {
+  margin-top: 12px;
+}
+
+.inner-page .text-link {
+  color: #116DFF;
+  font-weight: 500;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.inner-page .text-link:hover {
+  color: #256FCE;
+}
+
+/* Two-column text + image */
+.inner-page .split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: center;
+}
+
+.inner-page .split.reverse .split-media {
+  order: -1;
+}
+
+.inner-page .split-media img {
+  width: 100%;
+  display: block;
+}
+
+/* Check-mark list */
+.inner-page .check-list {
+  list-style: none;
+  margin-top: 16px;
+}
+
+.inner-page .check-list li {
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 10px;
+}
+
+.inner-page .check-list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 8px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #FF9D11;
+  box-shadow: inset 0 0 0 4px #FFE2B8;
+}
+
+.inner-page .check-list strong {
+  color: #13083E;
+  font-weight: 600;
+}
+
+/* Alert grid */
+.inner-page .alert-group-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #13083E;
+  margin: 32px 0 14px;
+}
+
+.inner-page .alert-list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+
+.inner-page .alert-item {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  background: #fff;
+  border-radius: 18px;
+  padding: 16px 18px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+}
+
+.inner-page .alert-item img,
+.inner-page .alert-dot {
+  width: 44px;
+  height: 44px;
+  flex: none;
+}
+
+.inner-page .alert-dot {
+  border-radius: 50%;
+  background: #E3EEFF;
+  border: 3px solid #116DFF;
+}
+
+.inner-page .alert-item strong {
+  display: block;
+  color: #13083E;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+.inner-page .alert-item span {
+  display: block;
+  font-size: 15px;
+  color: #757575;
+  line-height: 1.6;
+}
+
+/* Callout note */
+.inner-page .note {
+  background: #FFF6E8;
+  border-left: 4px solid #FF9D11;
+  border-radius: 12px;
+  padding: 16px 20px;
+  margin-top: 24px;
+}
+
+.inner-page .note p {
+  color: #13083E;
+  font-size: 15px;
+}
+
+/* Cards */
+.inner-page .card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 24px;
+  margin-top: 28px;
+}
+
+.inner-page .card {
+  background: #fff;
+  border-radius: 24px;
+  padding: 28px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+  display: flex;
+  flex-direction: column;
+}
+
+.inner-page a.card {
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.inner-page a.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 32px rgba(17,109,255,0.14);
+}
+
+.inner-page .card .card-avatar {
+  width: 96px;
+  height: auto;
+  margin-bottom: 16px;
+}
+
+.inner-page .card p {
+  flex: 1;
+}
+
+.inner-page .card-link {
+  margin-top: 16px;
+  color: #116DFF;
+  font-weight: 600;
+}
+
+.inner-page .card.coming-soon {
+  background: #F7F7F7;
+  box-shadow: none;
+}
+
+.inner-page .badge-soon {
+  display: inline-block;
+  align-self: flex-start;
+  font-size: 13px;
+  font-weight: 600;
+  color: #13083E;
+  background: #FFE2B8;
+  border-radius: 20px;
+  padding: 2px 12px;
+  margin-bottom: 12px;
+}
+
+/* Numbered promise list */
+.inner-page .promise-list {
+  list-style: none;
+  counter-reset: promise;
+  margin-top: 24px;
+}
+
+.inner-page .promise-list > li {
+  counter-increment: promise;
+  position: relative;
+  background: #fff;
+  border-radius: 20px;
+  padding: 22px 24px 22px 76px;
+  margin-bottom: 16px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+}
+
+.inner-page .promise-list > li::before {
+  content: counter(promise);
+  position: absolute;
+  left: 22px;
+  top: 22px;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: #116DFF;
+  color: #fff;
+  font-weight: 700;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inner-page .promise-list h3 {
+  margin-bottom: 4px;
+}
+
+/* FAQ */
+.inner-page .faq {
+  margin-top: 24px;
+}
+
+.inner-page .faq details {
+  background: #fff;
+  border-radius: 16px;
+  padding: 18px 24px;
+  margin-bottom: 12px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.05);
+}
+
+.inner-page .faq summary {
+  font-size: 17px;
+  font-weight: 600;
+  color: #13083E;
+  cursor: pointer;
+  list-style: none;
+  position: relative;
+  padding-right: 32px;
+}
+
+.inner-page .faq summary::-webkit-details-marker {
+  display: none;
+}
+
+.inner-page .faq summary::after {
+  content: "+";
+  position: absolute;
+  right: 0;
+  top: -2px;
+  font-size: 24px;
+  font-weight: 400;
+  color: #116DFF;
+}
+
+.inner-page .faq details[open] summary::after {
+  content: "\2212";
+}
+
+.inner-page .faq details p {
+  margin-top: 10px;
+}
+
+/* Comparison table */
+.inner-page .table-wrap {
+  overflow-x: auto;
+  margin-top: 24px;
+  border-radius: 20px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+}
+
+.inner-page .compare-table {
+  width: 100%;
+  min-width: 640px;
+  border-collapse: collapse;
+  background: #fff;
+}
+
+.inner-page .compare-table th,
+.inner-page .compare-table td {
+  text-align: left;
+  vertical-align: top;
+  padding: 16px 20px;
+  font-size: 15px;
+  line-height: 1.6;
+  border-bottom: 1px solid #EEF2F6;
+}
+
+.inner-page .compare-table thead th {
+  background: #256FCE;
+  color: #fff;
+  font-weight: 600;
+}
+
+.inner-page .compare-table tbody th {
+  color: #13083E;
+  font-weight: 600;
+  width: 22%;
+}
+
+.inner-page .compare-table td {
+  color: #757575;
+}
+
+.inner-page .compare-table td.looop-col {
+  color: #13083E;
+  background: #F4F9FF;
+}
+
+.inner-page .sources-list {
+  margin-top: 16px;
+  padding-left: 22px;
+}
+
+.inner-page .sources-list li {
+  margin-bottom: 10px;
+}
+
+.inner-page .placeholder {
+  background: #FFE2B8;
+  color: #13083E;
+  padding: 0 6px;
+  border-radius: 4px;
+}
+
+/* Closing call to action */
+.inner-page .cta-band {
+  text-align: center;
+  padding: 64px 20px 80px;
+}
+
+.inner-page .cta-band p {
+  max-width: 640px;
+  margin: 0 auto 24px;
+}
+
+/* Inner pages - responsive */
+@media (max-width: 768px) {
+  .inner-page .page-hero {
+    padding: 115px 16px 32px;
+  }
+  .inner-page .page-hero h1 {
+    font-size: 34px;
+  }
+  .inner-page .page-subtitle,
+  .inner-page .section-subtitle {
+    font-size: 20px;
+  }
+  .inner-page h2 {
+    font-size: 30px;
+  }
+  .inner-page .page-section {
+    padding: 40px 16px;
+  }
+  .inner-page .split {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+  .inner-page .split.reverse .split-media {
+    order: 0;
+  }
+  .inner-page .split-media {
+    max-width: 480px;
+    margin: 0 auto;
+  }
+  .inner-page .alert-list {
+    grid-template-columns: 1fr;
+  }
+  .inner-page .promise-list > li {
+    padding: 20px 20px 20px 68px;
+  }
+  .inner-page .promise-list > li::before {
+    left: 18px;
+  }
+}
+
+/* Inner pages - helpers used by features, audience,
+   resources and comparison pages */
+.inner-page .page-hero-image.wide {
+  max-width: 1000px;
+}
+
+.inner-page .page-section > .page-hero-image.wide {
+  margin-top: 24px;
+}
+
+.inner-page .centered-list {
+  display: inline-block;
+  text-align: left;
+}
+
+.inner-page .spaced {
+  margin-top: 20px;
+}
+
+.inner-page .split-media.phone-shot {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.inner-page .split-media.phone-shot img {
+  border-radius: 32px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+}
+
+.inner-page .card-eyebrow {
+  font-size: 13px;
+  font-weight: 600;
+  color: #27B80D;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 8px;
+}
+
+.inner-page .card .question {
+  font-size: 16px;
+}
+
+.inner-page .fine-print {
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.inner-page .cta-band h2 {
+  margin-bottom: 12px;
+}
+
+.inner-page .cta-band .section-subtitle {
+  margin: 0 auto 28px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .inner-page .split-media.phone-shot {
+    max-width: 240px;
+  }
+  .inner-page .alert-item {
+    padding: 14px 16px;
+  }
+}
+
+/* Inner pages - three-card rows stay balanced on tablets */
+@media (min-width: 640px) {
+  .inner-page .card-grid.three {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 640px) and (max-width: 900px) {
+  .inner-page .card-grid.three {
+    gap: 16px;
+  }
+  .inner-page .card-grid.three .card {
+    padding: 22px;
+  }
+}
+
+/* Inner pages - comparison table stacks on phones */
+@media (max-width: 600px) {
+  .inner-page .table-wrap {
+    overflow: visible;
+    box-shadow: none;
+  }
+  .inner-page .compare-table {
+    min-width: 0;
+    background: transparent;
+  }
+  .inner-page .compare-table thead {
+    display: none;
+  }
+  .inner-page .compare-table,
+  .inner-page .compare-table tbody,
+  .inner-page .compare-table tr,
+  .inner-page .compare-table th,
+  .inner-page .compare-table td {
+    display: block;
+    width: 100%;
+  }
+  .inner-page .compare-table tr {
+    background: #fff;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+  }
+  .inner-page .compare-table tbody th {
+    width: 100%;
+    background: #256FCE;
+    color: #fff;
+  }
+  .inner-page .compare-table td::before {
+    content: attr(data-label);
+    display: block;
+    font-weight: 600;
+    color: #13083E;
+    font-size: 14px;
+  }
+}

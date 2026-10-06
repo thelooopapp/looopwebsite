@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>How Looop Works: Safety Notifications for Families | Looop</title>
+  <meta name="description" content="Looop is a safety notifications app. Get a heads-up about nearby crime, severe weather and unusual days, so you know when to check in on the people you love.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="How Looop Works: Safety Notifications for Families">
+  <meta property="og:description" content="Looop is a safety notifications app. Get a heads-up about nearby crime, severe weather and unusual days, so you know when to check in on the people you love.">
+  <meta property="og:site_name" content="Looop">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/png" href="images/logo_small.png">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<nav class="navbar">
+  <a href="index.html" class="logo"><img src="images/logo_small.png" alt="Looop"></a>
+  <button class="hamburger" onclick="document.querySelector('.nav-links').classList.toggle('active')" aria-label="Menu"><span></span><span></span><span></span></button>
+  <ul class="nav-links">
+    <li><a href="features.html">How it works</a></li>
+    <li><a href="who-its-for.html">Who it's for</a></li>
+    <li><a href="privacy-promise.html">Privacy</a></li>
+    <li><a href="blog/index.html">Resources</a></li>
+    <li><a href="index.html#contact">Get in Touch</a></li>
+  </ul>
+</nav>
+
+<main class="inner-page">
+  <section class="page-hero">
+    <h1>How Looop works</h1>
+    <p class="page-subtitle">Looop tells you when to check in, so the people you love can live their lives.</p>
+    <p class="lead">Looop is a safety notifications app for families who care from a distance. It stays quiet when all is well. When something seems off, you get a gentle heads-up, so you know it might be a good time to reach out.</p>
+    <a href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111" class="app-store-badge"><img src="images/appstore-badge.png" alt="Download Looop on the App Store"></a>
+    <div class="page-hero-image">
+      <img src="images/lockscreen-phones.png" alt="Looop notifications on two phone lock screens: a flash flooding alert near Dad, a tornado alert near Uncle Tony, and a note that Mom hasn't left home in three days">
+    </div>
+  </section>
+
+  <section class="page-section" id="alerts">
+    <div class="section-inner">
+      <p class="question">"Is everyone okay today?"</p>
+      <h2>Alerts that tell you when to check in</h2>
+      <p class="section-subtitle">A heads-up when it's worth a call. Quiet when it isn't.</p>
+
+      <h3 class="alert-group-title">What's happening around them</h3>
+      <ul class="alert-list">
+        <li class="alert-item"><img src="images/a.png" alt="Crime alert icon"><div><strong>Nearby crime</strong><span>A heads-up when crime is reported near a Loved One, in supported cities. You pick the distance: 1, 3, 5 or 10 miles.</span></div></li>
+        <li class="alert-item"><img src="images/j.png" alt="Severe weather icon"><div><strong>Severe weather</strong><span>Storms, flood warnings, extreme heat or cold heading their way, in the US and worldwide.</span></div></li>
+      </ul>
+
+      <h3 class="alert-group-title">When their day looks different</h3>
+      <ul class="alert-list">
+        <li class="alert-item"><img src="images/d.png" alt="Unusual Day icon"><div><strong>Unusual Day</strong><span>A gentle nudge when something is off compared to their own normal routine.</span></div></li>
+        <li class="alert-item"><span class="alert-dot" aria-hidden="true"></span><div><strong>Unusual activity</strong><span>A nudge when driving, walking or phone use doesn't fit their usual pattern.</span></div></li>
+        <li class="alert-item"><span class="alert-dot" aria-hidden="true"></span><div><strong>Phone untouched for hours</strong><span>A heads-up when their phone hasn't been picked up in a long while.</span></div></li>
+        <li class="alert-item"><img src="images/e.png" alt="Low battery icon"><div><strong>Low battery</strong><span>A heads-up before their phone runs out of charge.</span></div></li>
+        <li class="alert-item"><img src="images/g.png" alt="Hospital icon"><div><strong>Arrivals that matter</strong><span>Know when they arrive at a hospital or ER, a police station or an airport.</span></div></li>
+      </ul>
+
+      <h3 class="alert-group-title">Optional alerts, if they choose</h3>
+      <ul class="alert-list">
+        <li class="alert-item"><img src="images/i.png" alt="Heart rate icon"><div><strong>Heart rate</strong><span>Unusually high or low heart rate, shared only if they turn on wellness sharing.</span></div></li>
+        <li class="alert-item"><img src="images/f.png" alt="Breathing rate icon"><div><strong>Breathing rate</strong><span>An unusual breathing rate, also optional.</span></div></li>
+        <li class="alert-item"><span class="alert-dot" aria-hidden="true"></span><div><strong>Loud places</strong><span>A heads-up when they're somewhere dangerously loud.</span></div></li>
+        <li class="alert-item"><span class="alert-dot" aria-hidden="true"></span><div><strong>Unusual spending</strong><span>Unusually large spending on a linked bank account, with a threshold you set. Bank linking is optional.</span></div></li>
+      </ul>
+
+      <div class="note">
+        <p>You choose exactly which alerts you get about each Loved One, and you can turn alerts off for anyone with one tap. You can also review every alert about a Loved One from the past 24 hours. And no notification? That's good news.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-section" id="at-a-glance">
+    <div class="section-inner split">
+      <div class="split-text">
+        <p class="question">"Who needs a call today?"</p>
+        <h2>See everyone at a glance</h2>
+        <p class="section-subtitle">One calm screen for everyone you care about.</p>
+        <ul class="check-list">
+          <li><strong>Typical or "Need a Look."</strong> See who is having a typical day and who might need a look.</li>
+          <li><strong>Plain-language summaries.</strong> Get a short summary of what's unusual. No charts to decode.</li>
+          <li><strong>Their day, in brief.</strong> See whether they're driving, walking or staying put, their local time and the time difference, the weather where they are and their phone battery.</li>
+          <li><strong>A family map, for when you need it.</strong> After a nudge, the map is there to help you decide what to do next.</li>
+        </ul>
+      </div>
+      <div class="split-media">
+        <img src="images/twophones.png" alt="The Looop home screen showing Dad and Mom having a typical day and Aunt Ira with an Unusual Day, next to a list of alerts you can turn on or off">
+      </div>
+    </div>
+  </section>
+
+  <section class="page-section" id="check-in">
+    <div class="section-inner narrow center">
+      <p class="question">"Should I call, or just text?"</p>
+      <h2>Check in, in one tap</h2>
+      <p class="section-subtitle">Reach out from their card, however feels right.</p>
+    </div>
+    <div class="section-inner">
+      <div class="card-grid">
+        <div class="card"><h3>Call, text or FaceTime</h3><p>Straight from their card. No digging through contacts.</p></div>
+        <div class="card"><h3>Quick messages</h3><p>Send a one-tap "Love you!", "Are you ok?" or "Call Me".</p></div>
+        <div class="card"><h3>Group chat and WhatsApp</h3><p>Start a group chat with your whole Looop, or message on WhatsApp.</p></div>
+        <div class="card"><h3>Ring, Alexa or Wyze</h3><p>Jump straight to your home devices to check in at home.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-section" id="weather">
+    <div class="section-inner narrow center">
+      <p class="question">"Is that storm anywhere near Dad?"</p>
+      <h2>Weather where they are</h2>
+      <p class="section-subtitle">Their forecast, right on their card.</p>
+      <ul class="check-list centered-list">
+        <li>Current conditions wherever each Loved One is.</li>
+        <li>A five-day forecast with rain chances.</li>
+        <li>Active severe weather alerts you can swipe through, with links to learn more.</li>
+      </ul>
+    </div>
+    <div class="page-hero-image wide">
+      <img src="images/transparent_map.png" alt="Illustrated map of the US with family members and the weather alerts near each of them, like flash flooding in Denver and a severe storm in Chicago">
+    </div>
+  </section>
+
+  <section class="page-section" id="health">
+    <div class="section-inner narrow">
+      <p class="question">"Is Mom sleeping okay lately?"</p>
+      <h2>Health and daily routine, if they choose</h2>
+      <p class="section-subtitle">Wellness sharing is optional, and always their call.</p>
+      <p>If a Loved One chooses to share, you can see today's steps, walking, driving and resting time; sleep, including deep, REM and light sleep, and naps; heart rate, breathing rate and workouts; and how much they've used their phone.</p>
+      <p>Every stat is marked Typical or Unusual, based on that person's own patterns. No comparing anyone to anyone else. Works with Apple Health and Apple Watch.</p>
+    </div>
+  </section>
+
+  <section class="page-section" id="emergency">
+    <div class="section-inner narrow">
+      <h2>Ready in an emergency</h2>
+      <p class="section-subtitle">The numbers you need, one tap away.</p>
+      <ul class="check-list">
+        <li>Call 911 in one tap.</li>
+        <li>Save up to three emergency contacts for each Loved One, and call them in one tap.</li>
+      </ul>
+      <div class="note">
+        <p>Looop helps you know when to check in. It doesn't detect emergencies. If you think someone is in danger, call 911 first.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-section" id="setup">
+    <div class="section-inner narrow">
+        <h2>Easy to set up</h2>
+        <p class="section-subtitle">No passwords. No homework.</p>
+        <ul class="check-list">
+          <li>Sign up with just your phone number.</li>
+          <li>Invite Loved Ones straight from your contacts.</li>
+          <li>Join a family group with a simple six-character code.</li>
+          <li>Send a friendly reminder to anyone who hasn't joined yet.</li>
+          <li>Add a photo for each Loved One.</li>
+          <li>Guided setup walks you through every step, with built-in troubleshooting.</li>
+          <li>Works quietly in the background, so nobody has to open the app or check in.</li>
+        </ul>
+    </div>
+  </section>
+
+  <section class="page-section" id="control">
+    <div class="section-inner narrow">
+      <h2>Your account, your control</h2>
+      <p class="section-subtitle">Your family's data isn't for sale.</p>
+      <ul class="check-list">
+        <li>Looop never sells your data and doesn't work with advertisers.</li>
+        <li>Bank linking is optional and secured through Plaid.</li>
+        <li>Leave a group, remove a member or start a new group anytime.</li>
+        <li>Delete your account and data whenever you choose.</li>
+        <li>Email the founder directly with feedback or to request a new alert.</li>
+      </ul>
+      <p><a href="privacy-promise.html" class="text-link">Read our privacy promise</a></p>
+    </div>
+  </section>
+
+  <section class="page-section" id="faq">
+    <div class="section-inner narrow">
+      <h2>Questions, answered</h2>
+      <div class="faq">
+        <details>
+          <summary>What does my Loved One share?</summary>
+          <p>What Looop needs to tell whether their day looks typical: things like whether they're driving, walking or staying put, their phone battery, and the weather where they are. Family members in their Looop can also see where they are on the family map. Health details are shared only if they choose. Before you invite anyone, walk through it together so there are no surprises.</p>
+        </details>
+        <details>
+          <summary>Is wellness sharing optional?</summary>
+          <p>Yes. Steps, sleep, heart rate and other health details are shared only if your Loved One turns them on. It's their choice, and they can change their mind.</p>
+        </details>
+        <details>
+          <summary>Does Looop sell my data?</summary>
+          <p>No. Looop never sells your data and doesn't work with advertisers. Families aren't the product.</p>
+        </details>
+        <details>
+          <summary>Does Looop work outside the US?</summary>
+          <p>Severe weather alerts work in the US and worldwide. Crime alerts are available in supported cities.</p>
+        </details>
+        <details>
+          <summary>Will Looop drain my battery?</summary>
+          <p>Looop works quietly in the background, so nobody has to open the app or check in.</p>
+        </details>
+        <details>
+          <summary>How do I invite someone?</summary>
+          <p>Invite Loved Ones straight from your contacts. They can also join your group with a simple six-character code. If someone hasn't joined yet, you can send a friendly reminder.</p>
+        </details>
+        <details>
+          <summary>Does Looop detect emergencies?</summary>
+          <p>No. Looop gives you a heads-up when something seems off, so you know when to check in. If you think someone is in danger, call 911.</p>
+        </details>
+        <details>
+          <summary>Can I delete my data?</summary>
+          <p>Yes. You can leave a group anytime, and delete your account and data whenever you choose.</p>
+        </details>
+        <details>
+          <summary>How do I give feedback or ask for a new alert?</summary>
+          <p>Email the founder directly from the app, or send us a note through our <a href="index.html#contact" class="text-link">Get in Touch</a> form. We read everything.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-band">
+    <h2>Know when to check in.</h2>
+    <p class="section-subtitle">Quiet when all is well. A heads-up when it's worth a call.</p>
+    <a href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111" class="app-store-badge"><img src="images/appstore-badge.png" alt="Download Looop on the App Store"></a>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="footer-content">
+    <div class="footer-col">
+      <picture><source srcset="images/logo_small_white.avif" type="image/avif"><img src="images/logo_small_white.png" alt="Looop" class="footer-logo"></picture>
+    </div>
+    <div class="footer-col">
+      <h4>Menu</h4>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="features.html">How it works</a></li>
+        <li><a href="privacy-promise.html">Our privacy promise</a></li>
+        <li><a href="blog/index.html">Resources</a></li>
+        <li><a href="index.html#contact">Get in Touch</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Who it's for</h4>
+      <ul>
+        <li><a href="for-aging-parents.html">Aging parents</a></li>
+        <li><a href="for-college-families.html">College families</a></li>
+        <li><a href="for-friends-and-siblings.html">Friends and siblings</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Policy</h4>
+      <ul>
+        <li><a href="privacy.html">Privacy Policy</a></li>
+        <li><a href="useragreement.html">User Agreement</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">&copy; 2026 Looop, LLC</div>
+</footer>
+
+</body>
+</html>
