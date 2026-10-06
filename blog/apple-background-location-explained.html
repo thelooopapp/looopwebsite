@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Is There a Secret Deal With Apple? How Background Location Really Works | Looop</title>
+  <meta name="description" content="Do family apps get a secret deal with Apple for background location? No. Here&#x27;s how iPhone background location really works, from Apple&#x27;s own developer docs.">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Is There a Secret Deal With Apple? How Background Location Really Works">
+  <meta property="og:description" content="Do family apps get a secret deal with Apple for background location? No. Here&#x27;s how iPhone background location really works, from Apple&#x27;s own developer docs.">
+  <meta property="og:site_name" content="Looop">
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="../article.css">
+  <link rel="icon" type="image/png" href="../images/logo_small.png">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<nav class="navbar">
+  <a href="../index.html" class="logo"><img src="../images/logo_small.png" alt="Looop"></a>
+  <button class="hamburger" onclick="document.querySelector('.nav-links').classList.toggle('active')" aria-label="Menu"><span></span><span></span><span></span></button>
+  <ul class="nav-links">
+    <li><a href="../features.html">How it works</a></li>
+    <li><a href="../who-its-for.html">Who it's for</a></li>
+    <li><a href="../privacy-promise.html">Privacy</a></li>
+    <li><a href="index.html">Resources</a></li>
+    <li><a href="../index.html#contact">Get in Touch</a></li>
+  </ul>
+</nav>
+
+<main class="article-page">
+  <article>
+    <header>
+      <a href="index.html" class="article-eyebrow">Privacy</a>
+      <h1>Is There a Secret Deal With Apple? How Background Location Really Works</h1>
+      <p class="article-byline">By the Looop team<span class="byline-sep">&middot;</span><time>October 6, 2026</time><span class="byline-sep">&middot;</span>6 min read</p>
+    </header>
+    <div class="article-body">
+<p>"How does that app know where everyone is when nobody has it open? Does Apple give them special access?"</p>
+<p>It's a fair question. You close an app, put the phone in your pocket, and somehow the family app still knows when someone got home. If you've ever wondered whether the big family location apps have a private arrangement with Apple, you're not alone. The idea comes up a lot.</p>
+<p>Here's the short answer: no special deal is needed. Apple publishes the tools for background location in its developer documentation, and any app on the App Store can ask to use them. The person holding the phone decides whether it gets to.</p>
+<p>This guide walks through how background location really works on iPhone, using Apple's own public documentation, and what that means for your family's privacy.</p>
+<h2>Why it feels like magic</h2>
+<p>On iPhone, Apple saves battery by pausing apps soon after you leave them. Apple's guide to <a href="https://developer.apple.com/documentation/corelocation/handling-location-updates-in-the-background">handling location updates in the background</a> explains that most apps are suspended shortly after they move to the background, and while suspended they don't run at all.</p>
+<p>So when an app seems to "keep going" after you close it, it isn't sneaking around that rule. The system itself is waking the app up for a specific reason, using services Apple built for exactly that job.</p>
+<h2><span class="icon-badge icon--blue"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="14" height="20" x="5" y="2" rx="2" ry="2"/><path d="M12 18h.01"/></svg></span>The standard tools any developer can use</h2>
+<p>Apple's Core Location framework offers a handful of background services. They are documented in public, they work the same for a solo developer as for a public company, and each one is designed to use as little battery as possible.</p>
+<h3>1. The significant-change location service</h3>
+<p>This is the workhorse. Apple's documentation for the <a href="https://developer.apple.com/documentation/corelocation/cllocationmanager/startmonitoringsignificantlocationchanges()">significant-change location service</a> says an app gets an update only when the phone has moved a meaningful distance. Apple notes that apps can expect an update after the device moves about 500 meters, and no more often than about once every five minutes.</p>
+<p>The key detail: if the app has been closed, the system relaunches it in the background when a new update arrives. That's the "how did it know?" moment, explained in one line of Apple's docs.</p>
+<h3>2. Region alerts</h3>
+<p>Apple's guide to <a href="https://developer.apple.com/documentation/corelocation/monitoring-the-user-s-proximity-to-geographic-regions">knowing when someone enters or leaves an area</a> (Apple calls it region monitoring) lets an app register a circle around a place, like home. On iPhone, the system watches for that boundary and wakes the app when someone crosses it. Apple's own example is the Reminders app, which can remind you of something when you arrive somewhere or leave.</p>
+<p>Apple also limits each app to 20 of these areas at once, so every app gets a fair share of the hardware.</p>
+<h3>3. Visits</h3>
+<p>Apple's <a href="https://developer.apple.com/documentation/corelocation/cllocationmanager/startmonitoringvisits()">visit service</a> tells an app when someone arrives at a place and stays for a while, and when they leave. Like the others, if the app isn't running, the system relaunches it when a visit event is ready.</p>
+<h3>4. The background mode</h3>
+<p>An app that wants steady updates in the background has to say so up front. Apple's docs explain that developers turn on a "Location updates" background mode in their project. Per Apple's documentation for <a href="https://developer.apple.com/documentation/corelocation/cllocationmanager/allowsbackgroundlocationupdates">allowing background updates</a>, an app that switches on background updates without declaring this mode is stopped by the system.</p>
+<p>Apple's App Review Guidelines add a rule on top: apps may use <a href="https://developer.apple.com/app-store/review/guidelines/">background services only for their intended purposes</a>, and location must be directly relevant to what the app does.</p>
+<h2><span class="icon-badge icon--green"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M11 14h2a2 2 0 0 0 0-4h-3c-.6 0-1.1.2-1.4.6L3 16"/><path d="m14.45 13.39 5.05-4.694C20.196 8 21 6.85 21 5.75a2.75 2.75 0 0 0-4.797-1.837.276.276 0 0 1-.406 0A2.75 2.75 0 0 0 11 5.75c0 1.2.802 2.248 1.5 2.946L16 11.95"/><path d="m2 15 6 6"/><path d="m7 20 1.6-1.4c.3-.4.8-.6 1.4-.6h4c1.1 0 2.1-.4 2.8-1.2l4.6-4.4a1 1 0 0 0-2.75-2.91"/></svg></span>The part you control: "Always" permission</h2>
+<p>None of these tools work without permission from the person who owns the phone. Apple's guide to <a href="https://developer.apple.com/documentation/corelocation/requesting-authorization-to-use-location-services">requesting location permission</a> describes two levels:</p>
+<ul>
+<li><strong>While Using.</strong> The app gets location only while someone is using it. Apple calls this the preferred choice for privacy and battery.</li>
+<li><strong>Always.</strong> The app can get updates at any time, and the system can quietly relaunch it for some kinds of updates.</li>
+</ul>
+<p>That second point is the whole "secret." Apple's own table spells it out: with Always permission, the system relaunches a closed app for significant location changes, visits and region alerts. With While Using, it doesn't. The person must launch the app.</p>
+<p>Apple also requires every app to explain itself. When an app asks, iPhone shows a prompt with the app's own reason in plain words, and an app that wants Always access must write a separate explanation for that, too. Apple adds that people can change an app's permission at any time in Settings.</p>
+<h2><span class="icon-badge icon--orange"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M10.268 21a2 2 0 0 0 3.464 0"/><path d="M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673C19.41 13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326"/></svg></span>The reminders and signals you'll see</h2>
+<p>Apple builds transparency into the phone itself, for every app.</p>
+<ul>
+<li><strong>Location reminders.</strong> Apple's support page <a href="https://support.apple.com/en-us/102515">About privacy and Location Services</a> says that when you let an app use your location in the background, your iPhone will remind you from time to time and show you those locations on a map.</li>
+<li><strong>The arrow.</strong> The same page notes that an arrow icon appears in the status bar or Control Center when Location Services is active for an app.</li>
+<li><strong>The blue indicator.</strong> Apple's developer docs describe a <a href="https://developer.apple.com/documentation/corelocation/cllocationmanager/showsbackgroundlocationindicator">background location indicator</a>, a blue bar or pill in the status bar, that shows when certain apps use location in the background. Apple encourages developers to turn it on to stay transparent.</li>
+<li><strong>A setting you own.</strong> On your own iPhone, Settings &gt; Privacy &amp; Security &gt; Location Services shows which apps can use your location. You can change your mind anytime.</li>
+</ul>
+<p>So when an app keeps working after you close it, that isn't a loophole. It's a feature Apple designed, behind a permission you granted, with reminders Apple sends on its own.</p>
+<h2>So why do some apps seem better at it?</h2>
+<p>If everyone has the same tools, why do some apps feel more "on" than others? Mostly engineering choices: which of these services an app combines, how it handles battery and spotty signal, and how much time a team spends tuning it. Apple's documentation is the same for everyone. What an app does with it is up to the company that built it.</p>
+<p>That's also why the more important question isn't "how does the app do this?" It's "what does the app do with it?"</p>
+<h2><span class="icon-badge icon--blue"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></svg></span>How Looop uses the same tools</h2>
+<p>Looop is a safety notifications app. We use these same standard Apple tools, the ones described above, and only for what we need: telling whether a Loved One's day looks typical, and giving you a nudge when something seems off.</p>
+<p>That's why Looop asks for Always permission during setup, and explains why first. It lets Looop work quietly in the background, so nobody has to open the app or check in for it to notice a storm heading toward Mom, or a day that looks different from her usual routine.</p>
+<p>What we do with it matters more than how:</p>
+<ul>
+<li><strong>Notifications, not a dot to watch.</strong> Looop sends a heads-up about severe weather near a Loved One, crime reported nearby in supported cities, and days that look unusual compared to their own normal. There's a family map for when you need it, but watching it is never the point.</li>
+<li><strong>Just enough to know.</strong> We use only what we need to tell whether something unusual is going on.</li>
+<li><strong>Invitation only.</strong> Every Loved One joins by invitation, sees Apple's own permission prompts, and can change their settings or leave anytime.</li>
+<li><strong>Never for sale.</strong> Looop never sells your data and doesn't work with advertisers.</li>
+</ul>
+<h2>The short version</h2>
+<ul>
+<li>There's no secret deal. Apple documents background location for every developer.</li>
+<li>Apps can wake up in the background only through Apple's standard services, and only with your permission.</li>
+<li>Always permission is what lets a closed app get some updates. You can change it anytime in Settings.</li>
+<li>iPhone reminds you about apps using your location in the background, on its own schedule.</li>
+<li>The real question for any family app is what it does with that permission.</li>
+</ul>
+<p>If you're choosing a family app, ask that last question out loud. Then pick the one with an answer you'd be glad to share with your mom.</p>
+<h2>About Looop</h2>
+<p>Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in supported cities, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data.</p>
+<div class="article-cta">
+  <h2>Just enough to know.</h2>
+  <p>Know when it&#x27;s worth a call.</p>
+  <a href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111" class="app-store-badge"><img src="../images/appstore-badge.png" alt="Download Looop on the App Store"></a>
+</div>
+<h2>Sources</h2>
+<ul>
+<li>Apple Developer Documentation. "Handling location updates in the background." <a href="https://developer.apple.com/documentation/corelocation/handling-location-updates-in-the-background">developer.apple.com</a></li>
+<li>Apple Developer Documentation. Significant-change location service ("startMonitoring SignificantLocationChanges"). <a href="https://developer.apple.com/documentation/corelocation/cllocationmanager/startmonitoringsignificantlocationchanges()">developer.apple.com</a></li>
+<li>Apple Developer Documentation. "Monitoring the user's proximity to geographic regions." <a href="https://developer.apple.com/documentation/corelocation/monitoring-the-user-s-proximity-to-geographic-regions">developer.apple.com</a></li>
+<li>Apple Developer Documentation. Visit service ("startMonitoringVisits"). <a href="https://developer.apple.com/documentation/corelocation/cllocationmanager/startmonitoringvisits()">developer.apple.com</a></li>
+<li>Apple Developer Documentation. Background updates ("allows BackgroundLocationUpdates"). <a href="https://developer.apple.com/documentation/corelocation/cllocationmanager/allowsbackgroundlocationupdates">developer.apple.com</a></li>
+<li>Apple Developer Documentation. Background location indicator ("shows BackgroundLocationIndicator"). <a href="https://developer.apple.com/documentation/corelocation/cllocationmanager/showsbackgroundlocationindicator">developer.apple.com</a></li>
+<li>Apple Developer Documentation. "Requesting authorization to use location services." <a href="https://developer.apple.com/documentation/corelocation/requesting-authorization-to-use-location-services">developer.apple.com</a></li>
+<li>Apple. App Review Guidelines (sections 2.5.4 and 5.1.5). <a href="https://developer.apple.com/app-store/review/guidelines/">developer.apple.com</a></li>
+<li>Apple Support. "About privacy and Location Services in iOS, iPadOS, and watchOS." <a href="https://support.apple.com/en-us/102515">support.apple.com</a></li>
+</ul>
+<p>Sources checked: October 2026</p>
+    </div>
+  </article>
+  <p class="article-back"><a href="index.html">&larr; More from Looop Resources</a></p>
+</main>
+
+<footer class="footer">
+  <div class="footer-content">
+    <div class="footer-col footer-brand">
+      <a href="../index.html" class="footer-home" aria-label="Looop home"><picture><source srcset="../images/logo_small_white.avif" type="image/avif"><img src="../images/logo_small_white.png" alt="Looop" class="footer-logo" width="124" height="91"></picture></a>
+      <p class="footer-tagline">Know they're safe, across any distance.</p>
+      <a href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111" class="footer-badge"><img src="../images/appstore-badge.png" alt="Download Looop on the App Store" width="114" height="40" loading="lazy"></a>
+    </div>
+    <nav class="footer-col" aria-label="Product">
+      <h4>Product</h4>
+      <ul>
+        <li><a href="../features.html">How it works</a></li>
+        <li><a href="../privacy-promise.html">Our privacy promise</a></li>
+        <li><a href="../who-its-for.html">Who it's for</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-col" aria-label="Who it's for">
+      <h4>Who it's for</h4>
+      <ul>
+        <li><a href="../for-aging-parents.html">Aging parents</a></li>
+        <li><a href="../for-college-families.html">College families</a></li>
+        <li><a href="../for-friends-and-siblings.html">Friends and siblings</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-col" aria-label="Company">
+      <h4>Company</h4>
+      <ul>
+        <li><a href="../press/index.html">Newsroom</a></li>
+        <li><a href="../blog/index.html">Resources</a></li>
+        <li><a href="../index.html#contact">Get in Touch</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-col" aria-label="Legal">
+      <h4>Legal</h4>
+      <ul>
+        <li><a href="../privacy.html">Privacy Policy</a></li>
+        <li><a href="../useragreement.html">User Agreement</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="footer-bottom">&copy; 2026 Looop, LLC</div>
+</footer>
+
+</body>
+</html>

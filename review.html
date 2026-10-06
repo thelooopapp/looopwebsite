@@ -39,12 +39,20 @@
     </header>
     <div class="article-body">
 <p>Everything built for the marketing site, in one place for review. This page is not linked from the site and is hidden from search engines.</p>
-<h2>To do before going fully public</h2>
+<h2>To do</h2>
 <ul>
+<li><strong>Privacy claim vs. app code (high priority):</strong> the iPhone app turns on Meta's (Facebook) automatic app-event logging for ad attribution outside the EU and UK (<code>lib/main.dart</code>, lines 182 to 195; advertiser tracking off). Several pages say Looop "doesn't work with advertisers." Confirm the promise holds, check the App Store privacy label, or change the code or the copy.</li>
 <li><strong>Media kit:</strong> add an SVG logo, a high-resolution wordmark (current max is 652px), high-resolution product screenshots, and a founder bio and headshot to the Newsroom.</li>
-<li><strong>Press releases:</strong> fill in [DATE], [CITY, STATE], [FOUNDER NAME], the founder quote, [MEDIA CONTACT] and the seasonal hook, then remove noindex.</li>
+<li><strong>Press releases (all six):</strong> fill in [DATE], [CITY, STATE], [FOUNDER NAME], the founder quotes, [MEDIA CONTACT], the seasonal hook and the [TIMING] note, then remove noindex.</li>
+<li><strong>Spending alerts release:</strong> confirm the feature is live and fill in [LAUNCH DATE]. Confirm "Looop never sees bank passwords" (true of Plaid, but confirm for Looop).</li>
+<li><strong>Solo founder release:</strong> confirm a launch date for each feature cited (Unusual Day, phone untouched, unusual spending, hospital arrival, heart and breathing rate, severe weather, nearby crime) or cut it; fill in [FOUNDER BIO]; confirm "Austin", "solo founder" and any "built with AI" claim.</li>
 <li><strong>Caregiving report:</strong> replace [SIGNUP LINK] or remove that line. This page is indexed by search engines.</li>
-<li><strong>Legal review:</strong> Looop vs. Life360, Who's Really Paying, and Best Life360 Alternatives. After sign-off, remove noindex and add them to the sitemap.</li>
+<li><strong>Legal review (8 pieces, all noindex):</strong> Looop vs. Life360, Who's Really Paying, Best Life360 Alternatives, A Storm Near Mom, Mom Doesn't Need a Super App, Mom Isn't a Pet, and the data-pledge, spending-alerts and solo-founder releases. Also confirm "still sells location data today" is current (latest support is Life360's Q3 2024 SEC release). After sign-off, remove noindex and add to the sitemap.</li>
+<li><strong>Same app vs. same map:</strong> "Mom Isn't a Pet" says Life360 puts pets on the same map (citing Life360's own pages); the comparison page says "same app". Pick one after legal review.</li>
+<li><strong>Crime alerts inside Life360:</strong> its App Store listing doesn't mention crime alerts; confirm inside the app before any comparison claims more.</li>
+<li><strong>Crime coverage list:</strong> the backend list was last verified March 18, 2026. Refresh it, and check the Minnesota entries "Jordan, Scott" and "Scott County" (possible duplicate). Copy says "more than 200" so it holds either way.</li>
+<li><strong>Apple background location article:</strong> no public thread voicing the "secret deal with Apple" theory could be opened (Reddit blocked). Add one if you have a link.</li>
+<li><strong>Pricing rule:</strong> some pieces cite Life360's reimbursement caps, ad revenue and FBI loss figures in dollars. None are plan prices; confirm that fits the no-pricing rule.</li>
 <li><strong>Guidelines accuracy:</strong> the copywriter guide says Looop uses "just enough" location and never precise tracking, and its feature list omits several alerts. Reconcile it with the feature appendix.</li>
 <li><strong>Imagery:</strong> confirm the sample names in product images (Dad, Aunt Ira, Uncle Tony) are not real people before sending the media kit.</li>
 <li><strong>Dates:</strong> article publish dates are set to October 6, 2026. Adjust if needed.</li>
@@ -54,26 +62,45 @@
 <li><a href="index.html">Home (unchanged content, new nav and footer)</a></li>
 <li><a href="features.html">How it works</a></li>
 <li><a href="privacy-promise.html">Our Privacy Promise</a></li>
+<li><a href="crime-alert-coverage.html">Where crime alerts work (new, searchable city list)</a></li>
 <li><a href="who-its-for.html">Who it's for</a></li>
 <li><a href="for-aging-parents.html">For aging parents</a></li>
 <li><a href="for-college-families.html">For college families</a></li>
 <li><a href="for-friends-and-siblings.html">For friends and siblings</a></li>
 <li><a href="blog/index.html">Resources hub</a></li>
-<li><a href="blog/how-to-check-on-aging-parents.html">Article: How to Check On Aging Parents</a></li>
-<li><a href="blog/tracking-vs-knowing.html">Article: Tracking vs. Knowing</a></li>
-<li><a href="blog/long-distance-caregiving-report.html">Article: The Long-Distance Caregiving Report (contains a [SIGNUP LINK] placeholder)</a></li>
-<li><a href="press/index.html">Newsroom (public, indexed, linked from the footer)</a></li>
+<li><a href="press/index.html">Newsroom</a></li>
 </ul>
-<h2>Needs legal review (live but unlisted, not indexed)</h2>
+<h2>Articles (live and indexed)</h2>
 <ul>
-<li><a href="looop-vs-life360.html">Looop vs. Life360</a></li>
-<li><a href="blog/whos-paying-for-your-family-safety-app.html">Article: Who's Really Paying for Your Free Family Safety App?</a></li>
-<li><a href="blog/best-life360-alternatives.html">Article: The Best Life360 Alternatives in 2026</a></li>
+<li><a href="blog/how-to-check-on-aging-parents.html">How to Check On Aging Parents</a></li>
+<li><a href="blog/holiday-visit-checklist.html">The Holiday Visit Checklist</a></li>
+<li><a href="blog/letter-to-mom.html">A Letter to Mom</a></li>
+<li><a href="blog/apple-watch-aging-parents.html">Using Apple Watch to Stay Close to Aging Parents</a></li>
+<li><a href="blog/crime-near-mom-not-a-crime-map.html">Crime Near Mom, Not a Crime Map</a></li>
+<li><a href="blog/tracking-vs-knowing.html">Tracking vs. Knowing</a></li>
+<li><a href="blog/how-location-apps-make-money.html">How Location Apps Turn Your Family's Movements Into Ad Money</a></li>
+<li><a href="blog/before-you-link-moms-bank-account.html">Before You Link Mom's Bank Account</a></li>
+<li><a href="blog/scams-targeting-older-adults.html">Scams That Target Older Adults</a></li>
+<li><a href="blog/apple-background-location-explained.html">Is There a Secret Deal With Apple?</a></li>
+<li><a href="blog/long-distance-caregiving-report.html">The Long-Distance Caregiving Report (has [SIGNUP LINK])</a></li>
 </ul>
-<h2>Press release drafts (linked from the Newsroom, not indexed, contain placeholders)</h2>
+<h2>Needs legal review (live, linked from Resources, not indexed)</h2>
+<ul>
+<li><a href="looop-vs-life360.html">Looop vs. Life360 (rewritten)</a></li>
+<li><a href="blog/whos-paying-for-your-family-safety-app.html">Who's Really Paying for Your Free Family Safety App?</a></li>
+<li><a href="blog/best-life360-alternatives.html">The Best Life360 Alternatives in 2026</a></li>
+<li><a href="blog/storm-heads-up-not-ad-slot.html">A Storm Near Mom Is a Heads-Up, Not an Ad Slot</a></li>
+<li><a href="blog/mom-doesnt-need-a-super-app.html">Mom Doesn't Need a Super App</a></li>
+<li><a href="blog/mom-isnt-a-pet.html">Mom Isn't a Pet (or Your Keys)</a></li>
+</ul>
+<h2>Press releases (live, linked from the Newsroom, not indexed, contain placeholders)</h2>
 <ul>
 <li><a href="press/launch-safety-notifications.html">Launch release</a></li>
-<li><a href="press/weather-and-crime-alerts.html">Weather and crime alerts release</a></li>
+<li><a href="press/weather-and-crime-alerts.html">Weather and crime alerts</a></li>
+<li><a href="press/crime-alerts-200-cities.html">Crime alerts in 200+ cities</a></li>
+<li><a href="press/data-is-not-ad-inventory.html">Data is not ad inventory (legal review)</a></li>
+<li><a href="press/spending-alerts-scams.html">Spending alerts and scams (legal review)</a></li>
+<li><a href="press/solo-founder-aging-parent-alerts.html">Solo founder ships aging-parent alerts (legal review)</a></li>
 </ul>
     </div>
   </article>
