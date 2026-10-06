@@ -1,7 +1,5 @@
 # GitHub Pages (Jekyll) build settings.
-# Draft sources and pages awaiting legal review stay in the repo but are not published.
+# Markdown copy sources stay in the repo but are not published (their rendered pages are).
 exclude:
   - content/
   - readme.txt
-  - looop-vs-life360.html
-  - blog/whos-paying-for-your-family-safety-app.html
