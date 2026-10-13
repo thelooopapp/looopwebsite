@@ -106,6 +106,8 @@
   .trio h3 { font-size: 23px; color: var(--brand); }
   .trio p { color: var(--muted); font-size: 16px; }
 
+  .fine { margin-top: 24px; color: var(--muted); font-size: 14px; }
+
   /* Privacy */
   .privacy { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: center; }
   .privacy h2 { font-size: clamp(30px, 4.4vw, 50px); }
