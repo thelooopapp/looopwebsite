@@ -39,7 +39,7 @@ Families don't live on one street anymore. Parents live alone in the house you g
 
 > "Four people I love, four different places."
 
-**Subtitle:** One heads-up when someone needs a call.
+**Subtitle:** A heads-up when they need a call.
 
 Plenty of us are caring for kids and parents at the same time. Looop puts everyone on one calm screen. Quiet means all is well. A nudge means it might be a good time to reach out.
 

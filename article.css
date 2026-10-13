@@ -252,3 +252,6 @@
     font-size: 24px;
   }
 }
+
+/* Heading weight matches the rest of the site */
+.article-page h1, .article-body h2, .article-body h3, .article-cta h2 { font-weight: 800; }

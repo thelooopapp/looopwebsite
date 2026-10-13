@@ -32,5 +32,10 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 ### Copy
 - Aging parents, family cards: "For the stretched-thin middle" is now "For the stretched-thin" (page and its Markdown source).
 
+### Typography and consistency
+- **No single word alone on a last line.** The last two words of every heading, paragraph, list item and table cell are joined with a non-breaking space across all 36 pages, and `styles.css` / `home.css` add `text-wrap: balance` for short display lines and `text-wrap: pretty` for body text. A scan at 1280, 820 and 390 pixels wide found 2 remaining cases on desktop (both in the Life360 alternatives article, where the last word is too long to pair). The only wording change is on Who it's for: "One heads-up when someone needs a call." is now "A heads-up when they need a call."
+- **One type scale for the whole site.** Inner pages now use the homepage's sizes: hero title up to 72px, green hero key line up to 40px, white hero lead up to 22px, section titles up to 46px, orange question lines up to 28px, 17px body text and 23px blue card titles. Hero product images are larger so the phones match the homepage's. Articles and legal pages keep a smaller long-form scale with the same font, weights and colours.
+- **Same nav everywhere.** Inner pages get the "Download Looop" button, and the homepage nav now floats while scrolling like the inner pages' nav.
+
 ### Housekeeping
 - Started this changelog and excluded it from the published site.

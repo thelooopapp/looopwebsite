@@ -1775,3 +1775,52 @@ h1, h2, h3, h4 { letter-spacing: -0.02em; text-wrap: balance; }
 
 /* Linked sections clear the fixed nav */
 .inner-page section[id] { scroll-margin-top: 110px; }
+
+/* No single word alone on a last line: balance short display lines, tidy paragraphs.
+   The pages also bind the last two words with a non-breaking space for browsers without text-wrap. */
+.inner-page .page-subtitle, .inner-page .section-subtitle, .inner-page .tagline, .inner-page .question,
+.inner-page .lead, .inner-page .faq summary, .inner-page th, .article-cta p { text-wrap: balance; }
+p, li, td, blockquote { text-wrap: pretty; }
+
+/* ========================================
+   Shared type scale (same values as home.css)
+   Hero title, hero key line, hero lead, section titles, question lines,
+   body text, card titles, badge and nav sizes match the homepage.
+   ======================================== */
+.navbar { padding: 10px 14px 10px 20px; top: 20px; }
+.navbar .logo img { height: 36px; }
+.nav-links { gap: 28px; }
+.nav-links a { font-size: 15px; font-weight: 600; color: #1E2126; }
+.nav-links a:hover { color: #1B73C6; }
+
+.inner-page .page-hero { padding-top: 132px; }
+.inner-page .page-hero h1 { font-size: clamp(38px, 6.4vw, 72px); line-height: 1.1; max-width: 1000px; margin-bottom: 22px; }
+.inner-page .page-hero .page-subtitle { font-size: clamp(24px, 3.6vw, 40px); line-height: 1.15; letter-spacing: -0.02em; max-width: 900px; margin-bottom: 12px; }
+.inner-page .page-hero .lead, .inner-page .page-hero p:not(.page-subtitle) { font-size: clamp(18px, 2.1vw, 22px); line-height: 1.35; color: #fff; max-width: 680px; }
+.app-store-badge img, .article-cta .app-store-badge img { height: 54px; }
+.inner-page .page-hero-image.product-hero { max-width: 760px; }
+
+.inner-page h2 { font-size: clamp(30px, 4.2vw, 46px); line-height: 1.1; }
+.inner-page .question { font-size: clamp(22px, 2.6vw, 28px); line-height: 1.2; letter-spacing: -0.02em; }
+.inner-page .card .question { font-size: 18px; }
+.inner-page .section-subtitle { font-size: clamp(19px, 2.2vw, 22px); line-height: 1.35; }
+.inner-page p, .inner-page li { font-size: 17px; line-height: 1.55; }
+.inner-page h3 { font-size: 21px; line-height: 1.2; }
+.inner-page .card h3, .inner-page .news-card h3 { font-size: 23px; color: #1B73C6; }
+.inner-page .alert-item strong, .inner-page .alert-item span { line-height: 1.45; }
+.inner-page .cta-band h2 { font-size: clamp(34px, 5.4vw, 60px); }
+.inner-page .cta-band .section-subtitle { font-size: 20px; font-weight: 500; color: #D3E6FA; }
+.footer-col h4 { font-size: 14px; font-weight: 800; }
+.footer-col ul li a, .footer-tagline, .footer-bottom { font-size: 15px; }
+.footer-bottom { font-size: 13px; text-align: left; }
+@media (max-width: 768px) {
+  .inner-page .page-hero { padding-top: 104px; }
+  .inner-page .page-hero h1 { font-size: clamp(38px, 6.4vw, 72px); }
+  .inner-page .page-subtitle { font-size: clamp(24px, 3.6vw, 40px); }
+  .inner-page h2 { font-size: clamp(30px, 4.2vw, 46px); }
+}
+
+/* Download button in the nav, same as the homepage */
+.nav-links a.nav-cta { display: inline-flex; align-items: center; min-height: 44px; padding: 0 20px; border-radius: 999px; background: #1B73C6; color: #fff; font-weight: 700; white-space: nowrap; }
+.nav-links a.nav-cta:hover { color: #fff; background: #0F4F92; }
+@media (max-width: 768px) { .nav-links a.nav-cta { justify-content: center; } }
