@@ -78,5 +78,7 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 
 - Aging parents, hospital section: the question is now "Did Dad tell you he's at the hospital?" (was "Would Dad tell you..."), which is less pointed.
 
+- Mom's 72-hour image (`images/home/phone-home72.webp`, Aging parents and homepage): the floating pill now reads "Hasn't Left Home" instead of "Time to check in".
+
 ### Housekeeping
 - Started this changelog and excluded it from the published site.
