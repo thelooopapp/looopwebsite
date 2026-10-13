@@ -61,7 +61,7 @@ Image: images/home/phone-hospital.webp
 ### "Did anyone call Dad?"
 **For siblings sharing the load.** You and your brother get the same heads-up. Dad gets one call, not five.
 
-### "5 Loved Ones in 4 different cities."
+### "5 Loved Ones in 4 cities."
 **For the stretched-thin.** Parents in two homes, multiple kids in college. One calm screen, and one heads-up when someone needs a call.
 
 ## A word for your parents
