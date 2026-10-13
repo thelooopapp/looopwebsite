@@ -139,7 +139,7 @@ Looop is a safety notifications app, built from the ground up around these five 
 
 Safety notifications fit any group of people who care about each other from a distance.
 
-- **The sandwich generation:** kids at college in one direction, parents living alone in another. Four people in four places, one heads-up when someone needs a call.
+- **The sandwich generation:** kids at college in one direction, parents living alone in another. 5 people in 4 places, one heads-up when someone needs a call.
 - **Parents of college students:** give your kids real independence and still sleep at night.
 - **Adult children of aging parents:** Mom keeps her routine. You keep your peace of mind.
 - **Siblings sharing the load:** everyone gets the same heads-up, so Dad gets one call, not five.

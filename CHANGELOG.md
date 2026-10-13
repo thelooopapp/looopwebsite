@@ -47,5 +47,7 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 
 - Privacy Promise hero and the homepage privacy band: the approved line "Your family's data isn't for sale." now sits in orange above "We never sell your data. We don't work with advertisers. That's it."
 
+- So the numbers agree with "5 people I love in 4 different cities.": the Aging parents card now reads "Parents in two homes, multiple kids in college." and the Tracking vs. Knowing article reads "5 people in 4 places" (pages and Markdown sources).
+
 ### Housekeeping
 - Started this changelog and excluded it from the published site.
