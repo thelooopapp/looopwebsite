@@ -70,7 +70,7 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 
 - Article "How to Check On Aging Parents Without Making Them Feel Watched": worked in that Looop is a two-way street (the parent gets the same heads-up about you), that it is sharing and not one person tracking another, and that it is not precise tracking but knowing when something is off. Six passages changed: the opening goal, the conversation tips, the sample script, the consent list, the Looop section and the short version.
 
-- Nav bar on every page: the cursive Looop wordmark now sits to the right of the circle emblem, and both link to the homepage. `images/looop-wordmark.png` is made from the app repo's `assets/LooopLogo.png`, recoloured from white to brand blue so it shows on the white bar (the green dot is kept).
+- Nav bar on every page: the cursive Looop wordmark now sits to the right of the circle emblem, and both link to the homepage. `images/looop-wordmark.png` is the official blue wordmark, trimmed from this repo's `images/loop.png`. (The app repo only holds the white version, `assets/LooopLogo.png`.)
 
 - Stylesheet links now carry a version (`?v=...`), so visitors get new styles with the page instead of a cached older stylesheet. Bump the value when a stylesheet changes.
 
