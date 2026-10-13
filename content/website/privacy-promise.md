@@ -13,6 +13,8 @@ legal_review: false
 
 # Our Privacy Promise
 
+**Key line (orange):** Your family's data isn't for sale.
+
 **Subtitle:** We never sell your data. We don't work with advertisers. That's it.
 
 Looop is a private family safety app. It exists to tell families when to check in. It does not exist to collect your life and sell it. Here's our promise in plain words.

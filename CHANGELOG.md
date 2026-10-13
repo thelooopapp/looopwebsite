@@ -45,5 +45,7 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 
 - How it works, "See everyone at a glance": the subtitle "One calm screen for everyone you care about." is now "One screen showing everyone you love." so it fits on one line (page and Markdown source).
 
+- Privacy Promise hero and the homepage privacy band: the approved line "Your family's data isn't for sale." now sits in orange above "We never sell your data. We don't work with advertisers. That's it."
+
 ### Housekeeping
 - Started this changelog and excluded it from the published site.
