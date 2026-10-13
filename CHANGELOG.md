@@ -74,5 +74,7 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 
 - Stylesheet links now carry a version (`?v=...`), so visitors get new styles with the page instead of a cached older stylesheet. Bump the value when a stylesheet changes.
 
+- Nav wordmark is 10% larger (33px tall) and sits 3px lower so it lines up with the centre of the circle emblem.
+
 ### Housekeeping
 - Started this changelog and excluded it from the published site.

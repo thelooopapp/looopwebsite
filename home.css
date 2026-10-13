@@ -191,5 +191,5 @@
 
   /* Circle emblem plus cursive wordmark in the nav; both link home */
   .nav > a:first-child { display: flex; align-items: center; gap: 10px; }
-  .nav img.wordmark { height: 30px; }
+  .nav img.wordmark { height: 33px; position: relative; top: 3px; }
   @media (max-width: 360px) { .nav img.wordmark { display: none; } }

@@ -1842,5 +1842,5 @@ p, li, td, blockquote { text-wrap: pretty; }
 
 /* Circle emblem plus cursive wordmark in the nav; both link home */
 .navbar .logo { display: flex; align-items: center; gap: 10px; }
-.navbar .logo img.wordmark { height: 30px; width: auto; }
+.navbar .logo img.wordmark { height: 33px; width: auto; position: relative; top: 3px; }
 @media (max-width: 360px) { .navbar .logo img.wordmark { display: none; } }
