@@ -29,5 +29,8 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 ### Not changed
 - The old image files stay in `images/`; nothing links to most of them now, and they can be removed in a cleanup.
 
+### Copy
+- Aging parents, family cards: "For the stretched-thin middle" is now "For the stretched-thin" (page and its Markdown source).
+
 ### Housekeeping
 - Started this changelog and excluded it from the published site.
