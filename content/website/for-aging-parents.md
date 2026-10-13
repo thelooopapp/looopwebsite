@@ -43,7 +43,7 @@ Mom has her routine. If she's been home much longer than is normal for her, Looo
 
 Image: images/home/phone-home72.webp
 
-## "Would Dad tell you he's at the hospital?"
+## "Did Dad tell you he's at the hospital?"
 
 **Headline:** At the hospital? You'll know.
 

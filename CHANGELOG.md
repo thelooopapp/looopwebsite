@@ -76,5 +76,7 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 
 - Nav wordmark is 10% larger (33px tall) and sits 3px lower so it lines up with the centre of the circle emblem.
 
+- Aging parents, hospital section: the question is now "Did Dad tell you he's at the hospital?" (was "Would Dad tell you..."), which is less pointed.
+
 ### Housekeeping
 - Started this changelog and excluded it from the published site.
