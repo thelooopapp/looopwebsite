@@ -68,5 +68,7 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 
 - Aging parents card: the quote is shortened to "5 Loved Ones in 4 cities." so it fits on one line. The homepage and Who it's for keep "5 Loved Ones in 4 different cities."
 
+- Article "How to Check On Aging Parents Without Making Them Feel Watched": worked in that Looop is a two-way street (the parent gets the same heads-up about you), that it is sharing and not one person tracking another, and that it is not precise tracking but knowing when something is off. Six passages changed: the opening goal, the conversation tips, the sample script, the consent list, the Looop section and the short version.
+
 ### Housekeeping
 - Started this changelog and excluded it from the published site.

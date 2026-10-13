@@ -27,6 +27,8 @@ Before any plan, name the goal. It is not to know everything. It is to know enou
 
 Your parent wants independence, privacy and a life that isn't organized around your worry. You want peace of mind and a way to show up when it counts. A good setup gives each of you what you need.
 
+It also runs both ways. Your parent worries about you, too: the late drive home, the storm in your city. The best setups are shared, so they get the same quiet signal about you that you get about them. Nobody is tracking anybody. You're each sharing just enough to know when something is off.
+
 Keep that two-sided promise in mind as you read. Every step below should pass one test: would your parent be glad you did it this way?
 
 ## Signs it might be time to do more
@@ -54,7 +56,7 @@ A few things help.
 
 **Ask before you suggest.** Find out what they'd want. Some parents love the idea of fewer check-in calls. Some want a weekly call no matter what. Both are fine.
 
-**Make it mutual where you can.** If they'd feel better knowing about storms near your home, too, offer that. Looking out for each other feels better than being looked after.
+**Make it a two-way street.** This works best when it goes both ways. Your parent gets the same heads-up about you: a storm near your home, or a day of yours that looks unusual. Looking out for each other feels better than being looked after.
 
 ### A short sample script
 
@@ -72,7 +74,7 @@ Here's a starting point. Change the words so they sound like you.
 >
 > **Mom:** "So you'd see where I am all day?"
 >
-> **You:** "That's not the point of it. It's about knowing when to call, not watching what you do. Can I show you what it shares, and you decide?"
+> **You:** "That's not the point of it. It isn't precise tracking. It just lets us know when something seems off. And it goes both ways: you'd get a heads-up about me, too. Can I show you what it shares, and you decide?"
 
 That last line matters most. You are offering, not installing.
 
@@ -86,6 +88,7 @@ Consent first looks like this:
 - **Show exactly what's shared.** Walk through it together. No surprises later.
 - **Make the optional things optional.** Health details like steps or sleep should be their choice to share, not yours.
 - **Agree on a way out.** Let them know they can change their mind, pause, or leave anytime. A parent who knows they can say no is more likely to say yes.
+- **Share both ways.** You're in the same group, so your parent sees your day the way you see theirs. It's sharing, not one person tracking another.
 - **Revisit it.** Ask again in a few months. "Still feel okay with this?" is a kind question.
 
 ## What to set up
@@ -147,6 +150,8 @@ If you're looking for something that works the way this guide does, that's why w
 
 Looop is a safety notifications app for families who care from a distance. It sends you a heads-up when severe weather is heading toward a Loved One, in the US and worldwide, and when crime is reported near them in supported cities. It also gives you a gentle "Unusual Day" nudge when something seems off compared to your parent's own normal routine. Otherwise it stays quiet, so you're not bothering anyone when there's no need.
 
+It works both ways, too. Your parent gets the same heads-up about you, so it's two people sharing, not one tracking the other. Looop isn't built for precise tracking. It's built to tell you both when something seems off.
+
 Your parent joins by invitation, never without knowing. Health details like steps and sleep are optional and only shared if they choose. There's a family map for when you need it, but it isn't the point. And Looop never sells your data and doesn't work with advertisers.
 
 Their routine. Your reassurance. Fewer "just checking" calls for everyone.
@@ -159,6 +164,7 @@ Their routine. Your reassurance. Fewer "just checking" calls for everyone.
 - Lead with your feelings, not their limits.
 - Invite. Never install anything without them knowing.
 - Share only what helps you know when to call.
+- Make it two-way. They look out for you, too.
 - Let quiet mean all is well.
 - Call when something changes, and whenever your gut says to.
 
