@@ -1839,3 +1839,8 @@ p, li, td, blockquote { text-wrap: pretty; }
 
 /* Orange key line in a blue hero, same size as the green key line */
 .inner-page .page-hero p.question { color: #FFCB70; font-size: clamp(24px, 3.6vw, 40px); font-weight: 800; line-height: 1.15; letter-spacing: -0.02em; max-width: 900px; margin: 0 auto 10px; text-wrap: balance; }
+
+/* Circle emblem plus cursive wordmark in the nav; both link home */
+.navbar .logo { display: flex; align-items: center; gap: 10px; }
+.navbar .logo img.wordmark { height: 30px; width: auto; }
+@media (max-width: 360px) { .navbar .logo img.wordmark { display: none; } }

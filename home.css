@@ -188,3 +188,8 @@
   .hero-inner { padding-top: 132px; }
   .band[id], section[id] { scroll-margin-top: 100px; }
   @media (max-width: 860px) { .hero > .wrap > .nav { width: 95%; top: 10px; } .hero-inner { padding-top: 104px; } }
+
+  /* Circle emblem plus cursive wordmark in the nav; both link home */
+  .nav > a:first-child { display: flex; align-items: center; gap: 10px; }
+  .nav img.wordmark { height: 30px; }
+  @media (max-width: 360px) { .nav img.wordmark { display: none; } }
