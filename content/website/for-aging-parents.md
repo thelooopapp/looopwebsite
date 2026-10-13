@@ -43,7 +43,7 @@ Quiet means all is well. A nudge means maybe give her a call.
 ### "Did anyone call Dad?"
 **For siblings sharing the load.** You and your brother get the same heads-up. Dad gets one call, not five.
 
-### "5 people I love in 4 different cities."
+### "5 Loved Ones in 4 different cities."
 **For the stretched-thin.** Parents in two homes, multiple kids in college. One calm screen, and one heads-up when someone needs a call.
 
 ## A word for your parents

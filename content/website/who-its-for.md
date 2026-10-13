@@ -37,7 +37,7 @@ Families don't live on one street anymore. Parents live alone in the house you g
 
 ## One app for everyone you worry about
 
-> "5 people I love in 4 different cities."
+> "5 Loved Ones in 4 different cities."
 
 **Subtitle:** A heads-up when they need a call.
 

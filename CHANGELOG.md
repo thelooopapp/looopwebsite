@@ -49,5 +49,7 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 
 - So the numbers agree with "5 people I love in 4 different cities.": the Aging parents card now reads "Parents in two homes, multiple kids in college." and the Tracking vs. Knowing article reads "5 people in 4 places" (pages and Markdown sources).
 
+- The quote is now "5 Loved Ones in 4 different cities." on the homepage, Who it's for and the Aging parents card (and their Markdown sources).
+
 ### Housekeeping
 - Started this changelog and excluded it from the published site.
