@@ -17,14 +17,16 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 - **Every other page restyled to match the homepage, with no wording changes** (`styles.css`, `article.css`, font link and inline colours in 35 pages): Plus Jakarta Sans replaces Poppins; the app's brand blue (`#1B73C6`), green and orange replace the old navy, bright blue and lime; inner pages get a blue hero band and closing band; the footer uses the homepage's deep blue.
 - **New product images on inner pages**, replacing the tilted-phone art that showed retired app screens:
   - `images/home/duo-lock-well.webp`: How it works hero, and the Newsroom "Product: notifications" download (`.png`).
-  - `images/home/duo-lock-checkin.webp`: Aging parents hero.
-  - `images/home/duo-home-alerts.webp`: How it works "See everyone at a glance", Friends and siblings, Who it's for, and the Newsroom "Product: home screen" download (`.png`).
+  - `images/home/duo-aging.webp`: Aging parents hero. A new lock screen built from the screenshot source shows the alerts that page describes (Unusual Day, hospital arrival, phone untouched), next to Mom's Unusual Day.
+  - `images/home/duo-peers.webp`: Friends and siblings. A "My People" group with Aunt Ira, Sam and Maya, so the page shows peers instead of parents and kids.
+  - `images/home/wx-map.webp`: How it works "Weather where they are". A dotted US map with each person and the weather near them, replacing the old illustrated map.
+  - `images/home/duo-home-alerts.webp`: How it works "See everyone at a glance", Who it's for, and the Newsroom "Product: home screen" download (`.png`).
   - `images/home/phone1.webp`: College families "Calm alerts".
-  - `images/home/av-*.webp`: green-ringed portraits replace the old blue-ringed avatars on Who it's for and Aging parents.
+  - `images/home/av-*.webp`: ringed portraits with a small activity badge replace the old blue-ringed avatars on Who it's for and Aging parents (green for a Typical Day, orange where the old avatar looked concerned).
+  - Added section ids (`#families`, `#alerts`, `#people`, `#one-app`) so these sections can be linked directly.
   - Alt text on each replaced image now describes the new image.
 
 ### Not changed
-- The illustrated US weather map on How it works (`images/transparent_map.png`): no new asset shows weather on a map yet.
 - The old image files stay in `images/`; nothing links to most of them now, and they can be removed in a cleanup.
 
 ### Housekeeping

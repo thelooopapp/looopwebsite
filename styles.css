@@ -1772,3 +1772,6 @@ h1, h2, h3, h4 { letter-spacing: -0.02em; text-wrap: balance; }
 
 /* A single transparent phone in a split section stays phone-sized */
 .inner-page .split-media.product-shot.single { max-width: 340px; }
+
+/* Linked sections clear the fixed nav */
+.inner-page section[id] { scroll-margin-top: 110px; }
