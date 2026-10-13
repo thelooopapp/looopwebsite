@@ -1769,3 +1769,6 @@ h1, h2, h3, h4 { letter-spacing: -0.02em; text-wrap: balance; }
 .inner-page .cta-band p { color: #D3E6FA; }
 .footer { background: #0F4F92; }
 .footer-bottom { border-top-color: rgba(255, 255, 255, 0.18); }
+
+/* A single transparent phone in a split section stays phone-sized */
+.inner-page .split-media.product-shot.single { max-width: 340px; }

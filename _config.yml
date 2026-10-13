@@ -3,3 +3,4 @@
 exclude:
   - content/
   - readme.txt
+  - CHANGELOG.md
