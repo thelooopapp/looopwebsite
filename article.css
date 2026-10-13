@@ -13,41 +13,41 @@
   display: inline-block;
   font-size: 14px;
   font-weight: 600;
-  color: #27B80D;
+  color: #2E9B4A;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   margin-bottom: 12px;
 }
 
 .article-eyebrow a:hover {
-  color: #256FCE;
+  color: #1B73C6;
 }
 
 .article-page h1 {
   font-size: 44px;
   font-weight: 700;
-  color: #256FCE;
+  color: #1B73C6;
   line-height: 1.15;
   margin-bottom: 16px;
 }
 
 .article-byline {
   font-size: 14px;
-  color: #757575;
+  color: #5B626C;
   padding-bottom: 24px;
   margin-bottom: 32px;
-  border-bottom: 1px solid rgba(19, 8, 62, 0.1);
+  border-bottom: 1px solid rgba(30, 33, 38, 0.1);
 }
 
 .article-byline .byline-sep {
   margin: 0 8px;
-  color: #FF9D11;
+  color: #FF9800;
 }
 
 .article-body {
   font-size: 18px;
   line-height: 1.8;
-  color: #757575;
+  color: #5B626C;
 }
 
 .article-body p {
@@ -57,7 +57,7 @@
 .article-body h2 {
   font-size: 30px;
   font-weight: 700;
-  color: #256FCE;
+  color: #1B73C6;
   line-height: 1.25;
   margin: 48px 0 16px;
 }
@@ -65,13 +65,13 @@
 .article-body h3 {
   font-size: 21px;
   font-weight: 600;
-  color: #13083E;
+  color: #1E2126;
   line-height: 1.35;
   margin: 32px 0 12px;
 }
 
 .article-body strong {
-  color: #13083E;
+  color: #1E2126;
   font-weight: 600;
 }
 
@@ -80,15 +80,15 @@
 }
 
 .article-body a {
-  color: #256FCE;
+  color: #1B73C6;
   text-decoration: underline;
-  text-decoration-color: rgba(37, 111, 206, 0.35);
+  text-decoration-color: rgba(27, 115, 198, 0.35);
   text-underline-offset: 3px;
   transition: text-decoration-color 0.2s;
 }
 
 .article-body a:hover {
-  text-decoration-color: #256FCE;
+  text-decoration-color: #1B73C6;
 }
 
 .article-body ul,
@@ -103,11 +103,11 @@
 }
 
 .article-body ul li::marker {
-  color: #27B80D;
+  color: #2E9B4A;
 }
 
 .article-body ol li::marker {
-  color: #256FCE;
+  color: #1B73C6;
   font-weight: 600;
 }
 
@@ -134,7 +134,7 @@
   width: 20px;
   height: 20px;
   border-radius: 6px;
-  background: #27B80D;
+  background: #2E9B4A;
 }
 
 .article-body ul.checklist li::after {
@@ -154,9 +154,9 @@
   margin: 28px 0;
   padding: 20px 24px;
   background: #fff;
-  border-left: 4px solid #27B80D;
+  border-left: 4px solid #2E9B4A;
   border-radius: 0 16px 16px 0;
-  color: #13083E;
+  color: #1E2126;
   font-size: 17px;
 }
 
@@ -169,7 +169,7 @@
 }
 
 .article-body blockquote.notice {
-  border-left-color: #FF9D11;
+  border-left-color: #FF9800;
   font-weight: 600;
 }
 
@@ -186,13 +186,13 @@
 .article-cta h2 {
   font-size: 28px;
   font-weight: 700;
-  color: #256FCE;
+  color: #1B73C6;
   margin: 0 0 8px;
 }
 
 .article-cta p {
   font-size: 18px;
-  color: #27B80D;
+  color: #2E9B4A;
   margin-bottom: 24px;
 }
 
@@ -208,17 +208,17 @@
 .article-back {
   margin-top: 48px;
   padding-top: 24px;
-  border-top: 1px solid rgba(19, 8, 62, 0.1);
+  border-top: 1px solid rgba(30, 33, 38, 0.1);
   font-size: 16px;
   font-weight: 500;
 }
 
 .article-back a {
-  color: #256FCE;
+  color: #1B73C6;
 }
 
 .article-back a:hover {
-  color: #13083E;
+  color: #1E2126;
 }
 
 /* Responsive */
