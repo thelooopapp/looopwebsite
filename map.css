@@ -11,8 +11,8 @@
 .map .pin p span::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #4CAF50; margin-right: 6px; }
 .map .wx { position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); margin-bottom: 6px; display: inline-flex; align-items: center; gap: 6px; border-radius: 999px; padding: 5px 12px 5px 9px; font-size: 13px; font-weight: 800; line-height: 1.2; letter-spacing: -0.01em; white-space: nowrap; box-shadow: 0 4px 14px rgba(20, 40, 80, .16); }
 .map .wx svg { width: 17px; height: 17px; flex: none; fill: none; stroke: currentColor; stroke-width: 2.200; stroke-linecap: round; stroke-linejoin: round; }
-.map .wx.alert { background: #FFF4E0; color: #C25E00; }
-.map .wx.blue { background: #E3F0FF; color: #0A6BD6; }
+.map .wx.alert { background: #C25E00; color: #fff; }
+.map .wx.blue { background: #0F4F92; color: #fff; }
 .map .wx.calm { background: #fff; color: #1E2126; }
 @media (max-width: 700px) {
   .map { margin: 36px auto 28px; }

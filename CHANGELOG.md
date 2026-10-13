@@ -51,5 +51,7 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 
 - The quote is now "5 Loved Ones in 4 different cities." on the homepage, Who it's for and the Aging parents card (and their Markdown sources).
 
+- Family map (`map.css`, homepage and How it works): the Tornado Watch pill is now dark orange and the Flash Flood Warning pill dark blue, both with white text and icons, so warnings stand out from the calm weather pills.
+
 ### Housekeeping
 - Started this changelog and excluded it from the published site.
