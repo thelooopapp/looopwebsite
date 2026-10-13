@@ -37,5 +37,8 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 - **One type scale for the whole site.** Inner pages now use the homepage's sizes: hero title up to 72px, green hero key line up to 40px, white hero lead up to 22px, section titles up to 46px, orange question lines up to 28px, 17px body text and 23px blue card titles. Hero product images are larger so the phones match the homepage's. Articles and legal pages keep a smaller long-form scale with the same font, weights and colours.
 - **Same nav everywhere.** Inner pages get the "Download Looop" button, and the homepage nav now floats while scrolling like the inner pages' nav.
 
+### Copy
+- The quote "5 people I love in 4 different cities." now matches the homepage on Who it's for (was "Four people I love, four different places.") and on the Aging parents card (was "Four people, four places."), in the pages and their Markdown sources.
+
 ### Housekeeping
 - Started this changelog and excluded it from the published site.
