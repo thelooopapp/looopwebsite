@@ -35,6 +35,16 @@ Image: transparent_map.png
 
 Quiet means all is well. A nudge means maybe give her a call.
 
+## "Would Dad tell you he's at the hospital?"
+
+**Headline:** At the hospital? You'll know.
+
+Some parents don't want to worry anyone. If Dad arrives at a hospital or ER, you get a heads-up, so you can call and ask how he's doing.
+
+Looop doesn't detect emergencies. If you think someone is in danger, call 911.
+
+Image: images/home/phone-hospital.webp
+
 ## Built for every kind of family
 
 ### "It's all on me."
