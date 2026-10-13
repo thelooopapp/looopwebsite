@@ -39,6 +39,12 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 - **Aging parents: new "At the hospital? You'll know." section** (`#hospital`), after "You'll know when a call is worth making". Copy frames it as a parent not wanting to worry anyone, and keeps the "Looop doesn't detect emergencies" line beside it.
 - **New asset `images/home/phone-hospital.webp`**, built from the Unusual Spending screenshot source: Dad at Memorial Hospital, a "Hospital Arrival" pill, the app's real wording "Dad arrived at Memorial Hospital" and a "Call Dad" button.
 
+### Long stay and phone-untouched sections
+- **Aging parents: new "Home longer than usual? You'll know." section** (`#long-stay`), before the hospital section, with `images/home/phone-home72.webp`: a timeline of Mom at home for 72 hrs ending in a "Time to check in" nudge and a "Call Mom" button. Built from the arrivals screenshot source.
+- **Friends and siblings: new "Phone quiet too long? You'll know." section** (`#phone-untouched`), after "If something happened, who would even know?", with `images/home/phone-untouched.webp`: Aunt Ira's phone untouched for 12 hrs with a "Call Aunt Ira" button. Built from the spending screenshot source.
+- The alert wording in both images is written for marketing, not copied from the app.
+- Aging parents hero lock screen: the third alert is now "Phone Untouched, Aunt Ira, for 12 hrs" (was Aunt June, 6 hrs) so it matches the new section.
+
 ### Typography and consistency
 - **No single word alone on a last line.** The last two words of every heading, paragraph, list item and table cell are joined with a non-breaking space across all 36 pages, and `styles.css` / `home.css` add `text-wrap: balance` for short display lines and `text-wrap: pretty` for body text. A scan at 1280, 820 and 390 pixels wide found 2 remaining cases on desktop (both in the Life360 alternatives article, where the last word is too long to pair). The only wording change is on Who it's for: "One heads-up when someone needs a call." is now "A heads-up when they need a call."
 - **One type scale for the whole site.** Inner pages now use the homepage's sizes: hero title up to 72px, green hero key line up to 40px, white hero lead up to 22px, section titles up to 46px, orange question lines up to 28px, 17px body text and 23px blue card titles. Hero product images are larger so the phones match the homepage's. Articles and legal pages keep a smaller long-form scale with the same font, weights and colours.

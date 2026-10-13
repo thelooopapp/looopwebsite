@@ -35,6 +35,14 @@ Image: transparent_map.png
 
 Quiet means all is well. A nudge means maybe give her a call.
 
+## "Is Mom getting out like she usually does?"
+
+**Headline:** Home longer than usual? You'll know.
+
+Mom has her routine. If she's been home much longer than is normal for her, Looop gives you a gentle nudge. Might be a good time to call.
+
+Image: images/home/phone-home72.webp
+
 ## "Would Dad tell you he's at the hospital?"
 
 **Headline:** At the hospital? You'll know.

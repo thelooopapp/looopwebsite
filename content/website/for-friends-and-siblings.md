@@ -27,6 +27,14 @@ Image: map.png
 
 Looop works both ways. Each of you gets a heads-up about the other, so looking out for each other never feels one-sided.
 
+## "When did Aunt Ira last pick up her phone?"
+
+**Headline:** Phone quiet too long? You'll know.
+
+Everyone has a rhythm. If Aunt Ira's phone has sat untouched far longer than usual, you get a heads-up, so one of you can check in.
+
+Image: images/home/phone-untouched.webp
+
 ## However your people are spread out
 
 ### Sisters living alone
