@@ -33,7 +33,7 @@ Image: lockscreen-phones.png
 ### What's happening around them
 
 - **Nearby crime.** A heads-up when crime is reported near a Loved One, in supported cities. You pick the distance: 1, 3, 5 or 10 miles.
-- **Severe weather.** Storms, flood warnings, extreme heat or cold heading their way, in the US and worldwide.
+- **Severe weather.** Storms, flood warnings, extreme heat or cold heading their way, in the US and many other countries.
 
 ### When their day looks different
 
@@ -160,7 +160,7 @@ Yes. Steps, sleep, heart rate and other health details are shared only if your L
 No. Looop never sells your data and doesn't work with advertisers. Families aren't the product.
 
 **Does Looop work outside the US?**
-Severe weather alerts work in the US and worldwide. Crime alerts are available in supported cities.
+Severe weather alerts work in the US and many other countries. Crime alerts are available in supported cities.
 
 **Will Looop drain my battery?**
 Looop works quietly in the background, so nobody has to open the app or check in.

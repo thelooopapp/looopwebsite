@@ -1844,3 +1844,7 @@ p, li, td, blockquote { text-wrap: pretty; }
 .navbar .logo { display: flex; align-items: center; gap: 10px; }
 .navbar .logo img.wordmark { height: 33px; width: auto; position: relative; top: 3px; }
 @media (max-width: 360px) { .navbar .logo img.wordmark { display: none; } }
+
+/* Weather and alert data sources: the credit line under each source, and Apple's required mark */
+.inner-page .promise-list .source-credit { font-size: 14px; margin-top: 8px; overflow-wrap: anywhere; }
+.inner-page .promise-list .source-mark { display: inline-block; margin-top: 10px; line-height: 0; }

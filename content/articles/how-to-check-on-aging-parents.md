@@ -148,7 +148,7 @@ And if you ever believe your parent is in immediate danger, call 911 or their lo
 
 If you're looking for something that works the way this guide does, that's why we built Looop.
 
-Looop is a safety notifications app for families who care from a distance. It sends you a heads-up when severe weather is heading toward a Loved One, in the US and worldwide, and when crime is reported near them in supported cities. It also gives you a gentle "Unusual Day" nudge when something seems off compared to your parent's own normal routine. Otherwise it stays quiet, so you're not bothering anyone when there's no need.
+Looop is a safety notifications app for families who care from a distance. It sends you a heads-up when severe weather is heading toward a Loved One, in the US and many other countries, and when crime is reported near them in supported cities. It also gives you a gentle "Unusual Day" nudge when something seems off compared to your parent's own normal routine. Otherwise it stays quiet, so you're not bothering anyone when there's no need.
 
 It works both ways, too. Your parent gets the same heads-up about you, so it's two people sharing, not one tracking the other. Looop isn't built for precise tracking. It's built to tell you both when something seems off.
 

@@ -101,7 +101,7 @@ Families can decide how they feel about that. For us, a storm near Mom is a mome
 
 ## How Looop handles storms
 
-Looop is a safety notifications app. When severe weather is heading toward a Loved One, in the US and worldwide, Looop sends you a heads-up. That covers storms, flood warnings, and extreme heat or cold.
+Looop is a safety notifications app. When severe weather is heading toward a Loved One, in the US and many other countries, Looop sends you a heads-up. That covers storms, flood warnings, and extreme heat or cold.
 
 Here's what that looks like:
 

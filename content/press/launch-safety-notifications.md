@@ -18,7 +18,7 @@ Families have changed. Many adults now care for people in several places at once
 
 Looop introduces a different approach to family safety. It reads the shape of a loved one's day and speaks up only when something looks unusual. Key features include:
 
-- **Severe weather alerts:** A heads-up when severe weather is heading toward a Loved One, in the US and worldwide.
+- **Severe weather alerts:** A heads-up when severe weather is heading toward a Loved One, in the US and many other countries.
 - **Nearby crime alerts:** A notification when crime is reported near a Loved One, in supported cities, with an alert distance each family chooses.
 - **Unusual activity nudges:** A gentle "Unusual Day" alert when driving, walking or phone use looks different from that person's own normal routine.
 - **Daily reassurance at a glance:** One simple screen that shows who is having a typical day and who might need a look, in plain language.

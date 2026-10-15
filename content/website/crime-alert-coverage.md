@@ -31,7 +31,7 @@ Looop's Nearby Crime Alerts work in more than 200 US cities and counties across 
 
 - **Within 25 miles of a supported area.** If a Loved One is within 25 miles of a city or county on this list, crime alerts can work for them, even in a nearby town that isn't listed.
 - **You choose the distance.** Pick how close a reported crime has to be before you hear about it: 1, 3, 5 or 10 miles. You can set it for each Loved One and change it anytime.
-- **Supported cities only.** Outside these areas, Looop doesn't send crime alerts. Severe weather alerts and other nudges still work wherever your loved ones are.
+- **Supported cities only.** Outside these areas, Looop doesn't send crime alerts. Other nudges still work wherever your loved ones are, and severe weather alerts work in many countries.
 - **Coverage is reviewed regularly.** We check this list on a regular basis, and it may change as areas are added or removed.
 
 **Note:** An alert means crime was reported nearby, not that your loved one is involved. It's a nudge that it might be a good time to check in. Looop isn't an emergency service. If you think someone is in danger, call 911.

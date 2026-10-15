@@ -41,7 +41,7 @@ Looop families already get alerts built around that same worry: "Is Mom okay tod
 - **Unusual spending** (live since [LAUNCH DATE: unusual spending alert]): an optional alert for unusually large spending on a linked bank account, which can be an early sign of a scam. Bank linking is optional and runs through Plaid.
 - **Arrivals that matter** (live since [LAUNCH DATE: hospital arrival alert]): know when a Loved One arrives at a hospital or ER, a police station or an airport.
 - **Optional health alerts** (live since [LAUNCH DATE: heart rate and breathing rate alerts]): unusually high or low heart rate or an unusual breathing rate, shared only if the Loved One chooses, through Apple Health and Apple Watch.
-- **Severe weather and nearby crime** (live since [LAUNCH DATE: severe weather alerts] and [LAUNCH DATE: nearby crime alerts]): severe weather alerts in the US and worldwide, and crime alerts in more than 200 US cities and counties.
+- **Severe weather and nearby crime** (live since [LAUNCH DATE: severe weather alerts] and [LAUNCH DATE: nearby crime alerts]): severe weather alerts in the US and many other countries, and crime alerts in more than 200 US cities and counties.
 
 Every Loved One joins Looop by invitation. They keep their routine and their independence. Their family gets fewer reasons to worry, and fewer "just checking" calls to make.
 

@@ -10,7 +10,7 @@ legal_review: false
 
 [SEASONAL HOOK: hurricane season / winter storms / back to college]
 
-**[CITY, STATE] - [DATE]** - As [SEASONAL HOOK: hurricane season / winter storms / back to college] arrives, Looop, the safety notifications app for families who care from a distance, is helping families hear about severe weather and nearby crime before a loved one has to call. Looop sends a calm alert when severe weather is heading toward a Loved One, in the US and worldwide, and when crime is reported near them in supported cities.
+**[CITY, STATE] - [DATE]** - As [SEASONAL HOOK: hurricane season / winter storms / back to college] arrives, Looop, the safety notifications app for families who care from a distance, is helping families hear about severe weather and nearby crime before a loved one has to call. Looop sends a calm alert when severe weather is heading toward a Loved One, in the US and many other countries, and when crime is reported near them in supported cities.
 
 For many families, the first sign of a storm near Mom's house is a news report after it has already passed. A college student may not mention an incident near campus until days later. Looop is designed to close that gap, quietly, without asking anyone to check a map.
 
@@ -20,7 +20,7 @@ For many families, the first sign of a storm near Mom's house is a news report a
 
 Families invite the people they care about to join their Looop. Each Loved One joins by choice. From there, Looop sends notifications when something nearby might be worth a check-in:
 
-- **Severe weather alerts:** Storms, flood warnings, extreme heat or cold heading toward a Loved One, in the US and worldwide. Families can swipe through active alerts, with links to learn more.
+- **Severe weather alerts:** Storms, flood warnings, extreme heat or cold heading toward a Loved One, in the US and many other countries. Families can swipe through active alerts, with links to learn more.
 - **Local weather at a glance:** Current conditions and a five-day forecast with rain chances, right on each Loved One's card.
 - **Nearby crime alerts:** A notification when crime is reported near a Loved One, in supported cities. Families choose their alert distance: 1, 3, 5 or 10 miles.
 - **Alerts on your terms:** Families choose exactly which alerts they receive about each person.

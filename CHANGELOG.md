@@ -2,6 +2,17 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-15 CT
+
+### New Features
+- **Weather and alert data sources page** (`weather-alert-sources.html`): credits every outside source behind Looop's weather features, as several licenses require. Covers National Weather Service, Apple Weather (with Apple's required mark, `images/apple-weather-black.png`, and its "Other data sources" link), NSW RFS, VicEmergency, Queensland Fire Department, Emergency WA, MetService, PAGASA, INMET, Open-Meteo and BigDataCloud. Each source lists what Looop uses it for, the credit wording its license asks for, the license and a link.
+  - "Where alerts work" states today's coverage exactly: US; Canada, Mexico, Europe and Israel through Apple Weather; Australia in NSW, Victoria, Queensland and WA only; New Zealand; Philippines; Brazil. It says there are no alerts yet in Japan, South Korea, India, South Africa, the UAE, Singapore or China.
+  - Uses the existing `promise-list with-icons` rows; `styles.css` gains two rules for the credit line and the Apple mark.
+  - Linked once, from the "Weather where they are" section of `features.html`. Added to `sitemap.xml`.
+
+### Fixes
+- **Severe weather coverage no longer claimed as "worldwide"**: "in the US and worldwide" is now "in the US and many other countries" on 11 pages (home, How it works, Friends and siblings, Looop vs Life360, 4 blog posts, 3 press releases) and their `content/` sources. The crime coverage page no longer says weather alerts work "wherever your loved ones are".
+
 ## 2026-10-13 08:34 CT
 
 ### New Features

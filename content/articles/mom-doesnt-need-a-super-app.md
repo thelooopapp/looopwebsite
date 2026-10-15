@@ -62,7 +62,7 @@ Here's what that looks like day to day.
 
 **Most days, nothing.** If Mom's day looks like her normal day, Looop stays quiet. No news is good news, and with Looop you can actually believe it.
 
-**A heads-up on what's around her.** If severe weather is heading toward her town, you'll hear about it, in the US and worldwide. If crime is reported near her, in supported cities, you'll get a calm note, with a distance you choose: 1, 3, 5 or 10 miles.
+**A heads-up on what's around her.** If severe weather is heading toward her town, you'll hear about it, in the US and many other countries. If crime is reported near her, in supported cities, you'll get a calm note, with a distance you choose: 1, 3, 5 or 10 miles.
 
 **A nudge when her day looks different.** If her driving, walking or phone use doesn't fit her own usual pattern, Looop sends a gentle "Unusual Day" nudge. Not an alarm. Just: might be a good time to call.
 
