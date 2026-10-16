@@ -1853,3 +1853,5 @@ p, li, td, blockquote { text-wrap: pretty; }
 .inner-page .device-card { align-items: center; text-align: center; }
 .inner-page .device-card .device-img { width: 180px; height: auto; margin: 0 auto 8px; }
 .inner-page #devices .card-grid + .card-grid { margin-top: 24px; }
+
+.inner-page p.center { text-align: center; margin-top: 24px; }
