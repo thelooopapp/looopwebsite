@@ -12,6 +12,7 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 - **Device illustrations** (`images/home/dev-apple-watch.webp`, `dev-oura.webp`, `dev-whoop.webp`): drawn Apple Watch (showing heart rate), Oura Ring and Whoop band, shown as cards in "Works with what they already wear". Oura Ring added to the device list. `styles.css` gains `.device-card` and `.device-img`.
 - **Health art updated**: the hero lock screen's second alert is now "Unusual Activity, Dad, Fewer steps than usual", and the health card shows "Exercise, 32 minutes".
 
+- **Apple Health page headline** now reads "Unusual Health alerts for your family".
 - **Device pictures moved to the top of the Apple Health page**: a new "Connects to Apple Health in one tap" section sits right under the hero, with the Apple Watch, Oura Ring and Whoop pictures and copy on how easy the Apple Health connection is (one tap during setup, then their device keeps Looop up to date in the background). The lower section is now "More devices that work with Looop" and keeps the full device lists.
 - **"An evening look at their day" now has a picture** (`images/home/phone-evening.webp`), laid out like the heart rate image: Dad at Home with an Unusual Day, a "Fewer Steps" pill, 1,240 steps by 8:00 PM, "His Tuesdays average 5,800" and a Call Dad button. The section is now image left, text right, and "Their health in plain words" flips to text left so the images alternate.
 
