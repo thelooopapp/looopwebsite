@@ -107,6 +107,8 @@ If a Loved One chooses to share, you can see today's steps, walking, driving and
 
 Every stat is marked Typical or Unusual, based on that person's own patterns. No comparing anyone to anyone else. Works with Apple Health and Apple Watch.
 
+[Read more about health alerts](apple-health.html)
+
 ---
 
 ## Ready in an emergency

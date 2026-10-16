@@ -2,6 +2,16 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-16 CT
+
+### New Features
+- **Apple Health page** (`apple-health.html`): covers sharing Apple Health data with the people in your Looop. It lists the health alerts the app really sends (heart rate over 130 or under 40 bpm, high or low breathing rate, an evening Unusual Day when sleep, heart rate or activity drift from that person's normal, and loud places), what you see on their card, the peace of mind it gives, that sharing is always their choice, the setup steps, and the devices that work through Apple Health: Apple Watch, Whoop, Garmin, Fitbit (Google Health app, from August 2026), Polar, Coros, Suunto, Amazfit, Withings ScanWatch, Withings scales and blood pressure cuffs, Dexcom and FreeStyle Libre, and Eight Sleep. A note says which readings Looop uses, and that weight, blood pressure and glucose stay in Apple Health.
+  - Linked from the "Health and daily routine" section of `features.html` with a "Read more about health alerts" link (also in `content/website/features.md`). Added to `sitemap.xml`.
+- **New health phone art**, built in the style of the App Store screenshot sources (`marketing/app_store_screenshots/canvas_source` in the app repo), using the same portraits:
+  - `images/home/duo-health.webp`: a lock screen with High Heart Rate (Mom), Unusual Sleep (Dad) and Breathing Rate (Aunt Ira) alerts, next to the home screen with Mom's Unusual Day showing Heart Rate and Sleep.
+  - `images/home/phone-heart.webp`: a High Heart Rate alert, 134 bpm at Home, over the 130 bpm alert level, with a Call Mom button.
+  - `images/home/phone-health-stats.webp`: Mom's health from Apple Watch, each stat marked Typical, with an "All is well" pill.
+
 ## 2026-10-15 CT
 
 ### New Features
