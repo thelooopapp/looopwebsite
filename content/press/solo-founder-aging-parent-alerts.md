@@ -28,7 +28,7 @@ placeholders:
 
 ## Looop, a safety notifications app built by one founder, already tells families when a parent's day looks unusual, while Life360 tells investors aging-parent features are on its roadmap
 
-**AUSTIN, Texas - [DATE]** - Looop, LLC today highlighted the aging-parent alerts already live in Looop, a safety notifications app for families who care from a distance. Looop was built by a single founder in Austin [CONFIRM: using AI tools]. It sends a calm heads-up when a Loved One's day looks different from their own routine, so families know when a call is worth making.
+**AUSTIN, Texas, [DATE]:** Looop, LLC today highlighted the aging-parent alerts already live in Looop, a safety notifications app for families who care from a distance. Looop was built by a single founder in Austin [CONFIRM: using AI tools]. It sends a calm heads-up when a Loved One's day looks different from their own routine, so families know when a call is worth making.
 
 The news comes as Life360 turns its attention to aging parents. In October 2025, Life360 CEO Lauren Antonoff [discussed on Fox Business](https://www.fox.com/watch/clip/fmc-2k7cu0b1c58nunwm/life360-explores-features-to-support-aging-parents-safety) how the company is exploring features for aging parents. On its [Q4 2025 earnings call](https://www.fool.com/earnings/call-transcripts/2026/03/02/life360-lif-q4-2025-earnings-call-transcript/) in March 2026, the company said it was working on devices for aging parents but did not expect to launch them that year. On its [Q2 2026 call](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/) in August, it named aging parents as a next line of business. And at a [Goldman Sachs conference](https://in.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-5589446) in September, it said it is working on services for aging parents, including wellness checks and scam protection.
 
@@ -45,9 +45,9 @@ Looop families already get alerts built around that same worry: "Is Mom okay tod
 
 Every Loved One joins Looop by invitation. They keep their routine and their independence. Their family gets fewer reasons to worry, and fewer "just checking" calls to make.
 
-"[DRAFT QUOTE - FOUNDER TO APPROVE] My question was never where my mom was. It was whether her day looked like her day. Big companies are right that aging parents matter. Families shouldn't have to wait for a roadmap. Looop does one job: it tells you when to check in," said [FOUNDER NAME], founder of Looop.
+"[DRAFT QUOTE: FOUNDER TO APPROVE] What I wanted to know was whether my mom's day looked like her usual day. Big companies are right that aging parents matter, and families shouldn't have to wait for a roadmap. Looop is built to tell you when to check in," said [FOUNDER NAME], founder of Looop.
 
-**No ads, no data sales**
+**Private by design**
 
 Looop never sells your data and doesn't work with advertisers. There are no ads and no sponsored offers in its notifications.
 

@@ -33,13 +33,13 @@ Image: transparent_map.png
 - **Phone untouched for hours.** A heads-up if their phone hasn't been picked up in a long while.
 - **Arrivals that matter.** Know when they arrive at a hospital or ER.
 
-Quiet means all is well. A nudge means maybe give her a call.
+No alert usually means all is well. When a nudge comes, maybe give her a call.
 
 ## "Is Mom getting out like she usually does?"
 
 **Headline:** Home longer than usual? You'll know.
 
-Mom has her routine. If she's been home much longer than is normal for her, Looop gives you a gentle nudge. Might be a good time to call.
+Mom has her routine. If she's been home much longer than is normal for her, Looop gives you a gentle nudge. It might be a good time to call.
 
 Image: images/home/phone-home72.webp
 
@@ -59,7 +59,7 @@ Image: images/home/phone-hospital.webp
 **For the only child far away.** You're 800 miles away. You'll still know when to call. And Mom doesn't have to feel watched.
 
 ### "Did anyone call Dad?"
-**For siblings sharing the load.** You and your brother get the same heads-up. Dad gets one call, not five.
+**For siblings sharing the load.** You and your brother get the same heads-up, so only one of you needs to call Dad.
 
 ### "5 Loved Ones in 4 cities."
 **For the stretched-thin.** Parents in two homes, multiple kids in college. One calm screen, and one heads-up when someone needs a call.
@@ -70,9 +70,9 @@ Image: images/home/phone-hospital.webp
 
 **Subtitle:** You're right. Looop isn't one.
 
-Looop isn't about watching where you go. It just lets your family know if something seems off. You keep your routine, your plans and your independence. Your kids worry less. You get fewer "just checking on you" calls.
+Looop lets your family know if something seems off. You keep your routine and your independence. Your kids worry less. You get fewer "just checking on you" calls.
 
-- **You're invited, never signed up without knowing.** Looop works by invitation.
+- **You decide whether to join.** Looop works by invitation, so nobody signs you up without your knowing.
 - **Health details are your call.** Wellness sharing is optional. Share steps or sleep only if you want to.
 - **You can change your mind.** Leave a group anytime.
 
@@ -80,7 +80,7 @@ Looop isn't about watching where you go. It just lets your family know if someth
 
 **Subtitle:** A tool your parent agreed to is one they'll keep.
 
-Before you send an invite, sit down together. Lead with how you feel, not what they can or can't do. Show them exactly what Looop shares, and let them decide. Set it up side by side on your next visit, or over a video call.
+Before you send an invite, sit down together. Start by telling them how you feel. Show them exactly what Looop shares, and let them decide. Set it up side by side on your next visit, or over a video call.
 
 Not sure what to say? Read our guide: [How to Check On Aging Parents Without Making Them Feel Watched](blog/how-to-check-on-aging-parents.html).
 

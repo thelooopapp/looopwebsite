@@ -2,6 +2,20 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-16 CT (later)
+
+### New Features
+- **Apple Health page rewritten to the copywriter guidelines** (`apple-health.html`), using the app's real health features (`apiv2/src/services/StatsService.js`, `TrendService.js`, `ios/Runner/HealthService.swift`):
+  - Alerts that arrive as soon as a reading comes in: heart rate above 130 or below 40 bpm, breathing rate above 30 or below 8, and loud places.
+  - A new "An evening look at their day" section: the Unusual Day check compares the day with the same weekday over recent weeks, covering steps, walking distance, exercise minutes, workouts, sleep, heart rate, breathing rate and loud places.
+  - Headlines under 8 words, the approved line "Peace of mind for you, independence for them" in the hero, and no "watch" as a verb.
+- **Device illustrations** (`images/home/dev-apple-watch.webp`, `dev-oura.webp`, `dev-whoop.webp`): drawn Apple Watch (showing heart rate), Oura Ring and Whoop band, shown as cards in "Works with what they already wear". Oura Ring added to the device list. `styles.css` gains `.device-card` and `.device-img`.
+- **Health art updated**: the hero lock screen's second alert is now "Unusual Activity, Dad, Fewer steps than usual", and the health card shows "Exercise, 32 minutes".
+
+### Copy
+- **Removed signs of AI-written copy across the whole site** (every page in the root, `blog/` and `press/`, plus their `content/` sources): em and en dashes, "X, not Y" and other contrast framing, "Here's..." openers, "That's it." and "Period.", stacked "No X. No Y." fragments, tidy closing morals, filler words, and repeated "peace of mind". Facts, links and legal wording are unchanged; `privacy.html` and `useragreement.html` only lost a dash in their titles.
+- **Retitled articles and press release** (URLs unchanged): "A Heads-Up When Crime Is Near Mom", "When a Storm Heads Toward Mom", "Family Safety Notifications: Knowing When to Check In", "Mom Needs a Call When It Counts" and "Looop Launches a Family Safety Notifications App". The cards on `blog/index.html`, `press/index.html`, `index.html` and `review.html` match.
+
 ## 2026-10-16 CT
 
 ### New Features

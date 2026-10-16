@@ -1848,3 +1848,8 @@ p, li, td, blockquote { text-wrap: pretty; }
 /* Weather and alert data sources: the credit line under each source, and Apple's required mark */
 .inner-page .promise-list .source-credit { font-size: 14px; margin-top: 8px; overflow-wrap: anywhere; }
 .inner-page .promise-list .source-mark { display: inline-block; margin-top: 10px; line-height: 0; }
+
+/* Device illustrations on the Apple Health page */
+.inner-page .device-card { align-items: center; text-align: center; }
+.inner-page .device-card .device-img { width: 180px; height: auto; margin: 0 auto 8px; }
+.inner-page #devices .card-grid + .card-grid { margin-top: 24px; }

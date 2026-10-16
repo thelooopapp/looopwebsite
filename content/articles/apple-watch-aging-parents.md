@@ -1,7 +1,7 @@
 ---
 title: "Using Apple Watch to Stay Close to Aging Parents, No Extra App Needed"
 slug: apple-watch-aging-parents
-meta_description: "Does your parent wear an Apple Watch? Here's how optional wellness sharing works through Apple Health on iPhone, and how to set it up together, consent first."
+meta_description: "Does your parent wear an Apple Watch? Learn how optional wellness sharing works through Apple Health on iPhone, and how to set it up together, consent first."
 primary_keyword: apple watch for aging parents
 secondary_keywords:
   - staying connected with aging parents
@@ -21,17 +21,17 @@ Maybe. If your parent already wears an Apple Watch and carries an iPhone, a lot 
 
 This guide explains how that works with Looop, what stays in your parent's hands, and how to set it up together on your next visit or call.
 
-## The short version
+## Key points
 
 - Looop doesn't need its own Apple Watch app. It reads optional wellness data through Apple Health on your parent's iPhone.
 - Sharing is always optional and always your parent's choice, one category at a time.
 - Looop compares each day to your parent's own normal, never to anyone else.
-- It's a nudge to check in, not a medical tool. It doesn't diagnose anything or detect medical events.
+- It's a nudge to check in. It isn't a medical tool, and it doesn't diagnose anything or detect medical events.
 - Set it up together, side by side, so nothing is a surprise.
 
 ## How it works: watch to iPhone to Looop
 
-Here's the path, step by step.
+The data reaches you in four steps.
 
 **1. The watch notices.** As your parent wears their Apple Watch, it measures things like heart rate, sleep and steps. Apple's [sleep guide for Apple Watch](https://support.apple.com/en-us/108906) explains that sleep data, including time in REM, Core and Deep sleep, shows up in the Health app on iPhone.
 
@@ -57,9 +57,7 @@ Every one of these is optional. Your parent can share all of them, some of them,
 
 A note on loud places: Apple's guide to the [Noise app](https://support.apple.com/en-us/102315) says Apple Watch measures sound levels using the microphone, but doesn't record or save any sounds.
 
-## What it isn't
-
-This part matters, so we'll say it plainly.
+## What Looop can't do
 
 Looop isn't a medical device. It doesn't diagnose anything, and it doesn't detect medical events or emergencies. A nudge about an unusual heart rate or a short night's sleep means one thing: today looks different from their usual, so a call might be nice.
 
@@ -67,11 +65,11 @@ Lots of ordinary things can change a day's numbers. A brisk walk, a late movie, 
 
 ## Consent first, always
 
-Health details are personal. Even more personal than location. So the order of operations matters.
+Health details are personal, often more personal than location, so the order of operations matters.
 
-**Talk before you tap.** Explain what you're hoping for: fewer worried calls, and a way to know when a call actually matters. Lead with your feelings, not their limits. "I worry when I can't reach you" lands better than "You should be wearing this."
+**Talk before you tap.** Explain what you're hoping for: fewer worried calls, and a way to know when a call actually matters. Start with your own feelings. Something like "I worry when I can't reach you" opens the door gently.
 
-**Show, don't tell.** Sit together and look at what Looop would show you. Let your parent see their own Typical and Unusual labels first.
+**Show them first.** Sit together and look at what Looop would show you. Let your parent see their own Typical and Unusual labels first.
 
 **Make every category a real choice.** Some parents are happy to share sleep but not heart rate. Some share nothing at all. All of those are good answers.
 
@@ -91,13 +89,13 @@ Plan about 15 minutes, ideally in person. A video call works too.
 
 **5. Show them how to change it later.** Apple's guide to [managing Health data](https://support.apple.com/en-us/108779) shows the path: open the Health app, tap the profile picture, then under Privacy tap Apps. From there, your parent can turn any category on or off for any app, including Looop.
 
-**6. Agree on what a nudge means.** Decide together what happens if Looop sends one. Maybe it's a quick text. Maybe it's a call. Maybe siblings take turns. Agreeing now means no one panics later.
+**6. Agree on what a nudge means.** Decide together what happens if Looop sends one. It might be a quick text, a call, or siblings taking turns. Agreeing now means no one panics later.
 
 ## A two-sided promise
 
-The point isn't to know more about your parent's body. It's to bother them less.
+The goal is to bother your parent less.
 
-**They get** their routine and their privacy, with control over every category. Fewer "just checking on you" calls. A watch they already love, doing a little more for the people who love them.
+**They get** their routine and their privacy, with control over every category, and fewer "just checking on you" calls. Their watch does a little more for the people who love them.
 
 **You get** a quiet signal on the day a call might matter, and silence on the days it doesn't. No news is good news, and you can actually believe it.
 

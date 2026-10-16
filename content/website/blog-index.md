@@ -1,7 +1,7 @@
 ---
 title: "Resources: Guides for Caring From a Distance"
 slug: blog/index
-meta_description: "Guides and ideas for families who care from a distance: how to check on aging parents, why notifications beat a dot on a map, and more from the Looop team."
+meta_description: "Guides and ideas for families who care from a distance: how to check on aging parents, how a heads-up tells you when to call, and more from the Looop team."
 primary_keyword: long distance caregiver tips
 secondary_keywords:
   - check on aging parents
@@ -15,7 +15,7 @@ legal_review: false
 
 **Subtitle:** Ideas and guides for caring from a distance.
 
-Caring for people you love from far away comes with real questions. When should I call? How do I bring this up with Mom? Here's what we've learned, in plain language.
+Caring for people you love from far away comes with real questions. When should I call? How do I bring this up with Mom? We share what we've learned, in plain language.
 
 ## Latest guides
 
@@ -24,9 +24,9 @@ Caring for people you love from far away comes with real questions. When should 
 **Teaser:** Signs it might be time to do more, what to say, why consent comes first, and how to know when a call is actually worth making.
 **Link:** blog/how-to-check-on-aging-parents.html
 
-### Tracking vs. Knowing: Why Family Safety Shouldn't Be a Dot on a Map
+### Family Safety Notifications: Knowing When to Check In
 **Eyebrow:** Family safety
-**Teaser:** Your people are adults now. Here's why knowing when to check in beats watching a dot, and what that means for independence.
+**Teaser:** Your people are adults now. How safety notifications tell you when to check in, and what that means for independence.
 **Link:** blog/tracking-vs-knowing.html
 
 ## Coming soon

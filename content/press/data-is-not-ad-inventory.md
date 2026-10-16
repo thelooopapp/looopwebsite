@@ -11,21 +11,21 @@ legal_review: true
 
 [TIMING: publish alongside Life360's next earnings news]
 
-**[CITY, STATE] - [DATE]** - Looop, the safety notifications app for families who care from a distance, today pledged that the people who use it will never become ad inventory. Looop never sells your data and doesn't work with advertisers. There are no ads in the app, no sponsored offers in its notifications, and no audience lists built from the places families go.
+**[CITY, STATE], [DATE]:** Looop, the safety notifications app for families who care from a distance, today pledged that the people who use it will never become ad inventory. Looop never sells your data and doesn't work with advertisers. There are no ads in the app, no sponsored offers in its notifications, and no audience lists built from the places families go.
 
 Looop tells families when it might be a good time to check in on a loved one: when severe weather is heading toward them, when crime is reported nearby in supported cities, or when their day looks unusual compared with their own routine. When all is well, it stays quiet.
 
-"[DRAFT QUOTE - FOUNDER TO APPROVE] When you ask your mom to join a safety app, you're asking her to trust you. That trust shouldn't be sold to an advertiser. Our business is helping families know when to call. That's the whole business, and it always will be," said [FOUNDER NAME], founder of Looop.
+"[DRAFT QUOTE: FOUNDER TO APPROVE] When you ask your mom to join a safety app, you're asking her to trust you, and that trust shouldn't be sold to an advertiser. Our only business is helping families know when to call, and it always will be," said [FOUNDER NAME], founder of Looop.
 
 **The pledge**
 
 - **No data sales.** Looop never sells your data, to data brokers or anyone else.
-- **No advertisers.** No ads, no ad partners and no sponsored offers in notifications. A Looop alert only ever means a loved one might need a call.
+- **No advertisers.** Looop has no ads, no ad partners and no sponsored offers in notifications. A Looop alert only ever means a loved one might need a call.
 - **Just enough to know.** Looop uses only what it needs to tell whether something unusual is going on.
 - **Optional by design.** Health details are shared only if each person chooses. Bank linking for spending alerts is optional and runs through Plaid.
 - **Your control.** Loved Ones join by invitation, can leave anytime, and can delete their account and data whenever they choose.
 
-**A different direction from the industry**
+**Ad growth at family location apps**
 
 Looop's pledge comes as advertising becomes a growing business for family location apps.
 
@@ -33,7 +33,7 @@ Life360, a family location app, reported that its advertising revenue grew 315% 
 
 Life360 also has a history of selling location data to a dozen data brokers, [reported by The Markup](https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user) in 2021, and still sells location data today. After that reporting, the company [said it would stop](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users) most precise location sales while continuing to work with Allstate's Arity and selling aggregated data to Placer.ai, a data business it [said had returned to growth](https://www.sec.gov/Archives/edgar/data/1581760/000158176024000105/life360incq324mediarelea.htm) in 2024.
 
-Looop is built on a different model. Families aren't the product, and an alert about someone you love should never double as an ad.
+At Looop, families aren't the product. An alert about someone you love should never double as an ad.
 
 **Availability**
 

@@ -1,7 +1,7 @@
 ---
 title: "A Letter to Mom: Why I Asked You to Join Looop"
 slug: letter-to-mom
-meta_description: "Not sure how to ask a parent to join a family app? Here's a warm, honest letter you can copy, change and send, with consent and independence first."
+meta_description: "Not sure how to ask a parent to join a family app? Start with this warm, honest letter and make it your own. It puts consent and independence first."
 primary_keyword: how to ask parents to share location
 secondary_keywords:
   - staying connected with aging parents
@@ -25,7 +25,7 @@ So we wrote a letter. It's the note we'd want to send our own parents before an 
 
 A few things make this letter work.
 
-**Send it before the invite, not with it.** Give your parent time to read, think and ask questions. The invite can wait a day.
+**Send it a day before the invite.** Give your parent time to read it and ask questions.
 
 **Make it yours.** Swap in real details: their Tuesday golf game, their book club, the storm that rattled you last winter. A letter with your own memories in it will mean more than a perfect one.
 
@@ -33,7 +33,7 @@ A few things make this letter work.
 
 **Be ready for "no," or "not yet."** If your parent isn't comfortable, that's a real answer. Ask what would help, and try again another time, or not at all. A tool a parent agreed to is one they'll keep.
 
-**Talk after.** A letter opens the door. A phone call or a visit is where you walk through it together.
+**Talk after.** Follow the letter with a phone call or a visit, and talk it through together.
 
 ## The letter
 
@@ -43,27 +43,27 @@ I've been meaning to write this for a while, and I wanted to put it in a letter 
 
 First, the most important part: I don't think you need looking after. You've built a full life, and you run it better than I run mine. Your lunches, your garden, your Sunday routine. I love that you live your way, and I want it to stay that way.
 
-The honest truth is that this is about me. Living far away, I worry more than I'd like to admit. When I can't reach you for a day, my mind goes places it shouldn't. When I see a storm on the news near your town, I find out after it's passed. And I hate that my worry turns into "just checking" calls that interrupt your day.
+Honestly, this is about me. Living far away, I worry more than I'd like to admit. When I can't reach you for a day, my mind goes places it shouldn't. When I see a storm on the news near your town, I find out after it's passed. And I hate that my worry turns into "just checking" calls that interrupt your day.
 
 So I'd like to ask you something, and it's completely your choice.
 
-There's an app called Looop. It isn't about watching where you go. It stays quiet on normal days, which I hope is almost every day. It lets me know if severe weather is heading your way. And if your day looks really different from your usual, it gives me a gentle nudge that it might be a good time to call. That's it. A heads-up, not a report.
+There's an app called Looop. It stays quiet on normal days, which I hope is almost every day. It lets me know if severe weather is heading your way. And if your day looks really different from your usual, it gives me a gentle nudge that it might be a good time to call.
 
-There's a map in it too, for if I ever need it. But that isn't why I'm asking. I'm asking so I'll know when a call actually matters, and leave you alone when it doesn't.
+There's a map in it too, for if I ever need it. I'm asking so I'll know when a call actually matters, and can leave you alone the rest of the time.
 
-Here's what I promise you:
+I promise you this:
 
 - **You decide.** You can say yes, no, or not yet. Any answer is okay with me.
 - **No surprises.** Before you join, I'll sit with you and show you exactly what I'd see.
 - **Health stays yours.** Things like steps or sleep are only shared if you turn them on. You can skip all of it.
 - **You can leave anytime.** If it ever feels wrong, you can stop, and I won't make it a thing.
-- **I won't quiz you.** If I call after a nudge, it'll be "thinking of you," not twenty questions.
-- **Fewer check-up calls.** More calls about the grandkids, the garden and the game.
+- **I won't quiz you.** If I call after a nudge, it'll be to say I'm thinking of you.
+- **Fewer check-up calls.** We can save our calls for the grandkids, the garden and the game.
 - **Your information isn't for sale.** Looop never sells your data and doesn't work with advertisers. I checked.
 
-And here's what I'd love from you, if you're willing: give it a try for a month, and then tell me honestly how it feels. If you'd like, I'll share mine with you too, so you'll know when a storm is heading toward me. We can look out for each other.
+And if you're willing, I'd love this from you: give it a try for a month, and then tell me honestly how it feels. If you'd like, I'll share mine with you too, so you'll know when a storm is heading toward me. We can look out for each other.
 
-You took care of me for a long time. I'm not trying to switch places. I just want to be close, even from far away.
+You took care of me for a long time, and I'm not trying to switch places. I want to stay close, even from far away.
 
 Let's talk about it this weekend. No pressure, I promise.
 
@@ -76,7 +76,7 @@ Give it a day or two. Then call, and let your parent lead.
 
 They might have questions. Common ones:
 
-**"So you'll see where I am all day?"** That isn't the point. Looop is built to tell you when to check in, not to watch where they go. Show them what you'd actually see.
+**"So you'll see where I am all day?"** Looop is built to tell you when to check in, and it stays quiet on ordinary days. Show them what you'd actually see.
 
 **"What about my health stuff?"** Optional, always. They choose each category, and they can change their mind in their iPhone's Health settings anytime.
 

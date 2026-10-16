@@ -19,7 +19,7 @@ legal_review: false
 
 Most families never expect to ask that question with real worry. Then a parent mentions a call from "the bank," or a new online friend, or a computer warning that wouldn't go away. And you start to wonder.
 
-Scams targeting older adults are not a sign that anyone is careless or confused. They are run by organized groups who are good at pressure, fear and urgency. The best defense is often simple: people who talk to each other, early.
+Scams targeting older adults are not a sign that anyone is careless or confused. They are run by organized groups who are good at pressure, fear and urgency. Often the best defense is family members who talk to each other early.
 
 This guide covers what the latest federal data shows, the most common scam types, warning signs families can notice, how to bring up the topic without talking down to a parent, and what to do if a scam has already happened.
 
@@ -33,11 +33,11 @@ Two federal agencies publish the most widely used data on fraud. Both point the 
 
 For all ages, the FTC says people reported losing $15.9 billion to fraud in 2025, from 3 million fraud reports ([FTC, March 25, 2026](https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-testifies-joint-economic-committee-agencys-efforts-combat-fraud)).
 
-One more finding is worth knowing. The FTC reports that older adults actually report losing money to fraud at lower rates than younger adults. But when they do lose money, the amounts tend to be larger. That's why an early conversation matters so much.
+The FTC also reports that older adults report losing money to fraud at lower rates than younger adults. But when they do lose money, the amounts tend to be larger. That's why an early conversation matters so much.
 
 ## The scams that come up most
 
-Scammers change their stories often, but the patterns repeat. Here are the ones federal data shows most often for people 60 and older.
+Scammers change their stories often, but the patterns repeat. These are the ones federal data shows most often for people 60 and older.
 
 | Scam type | How it usually starts | 2025 losses reported to IC3 by people 60+ |
 | --- | --- | --- |
@@ -84,27 +84,27 @@ You don't need to be nearby to notice that something is off. Many signs show up 
 - New payees they can't easily explain.
 - Bills going unpaid when there was plenty of money before.
 
-None of these signs proves a scam. Lots of large payments are perfectly normal. A sign is just a reason to ask, kindly.
+None of these signs proves a scam, and lots of large payments are normal. Treat a sign as a reason to ask, kindly.
 
 ## How to talk with a parent without talking down
 
 Your parent has handled money, work and family for decades. Start there.
 
-**Lead with respect, not rescue.** Try: "I keep reading how convincing these scam calls have gotten. They're going after everyone. Have you gotten any weird ones?" This puts you on the same side, against the scammers.
+**Lead with respect.** Try: "I keep reading how convincing these scam calls have gotten. They're going after everyone. Have you gotten any weird ones?" This puts you on the same side, against the scammers.
 
-**Share, don't lecture.** Tell them about a scam text you got last week. Scams target every age, and saying so makes the conversation feel shared.
+**Share your own stories.** Tell them about a scam text you got last week. Scams target every age, and saying so makes the conversation feel shared.
 
-**Agree on a family rule ahead of time.** For example: "If anyone ever tells you to keep something secret from us, or to pay with gift cards or crypto, call me first. No questions, no judgment." Agreeing now is easier than arguing later.
+**Agree on a family rule ahead of time.** For example: "If anyone ever tells you to keep something secret from us, or to pay with gift cards or crypto, call me first. No questions, no judgment." It's easier to agree on this before anything happens.
 
 **Set up a family code word.** If someone calls claiming to be a grandchild in trouble, your parent can ask for the code word. A real family member will know it.
 
 **Keep shame out of it.** If your parent has already sent money, they may feel embarrassed. Scammers count on that. Say clearly: "This happens to smart, careful people. I'm glad you told me. Let's sort it out together."
 
-**Respect their choices.** Offering help is not the same as taking over. Ask what they'd like support with, and let them lead. Our guide on [checking on aging parents without making them feel watched](blog/how-to-check-on-aging-parents.html) has more on this.
+**Respect their choices.** Ask what they'd like support with, and let them lead. Our guide on [checking on aging parents without making them feel watched](blog/how-to-check-on-aging-parents.html) has more on this.
 
 ## What to do if a scam happens
 
-Speed matters. The FBI's Recovery Asset Team works to freeze funds when complaints are filed quickly. In 2025 it reported freezing $32,865,655 tied to incidents involving victims 60 and older ([FBI IC3 2025 Annual Report](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf)). Here's what to do, in order.
+Speed matters. The FBI's Recovery Asset Team works to freeze funds when complaints are filed quickly. In 2025 it reported freezing $32,865,655 tied to incidents involving victims 60 and older ([FBI IC3 2025 Annual Report](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf)). Take these steps, in order.
 
 1. **Stop contact.** Hang up, don't reply and don't send more money, even if the scammer threatens or promises a refund.
 2. **Call the bank or card company right away.** Use the number on the back of the card or on a statement, not one the caller gave you. Ask them to stop or reverse the payment and to flag the account.
@@ -120,19 +120,19 @@ If someone is in immediate danger, call 911.
 
 Conversations are the heart of this. Technology can help with timing.
 
-Looop is a safety notifications app for families who care from a distance. One of its optional alerts is a heads-up about unusually large spending on a linked bank account, based on a threshold your family sets. A sudden large payment can be an early sign of a scam. The alert simply gives you a reason to call that day and ask, "Was that you?"
+Looop is a safety notifications app for families who care from a distance. One of its optional alerts is a heads-up about unusually large spending on a linked bank account, based on a threshold your family sets. A sudden large payment can be an early sign of a scam. The alert gives you a reason to call that day and ask, "Was that you?"
 
 A few things to know:
 
 - **It's optional.** Bank linking is the Loved One's choice, and it runs through Plaid.
-- **It's a nudge, not a verdict.** Looop doesn't detect or prevent scams. Most large payments are normal, and the alert just suggests a check-in.
+- **It's only a nudge.** Looop doesn't detect or prevent scams. Most large payments are normal, and the alert just suggests a check-in.
 - **It's private.** Looop never sells your data and doesn't work with advertisers.
 
 Talk about it together first, and only set it up if your parent wants it. Learn more on [how Looop works](features.html).
 
-## The bottom line
+## Keep talking
 
-Scams work by isolating people and rushing them. Families work best by staying close and talking early. You don't need to watch over a parent's every purchase. You need a warm, shame-free habit of asking, and a plan for what to do if the answer is "Actually, something strange did happen."
+Scams work by isolating people and rushing them, so staying close and talking early helps. What a family needs is a warm, shame-free habit of asking, and a plan for what to do if the answer is "Actually, something strange did happen."
 
 ## About Looop
 

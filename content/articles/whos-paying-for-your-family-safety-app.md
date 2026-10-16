@@ -29,15 +29,15 @@ This guide explains the common ways location-sharing apps make money, walks thro
 
 Most apps know some things about you. A family location-sharing app can know a lot, about several people at once.
 
-Think about what a pattern of places can reveal. A regular Tuesday visit to a clinic. A Sunday morning at a place of worship. A child's school. A parent's new apartment after a separation. Even without names attached, a pattern like that can say a great deal about a person.
+Think about what a pattern of places can reveal: a regular Tuesday visit to a clinic, a Sunday morning at a place of worship, a child's school, a parent's new apartment after a separation. Even without names attached, a pattern like that can say a great deal about a person.
 
-And with a family app, it isn't only your information. It's your kids', your parents', your partner's. Many of them joined because you asked them to.
+And with a family app, the information also belongs to your kids, your parents and your partner. Many of them joined because you asked them to.
 
 So it's worth knowing who else might be paying for the app, and what they're getting for it.
 
 ## Three common ways location-sharing apps make money
 
-Not every app does all of these. Many do at least one. Here's what each looks like in plain terms.
+Not every app does all of these. Many do at least one. Each one is explained in plain terms below.
 
 ### 1. Advertising inside the app
 
@@ -59,7 +59,7 @@ Apps that do this often describe the data as "aggregated" or "de-identified." Th
 
 ## A case study: Life360
 
-Life360 is one of the best-known family location-sharing apps, and it's a useful example because much of its business model is described in its own press releases, its filings with the US Securities and Exchange Commission, and reporting from journalists. Here is what those public sources say.
+Life360 is one of the best-known family location-sharing apps, and it's a useful example because much of its business model is described in its own press releases, its filings with the US Securities and Exchange Commission, and reporting from journalists. The details below come from those sources.
 
 ### What it is
 
@@ -81,11 +81,11 @@ Life360 bought the ad platform Nativo to serve ads using its first-party family 
 
 Life360 has a history of selling location data to a dozen data brokers. In 2021, [The Markup reported](https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user) that Life360 sold precise location data to brokers including Cuebiq, X-Mode, SafeGraph and Allstate's Arity.
 
-Life360 then [stopped most of those sales](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users), but kept Arity and began selling aggregated data to Placer.ai, which it [describes](https://www.sec.gov/Archives/edgar/data/1581760/000158176024000105/life360incq324mediarelea.htm) as a growing data business. In short, Life360 still sells location data today.
+Life360 then [stopped most of those sales](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users), but kept Arity and began selling aggregated data to Placer.ai, which it [describes](https://www.sec.gov/Archives/edgar/data/1581760/000158176024000105/life360incq324mediarelea.htm) as a growing data business. Life360 still sells location data today.
 
 ### What to take from this
 
-None of this is hidden. Life360 describes much of it publicly, and many families use the app knowing how it works. The point isn't that any one family made the wrong choice. It's that "free" usually means someone else is paying, and families deserve to know who.
+None of this is hidden. Life360 describes much of it publicly, and many families use the app knowing how it works. Each family can weigh that for itself. "Free" usually means someone else is paying, and families deserve to know who.
 
 If an app's business includes advertising built on location data, or selling location data, that's worth weighing alongside its features.
 
@@ -93,7 +93,7 @@ If an app's business includes advertising built on location data, or selling loc
 
 Before you invite your family, take ten minutes with the app's privacy policy and website. Look for clear answers to these questions.
 
-- **Does it sell data?** Look for a plain "we never sell your data," not "we don't sell personal information" with exceptions in the fine print.
+- **Does it sell data?** Look for a plain "we never sell your data." Be wary of "we don't sell personal information" with exceptions in the fine print.
 - **Does it work with advertisers?** Check for ad partners, sponsored offers, or an ad platform described in company news.
 - **Are there ads in notifications?** If partner offers can arrive as push notifications, your alerts may be mixed with marketing.
 - **What does it collect, and why?** A good app uses only what it needs to do its job.
@@ -105,7 +105,7 @@ If the answers are vague, that tells you something, too.
 
 ## What to look for: a checklist
 
-Here's the short version. A family safety app worth trusting should be able to check every box.
+A family safety app worth trusting should be able to check every box.
 
 - [ ] Never sells your data
 - [ ] Doesn't work with advertisers
@@ -121,23 +121,23 @@ Here's the short version. A family safety app worth trusting should be able to c
 
 We built Looop to check every box on that list.
 
-Looop is a safety notifications app, not a tracking app. It sends you a heads-up when severe weather is heading toward a Loved One, when crime is reported near them in supported cities, or when their day looks unusual compared to their own routine. The rest of the time, it stays quiet.
+Looop is a safety notifications app. It sends you a heads-up when severe weather is heading toward a Loved One, when crime is reported near them in supported cities, or when their day looks unusual compared to their own routine. The rest of the time, it stays quiet.
 
-Here's how Looop handles your family's information:
+How Looop handles your family's information:
 
 - **Looop never sells your data.**
-- **Looop doesn't work with advertisers.** No ad platform, no sponsored offers, no ads in your notifications.
+- **Looop doesn't work with advertisers.** There's no ad platform, and no sponsored offers or ads in your notifications.
 - **Just enough to know.** Looop uses only what it needs to tell whether something unusual is going on.
 - **Invitation only.** Loved Ones join by invitation and choose to be part of your Looop.
 - **Optional wellness sharing.** Steps, heart rate and sleep are shared only if each person chooses.
 - **Your control.** Leave a group, remove a member, or delete your account and data whenever you choose.
 
-Families aren't the product. That's not a feature. It's the foundation.
+Looop is built on one rule: families aren't the product.
 
-## The bottom line
+## Before you choose
 
 Every app has a business model. With a family safety app, it's worth knowing exactly what it is, because the information involved belongs to the people you love.
 
-Ask the questions. Read the policy. Choose an app whose business depends on helping your family, not on what your family's data is worth to someone else.
+Ask the questions and read the policy. Then choose an app whose business depends on helping your family.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**

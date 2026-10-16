@@ -1,22 +1,22 @@
 ---
-title: "Looop Launches a Family Safety App Built on Notifications, Not Tracking"
+title: "Looop Launches a Family Safety Notifications App"
 status: draft
 legal_review: false
 ---
 
-# Looop Launches a Family Safety App Built on Notifications, Not Tracking
+# Looop Launches a Family Safety Notifications App
 
 ## The new safety notifications app tells families when to check in on loved ones near and far, and pledges to never sell data or work with advertisers
 
-**[CITY, STATE] - [DATE]** - Looop, LLC today announced the launch of Looop, a safety notifications app for families, friends and loved ones who care for each other from a distance. Instead of asking families to keep checking a map, Looop sends a calm heads-up when something might need their attention, so they know when a call is worth making.
+**[CITY, STATE], [DATE]:** Looop, LLC today announced the launch of Looop, a safety notifications app for families, friends and loved ones who care for each other from a distance. Looop sends families a calm heads-up when something might need their attention, so they know when a call is worth making.
 
-Families have changed. Many adults now care for people in several places at once: kids at college in one state, a parent living alone in another, siblings and friends spread across the country. These relationships run on trust and independence. Looop is built for them.
+Many adults now care for people in several places at once: kids at college in one state, a parent living alone in another, siblings and friends spread across the country. Looop is built for these families, whose relationships run on trust and independence.
 
-"[DRAFT QUOTE - FOUNDER TO APPROVE] Most families don't want to know where everyone is every minute. They want to know when to call. We built Looop so loved ones can live their lives, and the people who care about them can stop wondering. When everything's fine, Looop stays quiet. When something seems off, you'll know," said [FOUNDER NAME], founder of Looop.
+"[DRAFT QUOTE: FOUNDER TO APPROVE] We built Looop so loved ones can live their lives, and the people who care about them can stop wondering. What most families want is to know when to call. When everything's fine, Looop stays quiet, and if something seems off, you'll know," said [FOUNDER NAME], founder of Looop.
 
 **A new category: safety notifications**
 
-Looop introduces a different approach to family safety. It reads the shape of a loved one's day and speaks up only when something looks unusual. Key features include:
+Looop reads the shape of a loved one's day and speaks up only when something looks unusual. Key features include:
 
 - **Severe weather alerts:** A heads-up when severe weather is heading toward a Loved One, in the US and many other countries.
 - **Nearby crime alerts:** A notification when crime is reported near a Loved One, in supported cities, with an alert distance each family chooses.
@@ -33,7 +33,7 @@ Every Loved One joins Looop by invitation. They keep their routine and their fre
 
 **A privacy pledge**
 
-As much of the industry turns to advertising built on family data, Looop is taking a different path. Looop never sells your data and doesn't work with advertisers. There are no ads and no sponsored offers in its notifications. Looop uses only what it needs to tell whether something unusual is going on.
+Much of the industry is turning to advertising built on family data. Looop never sells your data and doesn't work with advertisers. There are no ads and no sponsored offers in its notifications. Looop uses only what it needs to tell whether something unusual is going on.
 
 **Availability**
 

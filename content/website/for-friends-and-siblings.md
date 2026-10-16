@@ -15,7 +15,7 @@ legal_review: false
 
 **Subtitle:** For the people who are each other's person.
 
-Not every Looop is parents and kids. Some are two sisters in two time zones. Some are best friends with a "text me when you're home" rule. Nobody is the caregiver here. You just have each other's backs, and Looop lets you both know when it's worth a call.
+Plenty of Looops are peers: two sisters in two time zones, or best friends with a "text me when you're home" rule. Nobody is the caregiver here. You have each other's backs, and Looop lets you both know when it's worth a call.
 
 [Download Looop]
 
@@ -38,13 +38,13 @@ Image: images/home/phone-untouched.webp
 ## However your people are spread out
 
 ### Sisters living alone
-Denver and Atlanta, two time zones apart. A tornado warning near one sister's neighborhood, or a nudge that the other's day looks unusual, and a call happens. Living alone doesn't mean no one's looking out for you.
+Denver and Atlanta, two time zones apart. A tornado warning near one sister's neighborhood, or a nudge that the other's day looks unusual, and a call happens. Living alone, you still have someone looking out for you.
 
 ### You and your favorite aunt
 Three states apart and still each other's first call. One sees a crime alert near a late-night train stop. The other sees a heat alert for a small town. Stay close without the daily phone tag.
 
 ### The get-home-safe pact
-Enjoy the date. If something seems off, your best friend will know. A gentle nudge if her night looks unusual means one quick text, not waiting up.
+Enjoy the date. If something seems off, your best friend will know. A gentle nudge if her night looks unusual means one quick text, so nobody has to wait up.
 
 ### Long-distance partners
 Three hours behind and always guessing? Get a heads-up about severe weather on their drive home. Miles apart, still the first to know when to call.

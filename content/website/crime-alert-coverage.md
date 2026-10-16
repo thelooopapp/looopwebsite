@@ -34,7 +34,7 @@ Looop's Nearby Crime Alerts work in more than 200 US cities and counties across 
 - **Supported cities only.** Outside these areas, Looop doesn't send crime alerts. Other nudges still work wherever your loved ones are, and severe weather alerts work in many countries.
 - **Coverage is reviewed regularly.** We check this list on a regular basis, and it may change as areas are added or removed.
 
-**Note:** An alert means crime was reported nearby, not that your loved one is involved. It's a nudge that it might be a good time to check in. Looop isn't an emergency service. If you think someone is in danger, call 911.
+**Note:** An alert means crime was reported nearby. It doesn't mean your loved one is involved. It's a nudge that it might be a good time to check in. Looop isn't an emergency service. If you think someone is in danger, call 911.
 
 ---
 
@@ -202,6 +202,6 @@ Tell us the city or county you'd like covered. Requests help us decide where to 
 
 ## Know when to check in.
 
-**Subtitle:** Quiet when all is well. A heads-up when it's worth a call.
+**Subtitle:** Get a heads-up when it's worth a call.
 
 [Download Looop]

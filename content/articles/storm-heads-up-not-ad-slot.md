@@ -1,5 +1,5 @@
 ---
-title: "A Storm Near Mom Is a Heads-Up, Not an Ad Slot"
+title: "When a Storm Heads Toward Mom"
 slug: storm-heads-up-not-ad-slot
 meta_description: "What to do when a storm is headed toward a parent who lives far away: a calm plan for the call, the checklist, and why a weather alert should never be an ad."
 primary_keyword: storm headed toward aging parent
@@ -13,7 +13,7 @@ status: draft
 legal_review: true
 ---
 
-# A Storm Near Mom Is a Heads-Up, Not an Ad Slot
+# When a Storm Heads Toward Mom
 
 "Is that storm going to hit Mom's town?"
 
@@ -35,17 +35,17 @@ Before you pick up the phone, it helps to know how serious the alert is. The Nat
 
 </div>
 
-The difference matters. A watch is your window to help them get ready. A warning is the moment for one short call, not a long one.
+A watch is your window to help them get ready. During a warning, keep the call short.
 
 ## What to do when a storm is headed toward a parent
 
-You can't board up their windows from 800 miles away. But you can help in real ways. Here's a simple plan.
+You can't board up their windows from 800 miles away, but you can still help in real ways.
 
-### 1. Call during the watch, not the warning
+### 1. Call during the watch
 
 The best time to talk is before the weather arrives. Phones work, power is on, and nobody is rushed. Keep it calm and practical: "I saw the forecast for your area. Want to walk through the plan together?"
 
-Respect that they've likely seen storms before. You're offering a second set of eyes, not taking over.
+Respect that they've likely seen storms before. You're offering a second set of eyes, and they stay in charge.
 
 ### 2. Talk through four questions
 
@@ -54,7 +54,7 @@ Keep the call short. These four questions cover most of what matters:
 - **Where will you go if it gets bad?** Sheltering from a tornado looks different from leaving early for a hurricane or flood. Whatever the storm, local officials' instructions come first.
 - **Do you have what you need for a few days?** Ready.gov suggests [one gallon of water per person per day](https://www.ready.gov/kit) for several days, plus a several-day supply of non-perishable food, a flashlight, extra batteries and a battery or hand crank radio.
 - **Are your medicines covered?** Ready.gov's guidance for [older adults](https://www.ready.gov/older-adults) suggests a kit with medicines, medical supplies, batteries and chargers.
-- **Is your phone charged?** A full phone and a charged backup battery can be the difference between a quick check-in and hours of not knowing.
+- **Is your phone charged?** A full phone and a charged backup battery can turn hours of not knowing into a quick check-in.
 
 ### 3. Agree on how you'll check in
 
@@ -64,7 +64,7 @@ A plan like this means less worrying for you and fewer calls for them. If you do
 
 ### 4. Share the load with family
 
-If you have siblings or other relatives, split the job. One person calls Mom. Another checks with a neighbor. Someone else watches for updates from local officials. Agree on who does what, so Mom gets one call, not five.
+If you have siblings or other relatives, split the job. One person calls Mom. Another checks with a neighbor. Someone else watches for updates from local officials. Agree on who does what, so Mom gets one call.
 
 ### 5. Know who's close by
 
@@ -91,21 +91,21 @@ Check in once the weather clears. Ask about power, water, roads and any damage. 
 
 ## What a weather alert should feel like
 
-A good weather alert is calm, clear and about one person: someone you love. It says a storm is heading their way. It gives you time to call. Then it gets out of the way.
+A good weather alert is calm and clear, and it's about someone you love. It says a storm is heading their way and gives you time to call. After that, it stays out of the way.
 
-That's why we think the alert itself should never be selling anything.
+We think the alert itself should never be selling anything.
 
 Not every app sees it that way. Life360 offers severe weather alerts for its members through a partnership with AccuWeather. In the [September 2025 announcement](https://investors.life360.com/news-releases/news-release-details/life360-partners-accuweather-deliver-real-time-severe-weather), Life360 also said it will use AccuWeather's data to "more effectively target advertising during weather events," with offers from brands that help members stock up, prepare or recover.
 
-Families can decide how they feel about that. For us, a storm near Mom is a moment to reach out. It's not an ad slot.
+Families can decide how they feel about that. For us, a storm near Mom is a moment to reach out, and nothing in that moment should be for sale.
 
 ## How Looop handles storms
 
 Looop is a safety notifications app. When severe weather is heading toward a Loved One, in the US and many other countries, Looop sends you a heads-up. That covers storms, flood warnings, and extreme heat or cold.
 
-Here's what that looks like:
+In practice, that means:
 
-- **A calm alert, not an ad.** Looop doesn't work with advertisers, so there are no sponsored offers in your notifications. Ever.
+- **A calm alert with no ads.** Looop doesn't work with advertisers, so your notifications never include sponsored offers.
 - **Their weather, at a glance.** See current conditions and a five-day forecast with rain chances on each Loved One's card, and swipe through active severe weather alerts, with links to learn more.
 - **One tap to reach them.** Call, text or FaceTime straight from their card, or send a quick "Are you ok?" or "Call Me."
 - **The same heads-up for the whole family.** You and your siblings can get the same alert about Mom, so you can split the calls.

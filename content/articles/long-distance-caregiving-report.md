@@ -22,7 +22,7 @@ If you care for someone from another city or state, you already know that questi
 
 Looop hasn't run its own survey yet (more on that at the end). So this is a research roundup: what existing, reputable studies say about the people who care from a distance, and what families can take from it.
 
-## The short version
+## Key numbers
 
 - **63 million** American adults were family caregivers in 2025, roughly one in four adults. ([AARP and NAC, 2025](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf))
 - **11%** of caregivers of adults live an hour or more away from the person they care for. ([AARP and NAC, 2025](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf))
@@ -32,7 +32,7 @@ Looop hasn't run its own survey yet (more on that at the end). So this is a rese
 
 ## How many people are caregivers?
 
-A lot, and the number keeps growing.
+The number keeps growing.
 
 In 2025, 63 million American adults provided ongoing care to an adult or child with a medical condition or disability, according to [*Caregiving in the US 2025*](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf) from AARP and the National Alliance for Caregiving. That's roughly one in four adults (24 percent), and a 45 percent increase since the survey was fielded in 2015. Of those 63 million, 59 million care for an adult.
 
@@ -42,13 +42,13 @@ The [U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/ted/2025/38-2-mil
 
 [Pew Research Center](https://www.pewresearch.org/social-trends/2026/02/26/family-caregiving-in-an-aging-america/) asked people directly in a September 2025 survey. Ten percent of all U.S. adults said they are a caregiver for a parent age 65 or older. Among adults who have a parent that age, the share rises to 24 percent.
 
-Different methods, same picture: caring for a parent is an ordinary part of adult life for tens of millions of people.
+The studies measure it differently, and they agree: caring for a parent is an ordinary part of adult life for tens of millions of people.
 
 ## What counts as long-distance caregiving?
 
 The National Institute on Aging uses a simple rule. If you live [an hour or more away](https://www.nia.nih.gov/health/caregiving/long-distance-caregiving) from someone who needs care, you're a long-distance caregiver.
 
-By that measure, long-distance caregivers are a real and sizable group. In *Caregiving in the US 2025*, [more than 10 percent](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf) of caregivers of adults live an hour or more away from the person they care for. Here is how the full picture breaks down.
+By that measure, long-distance caregivers are a real and sizable group. In *Caregiving in the US 2025*, [more than 10 percent](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf) of caregivers of adults live an hour or more away from the person they care for. The table below shows the full breakdown.
 
 | Where the caregiver lives (2025) | Share of caregivers of adults |
 | --- | --- |
@@ -60,7 +60,7 @@ By that measure, long-distance caregivers are a real and sizable group. In *Care
 
 *Source: AARP and National Alliance for Caregiving, [Caregiving in the US 2025](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf), Figure 8. The report totals the last two rows as 11% one hour or more away.*
 
-Living apart changes the shape of care. The same report found that caregivers who live apart from the person they care for are more likely to have help, both unpaid (65 percent, compared with 36 percent of those living together) and paid (39 percent, compared with 22 percent). Long-distance care often means coordinating a team, not doing every task yourself.
+Living apart changes the shape of care. The same report found that caregivers who live apart from the person they care for are more likely to have help, both unpaid (65 percent, compared with 36 percent of those living together) and paid (39 percent, compared with 22 percent). Long-distance care often means coordinating a team of helpers.
 
 That matches what the [NIH](https://newsinhealth.nih.gov/2020/11/long-distance-caregiving) describes: arranging care, helping with bills and paperwork, talking with health care providers, and being an important source of emotional support, all from afar.
 
@@ -93,7 +93,7 @@ And among care recipients in *Caregiving in the US 2025* who live apart from the
 
 ## Time, money and work
 
-Caregiving takes real hours and real dollars, whether you're down the street or across the country.
+Caregiving takes real hours and real dollars, near or far.
 
 **Time.** Caregivers in *Caregiving in the US 2025* spend an average of [27 hours per week](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf) providing care. Thirty percent have been caregiving for five years or more.
 
@@ -105,7 +105,7 @@ Pew's caregivers felt it too. Among people who regularly help an aging parent, m
 
 ## The emotional side: stress and worry
 
-The numbers on time and money are easier to count. The worry is harder, but researchers have tried.
+Worry is harder to count than hours or dollars, but researchers have tried.
 
 - In *Caregiving in the US 2025*, nearly two-thirds of caregivers ([64 percent](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf)) report moderate or high emotional stress.
 - [24 percent](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf) say they feel alone, up since 2020.
@@ -114,7 +114,7 @@ The numbers on time and money are easier to count. The worry is harder, but rese
 
 There's a brighter side, too. In that same Pew survey, 56% of these caregivers said helping their parent has had a positive impact on their relationship with that parent. And in the AARP and NAC report, more than half of caregivers say the role gives them a sense of purpose.
 
-Worry and closeness often show up together. That's worth remembering on the hard days.
+Worry and closeness often show up together.
 
 ## How caregivers use technology
 
@@ -130,19 +130,19 @@ The report says these tools help caregivers stay organized when they can't be th
 
 ## What older adults say they want
 
-Here is the part families sometimes forget: most parents want to stay right where they are.
+Families sometimes forget that most parents want to stay right where they are.
 
 AARP's [2024 Home and Community Preferences Survey](https://www.aarp.org/press/releases/2024-12-10-new-aarp-report-majority-adults-50-plus-age-place-policies-communities-catch-up.html) found that 75% of adults 50 and older wish to remain in their current homes as they age, and 73% hope to stay in their communities. Over half (51%) say they need a home that supports independent aging.
 
-In other words, the goal for most families isn't to move Mom closer or to manage Dad's day. It's to help them keep living their way, with the right support around them.
+For most families, then, the goal is to help Mom and Dad keep living their way, with the right support around them.
 
 ## What this means for families
 
-Research can't tell you what your family needs. But a few practical takeaways stand out.
+Every family is different, but a few practical takeaways stand out.
 
-**1. You're not alone in this.** Millions of people care for someone they don't live with. If you feel stretched, that's a common and reasonable response to a real load, not a personal failing.
+**1. You're not alone in this.** Millions of people care for someone they don't live with. If you feel stretched, that's a common and reasonable response to a real load.
 
-**2. Build a team, not a to-do list.** Caregivers who live apart are more likely to have paid and unpaid help. Map out who is nearby: a sibling, a neighbor, a friend from church, a local care manager. Agree on who calls when.
+**2. Build a team.** Caregivers who live apart are more likely to have paid and unpaid help. Map out who is nearby: a sibling, a neighbor, a friend from church, a local care manager. Agree on who calls when.
 
 **3. Get the paperwork in one place.** [NIH News in Health](https://newsinhealth.nih.gov/2020/11/long-distance-caregiving) suggests gathering important papers somewhere easy to reach and making sure at least one caregiver has written permission to receive medical and financial information.
 
@@ -152,7 +152,7 @@ Research can't tell you what your family needs. But a few practical takeaways st
 
 **6. Respect their independence.** Most adults 50 and older want to stay in their homes. Ask what support your parent actually wants before you set anything up, and let them lead.
 
-**7. Use technology that reduces worry, not adds to it.** Pick tools your parent agrees to, that show only what helps, and that stay quiet when all is well.
+**7. Pick technology that eases worry.** Choose tools your parent agrees to that show only what helps and stay quiet when all is well.
 
 ## Help us write the next report
 
@@ -166,7 +166,7 @@ Want to take part? [SIGNUP LINK]
 
 Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a loved one and crime reported nearby in supported cities, plus a gentle nudge when someone's day looks different from their usual routine. Loved ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data.
 
-Their routine. Your peace of mind. A nudge when it's worth a call.
+Their routine stays theirs, and you get a nudge when it's worth a call.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 
@@ -178,7 +178,7 @@ Their routine. Your peace of mind. A nudge when it's worth a call.
 - Pew Research Center. "A smaller share of older U.S. adults live alone today than in 1990" (December 4, 2025; 2023 Census Bureau data). https://www.pewresearch.org/short-reads/2025/12/04/a-smaller-share-of-older-us-adults-live-alone-today-than-in-1990/
 - AARP. 2024 Home and Community Preferences Survey, press release (December 10, 2024; fieldwork June to July 2024). https://www.aarp.org/press/releases/2024-12-10-new-aarp-report-majority-adults-50-plus-age-place-policies-communities-catch-up.html
 - AARP. Caregiving Out-of-Pocket Costs research, press release (June 29, 2021). https://www.aarp.org/press/releases/2021-6-29-aarp-research-shows-family-caregivers-face-significant-financial-strain,-spend-on-average-7,242-each-year.html
-- U.S. Bureau of Labor Statistics. "38.2 million people provided unpaid eldercare in 2023–2024," The Economics Daily (2025). https://www.bls.gov/opub/ted/2025/38-2-million-people-provided-unpaid-eldercare-in-2023-2024.htm
+- U.S. Bureau of Labor Statistics. "38.2 million people provided unpaid eldercare in 2023-2024," The Economics Daily (2025). https://www.bls.gov/opub/ted/2025/38-2-million-people-provided-unpaid-eldercare-in-2023-2024.htm
 - National Institute on Aging. "Long-Distance Caregiving." https://www.nia.nih.gov/health/caregiving/long-distance-caregiving
 - NIH News in Health. "Long-Distance Caregiving" (November 2020). https://newsinhealth.nih.gov/2020/11/long-distance-caregiving
 

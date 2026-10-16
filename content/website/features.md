@@ -28,7 +28,7 @@ Image: lockscreen-phones.png
 
 > "Is everyone okay today?"
 
-**Subtitle:** A heads-up when it's worth a call. Quiet when it isn't.
+**Subtitle:** You hear from Looop when a call might be worth making.
 
 ### What's happening around them
 
@@ -50,7 +50,7 @@ Image: lockscreen-phones.png
 - **Loud places.** A heads-up when they're somewhere dangerously loud.
 - **Unusual spending.** Unusually large spending on a linked bank account, with a threshold you set. Bank linking is optional.
 
-**Note:** You choose exactly which alerts you get about each Loved One, and you can turn alerts off for anyone with one tap. You can also review every alert about a Loved One from the past 24 hours. And no notification? That's good news.
+**Note:** You choose exactly which alerts you get about each Loved One, and you can turn alerts off for anyone with one tap. You can also review every alert about a Loved One from the past 24 hours. If no notification comes, that's good news.
 
 ---
 
@@ -61,7 +61,7 @@ Image: lockscreen-phones.png
 **Subtitle:** One screen showing everyone you love.
 
 - **Typical or "Need a Look."** See who is having a typical day and who might need a look.
-- **Plain-language summaries.** Get a short summary of what's unusual. No charts to decode.
+- **Plain-language summaries.** Get a short summary of what's unusual, with no charts to decode.
 - **Their day, in brief.** See whether they're driving, walking or staying put, their local time and the time difference, the weather where they are and their phone battery.
 - **A family map, for when you need it.** After a nudge, the map is there to help you decide what to do next.
 
@@ -105,7 +105,7 @@ Image: transparent_map.png
 
 If a Loved One chooses to share, you can see today's steps, walking, driving and resting time; sleep, including deep, REM and light sleep, and naps; heart rate, breathing rate and workouts; and how much they've used their phone.
 
-Every stat is marked Typical or Unusual, based on that person's own patterns. No comparing anyone to anyone else. Works with Apple Health and Apple Watch.
+Every stat is marked Typical or Unusual, based only on that person's own patterns. Works with Apple Health and Apple Watch.
 
 [Read more about health alerts](apple-health.html)
 
@@ -124,7 +124,7 @@ Every stat is marked Typical or Unusual, based on that person's own patterns. No
 
 ## Easy to set up
 
-**Subtitle:** No passwords. No homework.
+**Subtitle:** All it takes is a phone number. No passwords to remember.
 
 - Sign up with just your phone number.
 - Invite Loved Ones straight from your contacts.
@@ -184,5 +184,5 @@ Email the founder directly from the app, or send us a note through our Get in To
 ## CTA
 
 **Headline:** Know when to check in.
-**Body:** Quiet when all is well. A heads-up when it's worth a call.
+**Body:** Get a heads-up when it's worth a call.
 [Download Looop]

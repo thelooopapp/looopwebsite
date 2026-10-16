@@ -32,7 +32,7 @@ Image: lockscreen-phones.png
 - **Low battery.** Know when their phone is about to run out of charge, so a missed text doesn't send you spiraling.
 - **Airport arrivals.** Know when they land for winter break.
 
-One calm text instead of ten anxious ones.
+An alert leads to one calm text, so you can skip the ten anxious ones.
 
 ## Twins in two states? Parents in a third?
 
@@ -46,9 +46,9 @@ Plenty of parents are worried about college kids and their own parents at the sa
 
 **Subtitle:** Your parents stop texting every hour. You keep living your life.
 
-Looop isn't a curfew. It doesn't send your parents a play-by-play of your day. It only speaks up when something seems off, like a storm near campus or a day that looks really unusual for you.
+Looop only speaks up when something seems off, like a storm near campus or a day that looks really unusual for you. Your parents don't get a play-by-play of your day.
 
-- **It's an invite, not a requirement.** You decide whether to join.
+- **It's an invite.** You decide whether to join.
 - **Health details are optional.** Share them only if you want to.
 - **You can leave a group anytime.**
 - **It works both ways.** Want a heads-up if a storm hits back home? You get that too.

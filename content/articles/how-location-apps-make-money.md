@@ -17,9 +17,9 @@ legal_review: false
 
 "Where does my location actually go after I tap Allow?"
 
-It's a good question, and the honest answer is: sometimes much further than you'd guess. This guide explains how location apps make money from the places people go, using what US regulators and investigative reporters have found. No scare tactics. Just how the system works, what families give up, and what you can do about it.
+It's a good question. Sometimes your location goes much further than you'd guess. This guide explains how location apps make money from the places people go, using what US regulators and investigative reporters have found. It covers how the system works, what families give up, and what you can do about it.
 
-## The short version
+## Key points
 
 - **Location data can leave an app in more than one way:** through code from other companies built into the app, through direct deals between the app maker and a buyer, and through the ad auctions that fill ad space.
 - **A whole industry buys and resells it.** In 2021, The Markup identified 47 companies in the location data business, in a market estimated at about $12 billion. ([The Markup](https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data))
@@ -34,7 +34,7 @@ When you let an app use your location, you're usually thinking about that one ap
 
 Most apps are built with pieces of code from other companies, called software development kits (SDKs). Some SDKs exist to collect data. Of the 47 location data companies The Markup identified, [12 advertised SDKs](https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data) that app makers could add in exchange for money or services.
 
-Here's the catch. When you give an app permission to use your location, code built into that app can often use it too. In 2026, the Electronic Frontier Foundation found [four advertising SDKs](https://www.eff.org/deeplinks/2026/07/developers-beware-ad-libraries-betray-your-users-location-privacy) that share location by default whenever the app has permission. Many app makers may not even realize it.
+When you give an app permission to use your location, code built into that app can often use it too. In 2026, the Electronic Frontier Foundation found [four advertising SDKs](https://www.eff.org/deeplinks/2026/07/developers-beware-ad-libraries-betray-your-users-location-privacy) that share location by default whenever the app has permission. Many app makers may not even realize it.
 
 ### 2. Direct deals between the app maker and a buyer
 
@@ -58,8 +58,6 @@ The buyers vary. The FTC said X-Mode sold location data to [hundreds of clients]
 
 ## How the places you go become ad targets
 
-This is where your movements turn into ad money.
-
 A broker draws a virtual boundary around a place: a store, a stadium, a clinic, a church. Then it looks for phones that showed up there. Those phones go on a list. Advertisers pay to reach the list.
 
 The FTC's cases show how detailed these lists get:
@@ -68,11 +66,11 @@ The FTC's cases show how detailed these lists get:
 - **Gravy Analytics** and its subsidiary Venntel [sold profiles](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers) that could reveal health decisions, religious practice, political activity and union membership, based on the places people visited.
 - **Mobilewalla** built groups such as pregnant women, based on [visits to pregnancy centers](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-mobilewalla-collecting-selling-sensitive-location-data).
 
-None of these people signed up to be in an ad audience. They just went about their day.
+None of these people signed up to be in an ad audience.
 
 ## What regulators have done
 
-The FTC has brought a run of cases against location data companies. Here's a plain summary, based on the agency's own announcements.
+The FTC has brought a run of cases against location data companies. The table below sums them up, based on the agency's own announcements.
 
 <div style="overflow-x:auto">
 
@@ -92,18 +90,18 @@ Most of these orders focus on sensitive places. Selling data about ordinary trip
 
 ## What families give up
 
-Put simply, a pattern of places tells a story. Home. Work. A Tuesday appointment. A Sunday service. A child's school. A parent's new apartment.
+A pattern of places tells a story: home, work, a Tuesday appointment, a Sunday service, a child's school, a parent's new apartment.
 
 "Anonymous" doesn't always mean anonymous. In its X-Mode case, the FTC noted that raw location data can match a person's phone to the places they visited. In its Kochava lawsuit, the FTC said the data could follow a person [from a clinic to a single-family home](https://www.axios.com/2022/08/29/ftc-sues-data-broker-kochava-tracking-geolocation-data).
 
-With a family app, it's not just your story. It's your kids', your parents', your partner's. Many of them said yes because you asked. And once data is sold, there's no simple way to get it back.
+With a family app, the story also belongs to your kids, your parents and your partner. Many of them said yes because you asked. And once data is sold, there's no simple way to get it back.
 
 ## What you can do today
 
 You don't have to delete every app. A few small steps go a long way.
 
 1. **Turn off tracking requests.** On iPhone, go to Settings, then Privacy & Security, then [Tracking](https://support.apple.com/en-us/102420). Turning off "Allow Apps to Request to Track" stops apps from asking.
-2. **Review location access, app by app.** In Settings, Privacy & Security, [Location Services](https://support.apple.com/en-us/102515), give location only to apps that truly need it, and only "While Using" where you can.
+2. **Review location access, app by app.** In Settings, Privacy & Security, [Location Services](https://support.apple.com/en-us/102515), give location only to apps that need it, and only "While Using" where you can.
 3. **Read the App Store privacy label.** Apple asks apps to disclose data used to track you. Apple's definition of tracking [includes sharing data](https://developer.apple.com/app-store/app-privacy-details/) with a data broker.
 4. **Ask the business model question.** If the app is free, how does it pay its bills? Our guide [Who's Really Paying for Your Free Family Safety App?](whos-paying-for-your-family-safety-app.html) walks through the questions to ask.
 
@@ -113,8 +111,8 @@ Looop is a safety notifications app. It tells you when it might be a good time t
 
 We made a few promises that shape the whole business:
 
-- **Looop never sells your data.** Not to data brokers. Not to anyone.
-- **Looop doesn't work with advertisers.** No ads, and no sponsored offers in your notifications.
+- **Looop never sells your data,** to data brokers or anyone else.
+- **Looop doesn't work with advertisers.** You won't see ads or sponsored offers in your notifications.
 - **Bank linking is optional.** If you choose to turn on spending alerts, the connection runs through Plaid. Skip it and everything else still works.
 - **You stay in control.** Delete your account and data whenever you choose.
 

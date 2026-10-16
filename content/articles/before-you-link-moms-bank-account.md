@@ -17,9 +17,9 @@ legal_review: false
 
 "Would we even know if Mom got scammed?"
 
-It's a question a lot of families are asking. More apps now offer to help, by watching for unusual spending on a parent's bank account and letting the family know. That can be genuinely useful. It also means handing over some of the most personal data a person has.
+It's a question a lot of families are asking. More apps now offer to help, by watching for unusual spending on a parent's bank account and letting the family know. That can be useful. It also means handing over some of the most personal data a person has.
 
-So before you link Mom's bank account to any app, including ours, it's worth asking a few plain questions. Here are five, with what a good answer sounds like.
+So before you link Mom's bank account to any app, including ours, ask a few plain questions. Below are five, each with what a good answer sounds like.
 
 ## Why families are thinking about this
 
@@ -37,7 +37,7 @@ This is the first question for a reason. If an app's business includes selling d
 
 **Where to check:** the privacy policy, the App Store privacy label and the company's own news. Some family location apps have sold location data in the past, and some run growing ad businesses today. Our guides on [how location apps make money](how-location-apps-make-money.html) and [who's paying for your family safety app](whos-paying-for-your-family-safety-app.html) explain what to look for.
 
-None of this means an app will misuse spending data. It means you should know the business model before you decide.
+An app with that business model may never misuse spending data. Still, you should know the model before you decide.
 
 ## Question 2: How does the connection work?
 
@@ -51,23 +51,23 @@ With Plaid, the person signs in to their own bank through Plaid's screen. Plaid 
 
 "Link your account" can mean very different things. Ask which data the app reads, how often, what it keeps, and what it does with it.
 
-Just as important: ask what the app *doesn't* promise. No app can tell whether a payment is a scam. It can only notice that something looks different. Be wary of any app that says it will "stop" or "prevent" fraud on its own.
+Also ask what the app *doesn't* promise. No app can tell whether a payment is a scam. It can only notice that something looks different. Be wary of any app that says it will "stop" or "prevent" fraud on its own.
 
 **What to look for:** a clear, specific description of the feature, plus honest limits.
 
 ## Question 4: Did Mom say yes, and does she know what's shared?
 
-This one matters most. A bank account belongs to the person whose name is on it. Linking it should be her decision, made with her, not for her.
+A bank account belongs to the person whose name is on it. Linking it should be her decision, and one you make together.
 
 Sit down together. Show her what the alert looks like and who will get it. Let her ask questions, and take "not right now" for an answer.
 
-A tool your parent agreed to is one she'll keep. A tool set up behind her back breaks the trust you're trying to protect. Our guide on [how to check on aging parents without making them feel watched](how-to-check-on-aging-parents.html) has ideas for starting that conversation.
+Setting it up behind her back would break the trust you're trying to protect. Our guide on [how to check on aging parents without making them feel watched](how-to-check-on-aging-parents.html) has ideas for starting that conversation.
 
 **What to look for:** an app that expects consent and makes it easy to see who receives alerts.
 
 ## Question 5: How do you turn it off, and delete it?
 
-Plans change. Mom might change her mind. You might switch apps. Before you link anything, find out how to undo it.
+Plans change: Mom might change her mind, or you might switch apps. Before you link anything, find out how to undo it.
 
 **What to look for:** a simple way to unlink each account inside the app, a way to delete your account and data, and the option to stop access from the connection service too, such as through Plaid Portal.
 
@@ -82,11 +82,11 @@ An app can be one helpful piece. These steps work on their own, too.
 
 ## How Looop answers these questions
 
-Looop is a safety notifications app. Spending alerts are one optional piece of it. Here's how we answer each question.
+Looop is a safety notifications app. Spending alerts are one optional piece of it. These are our answers to each question.
 
-1. **Data and advertisers:** Looop never sells your data and doesn't work with advertisers. Not bank data, not location data, not anything.
+1. **Data and advertisers:** Looop never sells your data and doesn't work with advertisers. That covers bank data, location data and everything else.
 2. **The connection:** Bank linking runs through Plaid. Looop never sees bank passwords.
-3. **What it does:** Looop reads transactions on a linked account and sends a heads-up when one goes over an amount you set. An unusually large payment can be an early sign of a scam, so you can call Mom that same day. Looop can't tell whether a payment is a scam, and it doesn't stop or reverse payments. It just tells you when a call might be worth making.
+3. **What it does:** Looop reads transactions on a linked account and sends a heads-up when one goes over an amount you set. An unusually large payment can be an early sign of a scam, so you can call Mom that same day. Looop can't tell whether a payment is a scam, and it doesn't stop or reverse payments. It tells you when a call might be worth making.
 4. **Consent:** Loved Ones join Looop by invitation. We encourage families to set up spending alerts together, with the account holder's OK.
 5. **Turning it off:** Bank linking is optional. Skip it and everything else in Looop still works. Unlink any account in the app, and delete your account and data whenever you choose.
 

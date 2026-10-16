@@ -10,11 +10,11 @@ legal_review: false
 
 [SEASONAL HOOK: hurricane season / winter storms / back to college]
 
-**[CITY, STATE] - [DATE]** - As [SEASONAL HOOK: hurricane season / winter storms / back to college] arrives, Looop, the safety notifications app for families who care from a distance, is helping families hear about severe weather and nearby crime before a loved one has to call. Looop sends a calm alert when severe weather is heading toward a Loved One, in the US and many other countries, and when crime is reported near them in supported cities.
+**[CITY, STATE], [DATE]:** As [SEASONAL HOOK: hurricane season / winter storms / back to college] arrives, Looop, the safety notifications app for families who care from a distance, is helping families hear about severe weather and nearby crime before a loved one has to call. Looop sends a calm alert when severe weather is heading toward a Loved One, in the US and many other countries, and when crime is reported near them in supported cities.
 
 For many families, the first sign of a storm near Mom's house is a news report after it has already passed. A college student may not mention an incident near campus until days later. Looop is designed to close that gap, quietly, without asking anyone to check a map.
 
-"[DRAFT QUOTE - FOUNDER TO APPROVE] When a storm is heading toward someone you love, you shouldn't have to find out from the evening news. Looop gives families a simple heads-up, so they can send one calm text or make one call. And on the days when nothing's happening, Looop stays quiet, because no news really should be good news," said [FOUNDER NAME], founder of Looop.
+"[DRAFT QUOTE: FOUNDER TO APPROVE] When a storm is heading toward someone you love, you shouldn't have to find out from the evening news. Looop gives families a simple heads-up, so they can send one calm text or make one call. And on the days when nothing's happening, Looop stays quiet, because no news really should be good news," said [FOUNDER NAME], founder of Looop.
 
 **How it works**
 
@@ -30,7 +30,7 @@ Looop also offers a gentle "Unusual Day" nudge when a loved one's day looks diff
 
 **Who it helps**
 
-Looop is built for anyone caring from a distance: adult children with parents living alone in another state, parents of college students, siblings sharing the load, and friends who look out for each other. Weather alerts can prompt a sibling group to split the calls. A crime alert near campus can lead to one calm text instead of ten anxious ones.
+Looop is built for anyone caring from a distance: adult children with parents living alone in another state, parents of college students, siblings sharing the load, and friends who look out for each other. Weather alerts can prompt a sibling group to split the calls. A crime alert near campus can prompt one calm text.
 
 Looop is not an emergency service. In an emergency, families should call 911.
 

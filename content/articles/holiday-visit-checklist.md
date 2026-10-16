@@ -21,12 +21,12 @@ For a lot of families, the holidays are the one time of year everyone is under t
 
 The National Institute on Aging puts it simply. The best way to know what someone needs is to [ask them directly](https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help). But a phone call or text isn't always enough to tell, and some parents don't want to cause worry.
 
-This checklist is a gentle guide to what to notice this Thanksgiving or holiday season. It's not an inspection. Most of what you see will be reassuring. And if something does catch your eye, it's a reason to talk, not to panic.
+This checklist is a gentle guide to what to notice this Thanksgiving or holiday season. Most of what you see will be reassuring. If something does catch your eye, treat it as a reason to talk with them.
 
 ## Before you go: a few ground rules
 
-- **You're a guest, not an auditor.** Your parent's home is their home. Notice quietly. Don't open drawers or take notes at the table.
-- **Look for change, not perfection.** A messy kitchen during holiday cooking means nothing. A kitchen that looks very different from last year might.
+- **You're a guest.** Your parent's home is their home. Notice quietly. Don't open drawers or take notes at the table.
+- **Look for change.** A messy kitchen during holiday cooking means nothing. A kitchen that looks very different from last year might.
 - **One thing is not a pattern.** The NIA's guidance on memory notes that it's [normal to forget things once in a while](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) at any age. Look for patterns over several days.
 - **Enjoy the visit.** The point of the holidays is being together. Let this list sit in the background.
 
@@ -60,7 +60,7 @@ The NIA lists significant weight change, poor hygiene, confusion and trouble wal
 - They follow conversations and remember recent plans and news
 - They're not asking the same question over and over
 - Familiar tasks, like a favorite recipe, still go smoothly
-- Their mood seems like their usual self, across a few days, not just at dinner
+- Their mood seems like their usual self over a few days, at dinner and away from the table
 - They still enjoy the things they love
 
 The NIA points out that a parent with depression might brighten up for a short call or visit, but serious mood problems are harder to hide during a longer stay. ([NIA](https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help)) It also lists signs that memory changes may be more than normal aging, like getting lost in familiar places or having trouble following directions. ([NIA](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging))
@@ -72,7 +72,7 @@ If your parent ever says they feel hopeless or you're worried they might harm th
 - Mail isn't piling up unopened
 - Bills look paid, with no stack of past-due notices
 - No unusual new "friends," prize letters or urgent calls asking for money
-- They seem comfortable, not anxious, when money comes up
+- They seem comfortable when money comes up
 
 The NIA's elder abuse guidance lists sudden, unexpected financial losses or unpaid bills, despite having enough money, among the signs worth paying attention to. ([NIA](https://www.nia.nih.gov/health/elder-abuse/elder-abuse)) If something looks off, raise it gently and privately.
 
@@ -83,7 +83,7 @@ The NIA's elder abuse guidance lists sudden, unexpected financial losses or unpa
 - No recent tickets, near misses or comments from neighbors
 - They're comfortable driving at night, or have found other ways to get around
 
-These come from the NIA's list of signs a loved one may need to change their driving. ([NIA](https://www.nia.nih.gov/health/older-drivers)) The NIA also reminds families that for many people, giving up the keys feels like losing freedom. Keep the conversation about skills and safety, not age.
+These come from the NIA's list of signs a loved one may need to change their driving. ([NIA](https://www.nia.nih.gov/health/older-drivers)) The NIA also reminds families that for many people, giving up the keys feels like losing freedom. Keep the conversation on skills and safety.
 
 ## Phone and technology
 
@@ -106,35 +106,35 @@ Staying connected matters. The NIA notes that loneliness and social isolation ar
 
 Noticed something? Take a breath. Then pick your moment.
 
-**Choose a quiet time.** Not at the holiday table, and not in front of the whole family. A walk, a drive or a cup of coffee the next morning works better.
+**Choose a quiet time.** A walk, a drive or a cup of coffee the next morning gives you privacy, away from the holiday table and the rest of the family.
 
 **Lead with care.** The NIA suggests naming your worry without sounding critical, for example asking whether it's been hard to get to the store when the fridge looks bare. ([NIA](https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help))
 
-**Use "I," not "you."** "I worry about the drive home in the dark" lands better than "You shouldn't be driving at night." The NIA recommends this approach for driving talks. ([NIA](https://www.nia.nih.gov/health/older-drivers))
+**Start with "I."** "I worry about the drive home in the dark" lands better than "You shouldn't be driving at night." The NIA recommends this approach for driving talks. ([NIA](https://www.nia.nih.gov/health/older-drivers))
 
 **Ask what they want.** AARP's caregiving advice is to remember your parent is still in charge, and to ask, "Would you like my help?" ([AARP](https://www.aarp.org/caregiving/basics/caring-for-parent-things-to-consider/))
 
 **Offer something specific.** Groceries delivered, a ride to an appointment, a new night-light. Practical help is easier to say yes to.
 
-**Bring in siblings, gently.** If you share the load, talk with your brother or sister before you leave so nobody is caught off guard, and Dad gets one call, not five.
+**Bring in siblings, gently.** If you share the load, talk with your brother or sister before you leave so nobody is caught off guard and your calls to Dad don't overlap.
 
 ## What to set up before you leave
 
 The drive home is when the worry usually kicks in. A little setup before you go can make the next few months calmer for everyone.
 
 - **A shared contact list.** Doctors, pharmacy, a trusted neighbor and who has a spare key, shared with siblings.
-- **The paperwork conversation.** AARP suggests learning whether your parent has advance directives and powers of attorney in place. ([AARP](https://www.aarp.org/caregiving/basics/caring-for-parent-things-to-consider/)) A holiday visit is a calm time to ask, not a crisis.
+- **The paperwork conversation.** AARP suggests learning whether your parent has advance directives and powers of attorney in place. ([AARP](https://www.aarp.org/caregiving/basics/caring-for-parent-things-to-consider/)) A calm holiday visit is a good time to ask.
 - **A neighbor or friend on call.** With your parent's permission, the NIA suggests asking people who see them regularly to call you with any concerns. ([NIA](https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help))
-- **A plan for regular calls.** Calls about life, not logistics. The garden, the game, the grandkids.
+- **A plan for regular calls.** Keep them about life: the garden, the game, the grandkids.
 - **A quiet heads-up for the in-between days.** That's where Looop can help, if your parent agrees.
 
 ### Setting up Looop together, consent first
 
-Looop is a safety notifications app. Once your parent joins, it stays quiet on normal days. It gives you a heads-up when severe weather is heading their way, when crime is reported near them in supported cities, and a gentle nudge when their day looks different from their usual routine. It's a signal for when to call, not a way to watch.
+Looop is a safety notifications app. Once your parent joins, it stays quiet on normal days. It gives you a heads-up when severe weather is heading their way, when crime is reported near them in supported cities, and a gentle nudge when their day looks different from their usual routine. It tells you when a call might help.
 
 If you'd like to try it, the holidays are a good time, because you can do it side by side:
 
-- Talk about it first, and make sure your parent truly wants it
+- Talk about it first, and make sure your parent wants it
 - Show them exactly what you'd see, before they join
 - Let them tap the buttons and accept the permissions themselves
 - Leave health sharing, like steps or sleep, completely up to them
@@ -146,7 +146,7 @@ Not sure how to bring it up? Our [letter to Mom](letter-to-mom.html) is a starti
 
 ## The short version
 
-- Use the holiday visit to notice gently, not to inspect.
+- Use the holiday visit to notice things gently.
 - Look for changes from last year, and patterns over a few days.
 - Check the home, health, mood, money, driving, technology and friendships.
 - Raise concerns privately, with care, and ask what they want.
