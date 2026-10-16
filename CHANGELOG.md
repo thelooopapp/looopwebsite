@@ -7,6 +7,7 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 ### New Features
 - **Weather and alert data sources page** (`weather-alert-sources.html`): credits every outside source behind Looop's weather features, as several licenses require. Covers National Weather Service, Apple Weather (with Apple's required mark, `images/apple-weather-black.png`, and its "Other data sources" link), NSW RFS, VicEmergency, Queensland Fire Department, Emergency WA, MetService, PAGASA, INMET, Open-Meteo and BigDataCloud. Each source lists what Looop uses it for, the credit wording its license asks for, the license and a link.
   - "Where alerts work" states today's coverage exactly: US; Canada, Mexico, Europe and Israel through Apple Weather; Australia in NSW, Victoria, Queensland and WA only; New Zealand; Philippines; Brazil. It says there are no alerts yet in Japan, South Korea, India, South Africa, the UAE, Singapore or China.
+  - Each section opens with an orange question, like every other page; no section icons.
   - Uses the existing `promise-list with-icons` rows; `styles.css` gains two rules for the credit line and the Apple mark.
   - Linked once, from the "Weather where they are" section of `features.html`. Added to `sitemap.xml`.
 
