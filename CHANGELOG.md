@@ -2,6 +2,13 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 12:36 CT
+
+### Copy
+- **Holistic positioning in every scheduled release and the newsroom** (`press/*.html` and `content/press/*.md`, except the retired launch release; `press/index.html`):
+  - About Looop boilerplate: "It sends safety alerts instead of tracking, and it's holistic by design: weather, crime, health, activity and the shape of each day come together in one answer..." (newsroom keeps "Loved Ones" capitalized).
+  - Crime, weather and spending releases: one line each, "[Crime alerts / Weather / Spending alerts] [is/are] one part of a holistic picture," ending in the daily Typical or Unusual Day answer. Data pledge: the "Looop tells families when..." line now opens "Looop is holistic by design".
+
 ## 2026-10-17 12:34 CT
 
 ### Copy

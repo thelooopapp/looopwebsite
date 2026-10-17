@@ -28,7 +28,7 @@ Looop is not an emergency service and does not prevent crime. In an emergency, f
 
 **Part of a calmer approach to family safety**
 
-Nearby Crime Alerts sit alongside Looop's severe weather alerts and its "Unusual Day" nudge, which speaks up when a loved one's day looks different from their own normal routine. Every loved one joins by invitation and keeps their independence. Looop never sells your data and doesn't work with advertisers.
+Nearby Crime Alerts are one part of a holistic picture. Looop brings together weather, crime, health, activity and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call. Every loved one joins by invitation and keeps their independence. Looop never sells your data and doesn't work with advertisers.
 
 **Availability**
 
@@ -36,7 +36,7 @@ Nearby Crime Alerts are available now in Looop for iPhone on the App Store at ht
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It sends safety alerts instead of tracking: a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It sends safety alerts instead of tracking, and it's holistic by design: weather, crime, health, activity and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 **Media Contact**
 

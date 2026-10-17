@@ -29,6 +29,8 @@ Looop does not detect or prevent scams, and it does not reimburse losses. If a f
 
 Some family safety plans focus on what happens after money is gone. Life360, for example, lists identity theft protection and stolen funds reimbursement of up to $25,000 on its Gold plan and up to $1 million on its Platinum plan ([Life360 on the App Store](https://apps.apple.com/us/app/life360-family-safety-gps/id384830320), as of Oct. 2026), and said in September 2026 that it is working on scam protection for aging parents ([Goldman Sachs conference coverage](https://in.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-5589446)). Looop's alert is a nudge to talk while there may still be time to act.
 
+Spending alerts are one part of a holistic picture. Looop brings together weather, crime, health, activity and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call.
+
 **Private by design**
 
 Spending data is sensitive. Looop never sells your data and doesn't work with advertisers. Every loved one joins by invitation and chooses what to share.
@@ -39,7 +41,7 @@ Spending alerts are available in Looop for iPhone on the App Store at https://ap
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It sends safety alerts instead of tracking: a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It sends safety alerts instead of tracking, and it's holistic by design: weather, crime, health, activity and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 Life360 is a trademark of its owner. Looop is not affiliated with Life360.
 
