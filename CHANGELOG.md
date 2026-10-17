@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 12:13 CT
+
+### Copy
+- **Newsroom cards held until release day** (`press/index.html`): the five release cards are off the newsroom, replaced by "New announcements are coming soon" and a press contact line. The cards are saved in the app repo (`marketing/press-week-2026-10/NEWSROOM_CARDS.md`) to paste back one per day, Oct. 26 to 30. The release pages stay at their URLs, noindex.
+
 ## 2026-10-17 12:06 CT
 
 ### Copy
