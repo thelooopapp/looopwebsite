@@ -2,6 +2,18 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 11:09 CT
+
+### Copy
+- **All press releases brought in line with this week's decisions** (each `press/*.html` plus its `content/press/` source):
+  - Dated for release the week before Life360's Nov. 10 earnings call: data pledge Oct. 26, Austin startup Oct. 27, crime coverage Oct. 28, spending alerts Oct. 29, severe weather Oct. 30. Datelines are AUSTIN, Texas.
+  - Media contact is support@thelooopapp.com. Quotes are attributed to "the team behind Looop"; the founder-name placeholders and draft-quote markers are gone, and the data pledge quote no longer ends in a slogan list.
+  - Weather coverage is "more than 50 countries" everywhere; crime coverage stays "more than 200 US cities and counties across 34 states", which is what the backend allow-list supports (the Austin release no longer says "55 countries" or "all 50 US states").
+  - Weather release retitled "Looop Now Sends Severe Weather Alerts in More Than 50 Countries", with a winter-storm hook and the full country list; spending release retitled "Looop's Spending Alerts Can Flag Possible Scams Early", with a Medicare open enrollment and holiday hook (the feature isn't new, so "Adds" was wrong). Crime and weather ledes no longer re-announce what the Austin release announces.
+  - "Loved One" is lowercase mid-sentence in releases; "calm" and "gentle" trimmed.
+- **Launch release retired** (`content/press/launch-safety-notifications.md` status `retired`): the app launched May 8, 2026, so it is no longer news. Removed from the newsroom; the page stays for reference.
+- **Newsroom** (`press/index.html`): cards show release dates, newest first, with the new titles.
+
 ## 2026-10-17 11:03 CT
 
 ### Copy

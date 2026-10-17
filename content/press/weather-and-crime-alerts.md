@@ -1,32 +1,31 @@
 ---
-title: "Looop Alerts Families When Severe Weather or Crime Is Near Someone They Love"
+title: "Looop Now Sends Severe Weather Alerts in More Than 50 Countries"
 status: draft
 legal_review: false
 ---
 
-# Looop Alerts Families When Severe Weather or Crime Is Near Someone They Love
+# Looop Now Sends Severe Weather Alerts in More Than 50 Countries
 
-## The safety notifications app gives families a calm heads-up about storms and nearby crime, so they know when to check in on Loved Ones far away
+## As winter storm season begins, families with loved ones across the country or around the world hear about severe weather before anyone has to call
 
-[SEASONAL HOOK: hurricane season / winter storms / back to college]
 
-**[CITY, STATE], [DATE]:** As [SEASONAL HOOK: hurricane season / winter storms / back to college] arrives, Looop, the safety notifications app for families who care from a distance, is helping families hear about severe weather and nearby crime before a Loved One has to call. Looop sends a calm alert when severe weather is heading toward a Loved One, in the US and many other countries, and when crime is reported near them in supported cities.
+**AUSTIN, Texas, Oct. 30, 2026:** As winter storm season arrives, Looop, the safety notifications app for families who care from a distance, is helping families hear about storms before anyone has to call. Its severe weather alerts work in more than 50 countries, including the US, Canada, Mexico, most of Europe, Israel, Australia, New Zealand, Japan, South Korea, India, China, the Philippines, Brazil, South Africa, the UAE and Singapore. When severe weather is heading toward a loved one, Looop sends the family a heads-up.
 
 For many families, the first sign of a storm near Mom's house is a news report after it has already passed. A college student may not mention an incident near campus until days later. Looop puts both kinds of news in a notification on the family's phone, so nobody has to remember to check.
 
-"[DRAFT QUOTE: FOUNDER TO APPROVE] During storm season, families end up texting each other to ask whether anyone has heard from Mom. With a Looop alert, one person sees the warning first and can check on her right away, and the five-day forecast is right there on her card if they want more," said [FOUNDER NAME], founder of Looop.
+"During storm season, families end up texting each other to ask whether anyone has heard from Mom. With a Looop alert, one person sees the warning first and can check on her right away, and the five-day forecast is right there on her card if they want more," said the team behind Looop.
 
 **How it works**
 
-Families invite the people they care about to join their Looop. Each Loved One joins by choice. From there, Looop sends notifications when something nearby might be worth a check-in:
+Families invite the people they care about to join their Looop. Each loved one joins by choice. From there, Looop sends notifications when something nearby might be worth a check-in:
 
-- **Severe weather alerts:** Storms, flood warnings, extreme heat or cold heading toward a Loved One, in the US and many other countries. Families can swipe through active alerts, with links to learn more.
-- **Local weather at a glance:** Current conditions and a five-day forecast with rain chances, right on each Loved One's card.
-- **Nearby crime alerts:** A notification when crime is reported near a Loved One, in supported cities. Families choose their alert distance: 1, 3, 5 or 10 miles.
+- **Severe weather alerts:** Storms, flood warnings, extreme heat or cold heading toward a loved one, in more than 50 countries, including the US. Families can swipe through active alerts, with links to learn more.
+- **Local weather at a glance:** Current conditions and a five-day forecast with rain chances, right on each loved one's card.
+- **Nearby crime alerts:** A notification when crime is reported near a loved one, in supported cities. Families choose their alert distance: 1, 3, 5 or 10 miles.
 - **Alerts on your terms:** Families choose exactly which alerts they receive about each person.
-- **One-tap check-in:** Call, text or FaceTime straight from a Loved One's card, or send a quick "Are you ok?"
+- **One-tap check-in:** Call, text or FaceTime straight from a loved one's card, or send a quick "Are you ok?"
 
-Looop also offers a gentle "Unusual Day" nudge when a Loved One's day looks different from their own normal routine.
+Looop also offers a "Unusual Day" nudge when a loved one's day looks different from their own normal routine.
 
 **Who it helps**
 
@@ -44,10 +43,10 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their Loved Ones are safe, across any distance. It sends safety alerts instead of tracking: a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and Loved Ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It sends safety alerts instead of tracking: a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 **Media Contact**
 
-[MEDIA CONTACT]
+support@thelooopapp.com
 
 ###
