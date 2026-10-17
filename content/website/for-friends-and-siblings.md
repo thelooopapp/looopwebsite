@@ -54,7 +54,7 @@ Five friends, five cities. A hurricane warning near one city, and the whole chat
 
 ## What you'll get a heads-up about
 
-- **Severe weather** near any of you, in the US and many other countries.
+- **Severe weather** near any of you, in more than 50 countries, including the US.
 - **Nearby crime**, in supported cities.
 - **Unusual Day** nudges when someone's day looks off compared to their own normal.
 - **Low battery**, so a quiet phone doesn't start a spiral.

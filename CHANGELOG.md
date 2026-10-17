@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 11:03 CT
+
+### Copy
+- **Severe weather coverage is now "more than 50 countries"** to match the backend (Xweather and OpenWeather added Oct 15, `apiv2/src/services/hazards/regionalSources.js`). "In the US and many other countries" is now "in more than 50 countries, including the US" on the home page, How it works, Friends and siblings, Looop vs. Life360 and four blog posts (HTML and `content/` sources). The How it works FAQ and the vs. page coverage note list the countries in full. Press releases are unchanged.
+- **Weather sources page** (`weather-alert-sources.html`): "Where alerts work" adds Japan, South Korea and India and South Africa (Xweather) and China, Hong Kong, Macau, Taiwan, the UAE and Singapore (OpenWeather), adds Bureau of Meteorology warnings for Australia, and drops the "doesn't send alerts in ... yet" line. New Xweather and OpenWeather credit entries.
+
 ## 2026-10-17 11:00 CT
 
 ### Copy

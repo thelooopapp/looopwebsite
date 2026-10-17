@@ -60,7 +60,7 @@ Day to day, it looks like this.
 
 **Most days, nothing.** If Mom's day looks like her normal day, Looop stays quiet, so a quiet phone means there's nothing you need to do.
 
-**A heads-up on what's around her.** If severe weather is heading toward her town, you'll hear about it, in the US and many other countries. If crime is reported near her, in supported cities, you'll get a calm note, with a distance you choose: 1, 3, 5 or 10 miles.
+**A heads-up on what's around her.** If severe weather is heading toward her town, you'll hear about it, in more than 50 countries, including the US. If crime is reported near her, in supported cities, you'll get a calm note, with a distance you choose: 1, 3, 5 or 10 miles.
 
 **A nudge when her day looks different.** If her driving, walking or phone use doesn't fit her own usual pattern, Looop sends a gentle "Unusual Day" nudge that it might be a good time to call.
 

@@ -76,7 +76,7 @@ Life360's ad business is growing fast. It reported [$22 million in ad revenue in
 
 ### Weather alerts with no ads attached
 
-When severe weather heads toward a Loved One, Looop tells you, in the US and many other countries. The alert is about the storm and nothing else. It might be a good time to call.
+When severe weather heads toward a Loved One, Looop tells you, in more than 50 countries, including the US. The alert is about the storm and nothing else. It might be a good time to call.
 
 Life360 offers free severe weather alerts too, through AccuWeather. In the [same announcement](https://investors.life360.com/news-releases/news-release-details/life360-partners-accuweather-deliver-real-time-severe-weather), it said it will use AccuWeather data to target ads during weather events, such as a retailer promoting emergency supplies or repair services to members in affected areas.
 
@@ -149,7 +149,7 @@ Yes, as a supporting feature. After a nudge, the family map is there to help you
 Yes. Every Loved One joins by invitation. Wellness sharing, like steps, heart rate and sleep, is optional and always their call.
 
 **Where do crime alerts work?**
-In supported cities: more than 200 US cities and counties so far. Severe weather alerts work in the US and many other countries.
+In supported cities: more than 200 US cities and counties so far. Severe weather alerts in more than 50 countries, including the US, Canada, Mexico, most of Europe, Israel, Australia, New Zealand, Japan, South Korea, India, China, the Philippines, Brazil, South Africa, the UAE and Singapore.
 
 ## Sources
 
