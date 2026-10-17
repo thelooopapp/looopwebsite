@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 10:49 CT
+
+### Copy
+- **Austin startup press release tightened after a press review** (`press/austin-startup-aging-parent-alerts.html` and its `content/` source): cut the "For the past year, Life360 has been telling..." sentence that repeated the timeline right above it (now "Looop's aging-parent alerts are already here."), fixed the "that same worry" line that pointed at nothing after the reorder ("Looop's alerts are built around one question"), dropped the stock "The news comes as..." opener, used "already" once instead of three times, removed "calm" and "gentle" from the alert copy, lowercased "loved one" in the body (the shared About Looop boilerplate is unchanged), and replaced the quote's "bigger companies" line and slogan list with an `[ADD: ...]` placeholder for one real moment from the founder.
+
 ## 2026-10-17 10:46 CT
 
 ### Bug Fixes

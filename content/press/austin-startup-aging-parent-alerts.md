@@ -16,6 +16,7 @@ placeholders:
   - "[LAUNCH DATE: severe weather alerts]"
   - "[LAUNCH DATE: nearby crime alerts]"
   - "[CONFIRM: using AI tools]"
+  - "[ADD: founder quote moment]"
   - "[MEDIA CONTACT]"
 ---
 
@@ -28,26 +29,26 @@ placeholders:
 
 ## Life360 has spent a year promising aging-parent features. Looop launched them in May 2026 and keeps shipping more.
 
-**AUSTIN, Texas, [DATE]:** LooopApp LLC today highlighted the aging-parent alerts already live in Looop, a safety notifications app for families who care from a distance. Looop was built by an Austin startup [CONFIRM: using AI tools]. It sends a calm heads-up when a Loved One's day looks different from their own routine, so families know when a call is worth making.
+**AUSTIN, Texas, [DATE]:** LooopApp LLC today highlighted the aging-parent alerts available in Looop, a safety notifications app for families who care from a distance. Looop was built by an Austin startup [CONFIRM: using AI tools]. It sends a heads-up when a loved one's day looks different from their own routine, so families know when a call is worth making.
 
-The news comes as Life360 turns its attention to aging parents. In October 2025, Life360 CEO Lauren Antonoff [discussed on Fox Business](https://www.fox.com/watch/clip/fmc-2k7cu0b1c58nunwm/life360-explores-features-to-support-aging-parents-safety) how the company is exploring features for aging parents. On its [Q4 2025 earnings call](https://www.fool.com/earnings/call-transcripts/2026/03/02/life360-lif-q4-2025-earnings-call-transcript/) in March 2026, the company said it was working on devices for aging parents but did not expect to launch them that year. On its [Q2 2026 call](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/) in August, it named aging parents as a next line of business. And at a [Goldman Sachs conference](https://in.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-5589446) in September, it said it is working on services for aging parents, including wellness checks and scam protection.
+In October 2025, Life360 CEO Lauren Antonoff [discussed on Fox Business](https://www.fox.com/watch/clip/fmc-2k7cu0b1c58nunwm/life360-explores-features-to-support-aging-parents-safety) how the company is exploring features for aging parents. On its [Q4 2025 earnings call](https://www.fool.com/earnings/call-transcripts/2026/03/02/life360-lif-q4-2025-earnings-call-transcript/) in March 2026, the company said it was working on devices for aging parents but did not expect to launch them that year. On its [Q2 2026 call](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/) in August, it named aging parents as a next line of business. And at a [Goldman Sachs conference](https://in.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-5589446) in September, it said it is working on services for aging parents, including wellness checks and scam protection.
 
-For the past year, Life360 has been telling the press and investors that features for aging parents are coming. Looop's are already here. Looop launched on the App Store in May 2026 and has shipped new features and updates steadily since.
+Looop's aging-parent alerts are already here. Looop launched on the App Store in May 2026 and has shipped new features and updates steadily since.
 
-Looop families already get alerts built around that same worry: "Is Mom okay today?"
+Looop's alerts are built around one question: "Is Mom okay today?"
 
 **Alerts live in Looop today**
 
-- **Unusual Day** (live since [LAUNCH DATE: Unusual Day alert]): a gentle nudge when something is off compared to a Loved One's own normal routine.
-- **Phone untouched for hours** (live since [LAUNCH DATE: phone untouched alert]): a heads-up when their phone hasn't been picked up in a long while.
+- **Unusual Day** (live since [LAUNCH DATE: Unusual Day alert]): a nudge when something is off compared to a loved one's own normal routine.
+- **Phone untouched for hours** (live since [LAUNCH DATE: phone untouched alert]): a heads-up when their phone hasn't been picked up.
 - **Unusual spending** (live since [LAUNCH DATE: unusual spending alert]): an optional alert for unusually large spending on a linked bank account, which can be an early sign of a scam. Bank linking is optional and runs through Plaid.
-- **Arrivals that matter** (live since [LAUNCH DATE: hospital arrival alert]): know when a Loved One arrives at a hospital or ER, a police station or an airport.
-- **Optional health alerts** (live since [LAUNCH DATE: heart rate and breathing rate alerts]): unusually high or low heart rate or an unusual breathing rate, shared only if the Loved One chooses, through Apple Health and Apple Watch.
+- **Arrivals that matter** (live since [LAUNCH DATE: hospital arrival alert]): know when a loved one arrives at a hospital or ER, a police station or an airport.
+- **Optional health alerts** (live since [LAUNCH DATE: heart rate and breathing rate alerts]): unusually high or low heart rate or an unusual breathing rate, shared only if the loved one chooses, through Apple Health and Apple Watch.
 - **Severe weather and nearby crime** (live since [LAUNCH DATE: severe weather alerts] and [LAUNCH DATE: nearby crime alerts]): severe weather alerts in the US and many other countries, and crime alerts in more than 200 US cities and counties.
 
-Every Loved One joins Looop by invitation and decides whether to share health details or link a bank account.
+Every loved one joins Looop by invitation and decides whether to share health details or link a bank account.
 
-"[DRAFT QUOTE: FOUNDER TO APPROVE] I started building Looop because I wanted to know whether my mom was having a normal day without calling to ask. It's good to see bigger companies talking about aging parents. Families can use these alerts today: safety alerts instead of tracking, with no ads ever and their data never for sale," said [FOUNDER NAME], founder of Looop.
+"[DRAFT QUOTE: FOUNDER TO APPROVE] I started building Looop because I wanted to know whether my mom was having a normal day without calling to ask. [ADD: one specific moment when a Looop alert made you call your mom.]" said [FOUNDER NAME], founder of Looop.
 
 **Private by design**
 
