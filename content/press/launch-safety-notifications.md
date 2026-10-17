@@ -8,7 +8,7 @@ legal_review: false
 
 ## The new safety notifications app tells families when to check in on Loved Ones near and far, and pledges to never sell data or work with advertisers
 
-**[CITY, STATE], [DATE]:** Looop, LLC today announced the launch of Looop, a safety notifications app for families, friends and Loved Ones who care for each other from a distance. Looop sends families a calm heads-up when something might need their attention, so they know when a call is worth making.
+**[CITY, STATE], [DATE]:** LooopApp LLC today announced the launch of Looop, a safety notifications app for families, friends and Loved Ones who care for each other from a distance. Looop sends families a calm heads-up when something might need their attention, so they know when a call is worth making.
 
 Many adults now care for people in several places at once: kids at college in one state, a parent living alone in another, siblings and friends spread across the country. Looop is built for these families, whose relationships run on trust and independence.
 

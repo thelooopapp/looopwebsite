@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 10:46 CT
+
+### Bug Fixes
+- **Legal company name corrected site-wide to LooopApp LLC** (matches the IRS EIN notice and the App Store seller name): every footer copyright line, the privacy policy's opening ("This policy applies to LooopApp LLC", stray period removed), and the issuer line in the press releases (HTML and `content/` sources), 40 files in all.
+- **User agreement no longer names Silver360**: the app is "the Looop mobile application", and the liability, indemnity and changes-to-terms clauses now name LooopApp LLC (`useragreement.html`). Wording otherwise unchanged; worth a legal read since these are contract terms.
+
 ## 2026-10-17 10:42 CT
 
 ### Copy
