@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 11:11 CT
+
+### Copy
+- **Crime alerts in all 50 US states in every scheduled release** (a new crime provider goes live this week, ahead of the Oct. 26 to 30 releases): the Austin startup lede, alert list and meta description; the crime release headline ("Looop Brings Crime Alerts Near Loved Ones to All 50 US States"), subhead, lede and quote, with the city list, the 25-mile rule and the "supported areas" paragraph removed; the weather and data pledge mentions; and the newsroom card. The URL slug `crime-alerts-200-cities` is unchanged. Site pages still say 200+ cities until the provider is live.
+
 ## 2026-10-17 11:09 CT
 
 ### Copy

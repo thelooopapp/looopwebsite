@@ -12,7 +12,7 @@ legal_review: true
 
 **AUSTIN, Texas, Oct. 26, 2026:** Looop, the safety notifications app for families who care from a distance, today pledged that the people who use it will never become ad inventory. Looop never sells your data and doesn't work with advertisers. There are no ads in the app, no sponsored offers in its notifications, and no audience lists built from the places families go.
 
-Looop tells families when it might be a good time to check in on a loved one: when severe weather is heading toward them, when crime is reported nearby in supported cities, or when their day looks unusual compared with their own routine. When all is well, it stays quiet.
+Looop tells families when it might be a good time to check in on a loved one: when severe weather is heading toward them, when crime is reported nearby, or when their day looks unusual compared with their own routine. When all is well, it stays quiet.
 
 "When you ask your mom to join a safety app, you're asking her to trust you with where she goes every day. We don't want an advertiser anywhere near that, now or later, so we wrote it down as a pledge," said the team behind Looop.
 

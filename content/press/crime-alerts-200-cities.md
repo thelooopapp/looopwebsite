@@ -1,31 +1,26 @@
 ---
-title: "Looop Brings Crime Alerts Near Loved Ones to More Than 200 US Cities and Counties"
+title: "Looop Brings Crime Alerts Near Loved Ones to All 50 US States"
 slug: crime-alerts-200-cities
 status: draft
 legal_review: false
 ---
 
-# Looop Brings Crime Alerts Near Loved Ones to More Than 200 US Cities and Counties
+# Looop Brings Crime Alerts Near Loved Ones to All 50 US States
 
-## The safety notifications app gives families a heads-up when crime is reported near someone they love, from Atlanta and Houston to Seattle and Toronto
+## The safety notifications app gives families a heads-up when crime is reported near someone they love, in every US state
 
-**AUSTIN, Texas, Oct. 28, 2026:** Looop, the safety notifications app for families who care from a distance, today published the full list of places its Nearby Crime Alerts cover: more than 200 US cities and counties across 34 states, plus Toronto and Abbotsford in Canada. When crime is reported near a loved one in a supported area, Looop sends the family a heads-up, so they know it might be a good time to check in.
-
-Supported areas include Atlanta, Austin, Houston, San Antonio, Phoenix, San Diego, Long Beach, Seattle, Philadelphia, Pittsburgh, Columbus, Cincinnati, Indianapolis, Oklahoma City, Memphis, New Orleans, Orlando, Fort Lauderdale, Raleigh, Albuquerque, Madison, Richmond and Lexington, along with the Sacramento and Kansas City areas and many suburbs around Minneapolis and Saint Paul. The full list, grouped by state, is at [thelooopapp.com/crime-alert-coverage.html](crime-alert-coverage.html).
+**AUSTIN, Texas, Oct. 28, 2026:** Looop, the safety notifications app for families who care from a distance, today announced that its Nearby Crime Alerts now work in all 50 US states. When crime is reported near a loved one in a supported area, Looop sends the family a heads-up, so they know it might be a good time to check in.
 
 For a family spread across several states, local news rarely travels. An adult child in Denver may never hear about an incident a few blocks from Mom's house in Columbus. A parent may not learn about a robbery near campus until their daughter mentions it days later. With Looop, that news reaches the family in a notification, with no crime map to scroll.
 
-"The first thing most of us want after hearing about a crime near Mom's house is to call and hear her voice. Reaching more than 200 cities and counties means many more families get that heads-up. If your city isn't on the list yet, please ask for it through our website," said the team behind Looop.
+"The first thing most of us want after hearing about a crime near Mom's house is to call and hear her voice. Now that we're in all 50 states, every family in the US can get that heads-up," said the team behind Looop.
 
 **How Nearby Crime Alerts work**
 
 - **Near the people you love.** Alerts only cover reported crime close to each loved one.
 - **A distance each family chooses.** Families set the alert distance for each loved one: 1, 3, 5 or 10 miles.
-- **Coverage that reaches nearby towns.** Alerts work for a loved one who is within 25 miles of a supported city or county.
 - **Alerts on your terms.** Families choose exactly which alerts they get about each person, and can turn any alert off with one tap.
 - **One-tap check-in.** Call, text or FaceTime straight from a loved one's card, or send a quick "Are you ok?"
-
-Crime alerts work only in supported areas. Looop reviews coverage regularly, and the list may change. Families who don't see their city can ask for it through the [Get in Touch form](index.html#contact) on the Looop website.
 
 Looop is not an emergency service and does not prevent crime. In an emergency, families should call 911.
 

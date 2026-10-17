@@ -21,7 +21,7 @@ Families invite the people they care about to join their Looop. Each loved one j
 
 - **Severe weather alerts:** Storms, flood warnings, extreme heat or cold heading toward a loved one, in more than 50 countries, including the US. Families can swipe through active alerts, with links to learn more.
 - **Local weather at a glance:** Current conditions and a five-day forecast with rain chances, right on each loved one's card.
-- **Nearby crime alerts:** A notification when crime is reported near a loved one, in supported cities. Families choose their alert distance: 1, 3, 5 or 10 miles.
+- **Nearby crime alerts:** A notification when crime is reported near a loved one, in all 50 US states. Families choose their alert distance: 1, 3, 5 or 10 miles.
 - **Alerts on your terms:** Families choose exactly which alerts they receive about each person.
 - **One-tap check-in:** Call, text or FaceTime straight from a loved one's card, or send a quick "Are you ok?"
 
