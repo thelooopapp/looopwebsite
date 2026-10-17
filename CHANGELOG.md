@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 10:54 CT
+
+### Copy
+- **Austin startup press release rebuilt around a real news hook** (`press/austin-startup-aging-parent-alerts.html` and its `content/` source): the lede now announces severe weather alerts in the US and 100 countries and crime alerts in more than 200 US cities and counties, and that item leads the alert list marked "(new)". Per-feature launch dates are gone; the May 2026 App Store launch carries the timeline. The subhead says "Looop launched in May 2026" (not "launched them", since the weather and crime alerts are newer). New team quote (Gen X, families across the country and the world, independence, ready to help), attributed to "the team behind Looop". Removed the founder name, bio and "built with AI" placeholders and the About the founder section. Media contact is support@thelooopapp.com. Meta description updated. Open items: approve the quote, confirm "100 countries" (the weather sources page lists the US, Canada, Mexico, Europe and Israel), legal sign-off.
+
 ## 2026-10-17 10:49 CT
 
 ### Copy

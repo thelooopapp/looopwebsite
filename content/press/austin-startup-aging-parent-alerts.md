@@ -6,30 +6,19 @@ legal_review: true
 legal_notes: "Names a competitor (Life360). Every Life360 statement was verified against its linked source on Oct 6, 2026. Does not claim Life360 lacks any feature; says what Life360 has publicly said it is working on. Press release: noindex until placeholders are filled and legal signs off."
 placeholders:
   - "[DATE]"
-  - "[FOUNDER NAME]"
-  - "[FOUNDER BIO]"
-  - "[LAUNCH DATE: Unusual Day alert]"
-  - "[LAUNCH DATE: phone untouched alert]"
-  - "[LAUNCH DATE: unusual spending alert]"
-  - "[LAUNCH DATE: hospital arrival alert]"
-  - "[LAUNCH DATE: heart rate and breathing rate alerts]"
-  - "[LAUNCH DATE: severe weather alerts]"
-  - "[LAUNCH DATE: nearby crime alerts]"
-  - "[CONFIRM: using AI tools]"
-  - "[ADD: founder quote moment]"
-  - "[MEDIA CONTACT]"
+  - "[CONFIRM: 100 countries]"
 ---
 
 <!-- DRAFT FOR REVIEW: contains placeholders. noindex until final. -->
 <!-- LEGAL REVIEW REQUIRED: names a competitor. Remove noindex after approval. -->
 
-> Editor's note (remove before release): any "built with AI" wording must be confirmed by the founder, including what was built with AI tools and how. Every [LAUNCH DATE: ...] must be a confirmed App Store release date. If a date can't be confirmed, cut that feature from the release.
+> Editor's note (remove before release): the quote was drafted for the team to approve. Confirm "100 countries" against the weather sources page (weather-alert-sources.html lists the US, Canada, Mexico, Europe and Israel). Legal sign-off required before removing noindex.
 
 # Austin Startup Ships the Aging-Parent Alerts a Public Company Is Still Promising
 
-## Life360 has spent a year promising aging-parent features. Looop launched them in May 2026 and keeps shipping more.
+## Life360 has spent a year promising aging-parent features. Looop launched in May 2026 and keeps shipping more.
 
-**AUSTIN, Texas, [DATE]:** LooopApp LLC today highlighted the aging-parent alerts available in Looop, a safety notifications app for families who care from a distance. Looop was built by an Austin startup [CONFIRM: using AI tools]. It sends a heads-up when a loved one's day looks different from their own routine, so families know when a call is worth making.
+**AUSTIN, Texas, [DATE]:** LooopApp LLC, an Austin startup, today announced that Looop now sends severe weather alerts in the US and 100 countries, and crime alerts near loved ones in more than 200 US cities and counties. Looop is a safety notifications app for families who care from a distance. It sends a heads-up when a loved one's day looks different from their own routine, so families know when a call is worth making.
 
 In October 2025, Life360 CEO Lauren Antonoff [discussed on Fox Business](https://www.fox.com/watch/clip/fmc-2k7cu0b1c58nunwm/life360-explores-features-to-support-aging-parents-safety) how the company is exploring features for aging parents. On its [Q4 2025 earnings call](https://www.fool.com/earnings/call-transcripts/2026/03/02/life360-lif-q4-2025-earnings-call-transcript/) in March 2026, the company said it was working on devices for aging parents but did not expect to launch them that year. On its [Q2 2026 call](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/) in August, it named aging parents as a next line of business. And at a [Goldman Sachs conference](https://in.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-5589446) in September, it said it is working on services for aging parents, including wellness checks and scam protection.
 
@@ -39,24 +28,20 @@ Looop's alerts are built around one question: "Is Mom okay today?"
 
 **Alerts live in Looop today**
 
-- **Unusual Day** (live since [LAUNCH DATE: Unusual Day alert]): a nudge when something is off compared to a loved one's own normal routine.
-- **Phone untouched for hours** (live since [LAUNCH DATE: phone untouched alert]): a heads-up when their phone hasn't been picked up.
-- **Unusual spending** (live since [LAUNCH DATE: unusual spending alert]): an optional alert for unusually large spending on a linked bank account, which can be an early sign of a scam. Bank linking is optional and runs through Plaid.
-- **Arrivals that matter** (live since [LAUNCH DATE: hospital arrival alert]): know when a loved one arrives at a hospital or ER, a police station or an airport.
-- **Optional health alerts** (live since [LAUNCH DATE: heart rate and breathing rate alerts]): unusually high or low heart rate or an unusual breathing rate, shared only if the loved one chooses, through Apple Health and Apple Watch.
-- **Severe weather and nearby crime** (live since [LAUNCH DATE: severe weather alerts] and [LAUNCH DATE: nearby crime alerts]): severe weather alerts in the US and many other countries, and crime alerts in more than 200 US cities and counties.
+- **Severe weather and nearby crime (new)**: severe weather alerts in the US and 100 countries, and crime alerts in more than 200 US cities and counties.
+- **Unusual Day**: a nudge when something is off compared to a loved one's own normal routine.
+- **Phone untouched for hours**: a heads-up when their phone hasn't been picked up.
+- **Unusual spending**: an optional alert for unusually large spending on a linked bank account, which can be an early sign of a scam. Bank linking is optional and runs through Plaid.
+- **Arrivals that matter**: know when a loved one arrives at a hospital or ER, a police station or an airport.
+- **Optional health alerts**: unusually high or low heart rate or an unusual breathing rate, shared only if the loved one chooses, through Apple Health and Apple Watch.
 
 Every loved one joins Looop by invitation and decides whether to share health details or link a bank account.
 
-"[DRAFT QUOTE: FOUNDER TO APPROVE] I started building Looop because I wanted to know whether my mom was having a normal day without calling to ask. [ADD: one specific moment when a Looop alert made you call your mom.]" said [FOUNDER NAME], founder of Looop.
+"We built Looop because our own families are spread across the country and around the world. We're Gen X, looking after kids in college and aging parents at the same time. We don't want to track them. We want them to keep their independence, and we want to know when it's time to call, so we're ready to help," said the team behind Looop.
 
 **Private by design**
 
 Looop never sells your data and doesn't work with advertisers. Its notifications carry no ads or sponsored offers.
-
-**About the founder**
-
-[FOUNDER BIO]
 
 **Availability**
 
@@ -70,6 +55,6 @@ Life360 is a trademark of its owner. Looop is not affiliated with Life360.
 
 **Media Contact**
 
-[MEDIA CONTACT]
+support@thelooopapp.com
 
 ###
