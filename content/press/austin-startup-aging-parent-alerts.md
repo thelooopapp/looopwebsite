@@ -26,7 +26,7 @@ Looop's aging-parent alerts are already here. Looop launched on the App Store in
 
 Most family apps are built around a map: they answer "Where is she?" Looop answers the question families actually ask: "Is Mom okay today?"
 
-Looop takes a holistic approach to family care: weather, crime, spending, health, activity and the shape of her day, in one place.
+Looop takes a holistic approach to family care: weather, crime, spending, health, activity and the shape of her day, in one place. No more checking the weather in five cities, a location app, a health app and a banking app to piece together how Mom is doing.
 
 - **Where she is:** a heads-up when she arrives at a hospital or ER, a police station or an airport, and a map for when you need it.
 - **What's around her:** severe weather in more than 50 countries and nearby crime in all 50 US states.

@@ -16,7 +16,7 @@ legal_review: false
 
 **Subtitle:** Safety alerts instead of tracking, so the people you love can live their lives.
 
-Looop is a safety notifications app for families who care from a distance. It stays quiet when all is well. When something seems off, you get a gentle heads-up, so you know it might be a good time to reach out.
+Looop is a safety notifications app for families who care from a distance. It stays quiet when all is well. When something seems off, you get a gentle heads-up, so you know it might be a good time to reach out. It's all in one place, so you're not checking five apps to piece together how everyone's doing.
 
 [Download Looop]
 

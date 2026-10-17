@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 12:42 CT
+
+### Copy
+- **"All in one place" woven in** (HTML and `content/` sources): homepage "Find your people" ("No more checking the weather in five cities, a map in one app and bank alerts in another. It's all in one place."), the aging parents lead, the How it works lead ("so you're not checking five apps to piece together how everyone's doing"), the Austin startup release after the holistic line, and the severe weather release ("Instead of checking the weather in five cities, families get one heads-up when it matters.").
+
 ## 2026-10-17 12:38 CT
 
 ### Copy
