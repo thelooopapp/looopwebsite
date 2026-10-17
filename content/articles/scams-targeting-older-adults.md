@@ -19,7 +19,7 @@ legal_review: false
 
 Most families never expect to ask that question with real worry. Then a parent mentions a call from "the bank," or a new online friend, or a computer warning that wouldn't go away, and you start to wonder.
 
-Scams targeting older adults are run by organized groups who are good at pressure, fear and urgency, and they fool sharp, careful people every day. Often the best defense is family members who talk to each other early.
+Scams targeting older adults are run by organized groups who are good at pressure, fear, and urgency, and they fool sharp, careful people every day. Often the best defense is family members who talk to each other early.
 
 This guide covers what the latest federal data shows, the most common scam types, warning signs families can notice, how to bring up the topic without talking down to a parent, and what to do if a scam has already happened.
 
@@ -42,24 +42,24 @@ Scammers change their stories often, but the patterns repeat. These are the ones
 | Scam type | How it usually starts | 2025 losses reported to IC3 by people 60+ |
 | --- | --- | --- |
 | Investment | A friendly contact online or on social media, often pitching cryptocurrency | $3,519,296,354 |
-| Tech or customer support | A pop-up, call or email saying a computer or account has a problem | $1,040,730,043 |
+| Tech or customer support | A pop-up, call, or email saying a computer or account has a problem | $1,040,730,043 |
 | Romance or confidence | A new online relationship that slowly turns to money | $584,032,745 |
 | Government impersonation | A caller claiming to be from a federal agency, often with a threat | $413,206,251 |
-| Lottery, sweepstakes or inheritance | A message saying you've won, but must pay fees first | $136,328,519 |
+| Lottery, sweepstakes, or inheritance | A message saying you've won, but must pay fees first | $136,328,519 |
 
 *Source: [FBI IC3 2025 Annual Report](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf), crime types reported by complainants 60 and older.*
 
-By number of complaints, phishing and spoofing (fake emails, texts and caller IDs) led the list, with 48,064 complaints from people 60 and older in 2025. Tech and customer support scams were second.
+By number of complaints, phishing and spoofing (fake emails, texts, and caller IDs) led the list, with 48,064 complaints from people 60 and older in 2025. Tech and customer support scams were second.
 
-The FTC sees a related pattern. Older adults were much more likely than younger adults to report losing money to tech support scams, prize and lottery scams, romance scams and government impersonation scams. Business impersonators, especially fake bank callers, were a major source of losses. These scams often claim an account is at risk and urge the person to move money to "keep it safe." ([FTC, December 2025](https://www.ftc.gov/system/files/ftc_gov/pdf/P144400-OlderAdultsReportDec2025.pdf))
+The FTC sees a related pattern. Older adults were much more likely than younger adults to report losing money to tech support scams, prize and lottery scams, romance scams, and government impersonation scams. Business impersonators, especially fake bank callers, were a major source of losses. These scams often claim an account is at risk and urge the person to move money to "keep it safe." ([FTC, December 2025](https://www.ftc.gov/system/files/ftc_gov/pdf/P144400-OlderAdultsReportDec2025.pdf))
 
 ## How the money moves
 
 How a scammer asks to be paid is often the clearest clue.
 
-According to the same FTC report, older adults reported the largest total losses on scams paid by bank transfer, followed by cryptocurrency. Gift cards were the most common payment method in several scam types, including government impersonation, tech support, romance and family impersonation scams.
+According to the same FTC report, older adults reported the largest total losses on scams paid by bank transfer, followed by cryptocurrency. Gift cards were the most common payment method in several scam types, including government impersonation, tech support, romance, and family impersonation scams.
 
-A simple rule helps everyone in the family: no real bank, government agency or tech company will ask you to pay with gift cards, cryptocurrency, a wire to a stranger, or cash handed to a courier.
+A simple rule helps everyone in the family: no real bank, government agency, or tech company will ask you to pay with gift cards, cryptocurrency, a wire to a stranger, or cash handed to a courier.
 
 ## Warning signs families can notice
 
@@ -69,18 +69,18 @@ You don't need to be nearby to notice that something is off. Many signs show up 
 
 - They mention a new friend online they haven't met in person, who has started talking about money or a hard-luck story.
 - They're suddenly secretive about phone calls, or say someone told them not to tell family.
-- They sound anxious about a problem with their computer, their bank account, their Social Security or a "warrant."
-- They mention a prize, an inheritance or an investment that sounds unusually good.
+- They sound anxious about a problem with their computer, their bank account, their Social Security, or a "warrant."
+- They mention a prize, an inheritance, or an investment that sounds unusually good.
 
 **In what they do**
 
-- They ask how to buy gift cards, use a cryptocurrency machine or send a wire.
+- They ask how to buy gift cards, use a cryptocurrency machine, or send a wire.
 - They let someone they don't know connect to their computer remotely.
 - They're rushing, often because someone told them they had to act today.
 
 **In their money**
 
-- Large or unusual payments, withdrawals or transfers.
+- Large or unusual payments, withdrawals, or transfers.
 - New payees they can't easily explain.
 - Bills going unpaid when there was plenty of money before.
 
@@ -88,7 +88,7 @@ None of these signs proves a scam, and lots of large payments are normal. If you
 
 ## How to talk with a parent without talking down
 
-Your parent has handled money, work and family for decades, so start from that respect.
+Your parent has handled money, work, and family for decades, so start from that respect.
 
 **Lead with respect.** Try: "I keep reading how convincing these scam calls have gotten. They're going after everyone. Have you gotten any weird ones?" This puts you on the same side, against the scammers.
 
@@ -106,10 +106,10 @@ Your parent has handled money, work and family for decades, so start from that r
 
 Speed matters. The FBI's Recovery Asset Team works to freeze funds when complaints are filed quickly. In 2025 it reported freezing $32,865,655 tied to incidents involving victims 60 and older ([FBI IC3 2025 Annual Report](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf)). Take these steps, in order.
 
-1. **Stop contact.** Hang up, don't reply and don't send more money, even if the scammer threatens or promises a refund.
+1. **Stop contact.** Hang up, don't reply, and don't send more money, even if the scammer threatens or promises a refund.
 2. **Call the bank or card company right away.** Use the number on the back of the card or on a statement, not one the caller gave you. Ask them to stop or reverse the payment and to flag the account.
 3. **Report it to the FTC** at [ReportFraud.ftc.gov](https://reportfraud.ftc.gov).
-4. **Report it to the FBI** at [ic3.gov](https://www.ic3.gov), especially for online, wire or cryptocurrency losses.
+4. **Report it to the FBI** at [ic3.gov](https://www.ic3.gov), especially for online, wire, or cryptocurrency losses.
 5. **If personal information was shared,** go to [IdentityTheft.gov](https://www.identitytheft.gov) for a recovery plan.
 6. **Get free, friendly support.** The [AARP Fraud Watch Network Helpline](https://www.aarp.org/money/scams-fraud/helpline/) is free and open to anyone, at 877-908-3360, Monday to Friday, 8 a.m. to 8 p.m. Eastern. The U.S. Department of Justice also runs a free [national fraud hotline for people 60 and older](https://ovc.ojp.gov/program/stop-elder-fraud/providing-help-restoring-hope) at 833-FRAUD-11 (833-372-8311), Monday to Friday, 10 a.m. to 6 p.m. Eastern.
 7. **Watch for follow-up scams.** People who lost money are sometimes contacted by fake "recovery" services. Real government agencies don't charge to get money back.

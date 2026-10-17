@@ -1,7 +1,7 @@
 ---
 title: "The Holiday Visit Checklist: What to Notice When You See Your Parents"
 slug: holiday-visit-checklist
-meta_description: "Visiting aging parents for the holidays? A warm checklist of what to notice at home, in health, mood, money and driving, and how to raise concerns kindly."
+meta_description: "Visiting aging parents for the holidays? A warm checklist of what to notice at home, in health, mood, money, and driving, and how to raise concerns kindly."
 primary_keyword: visiting aging parents for the holidays
 secondary_keywords:
   - signs aging parents need help
@@ -17,7 +17,7 @@ legal_review: false
 
 "Mom sounds fine on the phone. But is she really?"
 
-For a lot of families, the holidays are the one time of year everyone is under the same roof. You'll eat too much pie, argue about the thermostat and laugh at the same old stories. You'll also get something a phone call can't give you: a real look at how your parents are doing.
+For a lot of families, the holidays are the one time of year everyone is under the same roof. You'll eat too much pie, argue about the thermostat, and laugh at the same old stories. You'll also get something a phone call can't give you: a real look at how your parents are doing.
 
 The National Institute on Aging says the best way to know what someone needs is to [ask them directly](https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help). But a phone call or text isn't always enough to tell, and some parents don't want to cause worry.
 
@@ -39,10 +39,10 @@ The NIA suggests a few simple questions when you spend time in a parent's home: 
 - The home is about as tidy as you'd expect from them
 - Walkways are clear, with no loose rugs or cords to trip on
 - Stairs have sturdy railings, and rooms and hallways are well lit
-- The bathroom has grab bars where they'd help, near the tub, shower or toilet
+- The bathroom has grab bars where they'd help, near the tub, shower, or toilet
 - Smoke detectors work, and the heat is on and comfortable
 
-The CDC's home safety tips for older adults include getting rid of tripping hazards, adding grab bars, putting railings on both sides of stairs and adding brighter light bulbs. ([CDC](https://www.cdc.gov/falls/prevention/index.html)) These are easy holiday-weekend projects to offer help with.
+The CDC's home safety tips for older adults include getting rid of tripping hazards, adding grab bars, putting railings on both sides of stairs, and adding brighter light bulbs. ([CDC](https://www.cdc.gov/falls/prevention/index.html)) These are easy holiday-weekend projects to offer help with.
 
 ## Health and everyday care
 
@@ -50,10 +50,10 @@ The CDC's home safety tips for older adults include getting rid of tripping haza
 - Their weight looks about the same, without big gains or losses
 - They're keeping up with bathing and wearing clothes that suit the weather
 - Their medicines are organized and refilled, and they seem to be taking them
-- Glasses, hearing aids or dentures are in use and working well
+- Glasses, hearing aids, or dentures are in use and working well
 - They've seen their doctor recently, or have an appointment coming up
 
-The NIA lists significant weight change, poor hygiene, confusion and trouble walking among the signs that someone may need extra support. ([NIA](https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help))
+The NIA lists significant weight change, poor hygiene, confusion, and trouble walking among the signs that someone may need extra support. ([NIA](https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help))
 
 ## Memory and mood
 
@@ -71,7 +71,7 @@ If your parent ever says they feel hopeless or you're worried they might harm th
 
 - Mail isn't piling up unopened
 - Bills look paid, with no stack of past-due notices
-- No unusual new "friends," prize letters or urgent calls asking for money
+- No unusual new "friends," prize letters, or urgent calls asking for money
 - They seem comfortable when money comes up
 
 The NIA's elder abuse guidance lists sudden, unexpected financial losses or unpaid bills, despite having enough money, among the signs worth paying attention to. ([NIA](https://www.nia.nih.gov/health/elder-abuse/elder-abuse)) If something looks off, raise it gently and privately.
@@ -80,7 +80,7 @@ The NIA's elder abuse guidance lists sudden, unexpected financial losses or unpa
 
 - The car has no new dents or scrapes they can't explain
 - They seem relaxed behind the wheel, if you ride along
-- No recent tickets, near misses or comments from neighbors
+- No recent tickets, near misses, or comments from neighbors
 - They're comfortable driving at night, or have found other ways to get around
 
 These come from the NIA's list of signs a loved one may need to change their driving. ([NIA](https://www.nia.nih.gov/health/older-drivers)) The NIA also reminds families that for many people, giving up the keys feels like losing freedom. Keep the conversation on skills and safety.
@@ -90,23 +90,23 @@ These come from the NIA's list of signs a loved one may need to change their dri
 - Their phone is charged, and they can hear it ring
 - They know how to make a video call, if they'd like to
 - Their emergency contacts are saved and up to date
-- They're not being bothered by strange calls, texts or pop-ups
+- They're not being bothered by strange calls, texts, or pop-ups
 
 This is a great time to help with small tech chores they've been meaning to get to. Ask first, and let them drive.
 
 ## Friends and connection
 
-- They still see friends, neighbors or their faith community
+- They still see friends, neighbors, or their faith community
 - They have regular plans that get them out of the house
 - Someone nearby could stop by if needed, and you have that person's number
 
-Staying connected matters. The NIA notes that loneliness and social isolation are associated with higher risks for health problems such as heart disease, depression and cognitive decline. ([NIA](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected)) The NIA also points out that you can live alone without feeling lonely. Plenty of parents living on their own have the fullest calendars in the family.
+Staying connected matters. The NIA notes that loneliness and social isolation are associated with higher risks for health problems such as heart disease, depression, and cognitive decline. ([NIA](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected)) The NIA also points out that you can live alone without feeling lonely. Plenty of parents living on their own have the fullest calendars in the family.
 
 ## How to raise a concern, kindly
 
 If you noticed something, wait for a good moment to bring it up.
 
-**Choose a quiet time.** A walk, a drive or a cup of coffee the next morning gives you privacy, away from the holiday table and the rest of the family.
+**Choose a quiet time.** A walk, a drive, or a cup of coffee the next morning gives you privacy, away from the holiday table and the rest of the family.
 
 **Lead with care.** The NIA suggests naming your worry without sounding critical, for example asking whether it's been hard to get to the store when the fridge looks bare. ([NIA](https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help))
 
@@ -122,7 +122,7 @@ If you noticed something, wait for a good moment to bring it up.
 
 The drive home is when the worry usually kicks in. A little setup before you go can make the next few months calmer for everyone.
 
-- **A shared contact list.** Doctors, pharmacy, a trusted neighbor and who has a spare key, shared with siblings.
+- **A shared contact list.** Doctors, pharmacy, a trusted neighbor, and who has a spare key, shared with siblings.
 - **The paperwork conversation.** AARP suggests learning whether your parent has advance directives and powers of attorney in place. ([AARP](https://www.aarp.org/caregiving/basics/caring-for-parent-things-to-consider/)) A calm holiday visit is a good time to ask.
 - **A neighbor or friend on call.** With your parent's permission, the NIA suggests asking people who see them regularly to call you with any concerns. ([NIA](https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help))
 - **A plan for regular calls.** Keep them about everyday life and what's new with them.
@@ -148,7 +148,7 @@ Not sure how to bring it up? Our [letter to Mom](letter-to-mom.html) is a starti
 
 - Use the holiday visit to notice things gently.
 - Look for changes from last year, and patterns over a few days.
-- Check the home, health, mood, money, driving, technology and friendships.
+- Check the home, health, mood, money, driving, technology, and friendships.
 - Raise concerns privately, with care, and ask what they want.
 - Set up a few simple supports before you leave, with your parent's say-so.
 

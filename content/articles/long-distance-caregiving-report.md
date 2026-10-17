@@ -1,7 +1,7 @@
 ---
 title: "The Long-Distance Caregiving Report: What the Research Says (2026)"
 slug: long-distance-caregiving-report
-meta_description: "Long distance caregiving statistics from AARP, Pew and NIH in one place: who cares from afar, what it costs in time, money and worry, and what helps families."
+meta_description: "Long distance caregiving statistics from AARP, Pew, and NIH in one place: who cares from afar, what it costs in time, money, and worry, and what helps families."
 primary_keyword: long distance caregiving statistics
 secondary_keywords:
   - long distance caregiving
@@ -18,7 +18,7 @@ legal_review: false
 
 "Is Dad okay today, or am I just worried because I'm far away?"
 
-If you care for someone from another city or state, you already know that question. What you might not know is how many people share it. We gathered the most reliable long distance caregiving statistics we could find, from AARP, the National Alliance for Caregiving, Pew Research Center, the National Institutes of Health and the Bureau of Labor Statistics, and put them in one place.
+If you care for someone from another city or state, you already know that question. What you might not know is how many people share it. We gathered the most reliable long distance caregiving statistics we could find, from AARP, the National Alliance for Caregiving, Pew Research Center, the National Institutes of Health, and the Bureau of Labor Statistics, and put them in one place.
 
 Looop hasn't run its own survey yet (more on that at the end). So this is a research roundup: what existing, reputable studies say about the people who care from a distance, and what families can take from it.
 
@@ -91,13 +91,13 @@ A [Pew Research Center analysis of Census Bureau data](https://www.pewresearch.o
 
 And among care recipients in *Caregiving in the US 2025* who live apart from their caregiver in a home or community setting, [3 in 10 live alone](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf).
 
-## Time, money and work
+## Time, money, and work
 
 Caregiving takes real hours and real dollars, near or far.
 
 **Time.** Caregivers in *Caregiving in the US 2025* spend an average of [27 hours per week](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf) providing care. Thirty percent have been caregiving for five years or more.
 
-**Work.** Seventy percent of working-age caregivers (ages 18 to 64) are employed. Half of working caregivers have had to arrive late, leave early or take time off to provide care, and 18 percent moved from full-time to part-time or cut their hours. Only 49 percent say their supervisor knows they're a caregiver. ([AARP and NAC, 2025](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf))
+**Work.** Seventy percent of working-age caregivers (ages 18 to 64) are employed. Half of working caregivers have had to arrive late, leave early, or take time off to provide care, and 18 percent moved from full-time to part-time or cut their hours. Only 49 percent say their supervisor knows they're a caregiver. ([AARP and NAC, 2025](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf))
 
 **Money.** Nearly half of caregivers in the 2025 report have had at least one negative financial impact. One-third have stopped saving, and 24 percent have used up short-term savings. An earlier [AARP study from 2021](https://www.aarp.org/press/releases/2021-6-29-aarp-research-shows-family-caregivers-face-significant-financial-strain,-spend-on-average-7,242-each-year.html) found that 78% of people caring for an adult family member had regular out-of-pocket costs, averaging $7,242 a year, or 26% of the caregiver's income on average.
 
@@ -120,7 +120,7 @@ Caregivers are leaning on technology more than ever, especially to stay connecte
 
 According to [*Caregiving in the US 2025*](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf):
 
-- **25%** of caregivers have used an app, video, a wearable or a similar tool to check on the person they care for from a distance, up from 13% in 2020. The report notes this has nearly doubled.
+- **25%** of caregivers have used an app, video, a wearable, or a similar tool to check on the person they care for from a distance, up from 13% in 2020. The report notes this has nearly doubled.
 - **41%** use technology or software to keep up with the person's health records, up from 30% in 2020.
 - Younger caregivers are more likely than caregivers over 50 to use these remote check-in tools (30% vs. 22%).
 
@@ -146,7 +146,7 @@ Every family is different, but a few practical takeaways stand out.
 
 **4. Talk with your employer.** With fewer than half of working caregivers saying their supervisor knows, a simple conversation may open up flexible hours or leave you didn't know you had.
 
-**5. Protect your own well-being.** Nearly two-thirds of caregivers report moderate or high emotional stress. Respite care, a support group or one honest conversation with a friend all count.
+**5. Protect your own well-being.** Nearly two-thirds of caregivers report moderate or high emotional stress. Respite care, a support group, or one honest conversation with a friend all count.
 
 **6. Respect their independence.** Most adults 50 and older want to stay in their homes. Ask what support your parent actually wants before you set anything up, and let them lead.
 

@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 12:54 CT
+
+### Copy
+- **Oxford commas, first batch** (HTML and `content/articles/` sources): Holiday Visit Checklist (14), Scams Targeting Older Adults (14), and the Long-Distance Caregiving Report (7, including its meta descriptions and the "Time, money, and work" heading). Cited titles and two-item pairs unchanged.
+
 ## 2026-10-17 12:42 CT
 
 ### Copy
