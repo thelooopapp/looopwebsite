@@ -40,7 +40,7 @@ We looked at the same four things for every app:
 
 | App | What it is | What it notifies you about | Ads and data | Works on |
 | --- | --- | --- | --- | --- |
-| Life360 | Precision GPS tracking, with your movements recorded and stored | Arrivals, departures and missed arrivals at set places | Runs an ad platform; still sells location data today | iPhone and Android |
+| Life360 | Precision GPS tracking, with your movements recorded and stored | Arrivals, departures and missed arrivals at set places | Runs an ad platform; has sold location data to brokers | iPhone and Android |
 | Apple Find My | Location sharing built into Apple devices | Arrives at, leaves, or isn't at a place you choose | Apple says shared location isn't accessible to Apple when both people are on iOS 17 or later | Apple devices |
 | Google Maps and Find Hub | Location sharing in Google's apps | Arrives at or leaves a place you choose | Google says it never sells personal information; it does use location for ads, depending on settings | Google Maps: iPhone and Android |
 | Google Family Link | Parental controls for kids and teens, with location | A child's arrivals and departures | Kids may see ads, but not personalized ones | Parent: iPhone or Android. Child: Android or Chromebook |
@@ -55,7 +55,7 @@ We looked at the same four things for every app:
 
 **Privacy and ads.** This is where many people start looking elsewhere. Life360 [launched an advertising platform](https://www.life360.com/en-us/press/life360-unveils-advertising-platform-to-connect-brands-with-its-engaged-community-of-40-million-u-s-monthly-active-users) in 2024 with Uber as a key partner, tied into notifications when members land at an airport. In June 2025 it [launched Place Ads](https://www.life360.com/press/life360-enhances-ad-platform-launch-place-ads-and-uplift), which reach families based on real-world places they visit.
 
-Life360 also has a history of selling location data to a dozen data brokers. [The Markup reported](https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user) in 2021 that its buyers included Cuebiq, X-Mode, SafeGraph and Allstate's Arity. Life360 then [stopped most of those sales](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users), kept Arity, and began selling aggregated data to Placer.ai. In a [2024 earnings release](https://www.sec.gov/Archives/edgar/data/1581760/000158176024000105/life360incq324mediarelea.htm), it said its data business had returned to growth. Life360 still sells location data today.
+Life360 also has a history of selling location data to a dozen data brokers. [The Markup reported](https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user) in 2021 that its buyers included Cuebiq, X-Mode, SafeGraph and Allstate's Arity. Life360 then [stopped most of those sales](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users), kept Arity, and began selling aggregated data to Placer.ai. In a [2024 earnings release](https://www.sec.gov/Archives/edgar/data/1581760/000158176024000105/life360incq324mediarelea.htm), it said its data business had returned to growth.
 
 **Platforms.** iPhone and Android, with app links on [Life360's site](https://www.life360.com/).
 

@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 11:44 CT
+
+### Copy
+- **Dropped "Life360 still sells location data today"** everywhere it appeared (Looop vs. Life360 table, note and summary; Who's Really Paying; Best Life360 Alternatives table and body; data pledge release; HTML and `content/` sources). The copy now leans only on documented facts: Life360's history of selling location data to a dozen data brokers, its later Arity and Placer.ai sales as dated history, and its advertising partnerships. The review list no longer asks to confirm the claim.
+
 ## 2026-10-17 11:37 CT
 
 ### Copy

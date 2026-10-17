@@ -52,7 +52,7 @@ This page compares the two, with sources, including where Life360 may be the bet
 | Driving | Driving details recorded and stored | A nudge when a drive looks unusual, and a heads-up when they finish a drive |
 | Independence | Built around seeing where family members are and where they've been | Loved Ones live their day. Looop only speaks up when something looks off. |
 | Ads | Runs a growing ad business, including Uber offers in landing notifications and Place Ads based on places families visit | No advertisers, and no sponsored offers in your notifications. |
-| Your data | Has a history of selling location data to a dozen data brokers, including Cuebiq, X-Mode, SafeGraph and Allstate's Arity, and still sells location data today | Never sold. Bank linking is optional and runs through Plaid. |
+| Your data | Has a history of selling location data to a dozen data brokers, including Cuebiq, X-Mode, SafeGraph and Allstate's Arity | Never sold. Bank linking is optional and runs through Plaid. |
 | Apple Watch | A separate watch app for people who wear an Apple Watch without carrying a phone | Reads Apple Watch health data through Apple Health on the iPhone, if your Loved One chooses to share. No extra app needed. |
 | Emergency services | Paid plans include crash detection. Gold and Platinum add SOS with 24/7 emergency dispatch and 24/7 roadside assistance. | Call 911 in one tap, plus up to three emergency contacts for each Loved One. No dispatch service, crash detection or roadside help. |
 | Platforms | iPhone and Android | iPhone |
@@ -72,7 +72,7 @@ Life360 is adding aging parents to an app built for a different job. Its [aging-
 
 Looop never sells your data and doesn't work with advertisers. There are no ads and no sponsored offers in your notifications.
 
-Life360's ad business is growing fast. It reported [$22 million in ad revenue in Q2 2026](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517), up 315% from a year earlier. Members who land at an airport can get an [Uber ride offer](https://www.life360.com/en-us/press/life360-unveils-advertising-platform-to-connect-brands-with-its-engaged-community-of-40-million-u-s-monthly-active-users) in their landing notification, and its [Place Ads](https://www.life360.com/press/life360-enhances-ad-platform-launch-place-ads-and-uplift) reach families based on the places they visit. Life360 also has a history of selling location data to a dozen data brokers, and still sells location data today.
+Life360's ad business is growing fast. It reported [$22 million in ad revenue in Q2 2026](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517), up 315% from a year earlier. Members who land at an airport can get an [Uber ride offer](https://www.life360.com/en-us/press/life360-unveils-advertising-platform-to-connect-brands-with-its-engaged-community-of-40-million-u-s-monthly-active-users) in their landing notification, and its [Place Ads](https://www.life360.com/press/life360-enhances-ad-platform-launch-place-ads-and-uplift) reach families based on the places they visit. Life360 also has a history of selling location data to a dozen data brokers.
 
 ### Weather alerts with no ads attached
 

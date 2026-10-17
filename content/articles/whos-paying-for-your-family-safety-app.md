@@ -81,7 +81,7 @@ Life360 bought the ad platform Nativo to serve ads using its first-party family 
 
 Life360 has a history of selling location data to a dozen data brokers. In 2021, [The Markup reported](https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user) that Life360 sold precise location data to brokers including Cuebiq, X-Mode, SafeGraph and Allstate's Arity.
 
-Life360 then [stopped most of those sales](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users), but kept Arity and began selling aggregated data to Placer.ai, which it [describes](https://www.sec.gov/Archives/edgar/data/1581760/000158176024000105/life360incq324mediarelea.htm) as a growing data business. Life360 still sells location data today.
+Life360 then [stopped most of those sales](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users), but kept Arity and began selling aggregated data to Placer.ai, which it [describes](https://www.sec.gov/Archives/edgar/data/1581760/000158176024000105/life360incq324mediarelea.htm) as a growing data business.
 
 ### What to take from this
 
