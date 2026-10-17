@@ -1,7 +1,7 @@
 ---
 title: "How Looop Works: Safety Notifications for Families"
 slug: features
-meta_description: "Looop is a safety notifications app. Get a heads-up about nearby crime, severe weather and unusual days, so you know when to check in on the people you love."
+meta_description: "Looop is a safety notifications app. Get a heads-up about nearby crime, severe weather, and unusual days, so you know when to check in on the people you love."
 primary_keyword: family safety notifications
 secondary_keywords:
   - severe weather alerts for family
@@ -32,16 +32,16 @@ Image: lockscreen-phones.png
 
 ### What's happening around them
 
-- **Nearby crime.** A heads-up when crime is reported near a Loved One, in all 50 US states. You pick the distance: 1, 3, 5 or 10 miles.
+- **Nearby crime.** A heads-up when crime is reported near a Loved One, in all 50 US states. You pick the distance: 1, 3, 5, or 10 miles.
 - **Severe weather.** Storms, flood warnings, extreme heat or cold heading their way, in more than 50 countries, including the US.
 
 ### When their day looks different
 
 - **Unusual Day.** A gentle nudge when something is off compared to their own normal routine.
-- **Unusual activity.** A nudge when driving, walking or phone use doesn't fit their usual pattern. You won't need to review every drive.
+- **Unusual activity.** A nudge when driving, walking, or phone use doesn't fit their usual pattern. You won't need to review every drive.
 - **Phone untouched for hours.** A heads-up when their phone hasn't been picked up in a long while.
 - **Low battery.** A heads-up before their phone runs out of charge.
-- **Arrivals that matter.** Know when they arrive at a hospital or ER, a police station or an airport.
+- **Arrivals that matter.** Know when they arrive at a hospital or ER, a police station, or an airport.
 
 ### Optional alerts, if they choose
 
@@ -62,7 +62,7 @@ Image: lockscreen-phones.png
 
 - **Typical or "Need a Look."** See who is having a typical day and who might need a look.
 - **Plain-language summaries.** Get a short summary of what's unusual, with no charts to decode.
-- **Their day, in brief.** See whether they're driving, walking or staying put, their local time and the time difference, the weather where they are and their phone battery.
+- **Their day, in brief.** See whether they're driving, walking, or staying put, their local time and the time difference, the weather where they are, and their phone battery.
 - **A family map, for when you need it.** After a nudge, the map is there to help you decide what to do next.
 
 Image: twophones.png
@@ -75,11 +75,11 @@ Image: twophones.png
 
 **Subtitle:** Reach out from their card, however feels right.
 
-- Call, text or FaceTime straight from their card.
-- Send a one-tap message like "Love you!", "Are you ok?" or "Call Me".
+- Call, text, or FaceTime straight from their card.
+- Send a one-tap message like "Love you!", "Are you ok?", or "Call Me".
 - Start a group chat with your whole Looop.
 - Message on WhatsApp.
-- Jump straight to Ring, Alexa or Wyze to check in at home.
+- Jump straight to Ring, Alexa, or Wyze to check in at home.
 
 ---
 
@@ -103,7 +103,7 @@ Image: transparent_map.png
 
 **Subtitle:** Wellness sharing is optional, and always their call.
 
-If a Loved One chooses to share, you can see today's steps, walking, driving and resting time; sleep, including deep, REM and light sleep, and naps; heart rate, breathing rate and workouts; and how much they've used their phone.
+If a Loved One chooses to share, you can see today's steps, walking, driving, and resting time; sleep, including deep, REM, and light sleep, and naps; heart rate, breathing rate, and workouts; and how much they've used their phone.
 
 Every stat is marked Typical or Unusual, based only on that person's own patterns. Works with Apple Health and Apple Watch.
 
@@ -142,7 +142,7 @@ Every stat is marked Typical or Unusual, based only on that person's own pattern
 
 - Looop never sells your data and doesn't work with advertisers.
 - Bank linking is optional and secured through Plaid.
-- Leave a group, remove a member or start a new group anytime.
+- Leave a group, remove a member, or start a new group anytime.
 - Delete your account and data whenever you choose.
 - Talk to the people who build Looop, with feedback or a request for a new alert.
 
@@ -156,16 +156,16 @@ Every stat is marked Typical or Unusual, based only on that person's own pattern
 No. Looop sends safety alerts instead of tracking. It uses the low-power location services built into iPhone, which wake the app when someone arrives somewhere or moves a meaningful distance, instead of keeping GPS on all day. There's a family map for when you need it, and you won't need to keep checking it.
 
 **What does my Loved One share?**
-What Looop needs to tell whether their day looks typical: things like whether they're driving, walking or staying put, their phone battery, and the weather where they are. Family members in their Looop can also see where they are on the family map. Health details are shared only if they choose. Before you invite anyone, walk through it together so there are no surprises.
+What Looop needs to tell whether their day looks typical: things like whether they're driving, walking, or staying put, their phone battery, and the weather where they are. Family members in their Looop can also see where they are on the family map. Health details are shared only if they choose. Before you invite anyone, walk through it together so there are no surprises.
 
 **Is wellness sharing optional?**
-Yes. Steps, sleep, heart rate and other health details are shared only if your Loved One turns them on. It's their choice, and they can change their mind.
+Yes. Steps, sleep, heart rate, and other health details are shared only if your Loved One turns them on. It's their choice, and they can change their mind.
 
 **Does Looop sell my data?**
 No. Looop never sells your data, and there are no ads, ever. Families aren't the product.
 
 **Does Looop work outside the US?**
-Severe weather alerts in more than 50 countries, including the US, Canada, Mexico, most of Europe, Israel, Australia, New Zealand, Japan, South Korea, India, China, the Philippines, Brazil, South Africa, the UAE and Singapore. Crime alerts are available in all 50 US states.
+Severe weather alerts in more than 50 countries, including the US, Canada, Mexico, most of Europe, Israel, Australia, New Zealand, Japan, South Korea, India, China, the Philippines, Brazil, South Africa, the UAE, and Singapore. Crime alerts are available in all 50 US states.
 
 **Will Looop drain my battery?**
 Looop is built to go easy on battery. It uses the low-power location services built into iPhone, which wake the app when someone arrives somewhere or moves a meaningful distance, instead of keeping GPS on all day. You also get a heads-up before a Loved One's phone runs low.
