@@ -28,6 +28,7 @@ Image: transparent_map.png
 **Subtitle:** You'll know when a call is worth making.
 
 - **Severe weather near them.** Storms, flood warnings, extreme heat or cold heading toward their town.
+- **Wherever they go.** Wintering at the vacation home in Arizona, a wine tour in Napa or Tuscany, a river cruise through Europe: severe weather alerts work in more than 50 countries, and crime alerts anywhere in the US.
 - **Nearby crime.** A heads-up when something is reported near them, in all 50 US states.
 - **Unusual Day.** A gentle nudge when something is off compared to their own normal routine.
 - **Phone untouched for hours.** A heads-up if their phone hasn't been picked up in a long while.

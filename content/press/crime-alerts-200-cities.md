@@ -11,6 +11,8 @@ legal_review: false
 
 **AUSTIN, Texas, Oct. 28, 2026:** Looop, the safety notifications app for families who care from a distance, today announced that its Nearby Crime Alerts now work in all 50 US states. When crime is reported near a loved one in a supported area, Looop sends the family a heads-up, so they know it might be a good time to check in.
 
+Crime alerts work wherever a loved one goes in the US: a winter at the vacation home in Florida, a wine weekend in Napa, a college road trip, or a cruise that leaves from Galveston.
+
 For a family spread across several states, local news rarely travels. An adult child in Denver may never hear about an incident a few blocks from Mom's house in Columbus. A parent may not learn about a robbery near campus until their daughter mentions it days later. With Looop, that news reaches the family in a notification, with no crime map to scroll.
 
 "The first thing most of us want after hearing about a crime near Mom's house is to call and hear her voice. Now that we're in all 50 states, every family in the US can get that heads-up," said the team behind Looop.

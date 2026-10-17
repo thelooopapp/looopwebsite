@@ -28,6 +28,7 @@ Image: lockscreen-phones.png
 
 - **Crime alerts near campus.** A heads-up when something is reported nearby, in all 50 US states.
 - **Severe weather.** Storms, flood warnings and extreme heat or cold near their school, during finals week or any week.
+- **Wherever they go.** Spring break in Mexico, a semester abroad in Spain or Japan, a ski trip in Colorado: severe weather alerts work in more than 50 countries, and crime alerts anywhere in the US.
 - **Unusual Day.** A gentle nudge when their day looks very different from their own normal.
 - **Low battery.** Know when their phone is about to run out of charge, so a missed text doesn't send you spiraling.
 - **Airport arrivals.** Know when they land for winter break.

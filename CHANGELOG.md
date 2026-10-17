@@ -2,6 +2,17 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 12:06 CT
+
+### Copy
+- **"Wherever they go" travel examples** (HTML and `content/` sources):
+  - Aging parents: new "Wherever they go" alert item (winter at the vacation home in Arizona, a wine tour in Napa or Tuscany, a river cruise through Europe).
+  - College families: new "Wherever they go" item (spring break in Mexico, a semester abroad in Spain or Japan, a ski trip in Colorado).
+  - Homepage weather and crime line: "At the lake house, on a wine tour or studying abroad, you'll know before they have to call."
+  - Severe weather release: a "Families don't stay put" paragraph (Arizona, Tuscany, a river cruise stop in Germany, a semester in Japan). Crime release: US travel examples (Florida vacation home, Napa, a college road trip, a cruise leaving from Galveston). Austin release: Florida, Italy and Spain after the lede.
+  - Every place named is inside Looop's coverage: severe weather in the 50+ country list, crime in the US only.
+- **All five release quotes approved by the owner.**
+
 ## 2026-10-17 12:04 CT
 
 ### Copy
