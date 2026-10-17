@@ -28,7 +28,7 @@ Looop tells families when it might be a good time to check in on a loved one: wh
 
 Looop's pledge comes as advertising becomes a growing business for family location apps.
 
-Life360, a family location app, reported that its advertising revenue grew 315% year over year to $22.0 million in the second quarter of 2026 ([Q2 2026 results](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517)). The company [launched its ad platform](https://www.life360.com/press/life360-unveils-advertising-platform-to-connect-brands-with-its-engaged-community-of-40-million-u-s-monthly-active-users) in 2024 with Uber as a key partner, placing Uber ads in notifications members receive when they land at their destination. In 2025 it [launched Place Ads](https://www.life360.com/press/life360-enhances-ad-platform-launch-place-ads-and-uplift), which it says predict what families need based on the places they visit.
+Life360, a family location app, reported that its advertising revenue grew 315% year over year to $22.0 million in the second quarter of 2026 ([Q2 2026 results](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517)). The company [launched its ad platform](https://www.life360.com/press/life360-unveils-advertising-platform-to-connect-brands-with-its-engaged-community-of-40-million-u-s-monthly-active-users) in 2024 with Uber as a key partner, placing Uber ads in notifications members receive when they land at their destination. In June 2025 it [launched Place Ads](https://www.life360.com/press/life360-enhances-ad-platform-launch-place-ads-and-uplift), which it describes as "timely brand messages triggered by real-world behavior."
 
 Life360 also has a history of selling location data to a dozen data brokers, [reported by The Markup](https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user) in 2021. After that reporting, the company [said it would stop](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users) most precise location sales while continuing to work with Allstate's Arity and selling aggregated data to Placer.ai, a data business it [said had returned to growth](https://www.sec.gov/Archives/edgar/data/1581760/000158176024000105/life360incq324mediarelea.htm) in 2024.
 
@@ -41,6 +41,8 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 **About Looop**
 
 Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It sends safety alerts instead of tracking: a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+
+Life360 is a trademark of its owner. Looop is not affiliated with Life360.
 
 **Media Contact**
 

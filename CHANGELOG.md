@@ -2,6 +2,15 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 11:52 CT
+
+### Bug Fixes
+- **Life360 claims checked against their sources** in the three releases that name Life360 (HTML and `content/press/` sources):
+  - Data pledge: Place Ads now quotes Life360's own description ("timely brand messages triggered by real-world behavior", June 2025) instead of "predict what families need", which wasn't its wording.
+  - Austin startup: the Goldman Sachs line now matches the coverage ("wellness features, scam protection and emergency response", not "wellness checks"); subhead and newsroom card say "new aging-parent features", since Life360 already markets plans to aging parents.
+  - Spending alerts: the $25,000 Gold and $1 million Platinum reimbursement figures now cite Life360's US App Store listing (checked Oct. 2026) instead of its Canadian pricing page.
+  - Data pledge and spending releases now carry "Life360 is a trademark of its owner. Looop is not affiliated with Life360."
+
 ## 2026-10-17 11:48 CT
 
 ### New Features
