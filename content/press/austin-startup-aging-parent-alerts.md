@@ -1,5 +1,5 @@
 ---
-title: "Austin Startup Ships the Aging-Parent Alerts a Public Company Is Still Promising"
+title: "Austin Startup Already Ships Aging-Parent Alerts While a Public Company Is Still Promising Them"
 slug: austin-startup-aging-parent-alerts
 status: draft
 legal_review: true
@@ -12,7 +12,7 @@ placeholders: []
 
 > Editor's note (remove before release): The team quote needs the team's approval, and legal must sign off before noindex is removed (names Life360).
 
-# Austin Startup Ships the Aging-Parent Alerts a Public Company Is Still Promising
+# Austin Startup Already Ships Aging-Parent Alerts While a Public Company Is Still Promising Them
 
 ## Life360 has spent a year promising new aging-parent features. Looop launched in May 2026 and keeps shipping more.
 

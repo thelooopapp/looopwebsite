@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 11:56 CT
+
+### Copy
+- **Softer Austin startup headline** (title, page title, og:title and h1 in `press/austin-startup-aging-parent-alerts.html`, its `content/press/` source, and the newsroom card): "Austin Startup Already Ships Aging-Parent Alerts While a Public Company Is Still Promising Them", so it no longer implies Life360 promised the exact same alerts.
+
 ## 2026-10-17 11:52 CT
 
 ### Bug Fixes
