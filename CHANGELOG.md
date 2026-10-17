@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 12:38 CT
+
+### Copy
+- **"Holistic family care" across all scheduled releases and the newsroom** (`press/*.html`, `content/press/*.md`, `press/index.html`):
+  - The list is now "weather, crime, spending, health, activity and the shape of each day". "Spending" replaces "scams" so short lists don't imply scam protection; the scam link stays where it's explained (Austin "What's changed" bullet, spending release).
+  - About Looop: "It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, activity and the shape of each day come together in one answer..."
+  - Austin and data pledge: "Looop takes a holistic approach to family care: ..." Crime, weather and spending: "... is one part of Looop's holistic approach to family care."
+
 ## 2026-10-17 12:37 CT
 
 ### Copy

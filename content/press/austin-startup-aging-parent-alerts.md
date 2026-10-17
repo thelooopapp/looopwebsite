@@ -26,7 +26,7 @@ Looop's aging-parent alerts are already here. Looop launched on the App Store in
 
 Most family apps are built around a map: they answer "Where is she?" Looop answers the question families actually ask: "Is Mom okay today?"
 
-Looop is holistic by design: weather, crime, scams, health, activity and the shape of her day, in one place.
+Looop takes a holistic approach to family care: weather, crime, spending, health, activity and the shape of her day, in one place.
 
 - **Where she is:** a heads-up when she arrives at a hospital or ER, a police station or an airport, and a map for when you need it.
 - **What's around her:** severe weather in more than 50 countries and nearby crime in all 50 US states.
@@ -49,7 +49,7 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It sends safety alerts instead of tracking, and it's holistic by design: weather, crime, scams, health, activity and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, activity and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 Life360 is a trademark of its owner. Looop is not affiliated with Life360.
 
