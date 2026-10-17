@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 12:34 CT
+
+### Copy
+- **Austin startup release: holistic positioning** (`press/austin-startup-aging-parent-alerts.html` and its `content/press/` source): the "built around one question" line and the six-item alert list are replaced by a map-vs-question contrast ("Most family apps are built around a map... Looop answers... 'Is Mom okay today?'"), "Looop is holistic by design: weather, crime, health, activity and the shape of her day, in one place," four areas (Where she is, What's around her, How she's doing, What's changed) and the closer "Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call." Health devices named (Apple Watch, Oura, Whoop); the existing invitation and choice line still follows. No method words, no "just location" claim about Life360.
+
 ## 2026-10-17 12:13 CT
 
 ### Copy

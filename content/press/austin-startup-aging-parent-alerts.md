@@ -24,16 +24,16 @@ In October 2025, Life360 CEO Lauren Antonoff [discussed on Fox Business](https:/
 
 Looop's aging-parent alerts are already here. Looop launched on the App Store in May 2026 and has shipped new features and updates steadily since.
 
-Looop's alerts are built around one question: "Is Mom okay today?"
+Most family apps are built around a map: they answer "Where is she?" Looop answers the question families actually ask: "Is Mom okay today?"
 
-**Alerts live in Looop today**
+Looop is holistic by design: weather, crime, health, activity and the shape of her day, in one place.
 
-- **Severe weather and nearby crime (new)**: severe weather alerts in more than 50 countries, and nearby crime alerts in all 50 US states.
-- **Unusual Day**: a nudge when something is off compared to a loved one's own normal routine.
-- **Phone untouched for hours**: a heads-up when their phone hasn't been picked up.
-- **Unusual spending**: an optional alert for unusually large spending on a linked bank account, which can be an early sign of a scam. Bank linking is optional and runs through Plaid.
-- **Arrivals that matter**: know when a loved one arrives at a hospital or ER, a police station or an airport.
-- **Optional health alerts**: unusually high or low heart rate or an unusual breathing rate, shared only if the loved one chooses, through Apple Health and Apple Watch.
+- **Where she is:** a heads-up when she arrives at a hospital or ER, a police station or an airport, and a map for when you need it.
+- **What's around her:** severe weather in more than 50 countries and nearby crime in all 50 US states.
+- **How she's doing:** heart rate, breathing, sleep and steps, through Apple Health and devices like Apple Watch, Oura and Whoop.
+- **What's changed:** walking, driving, time spent in one place, phone use that's higher or lower than usual, a phone left untouched for hours, and unusually large spending on a linked account, which can be an early sign of a scam.
+
+Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 Every loved one joins Looop by invitation and decides whether to share health details or link a bank account.
 
