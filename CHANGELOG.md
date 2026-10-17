@@ -2,6 +2,17 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 11:34 CT
+
+### Copy
+- **Team voice instead of "the founder"**: "Email the founder directly..." is now "Talk to the people who build Looop..." / "Email the people who build Looop..." on How it works (account list and feedback FAQ) and the privacy promise (HTML and `content/website/` sources).
+- **Looop vs. Life360**: "Those are fair goals for a public company. Looop is an independent startup, and we answer to families, not advertisers."
+- **Homepage**: "Works with Apple Health, Apple Watch, Oura, Whoop and Plaid." under the How it works trio (text only; backed by the Apple Health page).
+- **Austin startup release**: "Looop is a safety notifications app for families who care from a distance, built by an independent startup that answers to families, not advertisers." No "built with AI" claim.
+- **Review list** (`review.html`): founder bio, launch-date and "built with AI" items removed; press item now covers quote approval, legal sign-off and noindex removal for the Oct. 26 to 30 releases; new item to switch site crime copy to all 50 states when the new provider is live.
+
+Applied from the reviewed parts of another session's commit 5d496dd (discarded); its founder-name, "builds with AI", "Looop, LLC" and "four continents" changes were not applied because they reverse decisions made since.
+
 ## 2026-10-17 11:24 CT
 
 ### Copy

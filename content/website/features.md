@@ -144,7 +144,7 @@ Every stat is marked Typical or Unusual, based only on that person's own pattern
 - Bank linking is optional and secured through Plaid.
 - Leave a group, remove a member or start a new group anytime.
 - Delete your account and data whenever you choose.
-- Email the founder directly with feedback or to request a new alert.
+- Talk to the people who build Looop, with feedback or a request for a new alert.
 
 [Read our privacy promise](privacy-promise.html)
 
@@ -180,7 +180,7 @@ No. Looop gives you a heads-up when something seems off, so you know when to che
 Yes. You can leave a group anytime, and delete your account and data whenever you choose.
 
 **How do I give feedback or ask for a new alert?**
-Email the founder directly from the app, or send us a note through our Get in Touch form. We read everything.
+Email the people who build Looop straight from the app, or send us a note through our Get in Touch form. We read everything.
 
 ---
 

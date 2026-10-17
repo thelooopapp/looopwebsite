@@ -66,7 +66,7 @@ This page compares the two, with sources, including where Life360 may be the bet
 
 Looop was designed from the first screen around one question: "Is Mom okay today?" Every alert exists to answer it.
 
-Life360 is adding aging parents to an app built for a different job. Its [aging-parent page](https://www.life360.com/en-ca/plans-pricing-ap) pitches its premium Gold and Platinum plans. On its [Q2 2026 earnings call](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/), CEO Lauren Antonoff named aging parents as a next line of business, alongside advertising and pets. Its head of design [credits his redesign](https://www.jaytrainerdesign.com/project/life360) with a 22% lift in premium conversion. Those are fair goals for a public company, and they differ from ours.
+Life360 is adding aging parents to an app built for a different job. Its [aging-parent page](https://www.life360.com/en-ca/plans-pricing-ap) pitches its premium Gold and Platinum plans. On its [Q2 2026 earnings call](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/), CEO Lauren Antonoff named aging parents as a next line of business, alongside advertising and pets. Its head of design [credits his redesign](https://www.jaytrainerdesign.com/project/life360) with a 22% lift in premium conversion. Those are fair goals for a public company. Looop is an independent startup, and we answer to families, not advertisers.
 
 ### Your parent's data is never for sale
 
