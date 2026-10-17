@@ -19,7 +19,7 @@ legal_review: false
 
 Sending a parent an app invite can feel strangely hard. You know why you're asking. You love them, you live far away, and you worry. But a link with no context can land the wrong way. It can sound like "I don't trust you," when what you mean is "I miss you, and I want to know when to call."
 
-So we wrote a letter. It's the note we'd want to send our own parents before an invite ever arrives. Copy it, change every word that doesn't sound like you, and send it by email, text or even on paper.
+So we wrote a letter. It's the note we'd want to send our own parents before an invite ever arrives. Copy it, change every word that doesn't sound like you, and send it by email, text, or even on paper.
 
 ## Before you send it: a note for you
 
@@ -94,7 +94,7 @@ The letter works for anyone you care about from a distance. A few easy swaps:
 
 - **For Dad:** "Your golf Tuesdays," "your workshop," "the drive to the lake."
 - **For a grandparent:** Keep it short. Add a line about a favorite memory.
-- **For an aunt, sibling or friend:** Lean on "look out for each other." Make it mutual from the first line.
+- **For an aunt, sibling, or friend:** Lean on "look out for each other." Make it mutual from the first line.
 
 Whoever it's for, keep the part where you say you trust them, and explain that you'd like a quieter way to know when to call.
 

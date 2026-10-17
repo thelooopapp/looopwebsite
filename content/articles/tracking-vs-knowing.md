@@ -23,7 +23,7 @@ That answer made sense once, and it doesn't fit most families anymore. This piec
 
 ## The map was built for a different family
 
-Most tracking apps were designed for one kind of family: two parents, a couple of kids, everyone in the same town. The kids are young. They need rides, curfews and a grown-up who knows where they are.
+Most tracking apps were designed for one kind of family: two parents, a couple of kids, everyone in the same town. The kids are young. They need rides, curfews, and a grown-up who knows where they are.
 
 For that family, a dot on a map is a reasonable tool. A parent of a 12-year-old is supposed to know where their child is. That's part of the job.
 
@@ -72,7 +72,7 @@ Older parents feel this most. A mom who has lived on her own terms for decades d
 
 ### It treats everyone like a kid
 
-The map model assumes one person in charge and everyone else being looked after. That doesn't fit sisters, friends, partners or a parent and adult child who look out for each other.
+The map model assumes one person in charge and everyone else being looked after. That doesn't fit sisters, friends, partners, or a parent and adult child who look out for each other.
 
 ## A different answer: safety notifications
 
@@ -97,7 +97,7 @@ If you're comparing family safety apps, these are the principles this category s
 
 ### 1. Notifications come first
 
-The heart of the app is the heads-up: nearby crime alerts, severe weather alerts and gentle nudges when a day looks unusual. A map can exist as a supporting tool, the place you look once something has come up.
+The heart of the app is the heads-up: nearby crime alerts, severe weather alerts, and gentle nudges when a day looks unusual. A map can exist as a supporting tool, the place you look once something has come up.
 
 ### 2. Just enough to know
 
@@ -121,11 +121,11 @@ Looop is a safety notifications app, built from the ground up around these five 
 
 **It tells you about what's around them.** Looop sends a heads-up when severe weather is heading toward a Loved One, in more than 50 countries, including the US, and when crime is reported near them in all 50 US states. You choose your own crime alert distance.
 
-**It notices when a day looks different.** Looop learns each person's own normal. When driving, walking or phone use looks unusual for them, or their whole day looks off compared to their usual routine, you get a gentle "Unusual Day" nudge to check in.
+**It notices when a day looks different.** Looop learns each person's own normal. When driving, walking, or phone use looks unusual for them, or their whole day looks off compared to their usual routine, you get a gentle "Unusual Day" nudge to check in.
 
 **It stays quiet the rest of the time.** On a typical day, there's nothing to check. Your Looop shows who's having a normal day and who might need a look, in plain language, at a glance.
 
-**It respects choice.** Loved Ones join by invitation. Health details like steps, heart rate and sleep are optional and shared only if they choose. Anyone can leave a group anytime.
+**It respects choice.** Loved Ones join by invitation. Health details like steps, heart rate, and sleep are optional and shared only if they choose. Anyone can leave a group anytime.
 
 **It keeps the map in its place.** There is a family map, for the moment after a nudge when you want a little more context. It's a supporting feature.
 
@@ -139,7 +139,7 @@ Safety notifications fit any group of people who care about each other from a di
 - **Parents of college students:** give your kids real independence and still sleep at night.
 - **Adult children of aging parents:** Mom keeps her routine, and you hear about it when her day looks off.
 - **Siblings sharing the load:** everyone gets the same heads-up, so you can agree on who calls Dad.
-- **Friends, partners and chosen family:** look out for each other, both ways.
+- **Friends, partners, and chosen family:** look out for each other, both ways.
 
 ## The question worth asking
 

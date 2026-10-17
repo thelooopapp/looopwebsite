@@ -63,7 +63,7 @@ A broker draws a virtual boundary around a place: a store, a stadium, a clinic, 
 The FTC's cases show how detailed these lists get:
 
 - **InMarket** matched people's location histories against places of interest and built [nearly 2,000 audience lists](https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-order-will-ban-inmarket-selling-precise-consumer-location-data), with names like "parents of preschoolers" and "Christian church goers."
-- **Gravy Analytics** and its subsidiary Venntel [sold profiles](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers) that could reveal health decisions, religious practice, political activity and union membership, based on the places people visited.
+- **Gravy Analytics** and its subsidiary Venntel [sold profiles](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers) that could reveal health decisions, religious practice, political activity, and union membership, based on the places people visited.
 - **Mobilewalla** built groups such as pregnant women, based on [visits to pregnancy centers](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-mobilewalla-collecting-selling-sensitive-location-data).
 
 None of these people signed up to be in an ad audience.
@@ -76,7 +76,7 @@ The FTC has brought a run of cases against location data companies. The table be
 
 | Company and date | What the FTC said | What changed |
 | --- | --- | --- |
-| X-Mode Social, now Outlogic (January 2024) | Sold location data that could reveal visits to clinics, places of worship and shelters, without informed consent | Banned from sharing or selling sensitive location data |
+| X-Mode Social, now Outlogic (January 2024) | Sold location data that could reveal visits to clinics, places of worship, and shelters, without informed consent | Banned from sharing or selling sensitive location data |
 | InMarket (January 2024) | Used location from its own apps and SDK to sort people into ad audiences | Banned from selling or licensing precise location data, which the FTC called a first |
 | Gravy Analytics and Venntel (December 2024) | Bought location data from other suppliers and sold sensitive profiles | Barred from selling sensitive location data, with narrow exceptions; must delete historic location data |
 | Mobilewalla (December 2024) | Collected location from ad auctions, even when it lost the bid | Barred from selling sensitive location data and from using auction data for other purposes |
@@ -94,7 +94,7 @@ A pattern of places tells a story: home, work, a Tuesday appointment, a Sunday s
 
 "Anonymous" doesn't always mean anonymous. In its X-Mode case, the FTC noted that raw location data can match a person's phone to the places they visited. In its Kochava lawsuit, the FTC said the data could follow a person [from a clinic to a single-family home](https://www.axios.com/2022/08/29/ftc-sues-data-broker-kochava-tracking-geolocation-data).
 
-With a family app, the story also belongs to your kids, your parents and your partner. Many of them said yes because you asked. And once data is sold, there's no simple way to get it back.
+With a family app, the story also belongs to your kids, your parents, and your partner. Many of them said yes because you asked. And once data is sold, there's no simple way to get it back.
 
 ## What you can do today
 

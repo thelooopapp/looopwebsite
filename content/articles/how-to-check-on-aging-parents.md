@@ -25,7 +25,7 @@ This guide covers how to tell when it might be time to do more, how to have the 
 
 Before any plan, name the goal. For most families, it's knowing enough to tell when a call might help.
 
-Your parent wants independence, privacy and a life that isn't organized around your worry. You want to worry less and to show up when it counts. A good setup gives each of you what you need.
+Your parent wants independence, privacy, and a life that isn't organized around your worry. You want to worry less and to show up when it counts. A good setup gives each of you what you need.
 
 It also runs both ways. Your parent worries about you, too: the late drive home, the storm in your city. The best setups are shared, so they get the same quiet signal about you that you get about them. You're each sharing just enough to know when something is off.
 
@@ -37,9 +37,9 @@ There's rarely one big moment. Usually it's a handful of small ones that add up.
 
 - **Life changed shape.** A parent recently lost a spouse, separated, or moved into a home on their own. Living alone is normal and often wonderful. It also means fewer people notice a rough day.
 - **Calls are harder to land.** You've been playing phone tag for weeks, and you're not sure if they're busy or just not picking up.
-- **The routine shifted.** They've stopped going to the Tuesday golf game, the book club or church, and haven't said why.
+- **The routine shifted.** They've stopped going to the Tuesday golf game, the book club, or church, and haven't said why.
 - **Small things around the house.** Mail piling up, a car with a new scrape, a fridge that looks different than usual.
-- **Weather and distance.** They live somewhere with hurricanes, blizzards or summer heat waves, and you only hear about storms from the news.
+- **Weather and distance.** They live somewhere with hurricanes, blizzards, or summer heat waves, and you only hear about storms from the news.
 - **You're the only one checking.** You have no siblings nearby, or you and your siblings each assume the other one called.
 
 If a few of these sound familiar, your concern makes sense. The next step is a conversation, before you set anything up.
@@ -101,7 +101,7 @@ Gather the information you'd want on a hard day: their doctors, pharmacy, a trus
 
 ### 2. A plan with your siblings or helpers
 
-If you share the load with a brother, sister or friend, agree on who calls when. "I'll call if there's a storm, you text on Sundays" saves a lot of guilt and a lot of overlapping calls.
+If you share the load with a brother, sister, or friend, agree on who calls when. "I'll call if there's a storm, you text on Sundays" saves a lot of guilt and a lot of overlapping calls.
 
 ### 3. A way to hear about what's around them
 

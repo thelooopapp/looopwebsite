@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 12:55 CT
+
+### Copy
+- **Oxford commas, second batch** (HTML and `content/` sources): Crime Near Mom, Before You Link Mom's Bank Account, Apple Watch for Aging Parents, How Location Apps Make Money, How to Check on Aging Parents, Tracking vs. Knowing, Letter to Mom, Apple Background Location Explained, and the blog index (41 commas, including meta descriptions and the "Privacy, money, and scams" heading). Quoted third-party wording, deliberate "and... and" style, and two-item pairs unchanged.
+
 ## 2026-10-17 12:54 CT
 
 ### Copy

@@ -33,7 +33,7 @@ This guide explains how that works with Looop, what stays in your parent's hands
 
 The data reaches you in four steps.
 
-**1. The watch notices.** As your parent wears their Apple Watch, it measures things like heart rate, sleep and steps. Apple's [sleep guide for Apple Watch](https://support.apple.com/en-us/108906) explains that sleep data, including time in REM, Core and Deep sleep, shows up in the Health app on iPhone.
+**1. The watch notices.** As your parent wears their Apple Watch, it measures things like heart rate, sleep, and steps. Apple's [sleep guide for Apple Watch](https://support.apple.com/en-us/108906) explains that sleep data, including time in REM, Core, and Deep sleep, shows up in the Health app on iPhone.
 
 **2. Apple Health keeps it on the iPhone.** The Health app is where Apple stores that data. According to [Apple's Health app privacy overview](https://www.apple.com/legal/privacy/data/en/health-app/), other apps must ask permission to read it, must explain why, and you can change what you share at any time.
 
@@ -41,7 +41,7 @@ The data reaches you in four steps.
 
 **4. You see a calm summary.** Each stat is marked Typical or Unusual, based on your parent's own patterns. If something stands out, Looop gives you a gentle nudge that it might be a good time to check in.
 
-That's why there's no extra watch app to install, update or charge. If your parent already wears the watch and carries the phone, the pieces are in place.
+That's why there's no extra watch app to install, update, or charge. If your parent already wears the watch and carries the phone, the pieces are in place.
 
 ## What your parent can choose to share
 
@@ -51,7 +51,7 @@ Every one of these is optional. Your parent can share all of them, some of them,
 | --- | --- | --- |
 | Heart rate | Apple Watch, through Apple Health | A nudge if it's unusually high or low for them |
 | Breathing rate | Apple Watch, through Apple Health | A nudge if it's unusual for them |
-| Sleep | Apple Watch, through Apple Health | Deep, REM and light sleep, plus naps, marked Typical or Unusual |
+| Sleep | Apple Watch, through Apple Health | Deep, REM, and light sleep, plus naps, marked Typical or Unusual |
 | Steps and walking | iPhone and Apple Watch | Today's steps and walking time compared to their usual |
 | Loud environments | Apple Watch Noise app, through Apple Health | A heads-up if they're somewhere dangerously loud |
 
@@ -61,7 +61,7 @@ A note on loud places: Apple's guide to the [Noise app](https://support.apple.co
 
 Looop isn't a medical device. It doesn't diagnose anything, and it doesn't detect medical events or emergencies. A nudge about an unusual heart rate or a short night's sleep means one thing: today looks different from their usual, so a call might be nice.
 
-Lots of ordinary things can change a day's numbers, like a brisk walk, a late movie, a cold or a long flight. Often the best response is a simple "Hey, just thinking of you." If you have real concerns about a parent's health, talk with them about seeing their doctor. And if you ever believe someone is in immediate danger, call 911.
+Lots of ordinary things can change a day's numbers, like a brisk walk, a late movie, a cold, or a long flight. Often the best response is a simple "Hey, just thinking of you." If you have real concerns about a parent's health, talk with them about seeing their doctor. And if you ever believe someone is in immediate danger, call 911.
 
 ## Consent first, always
 

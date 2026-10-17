@@ -30,7 +30,7 @@ Crime maps are useful tools for some jobs. If you're choosing an apartment or a 
 For a family caring from a distance, a map often does the opposite of what you want.
 
 - **It shows everything, everywhere.** A city map fills up with incidents that have nothing to do with the person you love. Every dot asks for your attention.
-- **It turns you into the analyst.** You end up working out distances, reading report codes and guessing what "disturbance" means.
+- **It turns you into the analyst.** You end up working out distances, reading report codes, and guessing what "disturbance" means.
 - **It invites checking.** Once you open a map, it's easy to open it again tomorrow and the day after, until checking it is daily homework.
 - **It doesn't tell you what to do.** A map shows you what happened. It doesn't say whether this is a moment to reach out.
 
@@ -49,7 +49,7 @@ Looop also has a family map for the moment after an alert, if you want more cont
 
 ## How to choose your alert distance
 
-In Looop, you choose the crime alert distance for each Loved One: 1, 3, 5 or 10 miles. There's no single right answer. A few questions help.
+In Looop, you choose the crime alert distance for each Loved One: 1, 3, 5, or 10 miles. There's no single right answer. A few questions help.
 
 **How dense is their area?** In a busy city neighborhood, a lot happens within a few miles. A 1-mile distance keeps alerts close to home. In a small town or a rural county, a wider distance may make more sense, since fewer incidents are reported and they're spread out.
 
@@ -74,7 +74,7 @@ A crime alert can make your heart jump, especially when it's about a parent or a
 
 **1. Take a breath.** Most alerts don't involve your Loved One at all. They're about something that happened nearby. Reported crime in a neighborhood is common. Treat the alert as information.
 
-**2. Reach out simply.** Call, or send a short text. Keep it light: "Saw there was something going on near you. Everything okay over there?" In Looop, you can call, text or FaceTime straight from their card, or send a one-tap "Are you ok?"
+**2. Reach out simply.** Call, or send a short text. Keep it light: "Saw there was something going on near you. Everything okay over there?" In Looop, you can call, text, or FaceTime straight from their card, or send a one-tap "Are you ok?"
 
 **3. Don't lead with the scary part.** You don't need to read them the details. A warm check-in feels like care. Reading out a list of what happened can make them anxious.
 
@@ -82,7 +82,7 @@ A crime alert can make your heart jump, especially when it's about a parent or a
 
 **5. Coordinate if you share the load.** If siblings or friends get the same alert, agree on who calls. Five calls in ten minutes can make anyone think something is badly wrong.
 
-**6. If you can't reach them and something feels wrong, trust your gut.** Try another way, like a neighbor, a friend nearby or an emergency contact. If you think someone is in danger, call 911 first.
+**6. If you can't reach them and something feels wrong, trust your gut.** Try another way, like a neighbor, a friend nearby, or an emergency contact. If you think someone is in danger, call 911 first.
 
 Looop helps you know when to check in. It doesn't prevent crime, and it isn't an emergency service.
 
@@ -90,7 +90,7 @@ Looop helps you know when to check in. It doesn't prevent crime, and it isn't an
 
 Crime alerts work best when the person they're about knows they exist.
 
-Before you set anything up, tell your parent, your college student or your friend what you'll see and why. A simple version: "If something gets reported near your place, I'll get a heads-up, so I might call. Otherwise I won't be calling every day."
+Before you set anything up, tell your parent, your college student, or your friend what you'll see and why. A simple version: "If something gets reported near your place, I'll get a heads-up, so I might call. Otherwise I won't be calling every day."
 
 For many parents, that's a relief: fewer "just checking" calls, and when you do call, there's a reason. For more on that conversation, see our guide on [how to check on aging parents without making them feel watched](blog/how-to-check-on-aging-parents.html).
 
@@ -98,7 +98,7 @@ For many parents, that's a relief: fewer "just checking" calls, and when you do 
 
 Crime alerts have limits, and it helps to know them before you rely on them.
 
-- **All 50 US states.** Crime alerts work for a Loved One anywhere in the US, in cities, suburbs and small towns alike.
+- **All 50 US states.** Crime alerts work for a Loved One anywhere in the US, in cities, suburbs, and small towns alike.
 - **US only.** Crime alerts don't work outside the US. Severe weather alerts and other nudges still work.
 - **Reported crime only.** Alerts reflect what has been reported. Not every incident is reported, and reports can take time.
 

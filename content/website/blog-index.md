@@ -26,12 +26,12 @@ Caring for people you love from far away comes with real questions. When should 
 
 ### The Holiday Visit Checklist: What to Notice When You See Your Parents
 **Eyebrow:** Aging parents
-**Teaser:** A warm checklist of what to notice about home, health, mood, money and driving, how to raise concerns kindly, and what to set up before you leave.
+**Teaser:** A warm checklist of what to notice about home, health, mood, money, and driving, how to raise concerns kindly, and what to set up before you leave.
 **Link:** blog/holiday-visit-checklist.html
 
 ### A Letter to Mom: Why I Asked You to Join Looop
 **Eyebrow:** Aging parents
-**Teaser:** Not sure how to ask a parent to join a family app? A warm letter you can copy, change and send, with consent and independence first.
+**Teaser:** Not sure how to ask a parent to join a family app? A warm letter you can copy, change, and send, with consent and independence first.
 **Link:** blog/letter-to-mom.html
 
 ### Using Apple Watch to Stay Close to Aging Parents, No Extra App Needed
@@ -46,7 +46,7 @@ Caring for people you love from far away comes with real questions. When should 
 
 ### Mom Isn't a Pet (or Your Keys)
 **Eyebrow:** Aging parents
-**Teaser:** Some family apps now put parents, pets and lost-item tags in one place. Why a parent who lives on her own deserves an app built only for people.
+**Teaser:** Some family apps now put parents, pets, and lost-item tags in one place. Why a parent who lives on her own deserves an app built only for people.
 **Link:** blog/mom-isnt-a-pet.html
 
 ## Safety alerts
@@ -66,11 +66,11 @@ Caring for people you love from far away comes with real questions. When should 
 **Teaser:** Your people are adults now. How safety notifications tell you when to check in, and what that means for independence.
 **Link:** blog/tracking-vs-knowing.html
 
-## Privacy, money and scams
+## Privacy, money, and scams
 
 ### How Location Apps Turn Your Family's Movements Into Ad Money
 **Eyebrow:** Privacy
-**Teaser:** Where your location goes after you tap Allow: data brokers, ad auctions and resale, what regulators found, and what families can do today.
+**Teaser:** Where your location goes after you tap Allow: data brokers, ad auctions, and resale, what regulators found, and what families can do today.
 **Link:** blog/how-location-apps-make-money.html
 
 ### Who's Really Paying for Your Free Family Safety App?
@@ -102,12 +102,12 @@ Caring for people you love from far away comes with real questions. When should 
 
 ### The Best Life360 Alternatives in 2026
 **Eyebrow:** Comparison
-**Teaser:** We compare Apple Find My, Google, Family Link, Glympse and Looop: what each shares, how it notifies you, and who it fits best.
+**Teaser:** We compare Apple Find My, Google, Family Link, Glympse, and Looop: what each shares, how it notifies you, and who it fits best.
 **Link:** blog/best-life360-alternatives.html
 
 ### Looop vs. Life360
 **Eyebrow:** Comparison
-**Teaser:** How Looop and Life360 differ on alerts, privacy and ads, with sources, including where Life360 may fit better.
+**Teaser:** How Looop and Life360 differ on alerts, privacy, and ads, with sources, including where Life360 may fit better.
 **Link:** looop-vs-life360.html
 
 ## CTA

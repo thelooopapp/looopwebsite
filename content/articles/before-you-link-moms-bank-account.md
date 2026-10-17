@@ -1,7 +1,7 @@
 ---
 title: "Before You Link Mom's Bank Account to Any App, Ask These 5 Questions"
 slug: before-you-link-moms-bank-account
-meta_description: "Thinking of linking a parent's bank account to an app for scam or spending alerts? Ask these 5 questions first, about data sales, access, consent and control."
+meta_description: "Thinking of linking a parent's bank account to an app for scam or spending alerts? Ask these 5 questions first, about data sales, access, consent, and control."
 primary_keyword: linking parent's bank account to an app
 secondary_keywords:
   - spending alerts for aging parents
@@ -23,11 +23,11 @@ So before you link Mom's bank account to any app, including ours, ask a few plai
 
 ## Why families are thinking about this
 
-Scams that target older adults are a real and growing problem. The Federal Trade Commission reports that fraud losses reported by adults 60 and over rose about fourfold, from about $600 million in 2020 to [$2.4 billion in 2024](https://www.ftc.gov/news-events/news/press-releases/2025/12/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults). The FTC says the rise was driven largely by reports of losses over $100,000, often from investment scams, romance scams and impersonators.
+Scams that target older adults are a real and growing problem. The Federal Trade Commission reports that fraud losses reported by adults 60 and over rose about fourfold, from about $600 million in 2020 to [$2.4 billion in 2024](https://www.ftc.gov/news-events/news/press-releases/2025/12/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults). The FTC says the rise was driven largely by reports of losses over $100,000, often from investment scams, romance scams, and impersonators.
 
 Many of those losses show up first as money leaving an account. That's why a heads-up about unusual spending can help a family notice sooner, and why apps are starting to offer it.
 
-The data that makes it work is sensitive, though. A bank account shows where someone shops, what they give to, which doctors they pay and how they live. It deserves at least as much care as a location.
+The data that makes it work is sensitive, though. A bank account shows where someone shops, what they give to, which doctors they pay, and how they live. It deserves at least as much care as a location.
 
 ## Question 1: Does this company sell data or work with advertisers?
 
@@ -35,7 +35,7 @@ We put this question first. If an app's business includes selling data or advert
 
 **What to look for:** a plain sentence, like "We never sell your data and we don't work with advertisers." Be careful with softer wording such as "we don't sell personal information," which can come with exceptions in the fine print.
 
-**Where to check:** the privacy policy, the App Store privacy label and the company's own news. Some family location apps have sold location data in the past, and some run growing ad businesses today. Our guides on [how location apps make money](how-location-apps-make-money.html) and [who's paying for your family safety app](whos-paying-for-your-family-safety-app.html) explain what to look for.
+**Where to check:** the privacy policy, the App Store privacy label, and the company's own news. Some family location apps have sold location data in the past, and some run growing ad businesses today. Our guides on [how location apps make money](how-location-apps-make-money.html) and [who's paying for your family safety app](whos-paying-for-your-family-safety-app.html) explain what to look for.
 
 An app with that business model may never misuse spending data. Still, you should know the model before you decide.
 
@@ -77,14 +77,14 @@ An app can be one helpful piece. These steps work on their own, too.
 
 - **Ask her bank about a trusted contact.** Federal banking agencies have encouraged banks to offer a [trusted contact](https://www.fdic.gov/news/press-releases/2024/agencies-issue-statement-elder-financial-exploitation) process, so they know who to reach if something seems wrong.
 - **Turn on the bank's own alerts.** Many banks can text or email when a large payment goes out. Mom can choose who gets them.
-- **Talk about common scam signs.** The FTC lists [four signs](https://www.consumer.ftc.gov/articles/how-avoid-scam): someone pretending to be from an organization you know, a problem or prize, pressure to act right away, and a demand to pay in a specific way, like gift cards, wire transfers or crypto.
+- **Talk about common scam signs.** The FTC lists [four signs](https://www.consumer.ftc.gov/articles/how-avoid-scam): someone pretending to be from an organization you know, a problem or prize, pressure to act right away, and a demand to pay in a specific way, like gift cards, wire transfers, or crypto.
 - **Agree on a "call me first" rule.** The FTC's best advice is to stop and talk to someone you trust before acting. Make that person easy to reach.
 
 ## How Looop answers these questions
 
 Looop is a safety notifications app. Spending alerts are one optional piece of it. These are our answers to each question.
 
-1. **Data and advertisers:** Looop never sells your data and doesn't work with advertisers. That covers bank data, location data and everything else.
+1. **Data and advertisers:** Looop never sells your data and doesn't work with advertisers. That covers bank data, location data, and everything else.
 2. **The connection:** Bank linking runs through Plaid. Looop never sees bank passwords.
 3. **What it does:** Looop reads transactions on a linked account and sends a heads-up when one goes over an amount you set. An unusually large payment can be an early sign of a scam, so you can call Mom that same day. Looop can't tell whether a payment is a scam, and it doesn't stop or reverse payments. It tells you when a call might be worth making.
 4. **Consent:** Loved Ones join Looop by invitation. We encourage families to set up spending alerts together, with the account holder's OK.

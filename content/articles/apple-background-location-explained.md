@@ -62,7 +62,7 @@ None of these tools work without permission from the person who owns the phone. 
 - **While Using.** The app gets location only while someone is using it. Apple calls this the preferred choice for privacy and battery.
 - **Always.** The app can get updates at any time, and the system can quietly relaunch it for some kinds of updates.
 
-That second point explains the "secret." Apple's own table spells it out: with Always permission, the system relaunches a closed app for significant location changes, visits and region alerts. With While Using, it doesn't. The person must launch the app.
+That second point explains the "secret." Apple's own table spells it out: with Always permission, the system relaunches a closed app for significant location changes, visits, and region alerts. With While Using, it doesn't. The person must launch the app.
 
 Apple also requires every app to explain itself. When an app asks, iPhone shows a prompt with the app's own reason in plain words, and an app that wants Always access must write a separate explanation for that, too. Apple adds that people can change an app's permission at any time in Settings.
 
