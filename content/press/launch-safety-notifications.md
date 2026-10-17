@@ -8,7 +8,7 @@ legal_review: false
 
 ## The new safety notifications app tells families when to check in on loved ones near and far, and pledges to never sell data or work with advertisers
 
-**AUSTIN, Texas, [DATE]:** LooopApp LLC today announced the launch of Looop, a safety notifications app for families, friends and loved ones who care for each other from a distance. Looop sends families a heads-up when something might need their attention, so they know when a call is worth making.
+**AUSTIN, Texas, [DATE]:** LooopApp LLC today announced the launch of Looop, a safety notifications app for families, friends, and loved ones who care for each other from a distance. Looop sends families a heads-up when something might need their attention, so they know when a call is worth making.
 
 Many adults now care for people in several places at once: kids at college in one state, a parent living alone in another, siblings and friends spread across the country. Looop is built for these families, whose relationships run on trust and independence.
 
@@ -20,10 +20,10 @@ Looop learns each loved one's usual routine and sends a notification when someth
 
 - **Severe weather alerts:** A heads-up when severe weather is heading toward a loved one, in more than 50 countries, including the US.
 - **Nearby crime alerts:** A notification when crime is reported near a loved one, in supported cities, with an alert distance each family chooses.
-- **Unusual activity nudges:** An "Unusual Day" alert when driving, walking or phone use looks different from that person's own normal routine.
+- **Unusual activity nudges:** An "Unusual Day" alert when driving, walking, or phone use looks different from that person's own normal routine.
 - **Daily reassurance at a glance:** One simple screen that shows who is having a typical day and who might need a look, in plain language.
-- **Optional wellness snapshots:** Steps, heart rate and sleep, shared only if each person chooses.
-- **One-tap check-ins:** Call, text or FaceTime a loved one, or send a quick "Love you!", straight from their card.
+- **Optional wellness snapshots:** Steps, heart rate, and sleep, shared only if each person chooses.
+- **One-tap check-ins:** Call, text, or FaceTime a loved one, or send a quick "Love you!", straight from their card.
 
 A family map is available as a supporting feature, for the moment after a nudge when a family wants more context.
 
@@ -41,7 +41,7 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It sends safety alerts instead of tracking: a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It sends safety alerts instead of tracking: a heads-up about nearby crime, severe weather, and unusual activity, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 **Media Contact**
 

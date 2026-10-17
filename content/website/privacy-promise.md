@@ -23,11 +23,11 @@ Looop is a private family safety app. Its job is to tell families when to check 
 
 1. **We never sell your data.** We don't sell it to data brokers or anyone else. Some family apps have. We never will.
 2. **We don't work with advertisers.** You won't see ads in your notifications, and we have no ad partners. Families aren't the product.
-3. **Wellness sharing is optional.** Steps, sleep, heart rate and other health details are shared only if the Loved One chooses. They can change their mind anytime.
+3. **Wellness sharing is optional.** Steps, sleep, heart rate, and other health details are shared only if the Loved One chooses. They can change their mind anytime.
 4. **Bank linking is optional, and secured through Plaid.** Spending alerts only work if someone chooses to link an account. Skip it and everything else still works.
 5. **You choose your alerts.** Pick exactly which alerts you get about each person. Turn alerts off for anyone with one tap.
-6. **You can leave anytime.** Leave a group, remove a member or start a new group whenever you like. Delete your account and data whenever you choose.
-7. **You can talk to a real person.** Email the people who build Looop with a question, a worry or a new idea.
+6. **You can leave anytime.** Leave a group, remove a member, or start a new group whenever you like. Delete your account and data whenever you choose.
+7. **You can talk to a real person.** Email the people who build Looop with a question, a worry, or a new idea.
 
 ## Just enough to know
 

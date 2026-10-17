@@ -1,7 +1,7 @@
 ---
 title: "Check On Aging Parents From Afar, Without Hovering"
 slug: for-aging-parents
-meta_description: "Check on aging parents living alone without hovering. Looop sends a gentle heads-up about storms, nearby crime and unusual days, so you know when to call."
+meta_description: "Check on aging parents living alone without hovering. Looop sends a gentle heads-up about storms, nearby crime, and unusual days, so you know when to call."
 primary_keyword: check on aging parents
 secondary_keywords:
   - aging parents living alone
@@ -17,7 +17,7 @@ legal_review: false
 
 **Subtitle:** A gentle way to check on aging parents from far away, with alerts instead of tracking.
 
-If your parents live alone in another city or state, the worry runs quietly in the background of your day. Looop helps carry it. It sends a heads-up when a storm is heading their way, when something is reported nearby, or when their day looks different than usual. Instead of checking their weather, a location app, a health app and your bank alerts, it's all in one place. Otherwise, it stays quiet.
+If your parents live alone in another city or state, the worry runs quietly in the background of your day. Looop helps carry it. It sends a heads-up when a storm is heading their way, when something is reported nearby, or when their day looks different than usual. Instead of checking their weather, a location app, a health app, and your bank alerts, it's all in one place. Otherwise, it stays quiet.
 
 [Download Looop]
 
@@ -87,7 +87,7 @@ Not sure what to say? Read our guide: [How to Check On Aging Parents Without Mak
 
 ## When it's time to call
 
-Every Loved One's card has one-tap call, text and FaceTime, and quick messages like "Love you!" And if you ever need it, you can call 911 or one of their saved emergency contacts in one tap.
+Every Loved One's card has one-tap call, text, and FaceTime, and quick messages like "Love you!" And if you ever need it, you can call 911 or one of their saved emergency contacts in one tap.
 
 Looop helps you know when to check in. If you think someone is in danger, call 911 first.
 

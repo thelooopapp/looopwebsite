@@ -21,7 +21,7 @@ Scams that reach older adults often move fast. The FBI's Internet Crime Complain
 - **A threshold the family sets.** Families choose what counts as unusually large, so small, everyday purchases stay quiet.
 - **A heads-up, not an alarm.** A large payment is often perfectly normal, so the alert only suggests it might be a good time to check in.
 - **Alerts on your terms.** Families choose exactly which alerts they get about each loved one and can turn any alert off with one tap.
-- **One-tap check-in.** Call, text or FaceTime straight from a loved one's card.
+- **One-tap check-in.** Call, text, or FaceTime straight from a loved one's card.
 
 Looop does not detect or prevent scams, and it does not reimburse losses. If a family suspects a scam, they should contact the bank right away and report it to the FTC at ReportFraud.ftc.gov and to the FBI at ic3.gov.
 
@@ -29,7 +29,7 @@ Looop does not detect or prevent scams, and it does not reimburse losses. If a f
 
 Some family safety plans focus on what happens after money is gone. Life360, for example, lists identity theft protection and stolen funds reimbursement of up to $25,000 on its Gold plan and up to $1 million on its Platinum plan ([Life360 on the App Store](https://apps.apple.com/us/app/life360-family-safety-gps/id384830320), as of Oct. 2026), and said in September 2026 that it is working on scam protection for aging parents ([Goldman Sachs conference coverage](https://in.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-5589446)). Looop's alert is a nudge to talk while there may still be time to act.
 
-Spending alerts are one part of Looop's holistic approach to family care. Looop brings together weather, crime, spending, health, activity and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call.
+Spending alerts are one part of Looop's holistic approach to family care. Looop brings together weather, crime, spending, health, activity, and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 **Private by design**
 
@@ -41,7 +41,7 @@ Spending alerts are available in Looop for iPhone on the App Store at https://ap
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, activity and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, activity, and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 Life360 is a trademark of its owner. Looop is not affiliated with Life360.
 

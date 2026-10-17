@@ -20,15 +20,15 @@ For a family spread across several states, local news rarely travels. An adult c
 **How Nearby Crime Alerts work**
 
 - **Near the people you love.** Alerts only cover reported crime close to each loved one.
-- **A distance each family chooses.** Families set the alert distance for each loved one: 1, 3, 5 or 10 miles.
+- **A distance each family chooses.** Families set the alert distance for each loved one: 1, 3, 5, or 10 miles.
 - **Alerts on your terms.** Families choose exactly which alerts they get about each person, and can turn any alert off with one tap.
-- **One-tap check-in.** Call, text or FaceTime straight from a loved one's card, or send a quick "Are you ok?"
+- **One-tap check-in.** Call, text, or FaceTime straight from a loved one's card, or send a quick "Are you ok?"
 
 Looop is not an emergency service and does not prevent crime. In an emergency, families should call 911.
 
 **Part of a calmer approach to family safety**
 
-Nearby Crime Alerts are one part of Looop's holistic approach to family care. Looop brings together weather, crime, spending, health, activity and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call. Every loved one joins by invitation and keeps their independence. Looop never sells your data and doesn't work with advertisers.
+Nearby Crime Alerts are one part of Looop's holistic approach to family care. Looop brings together weather, crime, spending, health, activity, and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call. Every loved one joins by invitation and keeps their independence. Looop never sells your data and doesn't work with advertisers.
 
 **Availability**
 
@@ -36,7 +36,7 @@ Nearby Crime Alerts are available now in Looop for iPhone on the App Store at ht
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, activity and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, activity, and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 **Media Contact**
 

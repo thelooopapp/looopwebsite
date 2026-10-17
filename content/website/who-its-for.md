@@ -1,5 +1,5 @@
 ---
-title: "Who Looop Is For: Families, Friends and Loved Ones"
+title: "Who Looop Is For: Families, Friends, and Loved Ones"
 slug: who-its-for
 meta_description: "Aging parents, kids away at college, sisters in two time zones. Looop helps families and friends look out for each other across any distance. See how it fits."
 primary_keyword: check in app for family
@@ -31,7 +31,7 @@ Families don't live on one street anymore. Parents live alone in the house you g
 **Image:** 3.png
 
 ### Friends and siblings
-**Teaser:** Look out for each other, from two time zones or two neighborhoods. For sisters, best friends, partners and the group chat.
+**Teaser:** Look out for each other, from two time zones or two neighborhoods. For sisters, best friends, partners, and the group chat.
 **Link:** for-friends-and-siblings.html
 **Image:** 4.png
 

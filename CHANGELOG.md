@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 12:56 CT
+
+### Copy
+- **Oxford commas, final batch** (HTML and `content/` sources): homepage, Aging parents, College families, Friends and siblings, Who it's for, Privacy promise, Crime alert coverage, the review list, the newsroom, and all six press releases, including the holistic list ("activity, and the shape of each day") and the About Looop paragraph (85 commas). Privacy policy and user agreement already used serial commas. Quoted Life360 wording, cited titles, and lists ending without "and"/"or" unchanged. This completes the site-wide pass.
+
 ## 2026-10-17 12:55 CT
 
 ### Copy

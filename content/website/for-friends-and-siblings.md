@@ -63,7 +63,7 @@ Each of you chooses which alerts you get, and wellness sharing is always optiona
 
 ## Check in, your way
 
-Call, text or FaceTime in one tap. Send a quick "Love you!" or "Are you ok?". Start a group chat with your whole Looop, or jump over to WhatsApp.
+Call, text, or FaceTime in one tap. Send a quick "Love you!" or "Are you ok?". Start a group chat with your whole Looop, or jump over to WhatsApp.
 
 ## CTA
 

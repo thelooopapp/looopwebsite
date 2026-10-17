@@ -29,8 +29,8 @@ Looop's Nearby Crime Alerts work in all 50 US states. Wherever your Loved One li
 
 **Subtitle:** Every US state, at a distance you choose.
 
-- **All 50 US states.** Crime alerts work for a Loved One anywhere in the US, in cities, suburbs and small towns alike.
-- **You choose the distance.** Pick how close a reported crime has to be before you hear about it: 1, 3, 5 or 10 miles. You can set it for each Loved One and change it anytime.
+- **All 50 US states.** Crime alerts work for a Loved One anywhere in the US, in cities, suburbs, and small towns alike.
+- **You choose the distance.** Pick how close a reported crime has to be before you hear about it: 1, 3, 5, or 10 miles. You can set it for each Loved One and change it anytime.
 - **US only.** Outside the US, Looop doesn't send crime alerts. Other nudges still work wherever your Loved Ones are, and severe weather alerts work in more than 50 countries.
 - **Based on local reports.** Alerts come from crimes reported by local agencies, so how much you hear can vary from place to place.
 
