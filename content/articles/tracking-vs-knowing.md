@@ -72,18 +72,14 @@ Older parents feel this most. A mom who has lived on her own terms for decades d
 
 ### It treats everyone like a kid
 
-The map model assumes one person in charge and everyone else being looked after. That doesn't fit sisters, friends, partners or a parent and adult child who look out for each other. Those relationships are mutual, so the tool should be mutual too.
+The map model assumes one person in charge and everyone else being looked after. That doesn't fit sisters, friends, partners or a parent and adult child who look out for each other.
 
 ## A different answer: safety notifications
 
 A safety notifications app does the noticing for you. It stays quiet when all is well, and speaks up when something might need your attention.
 
-That changes how the tool feels.
-
 - **For you:** less checking and a clear moment when a call is worth making.
 - **For them:** freedom to live their day, and fewer "where are you?" texts.
-
-They go out. You stop wondering.
 
 ### What a safety notification sounds like
 
@@ -93,7 +89,7 @@ A good notification suggests an action. Something like:
 - "Crime was reported near Maya's neighborhood."
 - "Mom's day looks different than usual. Maybe give her a call."
 
-Each one gives you a calm reason to reach out. When nothing comes through, that's good news: quiet means all is well.
+Each one gives you a calm reason to reach out. When nothing comes through, nothing unusual has come up.
 
 ## Five principles of the safety notifications category
 
@@ -139,9 +135,9 @@ Looop is a safety notifications app, built from the ground up around these five 
 
 Safety notifications fit any group of people who care about each other from a distance.
 
-- **The sandwich generation:** kids at college in one direction, parents living alone in another. 5 people in 4 places, one heads-up when someone needs a call.
+- **The sandwich generation:** kids at college in one direction, parents living alone in another. With 5 people in 4 places, you get a heads-up when one of them needs a call.
 - **Parents of college students:** give your kids real independence and still sleep at night.
-- **Adult children of aging parents:** Mom keeps her routine. You keep your peace of mind.
+- **Adult children of aging parents:** Mom keeps her routine, and you hear about it when her day looks off.
 - **Siblings sharing the load:** everyone gets the same heads-up, so you can agree on who calls Dad.
 - **Friends, partners and chosen family:** look out for each other, both ways.
 
@@ -151,8 +147,6 @@ The industry spent years asking, "Where is everyone?" It's a fine question for a
 
 For most other families, the more useful question is, "Does anyone need a call today?"
 
-Most days, the answer is no, and that should feel calm. On the days the answer is yes, you'll know.
-
-Looop is built for those days.
+Most days, the answer is no, and Looop stays quiet. When someone could use a call, Looop sends a heads-up.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**

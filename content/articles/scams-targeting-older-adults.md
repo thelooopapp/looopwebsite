@@ -17,9 +17,9 @@ legal_review: false
 
 "Dad, who was that on the phone?"
 
-Most families never expect to ask that question with real worry. Then a parent mentions a call from "the bank," or a new online friend, or a computer warning that wouldn't go away. And you start to wonder.
+Most families never expect to ask that question with real worry. Then a parent mentions a call from "the bank," or a new online friend, or a computer warning that wouldn't go away, and you start to wonder.
 
-Scams targeting older adults are not a sign that anyone is careless or confused. They are run by organized groups who are good at pressure, fear and urgency. Often the best defense is family members who talk to each other early.
+Scams targeting older adults are run by organized groups who are good at pressure, fear and urgency, and they fool sharp, careful people every day. Often the best defense is family members who talk to each other early.
 
 This guide covers what the latest federal data shows, the most common scam types, warning signs families can notice, how to bring up the topic without talking down to a parent, and what to do if a scam has already happened.
 
@@ -84,11 +84,11 @@ You don't need to be nearby to notice that something is off. Many signs show up 
 - New payees they can't easily explain.
 - Bills going unpaid when there was plenty of money before.
 
-None of these signs proves a scam, and lots of large payments are normal. Treat a sign as a reason to ask, kindly.
+None of these signs proves a scam, and lots of large payments are normal. If you notice one, ask about it gently, the way you'd ask about anything else in their week.
 
 ## How to talk with a parent without talking down
 
-Your parent has handled money, work and family for decades. Start there.
+Your parent has handled money, work and family for decades, so start from that respect.
 
 **Lead with respect.** Try: "I keep reading how convincing these scam calls have gotten. They're going after everyone. Have you gotten any weird ones?" This puts you on the same side, against the scammers.
 
@@ -118,7 +118,7 @@ If someone is in immediate danger, call 911.
 
 ## Where Looop fits, if you want it
 
-Conversations are the heart of this. Technology can help with timing.
+Most of this comes down to conversations, and an app can help you time them.
 
 Looop is a safety notifications app for families who care from a distance. One of its optional alerts is a heads-up about unusually large spending on a linked bank account, based on a threshold your family sets. A sudden large payment can be an early sign of a scam. The alert gives you a reason to call that day and ask, "Was that you?"
 
@@ -132,11 +132,11 @@ Talk about it together first, and only set it up if your parent wants it. Learn 
 
 ## Keep talking
 
-Scams work by isolating people and rushing them, so staying close and talking early helps. What a family needs is a warm, shame-free habit of asking, and a plan for what to do if the answer is "Actually, something strange did happen."
+Scammers try to isolate people and rush them. Regular calls where money and odd messages are ordinary topics make that harder, and so does agreeing now on who your parent calls first if the answer is ever "Actually, something strange did happen."
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather and crime reported near a loved one in supported cities, plus optional alerts like unusually large spending on a linked account. Loved ones join by invitation, and Looop never sells your data or works with advertisers.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather and crime reported near a Loved One in supported cities, plus optional alerts like unusually large spending on a linked account. Loved Ones join by invitation, and Looop never sells your data or works with advertisers.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

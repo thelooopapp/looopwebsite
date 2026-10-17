@@ -6,17 +6,17 @@ legal_review: false
 
 # Looop Launches a Family Safety Notifications App
 
-## The new safety notifications app tells families when to check in on loved ones near and far, and pledges to never sell data or work with advertisers
+## The new safety notifications app tells families when to check in on Loved Ones near and far, and pledges to never sell data or work with advertisers
 
-**[CITY, STATE], [DATE]:** Looop, LLC today announced the launch of Looop, a safety notifications app for families, friends and loved ones who care for each other from a distance. Looop sends families a calm heads-up when something might need their attention, so they know when a call is worth making.
+**[CITY, STATE], [DATE]:** Looop, LLC today announced the launch of Looop, a safety notifications app for families, friends and Loved Ones who care for each other from a distance. Looop sends families a calm heads-up when something might need their attention, so they know when a call is worth making.
 
 Many adults now care for people in several places at once: kids at college in one state, a parent living alone in another, siblings and friends spread across the country. Looop is built for these families, whose relationships run on trust and independence.
 
-"[DRAFT QUOTE: FOUNDER TO APPROVE] We built Looop so loved ones can live their lives, and the people who care about them can stop wondering. What most families want is to know when to call. When everything's fine, Looop stays quiet, and if something seems off, you'll know," said [FOUNDER NAME], founder of Looop.
+"[DRAFT QUOTE: FOUNDER TO APPROVE] We built Looop for families who live far apart and still want to know how everyone's doing. It tells you when a call is worth making, and everyone else gets on with their day. Starting today, anyone with an iPhone can download it and invite the people they care about," said [FOUNDER NAME], founder of Looop.
 
 **A new category: safety notifications**
 
-Looop reads the shape of a loved one's day and speaks up only when something looks unusual. Key features include:
+Looop learns each Loved One's usual routine and sends a notification when something looks unusual. Key features include:
 
 - **Severe weather alerts:** A heads-up when severe weather is heading toward a Loved One, in the US and many other countries.
 - **Nearby crime alerts:** A notification when crime is reported near a Loved One, in supported cities, with an alert distance each family chooses.
@@ -27,9 +27,9 @@ Looop reads the shape of a loved one's day and speaks up only when something loo
 
 A family map is available as a supporting feature, for the moment after a nudge when a family wants more context.
 
-**Independence for them, peace of mind for you**
+**Peace of mind for you, independence for them**
 
-Every Loved One joins Looop by invitation. They keep their routine and their freedom. Their family gets fewer reasons to worry and fewer "just checking" calls to make. Looop is designed so families don't have to bother each other when there's no need.
+Every Loved One joins Looop by invitation, and their day goes on as usual. Looop runs in the background and reaches out to the family only when something looks unusual, which means fewer "just checking" calls for everyone.
 
 **A privacy pledge**
 
@@ -41,7 +41,7 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. Looop sends a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and loved ones keep their independence. Looop never sells your data and doesn't work with advertisers. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their Loved Ones are safe, across any distance. Looop sends a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and Loved Ones keep their independence. Looop never sells your data and doesn't work with advertisers. Learn more at https://www.thelooopapp.com.
 
 **Media Contact**
 

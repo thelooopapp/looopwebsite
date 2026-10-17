@@ -61,7 +61,7 @@ A note on loud places: Apple's guide to the [Noise app](https://support.apple.co
 
 Looop isn't a medical device. It doesn't diagnose anything, and it doesn't detect medical events or emergencies. A nudge about an unusual heart rate or a short night's sleep means one thing: today looks different from their usual, so a call might be nice.
 
-Lots of ordinary things can change a day's numbers. A brisk walk, a late movie, a cold, a long flight. Often the best response is a simple "Hey, just thinking of you." If you have real concerns about a parent's health, talk with them about seeing their doctor. And if you ever believe someone is in immediate danger, call 911.
+Lots of ordinary things can change a day's numbers, like a brisk walk, a late movie, a cold or a long flight. Often the best response is a simple "Hey, just thinking of you." If you have real concerns about a parent's health, talk with them about seeing their doctor. And if you ever believe someone is in immediate danger, call 911.
 
 ## Consent first, always
 
@@ -73,7 +73,7 @@ Health details are personal, often more personal than location, so the order of 
 
 **Make every category a real choice.** Some parents are happy to share sleep but not heart rate. Some share nothing at all. All of those are good answers.
 
-**Agree on a way out.** Your parent can change their mind any time. A parent who knows they can say no is more likely to say yes.
+**Agree on a way out.** Your parent can change their mind any time, and it helps to tell them that before you start.
 
 ## How to set it up together
 
@@ -89,15 +89,15 @@ Plan about 15 minutes, ideally in person. A video call works too.
 
 **5. Show them how to change it later.** Apple's guide to [managing Health data](https://support.apple.com/en-us/108779) shows the path: open the Health app, tap the profile picture, then under Privacy tap Apps. From there, your parent can turn any category on or off for any app, including Looop.
 
-**6. Agree on what a nudge means.** Decide together what happens if Looop sends one. It might be a quick text, a call, or siblings taking turns. Agreeing now means no one panics later.
+**6. Agree on what a nudge means.** Decide together what happens if Looop sends one. It might be a quick text, a call, or siblings taking turns. Settle it before the first nudge arrives, so everyone knows their part.
 
-## A two-sided promise
+## What each of you gets
 
 The goal is to bother your parent less.
 
 **They get** their routine and their privacy, with control over every category, and fewer "just checking on you" calls. Their watch does a little more for the people who love them.
 
-**You get** a quiet signal on the day a call might matter, and silence on the days it doesn't. No news is good news, and you can actually believe it.
+**You get** a quiet signal on the day a call might matter, and no alerts on the ordinary days.
 
 If your parent decides health sharing isn't for them, Looop still works. You'll still get a heads-up about severe weather heading their way, crime reported nearby in supported cities, and a gentle nudge when their day looks different from their usual routine.
 

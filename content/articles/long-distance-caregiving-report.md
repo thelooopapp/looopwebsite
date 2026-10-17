@@ -82,7 +82,7 @@ If you're the person in the middle, with kids in one place and a parent in anoth
 
 ## More parents living on their own
 
-Living alone is normal, and for many people it's a choice they love. It also means fewer people around to notice a rough day.
+Many older adults choose to live alone and are happy doing it, though it can mean fewer people nearby from day to day.
 
 A [Pew Research Center analysis of Census Bureau data](https://www.pewresearch.org/short-reads/2025/12/04/a-smaller-share-of-older-us-adults-live-alone-today-than-in-1990/) found that 26% of U.S. adults ages 65 and older lived alone in 2023, down slightly from 29% in 1990. The share is higher for some groups:
 
@@ -113,8 +113,6 @@ Worry is harder to count than hours or dollars, but researchers have tried.
 - In Pew's survey, people who regularly help an aging parent were more likely to say it has hurt their [emotional well-being](https://www.pewresearch.org/social-trends/2026/02/26/family-caregiving-in-an-aging-america/) (39%) than helped it (28%). Women were more likely than men to say so (47% vs. 30%).
 
 There's a brighter side, too. In that same Pew survey, 56% of these caregivers said helping their parent has had a positive impact on their relationship with that parent. And in the AARP and NAC report, more than half of caregivers say the role gives them a sense of purpose.
-
-Worry and closeness often show up together.
 
 ## How caregivers use technology
 
@@ -164,9 +162,7 @@ Want to take part? [SIGNUP LINK]
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a loved one and crime reported nearby in supported cities, plus a gentle nudge when someone's day looks different from their usual routine. Loved ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data.
-
-Their routine stays theirs, and you get a nudge when it's worth a call.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in supported cities, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

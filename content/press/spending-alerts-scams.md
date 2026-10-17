@@ -13,7 +13,7 @@ legal_review: true
 
 Scams that reach older adults often move fast. The FBI's Internet Crime Complaint Center reports that people 60 and older filed 201,266 complaints in 2025 and reported $7.748 billion in losses, up 59% from 2024 ([2025 IC3 Annual Report](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf)). The Federal Trade Commission says older adults report the highest total losses to fraud paid by bank transfer, and that scammers often press people to move money to "protect it" ([Protecting Older Consumers, 2024-2025](https://www.ftc.gov/system/files/ftc_gov/pdf/P144400-OlderAdultsReportDec2025.pdf)). A family that hears about an unusual payment early has a better chance to talk before more money moves.
 
-"[DRAFT QUOTE: FOUNDER TO APPROVE] Scams are designed to make people act alone and fast. No app can stop a scammer from calling. But a heads-up about an unusual payment gives a family a reason to call Mom that afternoon and ask, 'Hey, was that you?' Most of the time the answer is yes, and that's fine. When it isn't, the family is talking sooner," said [FOUNDER NAME], founder of Looop.
+"[DRAFT QUOTE: FOUNDER TO APPROVE] Scams work by getting someone to act alone and fast. A heads-up about an unusual payment gives the family a reason to call Mom that afternoon and ask, 'Hey, was that you?' Usually she'll say yes and tell you about the new fridge. If she hesitates, the two of you can call the bank together," said [FOUNDER NAME], founder of Looop.
 
 **How spending alerts work**
 
@@ -39,7 +39,7 @@ Spending alerts are available in Looop for iPhone on the App Store at https://ap
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. Looop sends a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and loved ones keep their independence. Looop never sells your data and doesn't work with advertisers. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their Loved Ones are safe, across any distance. Looop sends a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and Loved Ones keep their independence. Looop never sells your data and doesn't work with advertisers. Learn more at https://www.thelooopapp.com.
 
 **Media Contact**
 

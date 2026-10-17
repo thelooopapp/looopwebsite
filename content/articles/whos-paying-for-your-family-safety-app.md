@@ -19,7 +19,7 @@ legal_review: true
 
 "If this app is free, how does it make money?"
 
-It's a fair question to ask about any app. It matters more for a family safety app, because of what it knows. A location-sharing app can learn where your family lives, works, shops, worships and spends the night. That's some of the most personal information there is.
+You can ask that about any app, but it matters more for a family safety app because of what it knows. A location-sharing app can learn where your family lives, works, shops, worships and spends the night. That's some of the most personal information there is.
 
 This guide explains the common ways location-sharing apps make money, walks through one well-known example using public sources, and ends with a simple checklist for choosing a family safety app that doesn't sell your data.
 
@@ -47,7 +47,7 @@ What makes location-based ads different is timing and context. An app that knows
 
 ### 2. Partner offers in your notifications
 
-A step further is placing partner offers in push notifications. These arrive on your lock screen, the same place you'd see an alert about a loved one.
+A step further is placing partner offers in push notifications. These arrive on your lock screen, the same place you'd see an alert about a Loved One.
 
 That blurs a line many families care about. A safety app's notifications should mean "pay attention." When some of them are ads, the signal gets noisier.
 
@@ -85,7 +85,7 @@ Life360 then [stopped most of those sales](https://appleinsider.com/articles/22/
 
 ### What to take from this
 
-None of this is hidden. Life360 describes much of it publicly, and many families use the app knowing how it works. Each family can weigh that for itself. "Free" usually means someone else is paying, and families deserve to know who.
+None of this is hidden. Life360 describes much of it publicly, and many families use the app knowing how it works.
 
 If an app's business includes advertising built on location data, or selling location data, that's worth weighing alongside its features.
 
@@ -101,7 +101,7 @@ Before you invite your family, take ten minutes with the app's privacy policy an
 - **Can people leave easily?** Anyone in your group should be able to leave, and you should be able to delete your account and data whenever you choose.
 - **Does it require consent?** Every person should join by invitation and know what's shared.
 
-If the answers are vague, that tells you something, too.
+If the answers are vague, ask the company directly before you invite anyone.
 
 ## What to look for: a checklist
 
@@ -138,6 +138,6 @@ Looop is built on one rule: families aren't the product.
 
 Every app has a business model. With a family safety app, it's worth knowing exactly what it is, because the information involved belongs to the people you love.
 
-Ask the questions and read the policy. Then choose an app whose business depends on helping your family.
+The questions above take about ten minutes, and they work for any app you're considering, including ours.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**

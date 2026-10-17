@@ -165,7 +165,7 @@ No. Looop never sells your data and doesn't work with advertisers. Families aren
 Severe weather alerts work in the US and many other countries. Crime alerts are available in supported cities.
 
 **Will Looop drain my battery?**
-Looop works quietly in the background, so nobody has to open the app or check in.
+Looop is built to go easy on battery. It uses the low-power location services built into iPhone, which wake the app when someone arrives somewhere or moves a meaningful distance, instead of keeping GPS on all day. You also get a heads-up before a Loved One's phone runs low.
 
 **How do I invite someone?**
 Invite Loved Ones straight from your contacts. They can also join your group with a simple six-character code. If someone hasn't joined yet, you can send a friendly reminder.

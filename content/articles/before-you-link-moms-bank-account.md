@@ -31,7 +31,7 @@ The data that makes it work is sensitive, though. A bank account shows where som
 
 ## Question 1: Does this company sell data or work with advertisers?
 
-This is the first question for a reason. If an app's business includes selling data or advertising, then data about your family is part of how it makes money. That's true even if the company never sells bank data specifically.
+We put this question first. If an app's business includes selling data or advertising, then data about your family is part of how it makes money. That's true even if the company never sells bank data specifically.
 
 **What to look for:** a plain sentence, like "We never sell your data and we don't work with advertisers." Be careful with softer wording such as "we don't sell personal information," which can come with exceptions in the fine print.
 

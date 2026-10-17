@@ -17,9 +17,9 @@ legal_review: false
 
 "How does that app know where everyone is when nobody has it open? Does Apple give them special access?"
 
-It's a fair question. You close an app, put the phone in your pocket, and somehow the family app still knows when someone got home. If you've ever wondered whether the big family location apps have a private arrangement with Apple, you're not alone. The idea comes up a lot.
+You close an app, put the phone in your pocket, and somehow the family app still knows when someone got home. If you've ever wondered whether the big family location apps have a private arrangement with Apple, you're not alone. The idea comes up a lot.
 
-The short answer is that no special deal is needed. Apple publishes the tools for background location in its developer documentation, and any app on the App Store can ask to use them. The person holding the phone decides whether it gets to.
+No special deal is needed. Apple publishes the tools for background location in its developer documentation, and any app on the App Store can ask to use them. The person holding the phone decides whether it gets to.
 
 This guide walks through how background location really works on iPhone, using Apple's own public documentation, and what that means for your family's privacy.
 
@@ -104,7 +104,7 @@ This is what we do with it:
 - iPhone reminds you about apps using your location in the background, on its own schedule.
 - The real question for any family app is what it does with that permission.
 
-If you're choosing a family app, ask that last question out loud. Then pick the one with an answer you'd be glad to share with your mom.
+If you're choosing a family app, ask the company what it does with location data, and check its privacy policy for the answer.
 
 ## About Looop
 

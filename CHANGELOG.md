@@ -2,6 +2,19 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-16 21:07 CT
+
+### Copy
+- **Second pass removing signs of AI-written copy** across the blog, press releases and marketing pages (each HTML page plus its `content/` source):
+  - Repeated aphorisms are now used only once on the site: "A tool your parent agreed to is one they'll keep" stays only on `for-aging-parents.html`, and "A parent who knows they can say no is more likely to say yes" stays only in `blog/how-to-check-on-aging-parents.html`. Removed: "two-sided promise", "Dignity is a design choice", "get out of the way", "Those relationships are mutual", "That changes how the tool feels", "No news is good news" repeats, and duplicate "Families aren't the product" lines on the same page.
+  - The "Linda, 76" persona now appears only in `blog/mom-isnt-a-pet.html`. `mom-doesnt-need-a-super-app` no longer opens with "Picture Linda".
+  - Each "The short version" summary box now has its own heading ("Before you invite her", "Your visit, step by step", "Checking in, step by step").
+  - Removed the remaining "It's a fair question", "It's a good question", "worth saying out loud", "This is an honest roundup", "Maybe... Maybe..." openers, three-beat taglines and closers that restated the article. Call-to-action headings that repeated "Their routine. Your peace of mind." now each say something specific to their page.
+  - **Press releases**: each founder draft quote is now specific to its release (still marked "[DRAFT QUOTE: FOUNDER TO APPROVE]"). Removed body text copied between releases ("Looop is designed to close that gap", "Their family gets fewer reasons to worry", "reads the shape of a loved one's day"). The flipped heading "Independence for them, peace of mind for you" now uses the approved line "Peace of mind for you, independence for them".
+- **"Loved One" capitalized** in the press releases (including the About Looop boilerplate and `press/index.html` cards), `crime-alert-coverage.html`, `apple-health.html` meta, `looop-vs-life360.html` and the crime, scams, Life360 alternatives and caregiving articles. The NIA's own wording in the holiday checklist stays lowercase.
+- **Features FAQ, "Will Looop drain my battery?"** (`features.html`): now actually answers the question. Looop uses iPhone's low-power location services (significant location changes and visits, per `LocationService.swift`) instead of keeping GPS on all day, and sends a heads-up before a Loved One's phone runs low.
+- **Card and meta sync**: `blog/index.html` cards match the updated letter-to-mom, Life360 alternatives, crime and Looop vs. Life360 descriptions ("honest" self-descriptions removed). `content/website/blog-index.md` was rebuilt to list all 17 guides as they appear on the live page.
+
 ## 2026-10-16 CT (later)
 
 ### New Features

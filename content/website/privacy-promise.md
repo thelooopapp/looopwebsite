@@ -39,7 +39,7 @@ Looop uses only what it needs to tell whether a day looks typical or unusual. It
 
 ## Everyone joins by invitation
 
-Nobody is added without an invite. We encourage families to talk first and walk through what's shared, side by side. A tool someone agreed to is one they'll keep.
+Nobody is added without an invite. We encourage families to talk first and walk through what's shared, side by side.
 
 ## The full details
 

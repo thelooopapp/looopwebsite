@@ -1,7 +1,7 @@
 ---
 title: "Where Crime Alerts Work"
 slug: crime-alert-coverage
-meta_description: "Looop crime alerts work in more than 200 US cities and counties across 34 states, plus Toronto and Abbotsford. Find your loved one's city and see how coverage works."
+meta_description: "Looop crime alerts work in more than 200 US cities and counties across 34 states, plus Toronto and Abbotsford. Find your Loved One's city and see how coverage works."
 primary_keyword: crime alerts near family
 secondary_keywords:
   - crime alerts by city
@@ -17,7 +17,7 @@ coverage_source: "App backend vetted coverage list, last verified March 18, 2026
 
 **Subtitle:** A heads-up when crime is reported near someone you love, in supported cities.
 
-Looop's Nearby Crime Alerts work in more than 200 US cities and counties across 34 states, plus Toronto and Abbotsford in Canada. Find your loved one's city below, or read on to see how coverage works.
+Looop's Nearby Crime Alerts work in more than 200 US cities and counties across 34 states, plus Toronto and Abbotsford in Canada. Find your Loved One's city below, or read on to see how coverage works.
 
 [Download Looop]
 
@@ -31,10 +31,10 @@ Looop's Nearby Crime Alerts work in more than 200 US cities and counties across 
 
 - **Within 25 miles of a supported area.** If a Loved One is within 25 miles of a city or county on this list, crime alerts can work for them, even in a nearby town that isn't listed.
 - **You choose the distance.** Pick how close a reported crime has to be before you hear about it: 1, 3, 5 or 10 miles. You can set it for each Loved One and change it anytime.
-- **Supported cities only.** Outside these areas, Looop doesn't send crime alerts. Other nudges still work wherever your loved ones are, and severe weather alerts work in many countries.
+- **Supported cities only.** Outside these areas, Looop doesn't send crime alerts. Other nudges still work wherever your Loved Ones are, and severe weather alerts work in many countries.
 - **Coverage is reviewed regularly.** We check this list on a regular basis, and it may change as areas are added or removed.
 
-**Note:** An alert means crime was reported nearby. It doesn't mean your loved one is involved. It's a nudge that it might be a good time to check in. Looop isn't an emergency service. If you think someone is in danger, call 911.
+**Note:** An alert means crime was reported nearby. It doesn't mean your Loved One is involved. It's a nudge that it might be a good time to check in. Looop isn't an emergency service. If you think someone is in danger, call 911.
 
 ---
 

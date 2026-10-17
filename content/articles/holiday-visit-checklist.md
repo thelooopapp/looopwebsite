@@ -19,7 +19,7 @@ legal_review: false
 
 For a lot of families, the holidays are the one time of year everyone is under the same roof. You'll eat too much pie, argue about the thermostat and laugh at the same old stories. You'll also get something a phone call can't give you: a real look at how your parents are doing.
 
-The National Institute on Aging puts it simply. The best way to know what someone needs is to [ask them directly](https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help). But a phone call or text isn't always enough to tell, and some parents don't want to cause worry.
+The National Institute on Aging says the best way to know what someone needs is to [ask them directly](https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help). But a phone call or text isn't always enough to tell, and some parents don't want to cause worry.
 
 This checklist is a gentle guide to what to notice this Thanksgiving or holiday season. Most of what you see will be reassuring. If something does catch your eye, treat it as a reason to talk with them.
 
@@ -104,7 +104,7 @@ Staying connected matters. The NIA notes that loneliness and social isolation ar
 
 ## How to raise a concern, kindly
 
-Noticed something? Take a breath. Then pick your moment.
+If you noticed something, wait for a good moment to bring it up.
 
 **Choose a quiet time.** A walk, a drive or a cup of coffee the next morning gives you privacy, away from the holiday table and the rest of the family.
 
@@ -125,7 +125,7 @@ The drive home is when the worry usually kicks in. A little setup before you go 
 - **A shared contact list.** Doctors, pharmacy, a trusted neighbor and who has a spare key, shared with siblings.
 - **The paperwork conversation.** AARP suggests learning whether your parent has advance directives and powers of attorney in place. ([AARP](https://www.aarp.org/caregiving/basics/caring-for-parent-things-to-consider/)) A calm holiday visit is a good time to ask.
 - **A neighbor or friend on call.** With your parent's permission, the NIA suggests asking people who see them regularly to call you with any concerns. ([NIA](https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help))
-- **A plan for regular calls.** Keep them about life: the garden, the game, the grandkids.
+- **A plan for regular calls.** Keep them about everyday life and what's new with them.
 - **A quiet heads-up for the in-between days.** That's where Looop can help, if your parent agrees.
 
 ### Setting up Looop together, consent first
@@ -140,11 +140,11 @@ If you'd like to try it, the holidays are a good time, because you can do it sid
 - Leave health sharing, like steps or sleep, completely up to them
 - Remind them they can leave anytime
 
-Never set anything up on a parent's phone without them knowing. A tool they agreed to is one they'll keep. And Looop never sells your data and doesn't work with advertisers.
+Never set anything up on a parent's phone without them knowing. Looop never sells your data and doesn't work with advertisers.
 
 Not sure how to bring it up? Our [letter to Mom](letter-to-mom.html) is a starting point you can copy and change.
 
-## The short version
+## Your visit, step by step
 
 - Use the holiday visit to notice things gently.
 - Look for changes from last year, and patterns over a few days.
@@ -152,7 +152,7 @@ Not sure how to bring it up? Our [letter to Mom](letter-to-mom.html) is a starti
 - Raise concerns privately, with care, and ask what they want.
 - Set up a few simple supports before you leave, with your parent's say-so.
 
-Most of all, enjoy the visit. The pie, the stories and the thermostat argument are the whole point. The rest just helps you feel calmer on the drive home.
+Most of all, enjoy the visit, and save this list for a quiet moment. You'll have plenty of time to think it over on the drive home.
 
 ## About Looop
 

@@ -13,9 +13,9 @@ legal_review: false
 
 Supported areas include Atlanta, Austin, Houston, San Antonio, Phoenix, San Diego, Long Beach, Seattle, Philadelphia, Pittsburgh, Columbus, Cincinnati, Indianapolis, Oklahoma City, Memphis, New Orleans, Orlando, Fort Lauderdale, Raleigh, Albuquerque, Madison, Richmond and Lexington, along with the Sacramento and Kansas City areas and many suburbs around Minneapolis and Saint Paul. The full list, grouped by state, is at [thelooopapp.com/crime-alert-coverage.html](crime-alert-coverage.html).
 
-For a family spread across several states, local news rarely travels. An adult child in Denver may never hear about an incident a few blocks from Mom's house in Columbus. A parent may not learn about a robbery near campus until their daughter mentions it days later. Looop is designed to close that gap without asking anyone to scroll a crime map.
+For a family spread across several states, local news rarely travels. An adult child in Denver may never hear about an incident a few blocks from Mom's house in Columbus. A parent may not learn about a robbery near campus until their daughter mentions it days later. With Looop, that news reaches the family in a notification, with no crime map to scroll.
 
-"[DRAFT QUOTE: FOUNDER TO APPROVE] When something happens near Mom, you want to hear about it, so you can call and hear her voice. That's what these alerts are for. Most days they stay quiet, and that's good news too," said [FOUNDER NAME], founder of Looop.
+"[DRAFT QUOTE: FOUNDER TO APPROVE] The first thing most of us want after hearing about a crime near Mom's house is to call and hear her voice. Reaching more than 200 cities and counties means many more families get that heads-up. If your city isn't on the list yet, please ask for it through our website," said [FOUNDER NAME], founder of Looop.
 
 **How Nearby Crime Alerts work**
 
@@ -39,7 +39,7 @@ Nearby Crime Alerts are available now in Looop for iPhone on the App Store at ht
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. Looop sends a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and loved ones keep their independence. Looop never sells your data and doesn't work with advertisers. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their Loved Ones are safe, across any distance. Looop sends a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and Loved Ones keep their independence. Looop never sells your data and doesn't work with advertisers. Learn more at https://www.thelooopapp.com.
 
 **Media Contact**
 

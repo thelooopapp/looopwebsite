@@ -43,13 +43,13 @@ Looop families already get alerts built around that same worry: "Is Mom okay tod
 - **Optional health alerts** (live since [LAUNCH DATE: heart rate and breathing rate alerts]): unusually high or low heart rate or an unusual breathing rate, shared only if the Loved One chooses, through Apple Health and Apple Watch.
 - **Severe weather and nearby crime** (live since [LAUNCH DATE: severe weather alerts] and [LAUNCH DATE: nearby crime alerts]): severe weather alerts in the US and many other countries, and crime alerts in more than 200 US cities and counties.
 
-Every Loved One joins Looop by invitation. They keep their routine and their independence. Their family gets fewer reasons to worry, and fewer "just checking" calls to make.
+Every Loved One joins Looop by invitation and decides whether to share health details or link a bank account.
 
-"[DRAFT QUOTE: FOUNDER TO APPROVE] What I wanted to know was whether my mom's day looked like her usual day. Big companies are right that aging parents matter, and families shouldn't have to wait for a roadmap. Looop is built to tell you when to check in," said [FOUNDER NAME], founder of Looop.
+"[DRAFT QUOTE: FOUNDER TO APPROVE] I started building Looop because I wanted to know whether my mom was having a normal day without calling to ask. It's good to see bigger companies talking about aging parents. Families can use these alerts today," said [FOUNDER NAME], founder of Looop.
 
 **Private by design**
 
-Looop never sells your data and doesn't work with advertisers. There are no ads and no sponsored offers in its notifications.
+Looop never sells your data and doesn't work with advertisers. Its notifications carry no ads or sponsored offers.
 
 **About the founder**
 
@@ -61,7 +61,7 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. Looop sends a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and loved ones keep their independence. Looop never sells your data and doesn't work with advertisers. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their Loved Ones are safe, across any distance. Looop sends a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and Loved Ones keep their independence. Looop never sells your data and doesn't work with advertisers. Learn more at https://www.thelooopapp.com.
 
 Life360 is a trademark of its owner. Looop is not affiliated with Life360.
 

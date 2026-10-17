@@ -27,13 +27,13 @@ Before any plan, name the goal. For most families, it's knowing enough to tell w
 
 Your parent wants independence, privacy and a life that isn't organized around your worry. You want to worry less and to show up when it counts. A good setup gives each of you what you need.
 
-It also runs both ways. Your parent worries about you, too: the late drive home, the storm in your city. The best setups are shared, so they get the same quiet signal about you that you get about them. Nobody is tracking anybody. You're each sharing just enough to know when something is off.
+It also runs both ways. Your parent worries about you, too: the late drive home, the storm in your city. The best setups are shared, so they get the same quiet signal about you that you get about them. You're each sharing just enough to know when something is off.
 
-Keep that two-sided promise in mind as you read. Every step below should pass one test: would your parent be glad you did it this way?
+Keep that in mind as you read. Every step below should pass one test: would your parent be glad you did it this way?
 
 ## Signs it might be time to do more
 
-There's rarely one big moment. Usually it's a handful of small ones that add up. None of these means something is wrong. They just mean it might be a good time to talk.
+There's rarely one big moment. Usually it's a handful of small ones that add up. Any one of these can have an ordinary explanation. A few together might mean it's a good time to talk.
 
 - **Life changed shape.** A parent recently lost a spouse, separated, or moved into a home on their own. Living alone is normal and often wonderful. It also means fewer people notice a rough day.
 - **Calls are harder to land.** You've been playing phone tag for weeks, and you're not sure if they're busy or just not picking up.
@@ -46,7 +46,7 @@ If a few of these sound familiar, your concern makes sense. The next step is a c
 
 ## Have the conversation first
 
-Many families skip this step and go straight to an app. That's usually where things go sideways. A parent who feels managed will push back. When they feel respected, many will say yes.
+Many families skip this step and go straight to an app. That's usually where things go sideways, because a parent who feels managed tends to push back.
 
 A few things help.
 
@@ -76,7 +76,7 @@ Use this as a starting point, and change the words so they sound like you.
 >
 > **You:** "It's built to let us know when something seems off. And it goes both ways: you'd get a heads-up about me, too. Can I show you what it shares, and you decide?"
 
-That last line matters most. You're making an offer, and the choice stays with them.
+In that last line, you're making an offer and leaving the choice with them.
 
 ## Consent first, always
 
@@ -109,7 +109,7 @@ Most of us learn about a storm near Mom's house after it's already passed. Sever
 
 ### 4. A gentle signal when a day looks different
 
-This is the piece most families are missing. What helps is knowing when today looks very different from your parent's usual. That's the moment a call is worth making.
+Knowing when today looks very different from your parent's usual tells you when a call is worth making.
 
 ### 5. Emergency contacts in one place
 
@@ -117,20 +117,18 @@ Save a few emergency contacts for your parent somewhere you can reach quickly, s
 
 ## Protecting their independence
 
-The best setups fade into the background. Your parent lives their day. You only hear something when there's a reason.
+A good setup stays in the background: your parent lives their day, and you only hear something when there's a reason.
 
 A few habits help keep it that way:
 
 - **Don't ask about things you only know from an app.** If you call, ask how they're doing and let them tell you.
-- **Keep your regular calls for connection.** Talk about the grandkids, the garden, the game. Save the logistics for another time.
+- **Keep your regular calls for connection.** Talk about the grandkids or the garden. Save the logistics for another time.
 - **Resist the urge to check constantly.** Quiet means all is well.
 - **Let them set the pace.** If they want to share more, great. If they want to share less, respect that.
 
-Mom keeps her routine. You keep your peace of mind.
-
 ## When to actually call
 
-This is the question under all the others: "Should I call Dad right now?"
+Sooner or later you'll ask yourself, "Should I call Dad right now?"
 
 Four rules of thumb can help.
 
@@ -150,7 +148,7 @@ We built Looop to work the way this guide does.
 
 Looop is a safety notifications app for families who care from a distance. It sends you a heads-up when severe weather is heading toward a Loved One, in the US and many other countries, and when crime is reported near them in supported cities. It also gives you a gentle "Unusual Day" nudge when something seems off compared to your parent's own normal routine. Otherwise it stays quiet, so you're not bothering anyone when there's no need.
 
-It works both ways, too: your parent gets the same heads-up about you. Looop is built to tell you both when something seems off, and it isn't built for precise tracking.
+It works both ways, too: your parent gets the same heads-up about you. Looop is built to tell you both when something seems off, and it uses only what it needs to do that.
 
 Your parent joins by invitation, never without knowing. Health details like steps and sleep are optional and only shared if they choose. There's a family map for when you need it, as a supporting feature. And Looop never sells your data and doesn't work with advertisers.
 
@@ -158,7 +156,7 @@ Your parent keeps their routine, and everyone makes fewer "just checking" calls.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 
-## The short version
+## Checking in, step by step
 
 - Start with a conversation, before any setup.
 - Lead with how you feel.
@@ -168,4 +166,4 @@ Your parent keeps their routine, and everyone makes fewer "just checking" calls.
 - Let quiet mean all is well.
 - Call when something changes, and whenever your gut says to.
 
-Checking on a parent from far away will always come with some worry. A little planning means fewer worried calls for you, and your parent keeps living their way.
+If you do one thing this week, have the first conversation, and let your parent decide what comes next.

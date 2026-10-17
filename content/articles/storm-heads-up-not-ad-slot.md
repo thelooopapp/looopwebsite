@@ -74,7 +74,7 @@ Have at least one local number saved before the storm. If you can't reach your p
 
 ### 6. If the power goes out
 
-Power outages are one of the most common effects of a big storm. Two safety points are worth saying out loud:
+Power outages are one of the most common effects of a big storm. Go over two safety points with them:
 
 - **Generators belong outside.** The CDC says never to use a generator inside a home or garage, even with doors and windows open, and to keep it [more than 20 feet](https://www.cdc.gov/carbon-monoxide/about/index.html) from windows, doors and vents.
 - **Plan for anything that needs power.** If your parent relies on a medical device that plugs in, talk through a backup plan with them and their care team ahead of time.
@@ -91,13 +91,13 @@ Check in once the weather clears. Ask about power, water, roads and any damage. 
 
 ## What a weather alert should feel like
 
-A good weather alert is calm and clear, and it's about someone you love. It says a storm is heading their way and gives you time to call. After that, it stays out of the way.
+A good weather alert is calm and clear, and it's about someone you love. It tells you a storm is heading their way and leaves you time to call.
 
 We think the alert itself should never be selling anything.
 
 Not every app sees it that way. Life360 offers severe weather alerts for its members through a partnership with AccuWeather. In the [September 2025 announcement](https://investors.life360.com/news-releases/news-release-details/life360-partners-accuweather-deliver-real-time-severe-weather), Life360 also said it will use AccuWeather's data to "more effectively target advertising during weather events," with offers from brands that help members stock up, prepare or recover.
 
-Families can decide how they feel about that. For us, a storm near Mom is a moment to reach out, and nothing in that moment should be for sale.
+Families can decide how they feel about that. Looop keeps offers out of its weather alerts, so a storm alert is only about the person in its path.
 
 ## How Looop handles storms
 
@@ -111,7 +111,7 @@ In practice, that means:
 - **The same heads-up for the whole family.** You and your siblings can get the same alert about Mom, so you can split the calls.
 - **Emergency contacts in one place.** Save up to three emergency contacts for each Loved One, like that helpful neighbor, and call them in one tap.
 
-And on the days when the sky is clear and nothing looks unusual, Looop stays quiet. No news is good news.
+And on the days when the sky is clear and nothing looks unusual, Looop stays quiet.
 
 Looop never sells your data and doesn't work with advertisers. You can read our full [privacy promise](../privacy-promise.html), or learn more about [how location apps make money](how-location-apps-make-money.html).
 

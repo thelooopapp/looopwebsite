@@ -17,7 +17,7 @@ legal_review: false
 
 "Where does my location actually go after I tap Allow?"
 
-It's a good question. Sometimes your location goes much further than you'd guess. This guide explains how location apps make money from the places people go, using what US regulators and investigative reporters have found. It covers how the system works, what families give up, and what you can do about it.
+Sometimes your location goes much further than you'd guess. This guide explains how location apps make money from the places people go, using what US regulators and investigative reporters have found. It covers how the system works, what families give up, and what you can do about it.
 
 ## Key points
 
@@ -98,7 +98,7 @@ With a family app, the story also belongs to your kids, your parents and your pa
 
 ## What you can do today
 
-You don't have to delete every app. A few small steps go a long way.
+You don't have to delete every app. These steps limit how far your location travels.
 
 1. **Turn off tracking requests.** On iPhone, go to Settings, then Privacy & Security, then [Tracking](https://support.apple.com/en-us/102420). Turning off "Allow Apps to Request to Track" stops apps from asking.
 2. **Review location access, app by app.** In Settings, Privacy & Security, [Location Services](https://support.apple.com/en-us/102515), give location only to apps that need it, and only "While Using" where you can.
@@ -116,7 +116,7 @@ We made a few promises that shape the whole business:
 - **Bank linking is optional.** If you choose to turn on spending alerts, the connection runs through Plaid. Skip it and everything else still works.
 - **You stay in control.** Delete your account and data whenever you choose.
 
-Looop also uses only what it needs to tell whether something looks unusual. Your family's day isn't our product. Read the full [privacy promise](../privacy-promise.html).
+Looop also uses only what it needs to tell whether something looks unusual. Read the full [privacy promise](../privacy-promise.html).
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

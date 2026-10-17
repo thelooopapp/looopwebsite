@@ -21,7 +21,7 @@ legal_review: true
 
 The water bill and the RSVP for the cousin's shower can wait. What you want to know is whether today is a normal day, or the day you should call.
 
-Lately, a lot of technology is being built to answer every question a family could ever have, all in one place. We think the families we know need something smaller: one app that does one job well.
+Lately, a lot of technology is being built to answer every question a family could ever have, all in one place. We think the families we know need something smaller, an app that tells them when to call.
 
 ## The super app pitch
 
@@ -35,13 +35,11 @@ Before you hand any app to your mom, ask whether it was built around her day.
 
 ## What Mom actually needs from you
 
-Picture Linda. She's 76, recently on her own, and busier than you are. She has water aerobics on Tuesdays, church on Sundays and a standing lunch with the same three friends since 1994.
+Plenty of parents in their seventies who live on their own are busier than their kids. A mom like that might have water aerobics on Tuesdays, church on Sundays and a standing lunch with the same three friends since 1994.
 
-Linda doesn't need an app to run her calendar. She's been running it for decades. She doesn't want her bills, her RSVPs and her paperwork in the same place her kids look for reassurance. And she definitely doesn't want to feel like she's being managed.
+She doesn't need an app to run her calendar. She's been running it for decades. She doesn't want her bills, her RSVPs and her paperwork in the same place her kids look for reassurance. And she definitely doesn't want to feel like she's being managed.
 
 What she does want is fewer "just checking on you" calls. What you want is to know the one day a call really matters.
-
-It's a much smaller job than a super app, and a harder one to get right.
 
 ## More features, more to check
 
@@ -52,15 +50,15 @@ Every feature an app adds is something else to open, scroll and think about. For
 - **More permissions.** Apps that do more tend to ask for more. Every "allow" is something your parent has to understand and agree to.
 - **More data in one place.** Calendars, documents and money details all together make a richer profile of a person's life. That's worth thinking about before saying yes for someone you love.
 
-The question is fit. A parent who lives on her own, and wants to keep it that way, deserves a tool built around her independence.
+For a parent who lives on her own and wants to keep it that way, a tool built around her independence is a better fit.
 
 ## One job: tell you when to check in
 
-Looop is a safety notifications app. It does one thing: lets you know when it's a good time to reach out.
+Looop is a safety notifications app. It lets you know when it's a good time to reach out.
 
 Day to day, it looks like this.
 
-**Most days, nothing.** If Mom's day looks like her normal day, Looop stays quiet. No news is good news, and with Looop you can actually believe it.
+**Most days, nothing.** If Mom's day looks like her normal day, Looop stays quiet, so a quiet phone means there's nothing you need to do.
 
 **A heads-up on what's around her.** If severe weather is heading toward her town, you'll hear about it, in the US and many other countries. If crime is reported near her, in supported cities, you'll get a calm note, with a distance you choose: 1, 3, 5 or 10 miles.
 
@@ -85,11 +83,11 @@ You won't find calendar sync or a document drawer, and there are no offers in yo
 
 ## The call is the point
 
-The best family moments happen on the phone, at the kitchen table or on the drive to lunch.
+Most of what matters between you and Mom happens on the phone or at her kitchen table.
 
-Looop's job is to get you to the call that matters, and then get out of the way.
+Looop is there to tell you when a call is worth making. After that, close the app and call her.
 
-Mom keeps her routine, her calendar and her independence. You keep your peace of mind. And when a call is worth making, you'll know.
+Mom keeps her calendar and her independence, and you can stop guessing which days to worry.
 
 ## Questions to ask any family app
 
