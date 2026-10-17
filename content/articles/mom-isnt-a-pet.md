@@ -1,7 +1,7 @@
 ---
 title: "Mom Isn't a Pet (or Your Keys)"
 slug: mom-isnt-a-pet
-meta_description: "Some family apps now put parents, pets and lost-item tags on one map. A parent who lives on her own deserves an app built only for people."
+meta_description: "Some family apps now put parents, pets, and lost-item tags on one map. A parent who lives on her own deserves an app built only for people."
 primary_keyword: app for aging parents
 secondary_keywords:
   - aging parents living alone
@@ -23,7 +23,7 @@ Your mom might ask exactly that. She's 76, she just said yes to joining the fami
 
 Nobody meant anything by it, but she noticed. That small moment says a lot about who the app was designed for.
 
-## People, pets and things on one map
+## People, pets, and things on one map
 
 Some family apps have grown into a place for everything you might want to find. It helps to know about this trend before you invite a parent.
 
@@ -51,7 +51,7 @@ The guidelines we follow at Looop start from a simple test: would the person on 
 
 What an app is built around shapes how it treats the people in it.
 
-**An app built around finding things** asks: where is it right now? That's the right question for keys, bags and a dog who slipped the gate. It's a hard question to feel good about when the "it" is your mother.
+**An app built around finding things** asks: where is it right now? That's the right question for keys, bags, and a dog who slipped the gate. It's a hard question to feel good about when the "it" is your mother.
 
 **An app built around a person** asks: is her day going the way her days usually go? If yes, there's nothing to do. If no, it might be a good time to call.
 
@@ -61,14 +61,14 @@ That second question keeps her routine and her independence at the center.
 
 Looop is a safety notifications app. It's built for one kind of member: people you love who live their own lives, in their own places.
 
-Every member is a Loved One with a routine of their own. You won't find pet collars, key tags or lost-item finders in it.
+Every member is a Loved One with a routine of their own. You won't find pet collars, key tags, or lost-item finders in it.
 
 In practice, that means:
 
 - **Quiet when all is well.** If Mom's day looks like her usual day, Looop stays quiet.
 - **A heads-up on what's around her.** You'll hear when severe weather is heading toward her town, and when crime is reported near her in all 50 US states.
-- **A gentle nudge when her day looks different.** If her driving, walking or phone use doesn't fit her own usual pattern, Looop suggests it might be a good time to check in.
-- **Optional wellness, her choice.** Steps, sleep or heart rate are shared only if she turns them on.
+- **A gentle nudge when her day looks different.** If her driving, walking, or phone use doesn't fit her own usual pattern, Looop suggests it might be a good time to check in.
+- **Optional wellness, her choice.** Steps, sleep, or heart rate are shared only if she turns them on.
 
 There's a family map, too, as a supporting feature for the moment after a nudge. It's the place to look once Looop has told you something seems off.
 
@@ -76,7 +76,7 @@ There's a family map, too, as a supporting feature for the moment after a nudge.
 
 When Mom says yes to a Looop invite, each of you gets something out of it.
 
-**She gets** to keep her routine, her calendar and her independence, with fewer "just checking on you" calls. She won't feel managed, and she won't show up next to the dog's collar.
+**She gets** to keep her routine, her calendar, and her independence, with fewer "just checking on you" calls. She won't feel managed, and she won't show up next to the dog's collar.
 
 **You get** peace of mind, and a quiet signal on the day a call really matters.
 
@@ -94,7 +94,7 @@ For more on that first conversation, see our guide to [checking on aging parents
 
 ## Before you invite her
 
-- Some family apps now put people, pets and lost-item tags on one map. That's useful for finding things.
+- Some family apps now put people, pets, and lost-item tags on one map. That's useful for finding things.
 - For a parent who lives on her own, where she appears and what she's grouped with tells her how you see her.
 - Looop is built only for people: quiet when all is well, a heads-up when something's around her, a nudge when her day looks different.
 - Ask first, and let her choose what she shares.

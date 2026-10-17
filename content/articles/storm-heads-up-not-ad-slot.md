@@ -21,7 +21,7 @@ If your parent lives hours away, you know the feeling. You see the forecast, or 
 
 A weather alert about someone you love has one job: to tell you it might be a good time to call. This guide covers what to do when a storm is headed toward a parent who lives far away, and why we think that alert should never be anything else.
 
-## Watch, warning or advisory: what the words mean
+## Watch, warning, or advisory: what the words mean
 
 Before you pick up the phone, it helps to know how serious the alert is. The National Weather Service uses three main terms. ([NWS](https://www.weather.gov/lwx/faq))
 
@@ -52,8 +52,8 @@ Respect that they've likely seen storms before. You're offering a second set of 
 Keep the call short. These four questions cover most of what matters:
 
 - **Where will you go if it gets bad?** Sheltering from a tornado looks different from leaving early for a hurricane or flood. Whatever the storm, local officials' instructions come first.
-- **Do you have what you need for a few days?** Ready.gov suggests [one gallon of water per person per day](https://www.ready.gov/kit) for several days, plus a several-day supply of non-perishable food, a flashlight, extra batteries and a battery or hand crank radio.
-- **Are your medicines covered?** Ready.gov's guidance for [older adults](https://www.ready.gov/older-adults) suggests a kit with medicines, medical supplies, batteries and chargers.
+- **Do you have what you need for a few days?** Ready.gov suggests [one gallon of water per person per day](https://www.ready.gov/kit) for several days, plus a several-day supply of non-perishable food, a flashlight, extra batteries, and a battery or hand crank radio.
+- **Are your medicines covered?** Ready.gov's guidance for [older adults](https://www.ready.gov/older-adults) suggests a kit with medicines, medical supplies, batteries, and chargers.
 - **Is your phone charged?** A full phone and a charged backup battery can turn hours of not knowing into a quick check-in.
 
 ### 3. Agree on how you'll check in
@@ -68,7 +68,7 @@ If you have siblings or other relatives, split the job. One person calls Mom. An
 
 ### 5. Know who's close by
 
-Ready.gov encourages people to build a [support network](https://www.ready.gov/older-adults) of family, friends and others who can help in an emergency. For a parent who lives alone, that might be a neighbor, a friend from church or a nearby relative.
+Ready.gov encourages people to build a [support network](https://www.ready.gov/older-adults) of family, friends, and others who can help in an emergency. For a parent who lives alone, that might be a neighbor, a friend from church, or a nearby relative.
 
 Have at least one local number saved before the storm. If you can't reach your parent after it passes, a neighbor who can knock on the door is often the fastest way to know they're okay.
 
@@ -76,7 +76,7 @@ Have at least one local number saved before the storm. If you can't reach your p
 
 Power outages are one of the most common effects of a big storm. Go over two safety points with them:
 
-- **Generators belong outside.** The CDC says never to use a generator inside a home or garage, even with doors and windows open, and to keep it [more than 20 feet](https://www.cdc.gov/carbon-monoxide/about/index.html) from windows, doors and vents.
+- **Generators belong outside.** The CDC says never to use a generator inside a home or garage, even with doors and windows open, and to keep it [more than 20 feet](https://www.cdc.gov/carbon-monoxide/about/index.html) from windows, doors, and vents.
 - **Plan for anything that needs power.** If your parent relies on a medical device that plugs in, talk through a backup plan with them and their care team ahead of time.
 
 ### 7. Follow local officials
@@ -87,7 +87,7 @@ And if you believe someone is in immediate danger, call 911. An app is never a s
 
 ### 8. After the storm passes
 
-Check in once the weather clears. Ask about power, water, roads and any damage. Offer to help with the follow-up calls, like the insurance company or a repair service, if they'd like that.
+Check in once the weather clears. Ask about power, water, roads, and any damage. Offer to help with the follow-up calls, like the insurance company or a repair service, if they'd like that.
 
 ## What a weather alert should feel like
 
@@ -95,7 +95,7 @@ A good weather alert is calm and clear, and it's about someone you love. It tell
 
 We think the alert itself should never be selling anything.
 
-Not every app sees it that way. Life360 offers severe weather alerts for its members through a partnership with AccuWeather. In the [September 2025 announcement](https://investors.life360.com/news-releases/news-release-details/life360-partners-accuweather-deliver-real-time-severe-weather), Life360 also said it will use AccuWeather's data to "more effectively target advertising during weather events," with offers from brands that help members stock up, prepare or recover.
+Not every app sees it that way. Life360 offers severe weather alerts for its members through a partnership with AccuWeather. In the [September 2025 announcement](https://investors.life360.com/news-releases/news-release-details/life360-partners-accuweather-deliver-real-time-severe-weather), Life360 also said it will use AccuWeather's data to "more effectively target advertising during weather events," with offers from brands that help members stock up, prepare, or recover.
 
 Families can decide how they feel about that. Looop keeps offers out of its weather alerts, so a storm alert is only about the person in its path.
 
@@ -107,7 +107,7 @@ In practice, that means:
 
 - **A calm alert with no ads.** Looop doesn't work with advertisers, so your notifications never include sponsored offers.
 - **Their weather, at a glance.** See current conditions and a five-day forecast with rain chances on each Loved One's card, and swipe through active severe weather alerts, with links to learn more.
-- **One tap to reach them.** Call, text or FaceTime straight from their card, or send a quick "Are you ok?" or "Call Me."
+- **One tap to reach them.** Call, text, or FaceTime straight from their card, or send a quick "Are you ok?" or "Call Me."
 - **The same heads-up for the whole family.** You and your siblings can get the same alert about Mom, so you can split the calls.
 - **Emergency contacts in one place.** Save up to three emergency contacts for each Loved One, like that helpful neighbor, and call them in one tap.
 
@@ -119,7 +119,7 @@ No ads ever, and your family's data is never for sale. You can read our full [pr
 
 ## Sources
 
-- National Weather Service, Baltimore/Washington office. "Frequently Asked Questions" (watch, warning and advisory definitions). https://www.weather.gov/lwx/faq
+- National Weather Service, Baltimore/Washington office. "Frequently Asked Questions" (watch, warning, and advisory definitions). https://www.weather.gov/lwx/faq
 - Ready.gov. "Build a Kit." https://www.ready.gov/kit
 - Ready.gov. "Older Adults." https://www.ready.gov/older-adults
 - Centers for Disease Control and Prevention. "Carbon Monoxide Poisoning Basics." https://www.cdc.gov/carbon-monoxide/about/index.html

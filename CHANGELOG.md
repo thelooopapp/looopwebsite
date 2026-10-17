@@ -5,6 +5,11 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 ## 2026-10-17 12:55 CT
 
 ### Copy
+- **Oxford commas, fourth batch** (HTML and `content/articles/` sources): Best Life360 Alternatives, When a Storm Heads Toward Mom, Mom Isn't a Pet, Mom Doesn't Need a Super App, and Who's Really Paying (45 commas, plus repeated meta descriptions). Quoted Life360 wording, including the linked "people, pets and things all on one map", unchanged.
+
+## 2026-10-17 12:55 CT
+
+### Copy
 - **Oxford commas, third batch**: Looop vs. Life360, How it works (HTML and `content/website/` sources), Apple Health and Weather Alert Sources. Agency names, required credit lines, direct quotes, "extreme heat or cold" and two-item pairs unchanged.
 
 ## 2026-10-17 12:55 CT
