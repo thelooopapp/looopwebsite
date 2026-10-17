@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 11:24 CT
+
+### Copy
+- **Homepage Unusual Day copy no longer says how it works** (`index.html`, "Out of the ordinary?" section): "Looop learns what's normal for each Loved One ... doesn't fit the pattern" is now "Safety alerts about Unusual Days. A nudge when something seems amiss. On a typical day, Looop stays quiet."
+
 ## 2026-10-17 11:13 CT
 
 ### New Features
