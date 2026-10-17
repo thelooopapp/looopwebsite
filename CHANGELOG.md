@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 11:13 CT
+
+### New Features
+- **NASA FIRMS credit** (`weather-alert-sources.html`, weather sources list): satellite fire detections behind the weather tab's "Possible Fire Nearby" cards, which never notify because satellites also see controlled burns and industrial heat, with NASA's recommended FIRMS/ESDIS acknowledgment and a link.
+
 ## 2026-10-17 11:11 CT
 
 ### Copy
