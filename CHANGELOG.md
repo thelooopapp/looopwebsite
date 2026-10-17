@@ -88,6 +88,12 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 ### Homepage: "Out of the ordinary? You'll know."
 - New homepage section (`#out-of-the-ordinary`) between the privacy band and the guides, showing the three new alert images as cards: home longer than usual (Mom, 72 hrs), hospital arrival (Dad) and phone untouched (Aunt Ira, 12 hrs), with the "Looop doesn't detect emergencies" line beneath.
 
+### App Store concepts added to the site
+- **How it works:** three new sections in the same split style as the others. "A heads-up when they arrive" (`#arrivals`, arrive and leave alerts for saved places, with `images/home/phone5.webp`), "Quick Directions, right from their card" (`#directions`, Apple Maps or Google Maps, with `images/home/phone-directions.webp`), and "Away from home? Still in the loop." (`#away`, weather alerts while they travel, with `images/home/phone-flood.webp`).
+- **College families:** new "Time for a quick text" section (`#heat`, Heat Advisory at camp, with `images/home/phone-heat.webp`).
+- The three new phone images are transparent renders of App Store screenshots 7, 9 and 10.
+- **Health page** (`apple-health.html`): page title and share title are now "Health Alerts", and the H1 is "Health Alerts" (was "Unusual Health alerts for your family"). The URL is unchanged.
+
 ### Typography and consistency
 - **No single word alone on a last line.** The last two words of every heading, paragraph, list item and table cell are joined with a non-breaking space across all 36 pages, and `styles.css` / `home.css` add `text-wrap: balance` for short display lines and `text-wrap: pretty` for body text. A scan at 1280, 820 and 390 pixels wide found 2 remaining cases on desktop (both in the Life360 alternatives article, where the last word is too long to pair). The only wording change is on Who it's for: "One heads-up when someone needs a call." is now "A heads-up when they need a call."
 - **One type scale for the whole site.** Inner pages now use the homepage's sizes: hero title up to 72px, green hero key line up to 40px, white hero lead up to 22px, section titles up to 46px, orange question lines up to 28px, 17px body text and 23px blue card titles. Hero product images are larger so the phones match the homepage's. Articles and legal pages keep a smaller long-form scale with the same font, weights and colours.
