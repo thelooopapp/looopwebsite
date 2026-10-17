@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 10:39 CT
+
+### Copy
+- **Austin startup press release: launch date and pace** (`press/austin-startup-aging-parent-alerts.html` and its `content/` source): the opening paragraph now says Looop launched on the App Store in May 2026 and has shipped new features and fixes steadily since (App Store version history: first release May 8, 2026). The transition after the Life360 timeline now reads "Life360 has spent a year promising aging-parent features. Looop launched them in May 2026 and keeps shipping more." No release count is given on purpose.
+
 ## 2026-10-17 10:25 CT
 
 ### New Features
