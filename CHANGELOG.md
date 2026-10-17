@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 11:00 CT
+
+### Copy
+- **Austin startup press release lede, owner's wording** (`press/austin-startup-aging-parent-alerts.html` and its `content/` source): "today announced that Looop now provides safety alerts about severe weather in 55 countries and nearby crime alerts in all 50 US states to keep your loved ones safe, wherever they go." The "(new)" alert bullet and the meta description use the same numbers; the editor's note now asks to match them on the weather sources and crime coverage pages.
+
 ## 2026-10-17 10:54 CT
 
 ### Copy

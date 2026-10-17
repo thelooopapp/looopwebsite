@@ -6,19 +6,18 @@ legal_review: true
 legal_notes: "Names a competitor (Life360). Every Life360 statement was verified against its linked source on Oct 6, 2026. Does not claim Life360 lacks any feature; says what Life360 has publicly said it is working on. Press release: noindex until placeholders are filled and legal signs off."
 placeholders:
   - "[DATE]"
-  - "[CONFIRM: 100 countries]"
 ---
 
 <!-- DRAFT FOR REVIEW: contains placeholders. noindex until final. -->
 <!-- LEGAL REVIEW REQUIRED: names a competitor. Remove noindex after approval. -->
 
-> Editor's note (remove before release): the quote was drafted for the team to approve. Confirm "100 countries" against the weather sources page (weather-alert-sources.html lists the US, Canada, Mexico, Europe and Israel). Legal sign-off required before removing noindex.
+> Editor's note (remove before release): the quote was drafted for the team to approve. Make sure weather-alert-sources.html and crime-alert-coverage.html match "55 countries" and "all 50 US states". Legal sign-off required before removing noindex.
 
 # Austin Startup Ships the Aging-Parent Alerts a Public Company Is Still Promising
 
 ## Life360 has spent a year promising aging-parent features. Looop launched in May 2026 and keeps shipping more.
 
-**AUSTIN, Texas, [DATE]:** LooopApp LLC, an Austin startup, today announced that Looop now sends severe weather alerts in the US and 100 countries, and crime alerts near loved ones in more than 200 US cities and counties. Looop is a safety notifications app for families who care from a distance. It sends a heads-up when a loved one's day looks different from their own routine, so families know when a call is worth making.
+**AUSTIN, Texas, [DATE]:** LooopApp LLC, an Austin startup, today announced that Looop now provides safety alerts about severe weather in 55 countries and nearby crime alerts in all 50 US states to keep your loved ones safe, wherever they go. Looop is a safety notifications app for families who care from a distance. It sends a heads-up when a loved one's day looks different from their own routine, so families know when a call is worth making.
 
 In October 2025, Life360 CEO Lauren Antonoff [discussed on Fox Business](https://www.fox.com/watch/clip/fmc-2k7cu0b1c58nunwm/life360-explores-features-to-support-aging-parents-safety) how the company is exploring features for aging parents. On its [Q4 2025 earnings call](https://www.fool.com/earnings/call-transcripts/2026/03/02/life360-lif-q4-2025-earnings-call-transcript/) in March 2026, the company said it was working on devices for aging parents but did not expect to launch them that year. On its [Q2 2026 call](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/) in August, it named aging parents as a next line of business. And at a [Goldman Sachs conference](https://in.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-5589446) in September, it said it is working on services for aging parents, including wellness checks and scam protection.
 
@@ -28,7 +27,7 @@ Looop's alerts are built around one question: "Is Mom okay today?"
 
 **Alerts live in Looop today**
 
-- **Severe weather and nearby crime (new)**: severe weather alerts in the US and 100 countries, and crime alerts in more than 200 US cities and counties.
+- **Severe weather and nearby crime (new)**: severe weather alerts in 55 countries, and nearby crime alerts in all 50 US states.
 - **Unusual Day**: a nudge when something is off compared to a loved one's own normal routine.
 - **Phone untouched for hours**: a heads-up when their phone hasn't been picked up.
 - **Unusual spending**: an optional alert for unusually large spending on a linked bank account, which can be an early sign of a scam. Bank linking is optional and runs through Plaid.
