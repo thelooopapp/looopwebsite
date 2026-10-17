@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 13:20 CT
+
+### New Features
+- **Search and AI-assistant readiness**: NewsArticle structured data (headline, description, publish date, publisher LooopApp LLC, the Looop app) and a canonical link on each of the five scheduled releases; Organization and MobileApplication structured data on the homepage; new `llms.txt` with Looop's key facts and main pages. robots.txt already allows every crawler. Release pages stay noindex until their day.
+
 ## 2026-10-17 12:56 CT
 
 ### Copy
