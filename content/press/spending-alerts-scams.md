@@ -13,7 +13,7 @@ legal_review: true
 
 Scams that reach older adults often move fast. The FBI's Internet Crime Complaint Center reports that people 60 and older filed 201,266 complaints in 2025 and reported $7.748 billion in losses, up 59% from 2024 ([2025 IC3 Annual Report](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf)). The Federal Trade Commission says older adults report the highest total losses to fraud paid by bank transfer, and that scammers often press people to move money to "protect it" ([Protecting Older Consumers, 2024-2025](https://www.ftc.gov/system/files/ftc_gov/pdf/P144400-OlderAdultsReportDec2025.pdf)). A family that hears about an unusual payment early has a better chance to talk before more money moves.
 
-"Scams work by getting someone to act alone and fast. A heads-up about an unusual payment gives the family a reason to call Mom that afternoon and ask, 'Hey, was that you?' Usually she'll say yes and tell you about the new fridge. If she hesitates, the two of you can call the bank together," said the team behind Looop.
+"Scams work by getting someone to act alone and fast. A heads-up about an unusual payment gives the family a reason to call Mom that afternoon and ask, 'Hey, was that you?' Usually she'll say yes and tell you about the new fridge. If she's unsure, the two of you can call the bank together," said the team behind Looop.
 
 **How spending alerts work**
 

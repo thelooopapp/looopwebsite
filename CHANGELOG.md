@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 12:04 CT
+
+### Copy
+- **Spending alerts release quote** (`press/spending-alerts-scams.html` and its `content/press/` source): "If she hesitates" is now "If she's unsure, the two of you can call the bank together."
+
 ## 2026-10-17 11:56 CT
 
 ### Copy
