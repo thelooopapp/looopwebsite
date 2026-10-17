@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 11:48 CT
+
+### New Features
+- **Vector wordmark in the media kit** (`images/press/looop-wordmark-blue.svg`, `looop-wordmark-white.svg`): traced from the 1040 px wordmark (98.9% overlap with the original), with the green dot as an exact circle. The newsroom wordmark card previews the SVG and offers blue and white in SVG and PNG; the ZIP includes both SVGs. A close trace, not the original design file.
+
 ## 2026-10-17 11:46 CT
 
 ### New Features
