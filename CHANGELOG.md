@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 10:42 CT
+
+### Copy
+- **Austin startup press release reordered problem-first** (`press/austin-startup-aging-parent-alerts.html` and its `content/` source): the subhead is now "Life360 has spent a year promising aging-parent features. Looop launched them in May 2026 and keeps shipping more." The May 2026 launch line moved out of the opening paragraph to follow the Life360 timeline: "For the past year, Life360 has been telling the press and investors that features for aging parents are coming. Looop's are already here. Looop launched on the App Store in May 2026 and has shipped new features and updates steadily since." The "Is Mom okay today?" line is back as its own paragraph before the alert list.
+
 ## 2026-10-17 10:39 CT
 
 ### Copy
