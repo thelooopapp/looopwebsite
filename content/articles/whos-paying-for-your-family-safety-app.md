@@ -121,7 +121,7 @@ A family safety app worth trusting should be able to check every box.
 
 We built Looop to check every box on that list.
 
-Looop is a safety notifications app. It sends you a heads-up when severe weather is heading toward a Loved One, when crime is reported near them in supported cities, or when their day looks unusual compared to their own routine. The rest of the time, it stays quiet.
+Looop is a safety notifications app. It sends you a heads-up when severe weather is heading toward a Loved One, when crime is reported near them in all 50 US states, or when their day looks unusual compared to their own routine. The rest of the time, it stays quiet.
 
 How Looop handles your family's information:
 

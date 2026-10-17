@@ -2,6 +2,15 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 11:37 CT
+
+### Copy
+- **Crime alerts now "all 50 US states" across the site** (new crime data provider; HTML and `content/` sources):
+  - `crime-alert-coverage.html` rewritten: new title, meta, subtitle and lead; "How coverage works" bullets are now All 50 US states, You choose the distance, US only, and Based on local reports. The city list and its search script, the Canada section and "Don't see your city?" are removed.
+  - Home, How it works (feature list link and FAQ), Aging parents, College families, Friends and siblings, Looop vs. Life360 (table cell and two coverage lines) and 15 blog posts: "in supported cities" / "more than 200 US cities" is now "in all 50 US states".
+  - "Crime near Mom" post: coverage bullets rewritten (All 50 US states, US only, reported crime only); the 25-mile and "coverage changes" bullets and the city-list paragraph are gone.
+  - Review list: the crime to-do is done; the Meta item now records that the SDK only measures Looop's own ads, with two follow-ups ("no ad partners" wording, App Store privacy label).
+
 ## 2026-10-17 11:34 CT
 
 ### Copy

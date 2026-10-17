@@ -66,7 +66,7 @@ Every member is a Loved One with a routine of their own. You won't find pet coll
 In practice, that means:
 
 - **Quiet when all is well.** If Mom's day looks like her usual day, Looop stays quiet.
-- **A heads-up on what's around her.** You'll hear when severe weather is heading toward her town, and when crime is reported near her in supported cities.
+- **A heads-up on what's around her.** You'll hear when severe weather is heading toward her town, and when crime is reported near her in all 50 US states.
 - **A gentle nudge when her day looks different.** If her driving, walking or phone use doesn't fit her own usual pattern, Looop suggests it might be a good time to check in.
 - **Optional wellness, her choice.** Steps, sleep or heart rate are shared only if she turns them on.
 
@@ -101,7 +101,7 @@ For more on that first conversation, see our guide to [checking on aging parents
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in supported cities, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data and doesn't work with advertisers. It sends safety alerts instead of tracking, and it's built only for people.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data and doesn't work with advertisers. It sends safety alerts instead of tracking, and it's built only for people.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

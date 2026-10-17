@@ -60,7 +60,7 @@ Day to day, it looks like this.
 
 **Most days, nothing.** If Mom's day looks like her normal day, Looop stays quiet, so a quiet phone means there's nothing you need to do.
 
-**A heads-up on what's around her.** If severe weather is heading toward her town, you'll hear about it, in more than 50 countries, including the US. If crime is reported near her, in supported cities, you'll get a calm note, with a distance you choose: 1, 3, 5 or 10 miles.
+**A heads-up on what's around her.** If severe weather is heading toward her town, you'll hear about it, in more than 50 countries, including the US. If crime is reported near her, anywhere in the US, you'll get a calm note, with a distance you choose: 1, 3, 5 or 10 miles.
 
 **A nudge when her day looks different.** If her driving, walking or phone use doesn't fit her own usual pattern, Looop sends a gentle "Unusual Day" nudge that it might be a good time to call.
 
@@ -103,7 +103,7 @@ If the answers fit on an index card, you're probably in good shape.
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in supported cities, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data. It uses just enough to know when to call, and your family's data is never for sale.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data. It uses just enough to know when to call, and your family's data is never for sale.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

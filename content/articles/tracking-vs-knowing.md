@@ -119,7 +119,7 @@ A family safety app holds some of the most personal information there is. In a s
 
 Looop is a safety notifications app, built from the ground up around these five principles.
 
-**It tells you about what's around them.** Looop sends a heads-up when severe weather is heading toward a Loved One, in more than 50 countries, including the US, and when crime is reported near them in supported cities. You choose your own crime alert distance.
+**It tells you about what's around them.** Looop sends a heads-up when severe weather is heading toward a Loved One, in more than 50 countries, including the US, and when crime is reported near them in all 50 US states. You choose your own crime alert distance.
 
 **It notices when a day looks different.** Looop learns each person's own normal. When driving, walking or phone use looks unusual for them, or their whole day looks off compared to their usual routine, you get a gentle "Unusual Day" nudge to check in.
 

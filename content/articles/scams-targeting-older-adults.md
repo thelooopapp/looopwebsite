@@ -136,7 +136,7 @@ Scammers try to isolate people and rush them. Regular calls where money and odd 
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather and crime reported near a Loved One in supported cities, plus optional alerts like unusually large spending on a linked account. Loved Ones join by invitation, and Looop never sells your data or works with advertisers.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather and crime reported near a Loved One in all 50 US states, plus optional alerts like unusually large spending on a linked account. Loved Ones join by invitation, and Looop never sells your data or works with advertisers.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

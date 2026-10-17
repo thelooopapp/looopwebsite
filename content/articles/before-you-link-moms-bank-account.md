@@ -90,7 +90,7 @@ Looop is a safety notifications app. Spending alerts are one optional piece of i
 4. **Consent:** Loved Ones join Looop by invitation. We encourage families to set up spending alerts together, with the account holder's OK.
 5. **Turning it off:** Bank linking is optional. Skip it and everything else in Looop still works. Unlink any account in the app, and delete your account and data whenever you choose.
 
-The rest of Looop works the same way: a heads-up when severe weather is heading toward a Loved One, when crime is reported nearby in supported cities, or when their day looks unusual for them. When all is well, it stays quiet. Read our full [privacy promise](../privacy-promise.html).
+The rest of Looop works the same way: a heads-up when severe weather is heading toward a Loved One, when crime is reported nearby in all 50 US states, or when their day looks unusual for them. When all is well, it stays quiet. Read our full [privacy promise](../privacy-promise.html).
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

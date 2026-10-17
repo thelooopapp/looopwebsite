@@ -130,7 +130,7 @@ The drive home is when the worry usually kicks in. A little setup before you go 
 
 ### Setting up Looop together, consent first
 
-Looop is a safety notifications app. Once your parent joins, it stays quiet on normal days. It gives you a heads-up when severe weather is heading their way, when crime is reported near them in supported cities, and a gentle nudge when their day looks different from their usual routine. It tells you when a call might help.
+Looop is a safety notifications app. Once your parent joins, it stays quiet on normal days. It gives you a heads-up when severe weather is heading their way, when crime is reported near them in all 50 US states, and a gentle nudge when their day looks different from their usual routine. It tells you when a call might help.
 
 If you'd like to try it, the holidays are a good time, because you can do it side by side:
 
@@ -156,7 +156,7 @@ Most of all, enjoy the visit, and save this list for a quiet moment. You'll have
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in supported cities, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data and doesn't work with advertisers.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data and doesn't work with advertisers.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

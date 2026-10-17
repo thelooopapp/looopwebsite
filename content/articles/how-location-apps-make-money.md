@@ -107,7 +107,7 @@ You don't have to delete every app. These steps limit how far your location trav
 
 ## How Looop is different
 
-Looop is a safety notifications app. It tells you when it might be a good time to check in on someone you love: a storm heading their way, crime reported nearby in supported cities, or a day that looks unusual for them. When all is well, it stays quiet.
+Looop is a safety notifications app. It tells you when it might be a good time to check in on someone you love: a storm heading their way, crime reported nearby in all 50 US states, or a day that looks unusual for them. When all is well, it stays quiet.
 
 We made a few promises that shape the whole business:
 

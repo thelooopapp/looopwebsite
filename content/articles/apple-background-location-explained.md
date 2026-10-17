@@ -91,7 +91,7 @@ That's why Looop asks for Always permission during setup, and explains why first
 
 This is what we do with it:
 
-- **Notifications first.** Looop sends a heads-up about severe weather near a Loved One, crime reported nearby in supported cities, and days that look unusual compared to their own normal. There's also a family map for when you need it.
+- **Notifications first.** Looop sends a heads-up about severe weather near a Loved One, crime reported nearby in all 50 US states, and days that look unusual compared to their own normal. There's also a family map for when you need it.
 - **Just enough to know.** We use only what we need to tell whether something unusual is going on.
 - **Invitation only.** Every Loved One joins by invitation, sees Apple's own permission prompts, and can change their settings or leave anytime.
 - **Never for sale.** Looop never sells your data and doesn't work with advertisers.
@@ -108,7 +108,7 @@ If you're choosing a family app, ask the company what it does with location data
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in supported cities, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

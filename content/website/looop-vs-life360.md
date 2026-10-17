@@ -47,7 +47,7 @@ This page compares the two, with sources, including where Life360 may be the bet
 | --- | --- | --- |
 | What it is | A GPS location tracking app: a live family map plus location history | A safety notifications app: alerts that tell you when to check in |
 | Built for | Families of every stage on one map, plus pets and Tile item trackers in the same app. Its aging-parent offer is sold through premium plans. | People caring from a distance: aging parents, kids at college, siblings and friends who look out for each other |
-| What you're notified about | Arrivals and departures at saved places, no-shows, flight landings and severe weather. Paid plans add crash detection. | Nearby crime (in supported cities), severe weather, unusual activity, an Unusual Day, arrivals at a hospital, police station or airport, a phone untouched for hours, and low battery. Optional health and spending alerts, if they choose. |
+| What you're notified about | Arrivals and departures at saved places, no-shows, flight landings and severe weather. Paid plans add crash detection. | Nearby crime (all 50 US states), severe weather, unusual activity, an Unusual Day, arrivals at a hospital, police station or airport, a phone untouched for hours, and low battery. Optional health and spending alerts, if they choose. |
 | Approach to location | Precision GPS tracking: continuous location, with your movements recorded and stored for 2 to 30 days depending on plan | Just enough to know if something unusual is going on. A family map is there for when you need it. |
 | Driving | Driving details recorded and stored | A nudge when a drive looks unusual, and a heads-up when they finish a drive |
 | Independence | Built around seeing where family members are and where they've been | Loved Ones live their day. Looop only speaks up when something looks off. |
@@ -82,7 +82,7 @@ Life360 offers free severe weather alerts too, through AccuWeather. In the [same
 
 ### Nearby crime, at a distance you choose
 
-Looop sends a calm heads-up when crime is reported near a Loved One, so you can reach out if it feels right. You pick the distance: 1, 3, 5 or 10 miles. Crime alerts work in supported cities, more than 200 US cities and counties so far, so check whether your family's towns are covered.
+Looop sends a calm heads-up when crime is reported near a Loved One, so you can reach out if it feels right. You pick the distance: 1, 3, 5 or 10 miles. Crime alerts work in all 50 US states.
 
 Life360's paid plans include [Crime Reports](https://support.life360.com/hc/en-us/articles/23053642245399-Life360-Crime-Reports), which Life360 says aren't reported in real time and are added daily. Looop sends you a heads-up about recent crime near any of your Loved Ones.
 
@@ -149,7 +149,7 @@ Yes, as a supporting feature. After a nudge, the family map is there to help you
 Yes. Every Loved One joins by invitation. Wellness sharing, like steps, heart rate and sleep, is optional and always their call.
 
 **Where do crime alerts work?**
-In supported cities: more than 200 US cities and counties so far. Severe weather alerts in more than 50 countries, including the US, Canada, Mexico, most of Europe, Israel, Australia, New Zealand, Japan, South Korea, India, China, the Philippines, Brazil, South Africa, the UAE and Singapore.
+Crime alerts work in all 50 US states. Severe weather alerts in more than 50 countries, including the US, Canada, Mexico, most of Europe, Israel, Australia, New Zealand, Japan, South Korea, India, China, the Philippines, Brazil, South Africa, the UAE and Singapore.
 
 ## Sources
 

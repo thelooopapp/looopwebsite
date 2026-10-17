@@ -98,13 +98,11 @@ For many parents, that's a relief: fewer "just checking" calls, and when you do 
 
 Crime alerts have limits, and it helps to know them before you rely on them.
 
-- **Supported areas only.** Crime alerts work in more than 200 US cities and counties across 34 states, plus Toronto and Abbotsford in Canada. They include Atlanta, Austin, Houston, Phoenix, San Diego, Seattle, Philadelphia, Columbus, Indianapolis, New Orleans, Orlando, Raleigh and many more.
-- **Within 25 miles of a supported area.** If a Loved One is within 25 miles of a supported city or county, alerts can work for them, even in a nearby town that isn't on the list itself.
-- **Outside supported areas.** If your Loved One lives far from any supported area, Looop won't send crime alerts about them. Severe weather alerts and other nudges still work.
-- **Coverage changes.** We review coverage regularly, and the list may change.
+- **All 50 US states.** Crime alerts work for a Loved One anywhere in the US, in cities, suburbs and small towns alike.
+- **US only.** Crime alerts don't work outside the US. Severe weather alerts and other nudges still work.
 - **Reported crime only.** Alerts reflect what has been reported. Not every incident is reported, and reports can take time.
 
-You can see the full list, grouped by state, on our [crime alert coverage page](crime-alert-coverage.html). Don't see your city? [Let us know](index.html#contact).
+See how coverage works on our [crime alert coverage page](crime-alert-coverage.html).
 
 ## Knowing when to call
 
@@ -114,6 +112,6 @@ If you keep getting alerts you wouldn't call about, change the distance for her 
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about crime reported near a Loved One in supported cities and severe weather heading their way, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, and Looop never sells your data or works with advertisers.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about crime reported near a Loved One in all 50 US states and severe weather heading their way, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, and Looop never sells your data or works with advertisers.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**

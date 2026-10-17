@@ -99,11 +99,11 @@ The goal is to bother your parent less.
 
 **You get** a quiet signal on the day a call might matter, and no alerts on the ordinary days.
 
-If your parent decides health sharing isn't for them, Looop still works. You'll still get a heads-up about severe weather heading their way, crime reported nearby in supported cities, and a gentle nudge when their day looks different from their usual routine.
+If your parent decides health sharing isn't for them, Looop still works. You'll still get a heads-up about severe weather heading their way, crime reported nearby in all 50 US states, and a gentle nudge when their day looks different from their usual routine.
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in supported cities, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data and doesn't work with advertisers.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data and doesn't work with advertisers.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

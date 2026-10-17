@@ -28,7 +28,7 @@ Image: transparent_map.png
 **Subtitle:** You'll know when a call is worth making.
 
 - **Severe weather near them.** Storms, flood warnings, extreme heat or cold heading toward their town.
-- **Nearby crime.** A heads-up when something is reported near them, in supported cities.
+- **Nearby crime.** A heads-up when something is reported near them, in all 50 US states.
 - **Unusual Day.** A gentle nudge when something is off compared to their own normal routine.
 - **Phone untouched for hours.** A heads-up if their phone hasn't been picked up in a long while.
 - **Arrivals that matter.** Know when they arrive at a hospital or ER.
