@@ -39,7 +39,7 @@ Nearby Crime Alerts are available now in Looop for iPhone on the App Store at ht
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their Loved Ones are safe, across any distance. Looop sends a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and Loved Ones keep their independence. Looop never sells your data and doesn't work with advertisers. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their Loved Ones are safe, across any distance. It sends safety alerts instead of tracking: a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and Loved Ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 **Media Contact**
 

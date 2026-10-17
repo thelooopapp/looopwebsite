@@ -12,20 +12,32 @@ persona: "Marcus, the only child far away; Dana, the stretched-thin middle; Lind
 status: draft
 facts_checked: 2026-10-06
 legal_review: true
-legal_notes: "Names a competitor. Every Life360 claim was re-verified against its linked source on Oct 6, 2026. Approved data-sale phrasing from COPYWRITER_GUIDELINES.md is used verbatim. Crime-alert line is softened to 'we didn't find crime alerts in its App Store listing' and still needs an in-app check. 'Same app' is used for pets and Tile, not 'same map'. Do not publish, link from nav or index until legal signs off. Page carries robots noindex."
+legal_notes: "Names a competitor. Every Life360 claim was re-verified against its linked source on Oct 6, 2026. Approved data-sale phrasing from COPYWRITER_GUIDELINES.md is used verbatim. Crime line now cites Life360's Crime Reports support article (a map on paid plans, not real-time). 'Same app' is used for pets and Tile, not 'same map'. Do not publish, link from nav or index until legal signs off. Page carries robots noindex."
 ---
 
 <!-- LEGAL REVIEW REQUIRED: names a competitor. Remove noindex after approval. -->
 
 # Looop vs. Life360
 
-**Subtitle:** Looop tells you when to check in. See how it compares with Life360.
+**Subtitle:** Safety alerts instead of tracking. See how Looop compares with Life360.
 
 Looking for a Life360 alternative? Looop is a safety notifications app for families who care from a distance. It stays quiet when all is well and sends a calm heads-up when it might be a good time to call. It never sells your data and doesn't work with advertisers.
 
 This page compares the two, with sources, including where Life360 may be the better fit.
 
 [Download Looop]
+
+## Which one fits your family?
+
+**Subtitle:** Peace of mind for you, independence for them.
+
+| Choose Life360 if you want to pay more for | Choose Looop if you want |
+| --- | --- |
+| Precision GPS tracking | Safety alerts instead of tracking |
+| Driving details recorded and stored | A nudge when a drive looks unusual |
+| Call center support | You're the first call, with 911 and their emergency contacts one tap away |
+| Targeted ads | No ads ever |
+| Your family's data shared with its partners | Your family's data never for sale |
 
 ## At a glance
 
@@ -36,7 +48,8 @@ This page compares the two, with sources, including where Life360 may be the bet
 | What it is | A GPS location tracking app: a live family map plus location history | A safety notifications app: alerts that tell you when to check in |
 | Built for | Families of every stage on one map, plus pets and Tile item trackers in the same app. Its aging-parent offer is sold through premium plans. | People caring from a distance: aging parents, kids at college, siblings and friends who look out for each other |
 | What you're notified about | Arrivals and departures at saved places, no-shows, flight landings and severe weather. Paid plans add crash detection. | Nearby crime (in supported cities), severe weather, unusual activity, an Unusual Day, arrivals at a hospital, police station or airport, a phone untouched for hours, and low battery. Optional health and spending alerts, if they choose. |
-| Approach to location | Precise, continuous location, with 2 to 30 days of location history depending on plan | Just enough to know if something unusual is going on. A family map is there for when you need it. |
+| Approach to location | Precision GPS tracking: continuous location, with your movements recorded and stored for 2 to 30 days depending on plan | Just enough to know if something unusual is going on. A family map is there for when you need it. |
+| Driving | Driving details recorded and stored | A nudge when a drive looks unusual, and a heads-up when they finish a drive |
 | Independence | Built around seeing where family members are and where they've been | Loved Ones live their day. Looop only speaks up when something looks off. |
 | Ads | Runs a growing ad business, including Uber offers in landing notifications and Place Ads based on places families visit | No advertisers, and no sponsored offers in your notifications. |
 | Your data | Has a history of selling location data to a dozen data brokers, including Cuebiq, X-Mode, SafeGraph and Allstate's Arity, and still sells location data today | Never sold. Bank linking is optional and runs through Plaid. |
@@ -71,7 +84,7 @@ Life360 offers free severe weather alerts too, through AccuWeather. In the [same
 
 Looop sends a calm heads-up when crime is reported near a Loved One, so you can reach out if it feels right. You pick the distance: 1, 3, 5 or 10 miles. Crime alerts work in supported cities, more than 200 US cities and counties so far, so check whether your family's towns are covered.
 
-We didn't find crime alerts mentioned in [Life360's App Store listing](https://apps.apple.com/us/app/life360-family-safety-gps/id384830320) when we checked in October 2026.
+Life360's paid plans include [Crime Reports](https://support.life360.com/hc/en-us/articles/23053642245399-Life360-Crime-Reports), which Life360 says aren't reported in real time and are added daily. Looop sends you a heads-up about recent crime near any of your Loved Ones.
 
 ### A nudge before a scam does damage
 
@@ -106,6 +119,10 @@ Life360 solves a different problem. It released a separate [Life360 for Watch](h
 - **24/7 dispatch and roadside help.** Life360's Gold and Platinum plans include emergency dispatch and roadside assistance, and paid plans include crash detection. Looop has none of these. It offers 911 and emergency contacts in one tap.
 - **A live map of young kids.** If you want to see where young children are throughout the day, with arrival and departure alerts and location history, Life360 is built for that.
 - **Pets and keys in one place.** If you want your dog's GPS and your Tile item trackers in the same app as your family, Life360 offers that. Looop is only for people.
+
+Choose Life360 if you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data shared with its partners.
+
+**Choose Looop if you want safety alerts instead of tracking, a nudge when a drive looks unusual, no ads ever, and your family's data never for sale. Peace of mind for you, independence for them.**
 
 ## Our promise
 
@@ -143,6 +160,7 @@ Every fact about Life360 on this page comes from Life360's own pages, filings an
 - Aging parents as a line of business: [Q2 2026 earnings call transcript (The Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/), [Goldman Sachs conference coverage (Investing.com)](https://in.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-5589446)
 - Premium conversion: [Jay Trainer, Life360 case study](https://www.jaytrainerdesign.com/project/life360)
 - Advertising: [Life360 Q2 2026 results](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517), [ad platform launch](https://www.life360.com/en-us/press/life360-unveils-advertising-platform-to-connect-brands-with-its-engaged-community-of-40-million-u-s-monthly-active-users), [Place Ads launch](https://www.life360.com/press/life360-enhances-ad-platform-launch-place-ads-and-uplift)
+- Crime Reports: [Life360 Crime Reports (Life360 support)](https://support.life360.com/hc/en-us/articles/23053642245399-Life360-Crime-Reports)
 - Weather: [Life360 and AccuWeather release](https://investors.life360.com/news-releases/news-release-details/life360-partners-accuweather-deliver-real-time-severe-weather)
 - Data sales: [The Markup](https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user), [AppleInsider](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users), [Life360 Q3 2024 release (SEC)](https://www.sec.gov/Archives/edgar/data/1581760/000158176024000105/life360incq324mediarelea.htm)
 - Super app: [Chris Hulls on Medium](https://chrishulls.medium.com/life360-is-building-a-family-ai-team-come-build-it-with-us-f6a3cd19ef20)
@@ -155,6 +173,6 @@ Want more options? Read [The Best Life360 Alternatives in 2026](blog/best-life36
 
 ## CTA
 
-**Headline:** Know when to check in.
-**Subtitle:** Get a heads-up when it's worth a call.
+**Headline:** Safety alerts instead of tracking.
+**Subtitle:** Peace of mind for you, independence for them.
 [Download Looop]

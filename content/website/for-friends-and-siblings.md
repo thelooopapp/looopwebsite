@@ -47,7 +47,7 @@ Three states apart and still each other's first call. One sees a crime alert nea
 Enjoy the date. If something seems off, your best friend will know. A gentle nudge if her night looks unusual means one quick text, so nobody has to wait up.
 
 ### Long-distance partners
-Three hours behind and always guessing? Get a heads-up about severe weather on their drive home. Miles apart, still the first to know when to call.
+Three hours behind and always guessing? Get a heads-up about severe weather on their drive home. Miles apart, still the first to know when to call. Looop sends alerts instead of tracking, because trust is the point.
 
 ### The group chat
 Five friends, five cities. A hurricane warning near one city, and the whole chat is checking in. Your group chat, with a little more looking out.

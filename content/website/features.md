@@ -14,7 +14,7 @@ legal_review: false
 
 # How Looop works
 
-**Subtitle:** Looop tells you when to check in, so the people you love can live their lives.
+**Subtitle:** Safety alerts instead of tracking, so the people you love can live their lives.
 
 Looop is a safety notifications app for families who care from a distance. It stays quiet when all is well. When something seems off, you get a gentle heads-up, so you know it might be a good time to reach out.
 
@@ -38,7 +38,7 @@ Image: lockscreen-phones.png
 ### When their day looks different
 
 - **Unusual Day.** A gentle nudge when something is off compared to their own normal routine.
-- **Unusual activity.** A nudge when driving, walking or phone use doesn't fit their usual pattern.
+- **Unusual activity.** A nudge when driving, walking or phone use doesn't fit their usual pattern. You won't need to review every drive.
 - **Phone untouched for hours.** A heads-up when their phone hasn't been picked up in a long while.
 - **Low battery.** A heads-up before their phone runs out of charge.
 - **Arrivals that matter.** Know when they arrive at a hospital or ER, a police station or an airport.
@@ -152,6 +152,9 @@ Every stat is marked Typical or Unusual, based only on that person's own pattern
 
 ## Questions, answered
 
+**Does Looop track my family?**
+No. Looop sends safety alerts instead of tracking. It uses the low-power location services built into iPhone, which wake the app when someone arrives somewhere or moves a meaningful distance, instead of keeping GPS on all day. There's a family map for when you need it, and you won't need to keep checking it.
+
 **What does my Loved One share?**
 What Looop needs to tell whether their day looks typical: things like whether they're driving, walking or staying put, their phone battery, and the weather where they are. Family members in their Looop can also see where they are on the family map. Health details are shared only if they choose. Before you invite anyone, walk through it together so there are no surprises.
 
@@ -159,7 +162,7 @@ What Looop needs to tell whether their day looks typical: things like whether th
 Yes. Steps, sleep, heart rate and other health details are shared only if your Loved One turns them on. It's their choice, and they can change their mind.
 
 **Does Looop sell my data?**
-No. Looop never sells your data and doesn't work with advertisers. Families aren't the product.
+No. Looop never sells your data, and there are no ads, ever. Families aren't the product.
 
 **Does Looop work outside the US?**
 Severe weather alerts work in the US and many other countries. Crime alerts are available in supported cities.

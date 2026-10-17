@@ -15,7 +15,7 @@ legal_review: false
 
 # Mom keeps her routine. You keep your peace of mind.
 
-**Subtitle:** A gentle way to check on aging parents from far away.
+**Subtitle:** A gentle way to check on aging parents from far away, with alerts instead of tracking.
 
 If your parents live alone in another city or state, the worry runs quietly in the background of your day. Looop helps carry it. It sends a heads-up when a storm is heading their way, when something is reported nearby, or when their day looks different than usual. Otherwise, it stays quiet.
 
@@ -70,7 +70,7 @@ Image: images/home/phone-hospital.webp
 
 **Subtitle:** You're right. Looop isn't one.
 
-Looop lets your family know if something seems off. You keep your routine and your independence. Your kids worry less. You get fewer "just checking on you" calls.
+Looop sends your family alerts instead of tracking you, and only when something seems off. You keep your routine and your independence. Your kids worry less. You get fewer "just checking on you" calls.
 
 - **You decide whether to join.** Looop works by invitation, so nobody signs you up without your knowing.
 - **Health details are your call.** Wellness sharing is optional. Share steps or sleep only if you want to.

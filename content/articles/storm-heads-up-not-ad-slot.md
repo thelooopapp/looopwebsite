@@ -113,7 +113,7 @@ In practice, that means:
 
 And on the days when the sky is clear and nothing looks unusual, Looop stays quiet.
 
-Looop never sells your data and doesn't work with advertisers. You can read our full [privacy promise](../privacy-promise.html), or learn more about [how location apps make money](how-location-apps-make-money.html).
+No ads ever, and your family's data is never for sale. You can read our full [privacy promise](../privacy-promise.html), or learn more about [how location apps make money](how-location-apps-make-money.html).
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

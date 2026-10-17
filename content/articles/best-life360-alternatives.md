@@ -40,7 +40,7 @@ We looked at the same four things for every app:
 
 | App | What it is | What it notifies you about | Ads and data | Works on |
 | --- | --- | --- | --- | --- |
-| Life360 | A location tracking app with a live family map and location history | Arrivals, departures and missed arrivals at set places | Runs an ad platform; still sells location data today | iPhone and Android |
+| Life360 | Precision GPS tracking, with your movements recorded and stored | Arrivals, departures and missed arrivals at set places | Runs an ad platform; still sells location data today | iPhone and Android |
 | Apple Find My | Location sharing built into Apple devices | Arrives at, leaves, or isn't at a place you choose | Apple says shared location isn't accessible to Apple when both people are on iOS 17 or later | Apple devices |
 | Google Maps and Find Hub | Location sharing in Google's apps | Arrives at or leaves a place you choose | Google says it never sells personal information; it does use location for ads, depending on settings | Google Maps: iPhone and Android |
 | Google Family Link | Parental controls for kids and teens, with location | A child's arrivals and departures | Kids may see ads, but not personalized ones | Parent: iPhone or Android. Child: Android or Chromebook |
@@ -59,7 +59,7 @@ Life360 also has a history of selling location data to a dozen data brokers. [Th
 
 **Platforms.** iPhone and Android, with app links on [Life360's site](https://www.life360.com/).
 
-**Best for:** families who want the most detailed shared map and are comfortable with an ad-supported business model.
+**Best for:** families willing to pay more for precision GPS tracking who are comfortable with targeted ads.
 
 ## Apple Find My
 
@@ -125,6 +125,8 @@ Apple's Messages app also has [Check In](https://support.apple.com/en-us/105104)
 
 **Best for:** adults who care from a distance, like grown kids with parents in another state or parents of college students, who want to know when to call without hovering.
 
+Choose Looop if you want safety alerts instead of tracking, a nudge when a drive looks unusual, no ads ever, and your family's data never for sale. Peace of mind for you, independence for them.
+
 ## Which one is right for you?
 
 Start with the people on the other end. What would they agree to, and what would they be glad to have?
@@ -133,8 +135,8 @@ Start with the people on the other end. What would they agree to, and what would
 - **An all-iPhone family that wants simple sharing:** Apple Find My.
 - **A mix of iPhone and Android:** Google Maps location sharing.
 - **Sharing for one trip or night out:** Glympse.
-- **A detailed shared map, and you're fine with an ad-supported model:** Life360.
-- **Grown-up family you'd like to hear about only when something seems off:** Looop.
+- **You'll pay more for precision GPS tracking and driving details recorded and stored, and you're fine with targeted ads:** Life360.
+- **Safety alerts instead of tracking, no ads ever, and your family's data never for sale:** Looop.
 
 Whatever you choose, talk with each person first, show them what's shared, and make it easy for them to say no.
 

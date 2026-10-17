@@ -149,4 +149,6 @@ For most other families, the more useful question is, "Does anyone need a call t
 
 Most days, the answer is no, and Looop stays quiet. When someone could use a call, Looop sends a heads-up.
 
+**Choose Looop if you want safety alerts instead of tracking, a nudge when a drive looks unusual, no ads ever, and your family's data never for sale. Peace of mind for you, independence for them.**
+
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**

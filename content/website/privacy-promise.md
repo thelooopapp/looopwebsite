@@ -21,7 +21,7 @@ Looop is a private family safety app. Its job is to tell families when to check 
 
 ## Seven promises, in plain language
 
-1. **We never sell your data.** We don't sell it to data brokers or anyone else. Your family's information isn't for sale.
+1. **We never sell your data.** We don't sell it to data brokers or anyone else. Some family apps have. We never will.
 2. **We don't work with advertisers.** You won't see ads in your notifications, and we have no ad partners. Families aren't the product.
 3. **Wellness sharing is optional.** Steps, sleep, heart rate and other health details are shared only if the Loved One chooses. They can change their mind anytime.
 4. **Bank linking is optional, and secured through Plaid.** Spending alerts only work if someone chooses to link an account. Skip it and everything else still works.
@@ -35,7 +35,7 @@ Looop is a private family safety app. Its job is to tell families when to check 
 
 **Subtitle:** No. Looop isn't built for that.
 
-Looop uses only what it needs to tell whether a day looks typical or unusual. It stays quiet when all is well, and speaks up when something seems off. Your Loved Ones keep their independence. You keep your peace of mind.
+Looop uses only what it needs to tell whether a day looks typical or unusual. It stays quiet when all is well, and speaks up when something seems off. Nothing about your family's movements is ever for sale. Your Loved Ones keep their independence. You keep your peace of mind.
 
 ## Everyone joins by invitation
 
@@ -48,4 +48,5 @@ This page is our promise in plain language. For the complete legal version, read
 ## CTA
 
 **Headline:** Private by design.
+**Subtitle:** Peace of mind for you, independence for them, and your family's data never for sale.
 [Download Looop]

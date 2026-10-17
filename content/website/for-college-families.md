@@ -46,7 +46,7 @@ Plenty of parents are worried about college kids and their own parents at the sa
 
 **Subtitle:** Your parents stop texting every hour. You keep living your life.
 
-Looop only speaks up when something seems off, like a storm near campus or a day that looks really unusual for you. Your parents don't get a play-by-play of your day.
+Looop only speaks up when something seems off, like a storm near campus or a day that looks really unusual for you. Your parents don't get a play-by-play of your day. It sends alerts instead of tracking you, with no ads and nothing sold.
 
 - **It's an invite.** You decide whether to join.
 - **Health details are optional.** Share them only if you want to.

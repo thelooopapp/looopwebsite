@@ -31,7 +31,7 @@ So when an app seems to "keep going" after you close it, the system itself is wa
 
 ## The standard tools any developer can use
 
-Apple's Core Location framework offers a handful of background services. They are documented in public, they work the same for a solo developer as for a public company, and each one is designed to use as little battery as possible.
+Apple's Core Location framework offers a handful of background services. They are documented in public, they work the same for a startup as for a public company, and each one is designed to use as little battery as possible.
 
 ### 1. The significant-change location service
 

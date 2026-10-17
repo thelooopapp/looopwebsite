@@ -15,7 +15,7 @@ legal_review: true
 
 Looop tells families when it might be a good time to check in on a Loved One: when severe weather is heading toward them, when crime is reported nearby in supported cities, or when their day looks unusual compared with their own routine. When all is well, it stays quiet.
 
-"[DRAFT QUOTE: FOUNDER TO APPROVE] When you ask your mom to join a safety app, you're asking her to trust you with where she goes every day. I don't want an advertiser anywhere near that, now or later, so we wrote it down as a pledge," said [FOUNDER NAME], founder of Looop.
+"[DRAFT QUOTE: FOUNDER TO APPROVE] When you ask your mom to join a safety app, you're asking her to trust you with where she goes every day. I don't want an advertiser anywhere near that, now or later, so we wrote it down as a pledge. Families should get safety alerts instead of tracking, no ads ever, and data that's never for sale," said [FOUNDER NAME], founder of Looop.
 
 **The pledge**
 
@@ -41,7 +41,7 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their Loved Ones are safe, across any distance. Looop sends a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and Loved Ones keep their independence. Looop never sells your data and doesn't work with advertisers. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their Loved Ones are safe, across any distance. It sends safety alerts instead of tracking: a heads-up about nearby crime, severe weather and unusual activity, so families know when to check in and Loved Ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 **Media Contact**
 

@@ -101,7 +101,7 @@ For more on that first conversation, see our guide to [checking on aging parents
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in supported cities, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data and doesn't work with advertisers.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in supported cities, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data and doesn't work with advertisers. It sends safety alerts instead of tracking, and it's built only for people.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

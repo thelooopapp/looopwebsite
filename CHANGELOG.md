@@ -2,6 +2,24 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 10:25 CT
+
+### New Features
+- **Life360 contrast pair, side by side** (`looop-vs-life360.html`): a new "Which one fits your family?" table under the hero ("Choose Life360 if you want to pay more for" vs. "Choose Looop if you want": precision GPS tracking vs. safety alerts instead of tracking, driving details recorded and stored vs. a nudge when a drive looks unusual, call center support vs. you're the first call, targeted ads vs. no ads ever, data shared with its partners vs. never for sale). The two full sentences close "Where Life360 may fit better"; subtitle and closing CTA now read "Safety alerts instead of tracking." At a glance gains a Driving row and the location row says "Precision GPS tracking ... your movements recorded and stored".
+- **"Side by side" table** in `blog/whos-paying-for-your-family-safety-app.html`, and a generic "A tracking app" vs. Looop table (no competitor named, no ad/data/price rows) in `blog/how-location-apps-make-money.html`.
+- **New FAQ "Does Looop track my family?"** (`features.html`): safety alerts instead of tracking, iPhone low-power location services, map as a supporting feature.
+
+### Copy
+- **Contrast woven into pages that don't name Life360**: homepage hero ("Safety alerts instead of tracking.") and privacy chips ("Never for Sale", "Alerts, Not Tracking"), features subtitle and data FAQ, Privacy Promise ("Some family apps have. We never will.", movements never for sale, approved line in CTA), aging parents, college, friends and siblings (invitee copy uses "alerts", not "safety alerts"), Apple Health ("never for sale and never used for ads"), and the storm, pet, super app, tracking-vs-knowing and letter-to-Mom articles.
+- **Best Life360 alternatives**: Life360 row, "Best for" and "Which one is right" bullets use "pay more for precision GPS tracking"; the Looop section closes with the full Looop sentence.
+- **Press**: About Looop boilerplate in all six releases and `press/index.html` now says "safety alerts instead of tracking" and "no ads, ever ... never for sale"; the data-pledge and Austin startup draft quotes carry the contrast.
+- **"Solo founder" is now "Austin startup"**: release renamed to `press/austin-startup-aging-parent-alerts.html` (and its `content/` source), title, meta and body updated; links in `press/index.html` and `review.html` updated. The Apple background location article says "the same for a startup as for a public company".
+
+### Bug Fixes
+- **Crime claim on the vs. page** no longer implies Life360 has no crime alerts. It cites Life360's Crime Reports support article (paid plans, not real-time, added daily) and the summary table marks it "Partly: Crime Reports on paid plans, added daily".
+
+Every HTML change is mirrored in its `content/` source. Pages that name Life360 keep noindex pending legal review.
+
 ## 2026-10-16 21:07 CT
 
 ### Copy

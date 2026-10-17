@@ -49,7 +49,7 @@ So I'd like to ask you something, and it's completely your choice.
 
 There's an app called Looop. It stays quiet on normal days, which I hope is almost every day. It lets me know if severe weather is heading your way. And if your day looks really different from your usual, it gives me a gentle nudge that it might be a good time to call.
 
-There's a map in it too, for if I ever need it. I'm asking so I'll know when a call actually matters, and can leave you alone the rest of the time.
+It sends alerts instead of tracking you. There's a map in it too, for if I ever need it. I'm asking so I'll know when a call actually matters, and can leave you alone the rest of the time.
 
 I promise you this:
 

@@ -118,6 +118,12 @@ We made a few promises that shape the whole business:
 
 Looop also uses only what it needs to tell whether something looks unusual. Read the full [privacy promise](../privacy-promise.html).
 
+| A tracking app | Looop |
+| --- | --- |
+| Precision GPS tracking | Safety alerts instead of tracking |
+| Your movements recorded and stored | Just enough to know when to call |
+| A map to keep checking | A heads-up when it's worth a call |
+
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 
 ## Sources

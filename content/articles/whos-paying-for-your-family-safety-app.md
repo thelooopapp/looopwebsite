@@ -134,6 +134,18 @@ How Looop handles your family's information:
 
 Looop is built on one rule: families aren't the product.
 
+## Side by side
+
+| Choose Life360 if you want to pay more for | Choose Looop if you want |
+| --- | --- |
+| Precision GPS tracking | Safety alerts instead of tracking |
+| Driving details recorded and stored | A nudge when a drive looks unusual |
+| Call center support | You're the first call, with 911 and their emergency contacts one tap away |
+| Targeted ads | No ads ever |
+| Your family's data shared with its partners | Your family's data never for sale |
+
+Peace of mind for you, independence for them.
+
 ## Before you choose
 
 Every app has a business model. With a family safety app, it's worth knowing exactly what it is, because the information involved belongs to the people you love.
