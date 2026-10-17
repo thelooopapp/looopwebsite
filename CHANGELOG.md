@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 11:46 CT
+
+### New Features
+- **Newsroom media kit** (`press/index.html`, new `images/press/`): a vector icon (`looop-icon.svg`, rebuilt from the 1024 px app icon and checked against it) plus a 1024 px PNG; the wordmark at 1040 px in blue (light backgrounds) and white (dark backgrounds), from `assets/LooopLogo.png` in the app repo, replacing the 652 px version; seven 1290 x 2796 App Store screenshots; and `looop-media-kit.zip` with all of them, linked from the section subtitle. The two product image cards are unchanged. Media kit item removed from the review list. No vector wordmark yet: that needs the original design file.
+
 ## 2026-10-17 11:44 CT
 
 ### Copy
