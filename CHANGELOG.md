@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-17 12:37 CT
+
+### Copy
+- **Holistic list now includes scams**: "weather, crime, health, activity and the shape of each day" is now "weather, crime, scams, health, activity and the shape of each day" (or "her day") in every scheduled release, its `content/press/` source, and the newsroom boilerplate.
+
 ## 2026-10-17 12:36 CT
 
 ### Copy

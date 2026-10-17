@@ -27,7 +27,7 @@ Families invite the people they care about to join their Looop. Each loved one j
 - **Alerts on your terms:** Families choose exactly which alerts they receive about each person.
 - **One-tap check-in:** Call, text or FaceTime straight from a loved one's card, or send a quick "Are you ok?"
 
-Weather is one part of a holistic picture. Looop brings together weather, crime, health, activity and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call.
+Weather is one part of a holistic picture. Looop brings together weather, crime, scams, health, activity and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 **Who it helps**
 
@@ -45,7 +45,7 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It sends safety alerts instead of tracking, and it's holistic by design: weather, crime, health, activity and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It sends safety alerts instead of tracking, and it's holistic by design: weather, crime, scams, health, activity and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 **Media Contact**
 
