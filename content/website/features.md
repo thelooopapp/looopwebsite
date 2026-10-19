@@ -28,7 +28,7 @@ Image: lockscreen-phones.png
 
 > "Is everyone okay today?"
 
-**Subtitle:** You hear from Looop when a call might be worth making.
+**Subtitle:** You hear from Looop when it might be time to make a call.
 
 ### What's happening around them
 
