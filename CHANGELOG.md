@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:55 CT
+
+### Design
+- **Right-column table icons are white on dark green** (`for-grown-up-families.html`): in the "now" cells, `icon--green` is overridden to a solid dark green circle `#237A3B` with a white icon (was a green icon on a pale green tint). The left column stays dull purple on pale grey.
+
 ## 2026-10-19 11:54 CT
 
 ### Design
