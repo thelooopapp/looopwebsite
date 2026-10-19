@@ -86,7 +86,7 @@ Consent first looks like this:
 
 - **Send an invitation.** Let them accept it themselves, or set it up side by side on a visit.
 - **Show exactly what's shared.** Walk through it together so nothing surprises them later.
-- **Make the optional things optional.** Sharing health details like steps or sleep is their choice.
+- **Make the optional things optional.** Health & Fitness sharing, like sleep or steps, is available if you need it.
 - **Agree on a way out.** Let them know they can change their mind, pause, or leave anytime. A parent who knows they can say no is more likely to say yes.
 - **Share both ways.** You're in the same group, so your parent sees your day the way you see theirs.
 - **Revisit it.** Ask again in a few months. "Still feel okay with this?" is a kind question.
@@ -150,7 +150,7 @@ Looop is a safety notifications app for families who care from a distance. It se
 
 It works both ways, too: your parent gets the same heads-up about you. Looop is built to tell you both when something seems off, and it uses only what it needs to do that.
 
-Your parent joins by invitation, never without knowing. Health details like steps and sleep are optional and only shared if they choose. There's a family map for when you need it, as a supporting feature. And Looop never sells your data and doesn't work with advertisers.
+Your parent joins by invitation, never without knowing. Health & Fitness sharing, like sleep and steps, is available and optional. There's a family map for when you need it, as a supporting feature. And Looop never sells your data and doesn't work with advertisers.
 
 Your parent keeps their routine, and everyone makes fewer "just checking" calls.
 

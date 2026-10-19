@@ -50,7 +50,7 @@ Plenty of parents are worried about college kids and their own parents at the sa
 Looop only speaks up when something seems off, like a storm near campus or a day that looks really unusual for you. Your parents don't get a play-by-play of your day. It sends alerts instead of tracking you, with no ads and nothing sold.
 
 - **It's an invite.** You decide whether to join.
-- **Health details are optional.** Share them only if you want to.
+- **Health & Fitness sharing is available.** It's optional, so add it if you need it.
 - **You can leave a group anytime.**
 - **It works both ways.** Want a heads-up if a storm hits back home? You get that too.
 

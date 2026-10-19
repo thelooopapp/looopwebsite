@@ -26,16 +26,17 @@ Looop's aging-parent alerts are already here. Looop launched on the App Store in
 
 Most family apps are built around a map: they answer "Where is she?" Looop answers the question families actually ask: "Is Mom okay today?"
 
-Looop takes a holistic approach to family care: weather, crime, spending, health, activity, and the shape of her day, in one place. No more checking the weather in five cities, a location app, a health app, and a banking app to piece together how Mom is doing.
+Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of her day, in one place. No more checking the weather in five cities, a location app, a health app, and a banking app to piece together how Mom is doing.
 
 - **Where she is:** a heads-up when she arrives at a hospital or ER, a police station, or an airport, and a map for when you need it.
 - **What's around her:** severe weather in more than 50 countries and nearby crime in all 50 US states.
-- **How she's doing:** heart rate, breathing, sleep, and steps, through Apple Health and devices like Apple Watch, Oura, and Whoop.
+- **How she's moving:** steps, walks, and workouts, through Apple Health and devices like Apple Watch, Oura, and Whoop.
+- **Her health:** heart rate, breathing, and sleep, from the same devices.
 - **What's changed:** walking, driving, time spent in one place, phone use that's higher or lower than usual, a phone left untouched for hours, and unusually large spending on a linked account, which can be an early sign of a scam.
 
 Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-Every loved one joins Looop by invitation and decides whether to share health details or link a bank account.
+Every loved one joins Looop by invitation and decides whether to add Health & Fitness sharing or link a bank account.
 
 "We built Looop because our own families are spread across the country and around the world. We're Gen X, looking after kids in college and aging parents at the same time. We don't want to track them. We want them to keep their independence, and we want to know when it's time to call, so we're ready to help," said the team behind Looop.
 
@@ -49,7 +50,7 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, activity, and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, fitness, activity, and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 Life360 is a trademark of its owner. Looop is not affiliated with Life360.
 

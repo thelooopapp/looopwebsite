@@ -36,7 +36,7 @@ Caring for people you love from far away comes with real questions. When should 
 
 ### Using Apple Watch to Stay Close to Aging Parents, No Extra App Needed
 **Eyebrow:** Aging parents
-**Teaser:** How optional wellness sharing through Apple Health can help you know when to call, and how to set it up together, consent first.
+**Teaser:** How Health & Fitness sharing through Apple Health can help you know when to call, and how to set it up together.
 **Link:** blog/apple-watch-aging-parents.html
 
 ### Mom Needs a Call When It Counts

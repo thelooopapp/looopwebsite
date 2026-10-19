@@ -97,7 +97,7 @@ Before you invite your family, take ten minutes with the app's privacy policy an
 - **Does it work with advertisers?** Check for ad partners, sponsored offers, or an ad platform described in company news.
 - **Are there ads in notifications?** If partner offers can arrive as push notifications, your alerts may be mixed with marketing.
 - **What does it collect, and why?** A good app uses only what it needs to do its job.
-- **Is health sharing optional?** If the app can show steps, sleep, or heart rate, each person should choose whether to share.
+- **Is Health & Fitness sharing optional?** If the app can show steps, sleep, or heart rate, each person should choose whether to share.
 - **Can people leave easily?** Anyone in your group should be able to leave, and you should be able to delete your account and data whenever you choose.
 - **Does it require consent?** Every person should join by invitation and know what's shared.
 
@@ -112,7 +112,7 @@ A family safety app worth trusting should be able to check every box.
 - [ ] No partner offers or ads in your notifications
 - [ ] Uses only what it needs to tell when something seems off
 - [ ] Every person joins by invitation
-- [ ] Health and wellness sharing is optional
+- [ ] Health & Fitness sharing is optional
 - [ ] Anyone can leave a group anytime
 - [ ] You can delete your account and data whenever you choose
 - [ ] A clear, plain-language privacy policy
@@ -129,7 +129,7 @@ How Looop handles your family's information:
 - **Looop doesn't work with advertisers.** There's no ad platform, and no sponsored offers or ads in your notifications.
 - **Just enough to know.** Looop uses only what it needs to tell whether something unusual is going on.
 - **Invitation only.** Loved Ones join by invitation and choose to be part of your Looop.
-- **Optional wellness sharing.** Steps, heart rate, and sleep are shared only if each person chooses.
+- **Health & Fitness sharing, available and optional.** Heart rate, sleep, and steps are there if you need them.
 - **Your control.** Leave a group, remove a member, or delete your account and data whenever you choose.
 
 Looop is built on one rule: families aren't the product.

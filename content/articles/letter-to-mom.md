@@ -55,7 +55,7 @@ I promise you this:
 
 - **You decide.** You can say yes, no, or not yet. Any answer is okay with me.
 - **No surprises.** Before you join, I'll sit with you and show you exactly what I'd see.
-- **Health stays yours.** Things like steps or sleep are only shared if you turn them on. You can skip all of it.
+- **Health & Fitness sharing is available.** Things like sleep or steps, if it helps. It's optional.
 - **You can leave anytime.** If it ever feels wrong, you can stop, and I won't make it a thing.
 - **I won't quiz you.** If I call after a nudge, it'll be to say I'm thinking of you.
 - **Fewer check-up calls.** When I call, it'll be to catch up on your week.
@@ -78,7 +78,7 @@ They might have questions. Common ones:
 
 **"So you'll see where I am all day?"** Looop is built to tell you when to check in, and it stays quiet on ordinary days. Show them what you'd actually see.
 
-**"What about my health stuff?"** It's always optional. They choose each category, and they can change their mind in their iPhone's Health settings anytime.
+**"What about my health stuff?"** Health & Fitness sharing is available and optional. You pick each category, and you can change it in their iPhone's Health settings anytime.
 
 **"What if I don't like it?"** They can leave anytime. Say so again.
 
@@ -100,6 +100,6 @@ Whoever it's for, keep the part where you say you trust them, and explain that y
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data and doesn't work with advertisers.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, Health & Fitness sharing is available and optional, and Looop never sells your data and doesn't work with advertisers.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**

@@ -47,13 +47,13 @@ This page compares the two, with sources, including where Life360 may be the bet
 | --- | --- | --- |
 | What it is | A GPS location tracking app: a live family map plus location history | A safety notifications app: alerts that tell you when to check in |
 | Built for | Families of every stage on one map, plus pets and Tile item trackers in the same app. Its aging-parent offer is sold through premium plans. | People caring from a distance: aging parents, kids at college, siblings and friends who look out for each other |
-| What you're notified about | Arrivals and departures at saved places, no-shows, flight landings, and severe weather. Paid plans add crash detection. | Nearby crime (all 50 US states), severe weather, unusual activity, an Unusual Day, arrivals at a hospital, police station, or airport, a phone untouched for hours, and low battery. Optional health and spending alerts, if they choose. |
+| What you're notified about | Arrivals and departures at saved places, no-shows, flight landings, and severe weather. Paid plans add crash detection. | Nearby crime (all 50 US states), severe weather, unusual activity, an Unusual Day, arrivals at a hospital, police station, or airport, a phone untouched for hours, and low battery. Health & Fitness sharing and spending alerts are available if you need them. |
 | Approach to location | Precision GPS tracking: continuous location, with your movements recorded and stored for 2 to 30 days depending on plan | Just enough to know if something unusual is going on. A family map is there for when you need it. |
 | Driving | Driving details recorded and stored | A nudge when a drive looks unusual, and a heads-up when they finish a drive |
 | Independence | Built around seeing where family members are and where they've been | Loved Ones live their day. Looop only speaks up when something looks off. |
 | Ads | Runs a growing ad business, including Uber offers in landing notifications and Place Ads based on places families visit | No advertisers, and no sponsored offers in your notifications. |
 | Your data | Has a history of selling location data to a dozen data brokers, including Cuebiq, X-Mode, SafeGraph, and Allstate's Arity | Never sold. Bank linking is optional and runs through Plaid. |
-| Apple Watch | A separate watch app for people who wear an Apple Watch without carrying a phone | Reads Apple Watch health data through Apple Health on the iPhone, if your Loved One chooses to share. No extra app needed. |
+| Apple Watch | A separate watch app for people who wear an Apple Watch without carrying a phone | Reads Apple Watch health and fitness data through Apple Health on the iPhone, with Health & Fitness sharing. No extra app needed. |
 | Emergency services | Paid plans include crash detection. Gold and Platinum add SOS with 24/7 emergency dispatch and 24/7 roadside assistance. | Call 911 in one tap, plus up to three emergency contacts for each Loved One. No dispatch service, crash detection, or roadside help. |
 | Platforms | iPhone and Android | iPhone |
 
@@ -106,7 +106,7 @@ Life360 brings people, pets, and things into one app. Its [App Store listing](ht
 
 ### No extra watch app needed
 
-If your Loved One wears an Apple Watch and chooses to share wellness, Looop reads that data through Apple Health on their iPhone. Nothing new to install on the watch.
+If your Loved One wears an Apple Watch and adds Health & Fitness sharing, Looop reads that data through Apple Health on their iPhone. Nothing new to install on the watch.
 
 Life360 solves a different problem. It released a separate [Life360 for Watch](https://appgoblin.info/apps/6748967349) app in June 2026 for people who wear a watch without carrying a phone, and described it as in beta on its Q2 2026 call.
 
@@ -146,7 +146,7 @@ No. Looop doesn't have crash detection, a 24/7 dispatch service, or roadside hel
 Yes, as a supporting feature. After a nudge, the family map is there to help you decide what to do next. Looop is built around notifications, so you don't need to keep checking it.
 
 **Will my mom know she's in our Looop?**
-Yes. Every Loved One joins by invitation. Wellness sharing, like steps, heart rate, and sleep, is optional and always their call.
+Yes. Every Loved One joins by invitation. Health & Fitness sharing, like heart rate, sleep, steps, and workouts, is available and optional.
 
 **Where do crime alerts work?**
 Crime alerts work in all 50 US states. Severe weather alerts in more than 50 countries, including the US, Canada, Mexico, most of Europe, Israel, Australia, New Zealand, Japan, South Korea, India, China, the Philippines, Brazil, South Africa, the UAE, and Singapore.

@@ -2,6 +2,17 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 10:44 CT
+
+### Copy
+- **Activity, fitness, and health are now three separate things site-wide.** Activity is what they're doing (driving, walking, staying put, phone use). Fitness is steps, walks, and workouts. Health is heart rate, breathing rate, sleep, and loud places. Steps are no longer called "health details" anywhere.
+- **Health & Fitness sharing stance:** every "wellness sharing," "shared only if they choose," "her call," and "their choice" line about health is now "Health & Fitness sharing is available (and optional / if you need it)." Covers features, for-aging-parents, for-college-families, for-friends-and-siblings, looop-vs-life360, privacy-promise, llms.txt, and the blog footer boilerplate on 8 posts.
+- **Holistic list adds fitness** in all 6 press releases, the newsroom page, and llms.txt: "weather, crime, spending, health, fitness, activity, and the shape of each day." The homepage is intentionally unchanged.
+- **Apple Health page** (`apple-health.html`) is now "Health and Fitness Alerts" (title, H1, meta, OG). The evening checklist is split into Fitness and Health lists, the "Always their choice" section is now "Available, and optional," and the FAQ uses the new stance. The URL is unchanged.
+- **Features page:** "Health and daily routine, if they choose" is now "Activity, fitness, and health," with activity separated from opt-in fitness and health. The alert group is now "Optional alerts, if you need them."
+- **Press releases:** in the Austin release, "How she's doing" is split into "How she's moving" (steps, walks, workouts) and "Her health" (heart rate, breathing, sleep). The launch release's "Optional wellness snapshots" is now one Health & Fitness sharing bullet.
+- **Blog:** the Apple Watch post gets an "Exercise and workouts" row in its table and softer headings ("Talk it over first," "What Health & Fitness sharing includes"). The holiday checklist adds a "getting out for walks or the exercise they enjoy" item under "Health, fitness, and everyday care." Every edit is mirrored in its `content/` markdown source.
+
 ## 2026-10-19 10:37 CT
 
 ### Copy

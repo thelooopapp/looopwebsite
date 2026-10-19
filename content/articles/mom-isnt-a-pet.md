@@ -68,7 +68,7 @@ In practice, that means:
 - **Quiet when all is well.** If Mom's day looks like her usual day, Looop stays quiet.
 - **A heads-up on what's around her.** You'll hear when severe weather is heading toward her town, and when crime is reported near her in all 50 US states.
 - **A gentle nudge when her day looks different.** If her driving, walking, or phone use doesn't fit her own usual pattern, Looop suggests it might be a good time to check in.
-- **Optional wellness, her choice.** Steps, sleep, or heart rate are shared only if she turns them on.
+- **Health & Fitness sharing, if you need it.** Heart rate, sleep, and steps are available and optional.
 
 There's a family map, too, as a supporting feature for the moment after a nudge. It's the place to look once Looop has told you something seems off.
 
@@ -86,7 +86,7 @@ However you decide to stay connected, a few habits help a parent feel respected.
 
 - **Talk first.** Have a real conversation before you send any invite. Lead with your own feelings, like "I worry when I can't reach you."
 - **Show her the screen.** Walk through exactly what she'll see and what you'll see. That way nothing surprises her later.
-- **Let her say no to parts of it.** Health sharing and other extras should be her choice.
+- **Let her say no to parts of it.** Health & Fitness sharing and other extras should be optional.
 - **Make it mutual.** Offer to share your own storms and late drives with her, too, so she can check on you the same way.
 - **Check in on the setup.** A few months in, ask: "Still feel okay with this?"
 
@@ -101,7 +101,7 @@ For more on that first conversation, see our guide to [checking on aging parents
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data and doesn't work with advertisers. It sends safety alerts instead of tracking, and it's built only for people.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, Health & Fitness sharing is available and optional, and Looop never sells your data and doesn't work with advertisers. It sends safety alerts instead of tracking, and it's built only for people.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

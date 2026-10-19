@@ -125,7 +125,7 @@ Looop is a safety notifications app, built from the ground up around these five 
 
 **It stays quiet the rest of the time.** On a typical day, there's nothing to check. Your Looop shows who's having a normal day and who might need a look, in plain language, at a glance.
 
-**It respects choice.** Loved Ones join by invitation. Health details like steps, heart rate, and sleep are optional and shared only if they choose. Anyone can leave a group anytime.
+**It respects choice.** Loved Ones join by invitation. Health & Fitness sharing, like heart rate, sleep, and steps, is available and optional. Anyone can leave a group anytime.
 
 **It keeps the map in its place.** There is a family map, for the moment after a nudge when you want a little more context. It's a supporting feature.
 

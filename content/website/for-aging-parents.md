@@ -17,7 +17,7 @@ legal_review: false
 
 **Subtitle:** A gentle way to check on aging parents from far away, with alerts instead of tracking.
 
-If your parents live alone in another city or state, the worry runs quietly in the background of your day. Looop helps carry it. It sends a heads-up when a storm is heading their way, when something is reported nearby, or when their day looks different than usual. Instead of checking their weather, a location app, a health app, and your bank alerts, it's all in one place. Otherwise, it stays quiet.
+If your parents live alone in another city or state, the worry runs quietly in the background of your day. Looop helps carry it. It sends a heads-up when a storm is heading their way, when something is reported nearby, or when their day looks different than usual. Instead of checking their weather, a location app, a health and fitness app, and your bank alerts, it's all in one place. Otherwise, it stays quiet.
 
 [Download Looop]
 
@@ -74,7 +74,7 @@ Image: images/home/phone-hospital.webp
 Looop sends your family alerts instead of tracking you, and only when something seems off. You keep your routine and your independence. Your kids worry less. You get fewer "just checking on you" calls.
 
 - **You decide whether to join.** Looop works by invitation, so nobody signs you up without your knowing.
-- **Health details are your call.** Wellness sharing is optional. Share steps or sleep only if you want to.
+- **Health & Fitness sharing is available.** It's optional, so add it if it helps your family.
 - **You can change your mind.** Leave a group anytime.
 
 ## Have the talk first

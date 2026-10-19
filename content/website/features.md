@@ -43,9 +43,9 @@ Image: lockscreen-phones.png
 - **Low battery.** A heads-up before their phone runs out of charge.
 - **Arrivals that matter.** Know when they arrive at a hospital or ER, a police station, or an airport.
 
-### Optional alerts, if they choose
+### Optional alerts, if you need them
 
-- **Heart rate.** Unusually high or low heart rate, shared only if they turn on wellness sharing.
+- **Heart rate.** Unusually high or low heart rate, available with Health & Fitness sharing.
 - **Breathing rate.** An unusual breathing rate, also optional.
 - **Loud places.** A heads-up when they're somewhere dangerously loud.
 - **Unusual spending.** Unusually large spending on a linked bank account, with a threshold you set. Bank linking is optional.
@@ -97,17 +97,17 @@ Image: transparent_map.png
 
 ---
 
-## Health and daily routine, if they choose
+## Activity, fitness, and health
 
 > "Is Mom sleeping okay lately?"
 
-**Subtitle:** Wellness sharing is optional, and always their call.
+**Subtitle:** Health & Fitness sharing is available and optional.
 
-If a Loved One chooses to share, you can see today's steps, walking, driving, and resting time; sleep, including deep, REM, and light sleep, and naps; heart rate, breathing rate, and workouts; and how much they've used their phone.
+Activity is what they're doing: today's walking, driving, and resting time, and how much they've used their phone. With Health & Fitness sharing, you can also see their fitness (steps and workouts) and their health (sleep, including deep, REM, and light sleep, and naps; heart rate; and breathing rate).
 
 Every stat is marked Typical or Unusual, based only on that person's own patterns. Works with Apple Health and Apple Watch.
 
-[Read more about health alerts](apple-health.html)
+[Read more about health and fitness alerts](apple-health.html)
 
 ---
 
@@ -156,10 +156,10 @@ Every stat is marked Typical or Unusual, based only on that person's own pattern
 No. Looop sends safety alerts instead of tracking. It uses the low-power location services built into iPhone, which wake the app when someone arrives somewhere or moves a meaningful distance, instead of keeping GPS on all day. There's a family map for when you need it, and you won't need to keep checking it.
 
 **What does my Loved One share?**
-What Looop needs to tell whether their day looks typical: things like whether they're driving, walking, or staying put, their phone battery, and the weather where they are. Family members in their Looop can also see where they are on the family map. Health details are shared only if they choose. Before you invite anyone, walk through it together so there are no surprises.
+What Looop needs to tell whether their day looks typical: things like whether they're driving, walking, or staying put, their phone battery, and the weather where they are. Family members in their Looop can also see where they are on the family map. Health & Fitness sharing is available if you need it. Before you invite anyone, walk through it together so there are no surprises.
 
-**Is wellness sharing optional?**
-Yes. Steps, sleep, heart rate, and other health details are shared only if your Loved One turns them on. It's their choice, and they can change their mind.
+**Is Health & Fitness sharing optional?**
+Yes. Health & Fitness sharing is available and optional. It covers health details like heart rate and sleep, and fitness details like steps and workouts, and it can be turned off anytime.
 
 **Does Looop sell my data?**
 No. Looop never sells your data, and there are no ads, ever. Families aren't the product.

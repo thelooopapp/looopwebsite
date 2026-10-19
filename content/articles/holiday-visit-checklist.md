@@ -44,9 +44,10 @@ The NIA suggests a few simple questions when you spend time in a parent's home: 
 
 The CDC's home safety tips for older adults include getting rid of tripping hazards, adding grab bars, putting railings on both sides of stairs, and adding brighter light bulbs. ([CDC](https://www.cdc.gov/falls/prevention/index.html)) These are easy holiday-weekend projects to offer help with.
 
-## Health and everyday care
+## Health, fitness, and everyday care
 
 - They seem steady on their feet, and getting around the house as easily as last year
+- They're still getting out for walks, or the exercise they enjoy, like a class or the gym
 - Their weight looks about the same, without big gains or losses
 - They're keeping up with bathing and wearing clothes that suit the weather
 - Their medicines are organized and refilled, and they seem to be taking them
@@ -128,7 +129,7 @@ The drive home is when the worry usually kicks in. A little setup before you go 
 - **A plan for regular calls.** Keep them about everyday life and what's new with them.
 - **A quiet heads-up for the in-between days.** That's where Looop can help, if your parent agrees.
 
-### Setting up Looop together, consent first
+### Setting up Looop together
 
 Looop is a safety notifications app. Once your parent joins, it stays quiet on normal days. It gives you a heads-up when severe weather is heading their way, when crime is reported near them in all 50 US states, and a gentle nudge when their day looks different from their usual routine. It tells you when a call might help.
 
@@ -137,7 +138,7 @@ If you'd like to try it, the holidays are a good time, because you can do it sid
 - Talk about it first, and make sure your parent wants it
 - Show them exactly what you'd see, before they join
 - Let them tap the buttons and accept the permissions themselves
-- Leave health sharing, like steps or sleep, completely up to them
+- Mention that Health & Fitness sharing, like sleep or steps, is available if it helps
 - Remind them they can leave anytime
 
 Never set anything up on a parent's phone without them knowing. Looop never sells your data and doesn't work with advertisers.
@@ -156,7 +157,7 @@ Most of all, enjoy the visit, and save this list for a quiet moment. You'll have
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data and doesn't work with advertisers.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, Health & Fitness sharing is available and optional, and Looop never sells your data and doesn't work with advertisers.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

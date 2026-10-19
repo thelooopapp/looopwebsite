@@ -59,7 +59,7 @@ Five friends, five cities. A hurricane warning near one city, and the whole chat
 - **Unusual Day** nudges when someone's day looks off compared to their own normal.
 - **Low battery**, so a quiet phone doesn't start a spiral.
 
-Each of you chooses which alerts you get, and wellness sharing is always optional.
+Each of you chooses which alerts you get, and Health & Fitness sharing is available if you need it.
 
 ## Check in, your way
 

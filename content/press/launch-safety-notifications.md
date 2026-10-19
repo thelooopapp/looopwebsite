@@ -22,7 +22,7 @@ Looop learns each loved one's usual routine and sends a notification when someth
 - **Nearby crime alerts:** A notification when crime is reported near a loved one, in supported cities, with an alert distance each family chooses.
 - **Unusual activity nudges:** An "Unusual Day" alert when driving, walking, or phone use looks different from that person's own normal routine.
 - **Daily reassurance at a glance:** One simple screen that shows who is having a typical day and who might need a look, in plain language.
-- **Optional wellness snapshots:** Steps, heart rate, and sleep, shared only if each person chooses.
+- **Health & Fitness sharing, available and optional:** Heart rate, breathing rate, and sleep, plus steps, walks, and workouts.
 - **One-tap check-ins:** Call, text, or FaceTime a loved one, or send a quick "Love you!", straight from their card.
 
 A family map is available as a supporting feature, for the moment after a nudge when a family wants more context.

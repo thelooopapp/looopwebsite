@@ -117,7 +117,7 @@ Apple's Messages app also has [Check In](https://support.apple.com/en-us/105104)
 
 **Notifications.** Looop gives you a heads-up when severe weather is heading toward a Loved One, when crime is reported near them in all 50 US states, and when their day looks unusual compared to their own routine. When all is well, it stays quiet. You choose which alerts you get for each person.
 
-**Independence.** Loved Ones join by invitation. Wellness snapshots like steps, heart rate, and sleep are optional and shared only if each person chooses. There's a family map for when you need it, for example after a nudge to check in.
+**Independence.** Loved Ones join by invitation. Health & Fitness sharing, like heart rate, sleep, and steps, is available and optional. There's a family map for when you need it, for example after a nudge to check in.
 
 **Privacy and ads.** Looop never sells your data and doesn't work with advertisers.
 

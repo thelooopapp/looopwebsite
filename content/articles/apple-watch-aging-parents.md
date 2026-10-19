@@ -1,7 +1,7 @@
 ---
 title: "Using Apple Watch to Stay Close to Aging Parents, No Extra App Needed"
 slug: apple-watch-aging-parents
-meta_description: "Does your parent wear an Apple Watch? Learn how optional wellness sharing works through Apple Health on iPhone, and how to set it up together, consent first."
+meta_description: "Does your parent wear an Apple Watch? Learn how Health & Fitness sharing works through Apple Health on iPhone, and how to set it up together."
 primary_keyword: apple watch for aging parents
 secondary_keywords:
   - staying connected with aging parents
@@ -23,7 +23,7 @@ This guide explains how that works with Looop, what stays in your parent's hands
 
 ## Key points
 
-- Looop doesn't need its own Apple Watch app. It reads optional wellness data through Apple Health on your parent's iPhone.
+- Looop doesn't need its own Apple Watch app. It reads Health & Fitness data through Apple Health on your parent's iPhone.
 - Sharing is always optional and always your parent's choice, one category at a time.
 - Looop compares each day to your parent's own normal, never to anyone else.
 - It's a nudge to check in. It isn't a medical tool, and it doesn't diagnose anything or detect medical events.
@@ -43,7 +43,7 @@ The data reaches you in four steps.
 
 That's why there's no extra watch app to install, update, or charge. If your parent already wears the watch and carries the phone, the pieces are in place.
 
-## What your parent can choose to share
+## What Health & Fitness sharing includes
 
 Every one of these is optional. Your parent can share all of them, some of them, or none.
 
@@ -53,6 +53,7 @@ Every one of these is optional. Your parent can share all of them, some of them,
 | Breathing rate | Apple Watch, through Apple Health | A nudge if it's unusual for them |
 | Sleep | Apple Watch, through Apple Health | Deep, REM, and light sleep, plus naps, marked Typical or Unusual |
 | Steps and walking | iPhone and Apple Watch | Today's steps and walking time compared to their usual |
+| Exercise and workouts | Apple Watch, through Apple Health | Exercise minutes and workouts, like a morning walk or a class at the gym, compared to their usual |
 | Loud environments | Apple Watch Noise app, through Apple Health | A heads-up if they're somewhere dangerously loud |
 
 A note on loud places: Apple's guide to the [Noise app](https://support.apple.com/en-us/102315) says Apple Watch measures sound levels using the microphone, but doesn't record or save any sounds.
@@ -63,7 +64,7 @@ Looop isn't a medical device. It doesn't diagnose anything, and it doesn't detec
 
 Lots of ordinary things can change a day's numbers, like a brisk walk, a late movie, a cold, or a long flight. Often the best response is a simple "Hey, just thinking of you." If you have real concerns about a parent's health, talk with them about seeing their doctor. And if you ever believe someone is in immediate danger, call 911.
 
-## Consent first, always
+## Talk it over first
 
 Health details are personal, often more personal than location, so the order of operations matters.
 
@@ -99,11 +100,11 @@ The goal is to bother your parent less.
 
 **You get** a quiet signal on the day a call might matter, and no alerts on the ordinary days.
 
-If your parent decides health sharing isn't for them, Looop still works. You'll still get a heads-up about severe weather heading their way, crime reported nearby in all 50 US states, and a gentle nudge when their day looks different from their usual routine.
+If Health & Fitness sharing isn't needed, Looop still works. You'll still get a heads-up about severe weather heading their way, crime reported nearby in all 50 US states, and a gentle nudge when their day looks different from their usual routine.
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, health details are optional and shared only if they choose, and Looop never sells your data and doesn't work with advertisers.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, Health & Fitness sharing is available and optional, and Looop never sells your data and doesn't work with advertisers.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

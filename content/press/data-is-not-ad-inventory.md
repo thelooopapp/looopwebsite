@@ -12,7 +12,7 @@ legal_review: true
 
 **AUSTIN, Texas, Oct. 26, 2026:** Looop, the safety notifications app for families who care from a distance, today pledged that the people who use it will never become ad inventory. Looop never sells your data and doesn't work with advertisers. There are no ads in the app, no sponsored offers in its notifications, and no audience lists built from the places families go.
 
-Looop takes a holistic approach to family care: weather, crime, spending, health, activity, and the shape of each day come together to tell families when it might be a good time to check in on a loved one. When all is well, it stays quiet.
+Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day come together to tell families when it might be a good time to check in on a loved one. When all is well, it stays quiet.
 
 "When you ask your mom to join a safety app, you're asking her to trust you with where she goes every day. We don't want an advertiser anywhere near that, now or later, so we wrote it down as a pledge," said the team behind Looop.
 
@@ -21,7 +21,7 @@ Looop takes a holistic approach to family care: weather, crime, spending, health
 - **No data sales.** Looop never sells your data, to data brokers or anyone else.
 - **No advertisers.** Looop has no ads, no ad partners, and no sponsored offers in notifications. A Looop alert only ever means a loved one might need a call.
 - **Just enough to know.** Looop uses only what it needs to tell whether something unusual is going on.
-- **Optional by design.** Health details are shared only if each person chooses. Bank linking for spending alerts is optional and runs through Plaid.
+- **Optional by design.** Health & Fitness sharing is available and optional. Bank linking for spending alerts is optional and runs through Plaid.
 - **Your control.** Loved Ones join by invitation, can leave anytime, and can delete their account and data whenever they choose.
 
 **Ad growth at family location apps**
@@ -40,7 +40,7 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, activity, and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, fitness, activity, and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 Life360 is a trademark of its owner. Looop is not affiliated with Life360.
 
