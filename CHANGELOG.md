@@ -2,6 +2,13 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:51 CT
+
+### New Features
+- **Two "everyone's okay" app sections on the "Like360 but for Adults" page** (`for-grown-up-families.html`, markdown source), using existing phone art in the site's `split` layout:
+  - `#all-is-well`, right after the driving-years table: "Is everyone okay today?" / "Most days, all is well" with `images/home/phone3.webp` (My Family screen, All is well badge, Mom, Dad, Sis, and Uncle Tony all on a Typical Day), ending "No alert usually means all is well."
+  - `#arrived-safe`, after the Mom section: "Did Dad make it to the cabin?" / "Arrived safe. That's all you need to know." with `images/home/phone5.webp` (Dad's Arrived Safe timeline). The copy covers saved places and arrive/leave heads-ups, matching `features.html`.
+
 ## 2026-10-19 11:50 CT
 
 ### Design

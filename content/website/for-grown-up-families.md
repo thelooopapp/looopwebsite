@@ -44,6 +44,18 @@ Images over the two columns: `images/home/then-keys.webp` (black and white, a pa
 | A map to keep checking | A heads-up when it's worth a call |
 | House rules | Their life, their routine, their choice |
 
+## "Is everyone okay today?"
+
+### Most days, all is well
+
+**Subtitle:** And you don't have to check to know it.
+
+Mom's at home. Dad's at the gym. Sis is at the campus library. Uncle Tony is up at the lake house. Everyone is having a Typical Day, so Looop stays quiet and you get on with yours.
+
+No alert usually means all is well.
+
+Image: images/home/phone3.webp (My Family screen, All is well, everyone on a Typical Day)
+
 ## Sound familiar?
 
 **Subtitle:** Looop is for the life events that come after the learner's permit.
@@ -81,6 +93,16 @@ Most family apps are built around a map: they answer "Where is she?" Looop answe
 - **Spending, if they link an account.** An optional heads-up about an unusually large charge, with a threshold you set. That can be an early sign of a scam.
 
 Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
+
+## "Did Dad make it to the cabin?"
+
+### Arrived safe. That's all you need to know.
+
+**Subtitle:** No "text me when you get there" required.
+
+Save the places that matter, like home, the cabin, or a dorm. You get a heads-up when a Loved One arrives or leaves. Dad left home, caught his flight, finished the drive, and got to the cabin. You never had to ask.
+
+Image: images/home/phone5.webp (Dad, Arrived Safe at The Cabin, Typical Day)
 
 ## "I'm an adult. I don't need to be watched."
 
