@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 13:05 CT
+
+### Design
+- **"Your family app should grow up too." is light purple** (`for-grown-up-families.html`, markdown source): the second reveal line is now the hero's lavender `#E4D7FB` (was orange `#FFCB70`), tying it back to the Like360 block above.
+
 ## 2026-10-19 13:02 CT
 
 ### New Features
