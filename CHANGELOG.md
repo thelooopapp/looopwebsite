@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 19:20 CT
+
+### Design
+- **Family map dots are now the site's main blue** (`#1B73C6`, was the pale `#B7CCE9`), so the country shapes read more clearly. Changed in `content/website/family-map/family-map.html` and re-rendered `images/home/family-map.png`. The image link is bumped to `?v=1019c` on the homepage, How it works, Who it's for, For grown-up families and For college families.
+
 ## 2026-10-19 19:10 CT
 
 ### New Features
