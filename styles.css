@@ -1874,3 +1874,10 @@ p, li, td, blockquote { text-wrap: pretty; }
   .hero-faces img { width: 52px; height: 52px; margin-inline: -6px; }
   .hero-faces img.lead { width: 76px; height: 76px; }
 }
+
+/* Comparison table with an icon in every cell (same treatment as the "When they were 16"
+   table on the grown-up families page: muted icons for Life360, white on green for Looop) */
+.inner-page .compare-table.with-icons td { vertical-align: middle; }
+.inner-page .compare-table .cell-icon { display: flex; align-items: center; gap: 14px; }
+.inner-page .compare-table .icon--lilac { --icon-color: #9A8AC4; --icon-tint: #F5F6F8; }
+.inner-page .compare-table .looop-col .icon--green { --icon-color: #fff; --icon-tint: #34B254; }

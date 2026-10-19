@@ -669,6 +669,9 @@ Every HTML change is mirrored in its `content/` source. Pages that name Life360 
 - How it works hero: the intro paragraph is shortened to two sentences: "Looop is a safety notifications app for families who care from a distance. It stays quiet when all is well and sends a gentle heads-up when something seems off, all in one app instead of five." (page and Markdown source).
 - How it works: "You hear from Looop when a call might be worth making." is now "You hear from Looop when it might be time to make a call." (page and Markdown source).
 
+### Life360 comparison table icons
+- Looop vs. Life360, "Which one fits your family?": every cell now has an icon, in the same style as the "When they were 16" table on the grown-up families page. Life360 rows get muted lilac icons (crosshair, car, headset, megaphone, share); Looop rows get white-on-green icons (bell, car, phone, no-ads, shield). New `.compare-table.with-icons` styles in `styles.css`.
+
 ### Life360 copy
 - Best Life360 alternatives: the Life360 "Best for" line now uses the approved contrast sentence from the copywriter guide: "Choose Life360 if you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data shared with its partners."
 - Looop vs. Life360: "Looop is an independent startup, and we answer to families, not advertisers." is now bold, and "Looop does one thing" is now "Looop focuses on one thing".
