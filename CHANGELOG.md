@@ -650,6 +650,9 @@ Every HTML change is mirrored in its `content/` source. Pages that name Life360 
 - The three new phone images are transparent renders of App Store screenshots 7, 9 and 10.
 - **Health page** (`apple-health.html`): page title and share title are now "Health Alerts", and the H1 is "Health Alerts" (was "Unusual Health alerts for your family"). The URL is unchanged.
 
+### Copy
+- Homepage, "Find your people": "bank alerts in another" is now "crime alerts in another".
+
 ### Typography and consistency
 - **No single word alone on a last line.** The last two words of every heading, paragraph, list item and table cell are joined with a non-breaking space across all 36 pages, and `styles.css` / `home.css` add `text-wrap: balance` for short display lines and `text-wrap: pretty` for body text. A scan at 1280, 820 and 390 pixels wide found 2 remaining cases on desktop (both in the Life360 alternatives article, where the last word is too long to pair). The only wording change is on Who it's for: "One heads-up when someone needs a call." is now "A heads-up when they need a call."
 - **One type scale for the whole site.** Inner pages now use the homepage's sizes: hero title up to 72px, green hero key line up to 40px, white hero lead up to 22px, section titles up to 46px, orange question lines up to 28px, 17px body text and 23px blue card titles. Hero product images are larger so the phones match the homepage's. Articles and legal pages keep a smaller long-form scale with the same font, weights and colours.
