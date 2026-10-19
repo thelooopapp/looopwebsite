@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 17:53 CT
+
+### Bug Fixes
+- **Then/now table misaligned on phones** (`for-grown-up-families.html`): the grid used `1fr 1fr`, so a cell's long words could stretch the right column past half. That shrank the left column, made the two photos different heights, and pushed the right column's text off the edge. Columns are now `minmax(0, 1fr)` each, and cells are `min-width: 0` with `overflow-wrap: break-word`. At 375px both columns are 172px and both photos are 129px tall.
+
+### Design
+- **Cleaner then/now cells on phones**: the icon (30px) sits above the text, so the text gets the full cell width, and the text uses `text-wrap: balance` for even line breaks with no stranded single words. Row text is 15px, and the title pills are 9.5px on one line, so "Now that they're grown" no longer wraps. Desktop is unchanged.
+
 ## 2026-10-19 17:30 CT
 
 ### SEO

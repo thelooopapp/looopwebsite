@@ -81,7 +81,7 @@
     /* Then and now */
     .then-now {
       display: grid;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
       border-radius: 20px;
       overflow: hidden;
       background: #fff;
@@ -91,6 +91,7 @@
     .then-now > div { display: flex; align-items: center; min-height: 76px; padding: 20px 24px; font-size: 17.6px; border-top: 1px solid #ECEEF2; }
     .then-now .then { color: #5B626C; }
     .then-now > [role="cell"] { gap: 14px; }
+    .then-now > div { min-width: 0; overflow-wrap: break-word; }
     .then-now mark { background: none; color: #33373D; font-weight: 700; padding: 0; }
     .then-now .icon--lilac { --icon-color: #9A8AC4; --icon-tint: #F5F6F8; }
     .then-now .now .icon--green { --icon-color: #fff; --icon-tint: #34B254; }
@@ -197,9 +198,13 @@
       .grown-close .faces img { width: 60px; height: 60px; margin-inline: -6px; }
       .grown-close .faces img.lead { width: 84px; height: 84px; }
       .grown-hero { padding: 104px 16px 32px; }
-      .then-now > div { min-height: 68px; padding: 14px 14px; font-size: 16.5px; }
+      .then-now > div { min-height: 68px; padding: 12px 10px; font-size: 15px; line-height: 1.35; }
+      .then-now > [role="cell"] { flex-direction: column; align-items: flex-start; justify-content: center; gap: 8px; }
+      .then-now > [role="cell"] > span:last-child { text-wrap: balance; }
+      .then-now .icon-badge--sm { width: 30px; height: 30px; }
+      .then-now .icon-badge--sm .icon { width: 15px; height: 15px; }
       .then-now > .head { padding: 0; }
-      .then-now .head span { left: 8px; bottom: 8px; max-width: calc(100% - 16px); padding: 5px 10px; font-size: 11px; }
+      .then-now .head span { left: 6px; bottom: 6px; max-width: calc(100% - 12px); padding: 4px 8px; font-size: 9.5px; letter-spacing: 0.01em; white-space: nowrap; }
       .two-kinds { grid-template-columns: 1fr; }
     }
   </style>
