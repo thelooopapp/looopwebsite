@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:49 CT
+
+### Design
+- **Then/now right pill is blue and reads "Now that they are grown"** (`for-grown-up-families.html`, markdown source): it was the green "Now that everyone's grown". Background is brand blue `#1B73C6` again, with white text.
+
 ## 2026-10-19 11:47 CT
 
 ### Design

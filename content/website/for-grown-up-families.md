@@ -37,7 +37,7 @@ You don't need to follow their every move. You want them to have their independe
 
 Images over the two columns: `images/home/then-keys.webp` (black and white, a parent drops a car key into a teen girl's hand) and `images/home/now-college.webp` (color, the same young woman hugging her mom goodbye on college move-in day).
 
-| When they were 16 | Now that everyone's grown |
+| When they were 16 | Now that they are grown |
 | --- | --- |
 | "Where are they right now?" | "Is their day going okay?" |
 | A report on every drive | A nudge when a drive looks unusual |
