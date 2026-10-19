@@ -669,6 +669,10 @@ Every HTML change is mirrored in its `content/` source. Pages that name Life360 
 - How it works hero: the intro paragraph is shortened to two sentences: "Looop is a safety notifications app for families who care from a distance. It stays quiet when all is well and sends a gentle heads-up when something seems off, all in one app instead of five." (page and Markdown source).
 - How it works: "You hear from Looop when a call might be worth making." is now "You hear from Looop when it might be time to make a call." (page and Markdown source).
 
+### Life360 copy
+- Best Life360 alternatives: the Life360 "Best for" line now uses the approved contrast sentence from the copywriter guide: "Choose Life360 if you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data shared with its partners."
+- Looop vs. Life360: "Looop is an independent startup, and we answer to families, not advertisers." is now bold, and "Looop does one thing" is now "Looop focuses on one thing".
+
 ### Every hero and footer now matches the homepage
 - **Homepage-style hero on every page that has one**: portrait row, headline with the angled white pill, green key line, short lead, orange key line, App Store badge. New this round: Privacy Promise ("Your family's data / isn't for sale"), Who it's for, College families, Friends and siblings, Where crime alerts work, Looop vs. Life360, Resources, Newsroom, Health and Fitness Alerts, and Weather alert sources. Leads on College families and Friends and siblings are cut to two or three short sentences. Who it's for, Resources and the Newsroom gain an App Store badge. The Grown-up families landing page keeps its own hero.
 - **One footer everywhere**: the homepage now uses the same footer as every other page (logo, tagline, App Store badge, four link columns). The rules live in the new `footer.css`, which only the homepage loads; the old homepage footer rules are removed from `home.css`.

@@ -59,7 +59,7 @@ Life360 also has a history of selling location data to a dozen data brokers. [Th
 
 **Platforms.** iPhone and Android, with app links on [Life360's site](https://www.life360.com/).
 
-**Best for:** families willing to pay more for precision GPS tracking who are comfortable with targeted ads.
+**Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data shared with its partners.
 
 ## Apple Find My
 

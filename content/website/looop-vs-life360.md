@@ -66,7 +66,7 @@ This page compares the two, with sources, including where Life360 may be the bet
 
 Looop was designed from the first screen around one question: "Is Mom okay today?" Every alert exists to answer it.
 
-Life360 is adding aging parents to an app built for a different job. Its [aging-parent page](https://www.life360.com/en-ca/plans-pricing-ap) pitches its premium Gold and Platinum plans. On its [Q2 2026 earnings call](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/), CEO Lauren Antonoff named aging parents as a next line of business, alongside advertising and pets. Its head of design [credits his redesign](https://www.jaytrainerdesign.com/project/life360) with a 22% lift in premium conversion. Those are fair goals for a public company. Looop is an independent startup, and we answer to families, not advertisers.
+Life360 is adding aging parents to an app built for a different job. Its [aging-parent page](https://www.life360.com/en-ca/plans-pricing-ap) pitches its premium Gold and Platinum plans. On its [Q2 2026 earnings call](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/), CEO Lauren Antonoff named aging parents as a next line of business, alongside advertising and pets. Its head of design [credits his redesign](https://www.jaytrainerdesign.com/project/life360) with a 22% lift in premium conversion. Those are fair goals for a public company. **Looop is an independent startup, and we answer to families, not advertisers.**
 
 ### Your parent's data is never for sale
 
@@ -94,7 +94,7 @@ Life360's [premium plans](https://www.life360.com/en-ca/plans-pricing-ap) includ
 
 ### Small on purpose
 
-Looop does one thing: tell you when to check in. It uses only what it needs to tell whether something unusual is going on.
+Looop focuses on one thing: tell you when to check in. It uses only what it needs to tell whether something unusual is going on.
 
 Life360 is aiming wider. In a [May 2026 post](https://chrishulls.medium.com/life360-is-building-a-family-ai-team-come-build-it-with-us-f6a3cd19ef20), Executive Chairman Chris Hulls describes a family super app with calendar events, bills, RSVPs, and a drawer for documents like insurance cards. He calls the approach "aggressive on permissions, anchored in trust." Some families will love that. Mom may just want fewer worried calls.
 
