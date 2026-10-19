@@ -1,32 +1,8 @@
 /* The family map illustration. One component, used on the homepage ("Find your people")
-   and on How it works ("Weather where they are"). Self-contained so both pages render it the same. */
-.map { position: relative; margin: 44px auto 24px; max-width: 866px; font-family: 'Plus Jakarta Sans', -apple-system, system-ui, sans-serif; }
-.map > svg { display: block; width: 100%; height: auto; fill: #B7CCE9; }
-.map .pin { position: absolute; transform: translate(-50%, -38%); display: flex; flex-direction: column; align-items: center; gap: 6px; text-align: center; }
-.map .pin .faces { display: flex; align-items: center; justify-content: center; padding: 0; }
-.map .pin .faces img { flex: none; max-width: none; width: 72px; height: 72px; border-radius: 50%; border: 4px solid #4CAF50; background: #fff; padding: 2px; margin: 0 -8px; object-fit: cover; box-shadow: 0 8px 20px rgba(20, 40, 80, .18); box-sizing: border-box; }
-.map .pin p { margin: 0; background: #fff; border-radius: 999px; padding: 5px 14px; font-size: 14px; line-height: 1.25; white-space: nowrap; color: #5B626C; box-shadow: 0 4px 14px rgba(20, 40, 80, .12); }
-.map .pin p b { font-weight: 800; color: #1E2126; }
-.map .pin p span { color: #5B626C; margin-left: 6px; }
-.map .pin p span::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #4CAF50; margin-right: 6px; }
-.map .wx { position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); margin-bottom: 6px; display: inline-flex; align-items: center; gap: 6px; border-radius: 999px; padding: 5px 12px 5px 9px; font-size: 13px; font-weight: 800; line-height: 1.2; letter-spacing: -0.01em; white-space: nowrap; box-shadow: 0 4px 14px rgba(20, 40, 80, .16); }
-.map .wx svg { width: 17px; height: 17px; flex: none; fill: none; stroke: currentColor; stroke-width: 2.200; stroke-linecap: round; stroke-linejoin: round; }
-.map .wx.alert { background: #C25E00; color: #fff; }
-.map .wx.blue { background: #0F4F92; color: #fff; }
-.map .wx.calm { background: #fff; color: #1E2126; }
+   and on How it works ("Weather where they are"). It is a single picture, so the faces, labels
+   and weather alerts scale together and keep their spacing on phones. */
+.map { margin: 44px auto 24px; max-width: 906px; }
+.map img { display: block; width: 100%; height: auto; }
 @media (max-width: 700px) {
   .map { margin: 36px auto 28px; }
-  .map .pin { gap: 3px; }
-  .map .pin .faces img { width: 36px; height: 36px; border-width: 2px; padding: 1px; margin: 0 -4px; }
-  .map .pin p { font-size: 10px; padding: 2px 7px; }
-  .map .pin p span { display: none; }
-  .map .wx { padding: 4px; margin-bottom: 3px; }
-  .map .wx span { display: none; }
-  .map .wx svg { width: 14px; height: 14px; }
-  .map .pin.start { transform: translate(-22%, -38%); align-items: flex-start; }
-  .map .pin.start .wx { left: 18px; }
-  .map .pin.edge { transform: translate(-78%, -38%); align-items: flex-end; }
-  .map .pin.edge .wx { left: auto; right: 0; transform: none; }
-  /* Austin sits just under Chicago's label on phones, so its weather icon goes beside the face */
-  .map .pin:nth-of-type(2) .wx { bottom: auto; top: 7px; left: auto; right: 100%; transform: none; margin: 0 3px 0 0; }
 }

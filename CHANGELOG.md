@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-18 22:10 CT
+
+### Design
+- **Family map is one picture that scales on phones** (`index.html` "Find your people", `features.html` "Weather where they are"): the map, faces, name labels and weather alerts (Sunny, Tornado Watch, Flash Flood Warning, Clear) are now a single image, `images/home/family-map.png` (1812x788 at 2x, transparent background, 81 KB). Before, on phones the HTML version shrank each weather alert to an icon only and moved Austin's icon beside the face. Now the whole map scales down as one, so alerts keep their text and their spacing from the people. The map's description moved from `aria-label` to the image's `alt`. `map.css` now has only the sizing rules (max 906px wide); the pin and weather-alert styles were removed.
+
 ## 2026-10-18 21:09 CT
 
 ### Design
