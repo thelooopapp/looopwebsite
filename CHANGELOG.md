@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 14:18 CT
+
+### Design
+- **Two-phone "lock screen + All is well" image uses the remade lock screen** (`images/home/duo-lock-well.webp` and the `.png` press download): rebuilt with the same composite as before (lock screen left, All is well phone 150px lower on the right), now with the aligned, place-first notifications. It's 1200x1121 (was 1083 tall), so `features.html` (How it works hero) and `press/index.html` (newsroom asset card) have the new height, `?v=2` cache versions, and alt text that names the places. With `phone1.webp` (homepage hero and alerts section, college families page), every place the lock screen appears is now the same image.
+
 ## 2026-10-19 14:17 CT
 
 ### Design
