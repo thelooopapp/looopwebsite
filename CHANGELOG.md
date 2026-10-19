@@ -669,6 +669,10 @@ Every HTML change is mirrored in its `content/` source. Pages that name Life360 
 - How it works hero: the intro paragraph is shortened to two sentences: "Looop is a safety notifications app for families who care from a distance. It stays quiet when all is well and sends a gentle heads-up when something seems off, all in one app instead of five." (page and Markdown source).
 - How it works: "You hear from Looop when a call might be worth making." is now "You hear from Looop when it might be time to make a call." (page and Markdown source).
 
+### Closing bands and the Life360 scorecard
+- **Every closing blue band now matches the homepage's**: portrait row, headline with the angled white pill, subtitle, App Store badge (12 pages). Pills: "Know when / to check in", "Their routine, / your reassurance", "Have each / other's backs", "Give them space, / keep your peace of mind", "Private / by design", "Safety alerts / instead of tracking", "Bring your people / together". New `.cta-band.cta-home` styles.
+- **Looop vs. Life360: "Which one is right for you?" scorecard** replaces the two closing sentences under "Where Life360 may fit better": grey crosses for Life360 and green checks for Looop, opening with "Pay more" vs. "Pay less", then tracking, driving details, ads and data, and closing with "Peace of mind for you, independence for them." New `.scorecard` styles.
+
 ### Life360 comparison table icons
 - Looop vs. Life360, "Which one fits your family?": every cell now has an icon, in the same style as the "When they were 16" table on the grown-up families page. Life360 rows get muted lilac icons (crosshair, car, headset, megaphone, share); Looop rows get white-on-green icons (bell, car, phone, no-ads, shield). New `.compare-table.with-icons` styles in `styles.css`.
 
