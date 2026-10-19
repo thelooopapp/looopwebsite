@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:36 CT
+
+### Design
+- **Second home page callout uses the purple banner style too** (`index.html`, `home.css`): "You've outgrown your family tracking app." is now a `grown-banner grown-banner--wrap` (solid `#762EEB`, white Albert Sans headline, lavender sub line, white "Looop for grown-up families →" pill) instead of the pale left-edge card. The `--wrap` modifier lets its longer headline wrap on phones and drops the bottom margin, since it ends the section. The `.grown-card` styles are removed, and `home.css` is now `?v=1019c`.
+
 ## 2026-10-19 12:34 CT
 
 ### New Features

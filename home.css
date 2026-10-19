@@ -203,15 +203,12 @@
   .grown-banner .gb-sub { margin-top: 8px; font-size: 17px; font-weight: 700; color: #E4D7FB; }
   .grown-banner .gb-cta { flex: none; padding: 10px 18px; border-radius: 999px; background: #fff; color: #4B1BA6; font-size: 15px; font-weight: 800; white-space: nowrap; }
   .grown-banner:hover .gb-cta { background: #F3EDFF; }
-  .grown-card { display: block; margin-top: 56px; padding: 22px 26px 22px 36px; border-radius: 18px; background: #F3EDFF; box-shadow: inset 10px 0 0 #762EEB; text-decoration: none; }
-  .grown-card .gc-title { font-size: clamp(20px, 2.2vw, 24px); font-weight: 800; letter-spacing: -0.02em; line-height: 1.2; color: #4B1BA6; }
-  .grown-card .gc-sub { margin-top: 8px; font-size: 16px; color: #5B3E99; }
-  .grown-card .gc-link { display: inline-block; margin-top: 12px; font-size: 15px; font-weight: 800; color: #762EEB; }
-  .grown-card:hover .gc-link { text-decoration: underline; }
+  .grown-banner--wrap { margin-bottom: 0; }
+  .grown-banner--wrap .gb-title { line-height: 1.05; }
   @media (max-width: 860px) {
     .grown-banner { flex-direction: column; text-align: center; gap: 14px; margin-block: 52px; padding: 22px 16px; border-radius: 20px; }
     .grown-banner .gb-title { font-size: 24px; white-space: nowrap; }
+    .grown-banner--wrap .gb-title { white-space: normal; }
     .grown-banner .gb-sub { font-size: 16px; line-height: 1.4; }
     .grown-banner .gb-sub span { display: block; }
-    .grown-card { margin-top: 40px; padding: 18px 18px 18px 26px; box-shadow: inset 8px 0 0 #762EEB; }
   }
