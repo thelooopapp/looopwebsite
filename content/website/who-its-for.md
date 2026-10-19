@@ -41,7 +41,7 @@ Families don't live on one street anymore. Parents live alone in the house you g
 
 **Subtitle:** A heads-up when they need a call.
 
-Plenty of us are caring for kids and parents at the same time. Looop puts everyone on one calm screen. It stays quiet while everyone's fine, and sends a nudge when it might be a good time to reach out.
+Plenty of us are caring for kids and parents at the same time. Looop puts everyone on one calm screen, so you can tell at a glance who's okay, without panning around a map. It stays quiet while everyone's fine, and sends a nudge when it might be a good time to reach out.
 
 ## CTA
 

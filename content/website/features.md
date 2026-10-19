@@ -58,7 +58,7 @@ Image: lockscreen-phones.png
 
 > "Who needs a call today?"
 
-**Subtitle:** One screen showing everyone you love.
+**Subtitle:** One screen showing everyone you love, okay or not. No panning around a map.
 
 - **Typical or "Need a Look."** See who is having a typical day and who might need a look.
 - **Plain-language summaries.** Get a short summary of what's unusual, with no charts to decode.

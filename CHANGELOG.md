@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 13:55 CT
+
+### Copy
+- **"At a glance" next to the family screen:** wherever the image of everyone's cards (Typical or Unusual) appears, the copy now says you can see who's okay at a glance, mostly with "No panning around a map." Homepage "All quiet, across any distance" (`index.html`); How it works subtitle (`features.html`); Who it's for "One app for everyone you worry about" (`who-its-for.html`); Like360 page "Most days, all is well" (`for-grown-up-families.html`); friends and siblings alerts section (`for-friends-and-siblings.html`); newsroom "Product: home screen" asset card (`press/index.html`). Markdown sources in `content/website/` match.
+
 ## 2026-10-19 13:10 CT
 
 ### Design

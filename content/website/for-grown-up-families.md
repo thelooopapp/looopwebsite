@@ -55,7 +55,7 @@ Bold words in the left column are bold and a darker gray (#33373D) on the page. 
 
 **Subtitle:** And you don't have to check to know it.
 
-Mom's at home. Dad's at the gym. Sis is at the campus library. Uncle Tony is up at the lake house. Everyone is having a Typical Day, so Looop stays quiet and you get on with yours.
+Mom's at home. Dad's at the gym. Sis is at the campus library. Uncle Tony is up at the lake house. Everyone is having a Typical Day, so Looop stays quiet and you get on with yours. When you do look, it's one screen: everyone, okay or not, at a glance. No panning around a map.
 
 No news really is good news.
 
