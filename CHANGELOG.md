@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 10:56 CT
+
+### Design
+- **Lock-screen alert phone uses the place-first version** (`images/home/phone1.webp`): re-rendered with a transparent background from the app repo's `marketing/app_store_screenshots/canvas_source/project/Main.dc.html`, the board where App Store screenshot 1 was flipped on Oct 16. Each notification now shows the place second in bold ("@ Home", "@ The Cabin", "@ Campus Library") and the person third in grey ("Near Mom", "Near Dad", "Near Sis"). Same 660x1084 frame as before. It shows in the homepage hero, the homepage weather and crime section, and the college families page. Referenced as `phone1.webp?v=2` so caches pick it up, and alt text now names the places.
+- **On phones the hero shows the alert phone** (`home.css`): when the three hero phones shrink to one, it is now the lock-screen alert phone instead of "All is well" (the "Time to check in" phone stays hidden too). Its desktop offset is reset on mobile so it sits at the top. `index.html` links `home.css?v=1019a`.
+
 ## 2026-10-19 10:44 CT
 
 ### Copy

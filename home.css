@@ -162,7 +162,8 @@
     .reads a + a { padding-left: 0; border-left: 0; border-top: 1px solid var(--line); }
     .faces img { width: 60px; height: 60px; margin-inline: -6px; }
     .faces img.lead { width: 84px; height: 84px; }
-    .hero-phones img:nth-child(1), .hero-phones img:nth-child(3) { display: none; }
+    .hero-phones img:nth-child(2), .hero-phones img:nth-child(3) { display: none; }
+    .hero-phones img:nth-child(1) { margin-top: 0; }
     .hero-phones img { width: min(74vw, 300px); }
     .hero-phones { height: 320px; }
     footer .cols { grid-template-columns: 1fr 1fr; }
