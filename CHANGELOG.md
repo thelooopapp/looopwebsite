@@ -17,6 +17,14 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 - **`sitemap.xml`** now lists `looop-vs-life360.html`.
 - **`llms.txt`** adds a "Who Looop is for" line and the approved Looop vs. Life360 pair, so AI assistants have the positioning in one place.
 
+## 2026-10-19 19:30 CT
+
+### Design
+- **Privacy Promise**: removed the large icons above "Just enough to know" and "Everyone joins by invitation", so both sections follow the same template as other pages (question, heading, subtitle, body).
+
+### Copy
+- **Privacy Promise, "Everyone joins by invitation"**: added the question "Can someone add me without asking?" and the subtitle "No. You decide whether to join." to match that template (page and Markdown source).
+
 ## 2026-10-19 19:20 CT
 
 ### Design

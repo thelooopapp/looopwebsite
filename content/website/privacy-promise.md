@@ -41,6 +41,10 @@ Looop uses only what it needs to tell whether a day looks typical or unusual. It
 
 ## Everyone joins by invitation
 
+> "Can someone add me without asking?"
+
+**Subtitle:** No. You decide whether to join.
+
 Nobody is added without an invite. We encourage families to talk first and walk through what's shared, side by side.
 
 ## The full details
