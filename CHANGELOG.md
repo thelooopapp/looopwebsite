@@ -2,6 +2,13 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 13:59 CT
+
+### Images
+- **Family map shows who has a weather alert** (`images/home/family-map.png`, used on `index.html`, `features.html` and `for-grown-up-families.html`): Mom and Dad (Tornado Watch, Chicago) and Bud (Flash Flood Warning, Austin) now have orange rings and orange dots next to their names, like an Unusual status in the app. Mom and Dad use their worried portraits from the App Store screenshot set. The Flash Flood Warning pill is now orange to match Tornado Watch. Uncle Tony and Sis stay green.
+  - The map now has a source: `content/website/family-map/family-map.html` (not published) plus `render.sh`, which renders it at 2x with headless Chrome, crops it and compresses it with pngquant (1800x807, 121 KB). The `<img>` tags now say 900x404 and load `family-map.png?v=1019` so browsers pick up the new picture.
+  - Bud still uses his smiling portrait, because there is no worried version of it in the repo yet. To swap it, put the file in `content/website/family-map/`, change `bro.jpg` in `family-map.html`, and run `render.sh`.
+
 ## 2026-10-19 13:55 CT
 
 ### Copy
