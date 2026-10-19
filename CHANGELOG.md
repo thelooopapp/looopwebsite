@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 18:55 CT
+
+### Design
+- **Family band photos are now one image** (`images/home/family-prints.webp`, transparent, 1734x759): the two printed photos, their tilt, shadows and pills are rendered together, so the layout holds at every width. On phones the stacked prints overlapped and hid the purple pill. The band's print and pill rules are removed from `styles.css` (stylesheet `?v=1019n` on Looop vs. Life360 and For grown-up families). The alt text includes both pill labels.
+
 ## 2026-10-19 18:45 CT
 
 ### New Features
