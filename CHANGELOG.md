@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-18 21:09 CT
+
+### Design
+- **Header download button is a black App Store pill**: the "Download Looop" text button in the header (`.btn` on the homepage, `.nav-cta` on the other 37 pages) keeps its pill shape but is now black, with only the Apple logo and "Download on the App Store" inside, no text and no border. New `images/appstore-wordmark-white.png` is the badge's logo and lettering cropped out of `appstore-badge.png` on a transparent background. The link has `aria-label="Download Looop on the App Store"`. Styles in `home.css` and `styles.css` (24px tall logo, 21px under 400px wide, dark gray hover).
+
 ## 2026-10-17 13:20 CT
 
 ### New Features

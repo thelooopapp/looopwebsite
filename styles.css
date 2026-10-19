@@ -1825,8 +1825,9 @@ p, li, td, blockquote { text-wrap: pretty; }
 .navbar .logo { order: 0; display: block; }
 .navbar .logo img { display: block; }
 .navbar .nav-links { order: 1; margin: 0 auto; }
-.navbar .nav-cta { order: 2; display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 0 20px; border-radius: 999px; background: #1B73C6; color: #fff; font-weight: 700; font-size: 15px; white-space: nowrap; }
-.navbar .nav-cta:hover { background: #0F4F92; }
+.navbar .nav-cta { order: 2; display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 0 20px; border-radius: 999px; background: #000; white-space: nowrap; }
+.navbar .nav-cta img { display: block; height: 24px; width: auto; }
+.navbar .nav-cta:hover { background: #2a2a2a; }
 .navbar .hamburger { order: 3; width: 44px; height: 44px; border-radius: 50%; background: #E8EEFB; align-items: center; justify-content: center; gap: 5px; flex: none; }
 .navbar .hamburger span { width: 20px; height: 2px; border-radius: 2px; background: #1B73C6; }
 @media (max-width: 768px) {
@@ -1835,7 +1836,7 @@ p, li, td, blockquote { text-wrap: pretty; }
   .navbar .nav-links { margin: 0; top: calc(100% + 10px); border-radius: 24px; padding: 10px 22px; gap: 0; box-shadow: 0 12px 32px rgba(4, 28, 60, 0.25); align-items: stretch; }
   .navbar .nav-links a { display: block; padding: 13px 0; font-size: 17px; }
 }
-@media (max-width: 400px) { .navbar .nav-cta { padding: 0 14px; font-size: 14px; } }
+@media (max-width: 400px) { .navbar .nav-cta { padding: 0 14px; } .navbar .nav-cta img { height: 21px; } }
 
 /* Orange key line in a blue hero, same size as the green key line */
 .inner-page .page-hero p.question { color: #FFCB70; font-size: clamp(24px, 3.6vw, 40px); font-weight: 800; line-height: 1.15; letter-spacing: -0.02em; max-width: 900px; margin: 0 auto 10px; text-wrap: balance; }
