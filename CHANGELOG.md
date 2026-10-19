@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:59 CT
+
+### Design
+- **"GPS" is bold dark gray too** (`for-grown-up-families.html`, markdown source): the first new row now reads "Precision **GPS tracking**", with GPS inside the `<mark>`.
+
 ## 2026-10-19 11:58 CT
 
 ### Design
