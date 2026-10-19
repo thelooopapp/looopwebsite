@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:39 CT
+
+### Design
+- **"You've outgrown your family tracking app." banner moved** (`index.html`, `home.css`): it now opens the `#out-of-the-ordinary` section, right after the blue privacy band and above "Would they tell you if something was off?" (was at the end of `#how`, before the privacy band). `.grown-banner--wrap` now drops its top margin instead of its bottom one, on desktop and phones. `home.css` is now `?v=1019d`.
+
 ## 2026-10-19 12:36 CT
 
 ### Design
