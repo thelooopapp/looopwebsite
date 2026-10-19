@@ -61,13 +61,14 @@ No alert usually means all is well.
 
 Image: images/home/phone3.webp (My Family screen, All is well, everyone on a Typical Day)
 
-## Looop is for the life events that come after the learner's permit
+## Looop is for the life events that come
+## *after the learner's permit*
 
 **Subtitle:** Sound familiar?
 
 - **"She's off to college." Trust them more.** You don't need a report on every drive anymore. You'd just like to know if a day looks off, and otherwise let her live it.
 - **"He moved to the big city." Safe from afar.** His new neighborhood is busier than the one he grew up in. Get a heads-up when crime is reported near him, in all 50 US states.
-- **"Help isn't down the street anymore." Parents on their own.** Know when Dad's been home longer than usual for him, or when he arrives at a hospital or ER.
+- **"Help isn't nearby anymore." Parents on their own.** Know when Dad's been home longer than usual for him, or when he arrives at a hospital or ER.
 - **"Aunt Ira lives alone." Someone living solo.** Nobody stops by every day. Get a nudge if her phone hasn't been picked up in hours, or if her day looks different.
 - **"Mom moved to the coast." A different forecast.** A storm on her coast won't show up in your forecast. Looop sends severe weather alerts in more than 50 countries.
 - **"Everyone counts on me." The one in the middle.** Kids in two cities, parents in two homes. One calm screen, and one heads-up when someone needs a call.

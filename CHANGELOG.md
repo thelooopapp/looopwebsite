@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:05 CT
+
+### Design
+- **Life-event card quotes are all one line with the same gap** (`for-grown-up-families.html`, markdown source): "Help isn't down the street anymore." is now "Help isn't nearby anymore." so all six orange quotes fit on one line. A page-scoped `flex-grow: 0` on `.card-grid .card .question` stops the site's card style from stretching a quote to fill spare card height, which had left a big gap under "She's off to college." Every quote is now 22px tall with a 6px gap to its headline.
+- **Life-events heading on two lines**: "Looop is for the life events that come" / *after the learner's permit* (second line in italics).
+
 ## 2026-10-19 12:03 CT
 
 ### Copy

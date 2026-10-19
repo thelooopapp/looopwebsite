@@ -132,6 +132,8 @@
     .two-kinds .kind p { margin: 0; }
 
     .inner-page .first-after-hero { padding-top: 24px; }
+    /* Card quotes keep their own height so every headline sits right under its quote */
+    .inner-page .card-grid .card .question { flex-grow: 0; }
 
     /* Closing band, styled like the home page hero */
     .grown-close {
@@ -250,7 +252,7 @@
 
   <section class="page-section">
     <div class="section-inner">
-      <h2 class="center">Looop is for the life events that come after the learner's&nbsp;permit</h2>
+      <h2 class="center">Looop is for the life events that&nbsp;come<br><em>after the learner's&nbsp;permit</em></h2>
       <p class="section-subtitle center">Sound&nbsp;familiar?</p>
       <div class="card-grid three">
         <div class="card">
@@ -267,7 +269,7 @@
         </div>
         <div class="card">
           <img src="images/home/av-dad.webp" alt="Dad with gray hair looking concerned, with a heart badge" class="card-avatar" width="352" height="352" loading="lazy">
-          <p class="question">"Help isn't down the street&nbsp;anymore."</p>
+          <p class="question">"Help isn't nearby&nbsp;anymore."</p>
           <h3>Parents on their own</h3>
           <p>Know when Dad's been home longer than usual for him, or when he arrives at a hospital or&nbsp;ER.</p>
         </div>
