@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:42 CT
+
+### Copy
+- **Outgrown banner button is "For grown-up families →"** (`index.html`): it was "Looop for grown-up families →".
+
 ## 2026-10-19 12:41 CT
 
 ### Copy
