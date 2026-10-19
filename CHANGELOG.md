@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:44 CT
+
+### Design
+- **Then/now photos are the table's first row** (`for-grown-up-families.html`): each photo now fills its cell edge to edge (no padding, no rounded inset; the table's own 20px corners clip the top). The column titles sit over the photos as pills in the bottom-left corner: "When they were 16" in a white pill with dark text, and "Now that everyone's grown" in a brand-blue pill with white text. Pills are 14px uppercase, and 11px on phones.
+
 ## 2026-10-19 11:43 CT
 
 ### Design
