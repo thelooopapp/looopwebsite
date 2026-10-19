@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 13:09 CT
+
+### Design
+- **Brighter green for "Your family app should grow up too."** (`for-grown-up-families.html`): `#6DF08A` (was the paler `#A6F0B0`).
+
 ## 2026-10-19 13:08 CT
 
 ### Copy
