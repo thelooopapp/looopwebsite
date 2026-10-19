@@ -94,8 +94,12 @@ Looop sends your family alerts, and only when something seems off. You live your
 
 Looop helps you know when to check in. It doesn't detect emergencies. If you think someone is in danger, call 911.
 
-## Peace of mind for you, independence for them.
+## Peace of mind for you, independence for them
 
-**Subtitle:** Invite the grown-ups you love, and know when it's worth a call.
+Closing band styled like the home page hero: a row of faces, the headline with "independence for them" in the white pill, then three lines.
+
+- (green) Made for the grown-ups you love.
+- Invite them, let them live their lives, and know when it's worth a call.
+- (orange) Know they're safe, across any distance.
 
 [Download Looop]

@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:35 CT
+
+### Design
+- **"Like360 but for Adults" closing band matches the home page hero** (`for-grown-up-families.html`): the plain `cta-band` is replaced by a `grown-close` band with the home hero's blue gradient, a row of five faces with green rings (Mom in the middle, larger), the headline "Peace of mind for you," with "independence for them" in the rotated white pill, a green line "Made for the grown-ups you love.", a white lede, the orange "Know they're safe, across any distance.", and the 54px App Store badge. Sizes and colors copy `home.css` and are scoped to this page's `<style>` block. Markdown source updated to match.
+
 ## 2026-10-19 10:56 CT
 
 ### Design

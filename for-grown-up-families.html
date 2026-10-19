@@ -108,7 +108,42 @@
     .two-kinds .kind h3 { margin: 12px 0 6px; }
     .two-kinds .kind p { margin: 0; }
 
+    /* Closing band, styled like the home page hero */
+    .grown-close {
+      background: linear-gradient(170deg, #2A8AE0 0%, #1B73C6 40%, #0F4F92 100%);
+      color: #fff;
+      text-align: center;
+      padding: 72px 20px 80px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 22px;
+    }
+    .grown-close .faces { display: flex; align-items: center; justify-content: center; }
+    .grown-close .faces img { width: 84px; height: 84px; border-radius: 50%; border: 4px solid #4CAF50; background: #fff; padding: 3px; margin-inline: -7px; object-fit: cover; }
+    .grown-close .faces img.lead { width: 116px; height: 116px; position: relative; z-index: 1; }
+    .grown-close h2 {
+      font-size: clamp(38px, 6.4vw, 72px);
+      font-weight: 800;
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+      color: #fff;
+      text-wrap: balance;
+      margin: 0;
+    }
+    .grown-close .pill { display: inline-block; background: #fff; color: #1B73C6; border-radius: 0.22em; padding: 0 0.22em 0.06em; transform: rotate(-1.6deg); margin-top: 0.08em; }
+    .grown-close .pitch { display: flex; flex-direction: column; align-items: center; gap: 12px; }
+    .grown-close .pitch p { margin: 0; }
+    .grown-close .big { font-size: clamp(24px, 3.6vw, 40px); font-weight: 800; line-height: 1.15; letter-spacing: -0.02em; text-wrap: balance; }
+    .grown-close .big.g { color: #A6F0B0; }
+    .grown-close .big.o { color: #FFCB70; }
+    .grown-close .lede { max-width: 620px; font-size: clamp(18px, 2.1vw, 22px); color: #fff; line-height: 1.35; }
+    .grown-close .badge img { height: 54px; width: auto; display: block; }
+
     @media (max-width: 640px) {
+      .grown-close { padding: 56px 16px 64px; }
+      .grown-close .faces img { width: 60px; height: 60px; margin-inline: -6px; }
+      .grown-close .faces img.lead { width: 84px; height: 84px; }
       .grown-hero { padding: 120px 16px 56px; }
       .then-now > div { padding: 14px 14px; font-size: 15px; }
       .two-kinds { grid-template-columns: 1fr; }
@@ -264,10 +299,17 @@
     </div>
   </section>
 
-  <section class="cta-band">
-    <h2>Peace of mind for you, independence for&nbsp;them.</h2>
-    <p class="section-subtitle">Invite the grown-ups you love, and know when it's worth a&nbsp;call.</p>
-    <a href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111" class="app-store-badge"><img src="images/appstore-badge.png" alt="Download Looop on the App Store"></a>
+  <section class="grown-close">
+    <div class="faces" aria-hidden="true">
+      <img src="images/home/sis.jpg" alt=""><img src="images/home/dad.jpg" alt=""><img class="lead" src="images/home/mom.jpg" alt=""><img src="images/home/bro.jpg" alt=""><img src="images/home/ira.jpg" alt="">
+    </div>
+    <h2>Peace of mind for you,<br><span class="pill">independence for them</span></h2>
+    <div class="pitch">
+      <p class="big g">Made for the grown-ups you love.</p>
+      <p class="lede">Invite them, let them live their lives, and know when it's worth a&nbsp;call.</p>
+      <p class="big o">Know they're safe, across any distance.</p>
+    </div>
+    <a class="badge" href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111"><img src="images/appstore-badge.png" alt="Download Looop on the App Store"></a>
   </section>
 </main>
 
