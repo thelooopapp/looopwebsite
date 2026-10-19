@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:37 CT
+
+### Design
+- **"Like360 but for Adults" hero is about 38% shorter** (`for-grown-up-families.html`), so "Do I really need to see every turn?" and "The driving years were one chapter" sit above the fold on a 1440x900 screen (heading ends at 888px; was 1,394px). The lavender lockup went from 683px to 414px tall (type 188/148px down to 116/90px, line height 0.85, padding 108/32), and the blue Looop band from 564px to 360px (wordmark 180px wide, tighter padding, one-line sub). The first section after the hero has 24px top padding. On phones the question line is also above the fold.
+
+### Copy
+- **Reveal line split into three lines**: "The kids grew up." / "Your parents live on their own." / "Your family app should grow up too.", with the last line in the home page's on-blue orange `#FFCB70`. Markdown source updated.
+
 ## 2026-10-19 11:35 CT
 
 ### Design

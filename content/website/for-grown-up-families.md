@@ -18,7 +18,9 @@ notes: "Hero echoes a well-known map-first family app's colors and type (purple 
 
 Hero lockup: "Like360" (purple), "but for" (white), "Adults" (purple) on lavender. Then the white Looop wordmark on brand blue.
 
-The kids grew up. Your parents live on their own. Your family app should grow up too.
+The kids grew up.  
+Your parents live on their own.  
+(orange) Your family app should grow up too.
 
 Looop sends a heads-up when a Loved One's day looks unusual, so you can trust them more and still know when to call.
 
