@@ -137,7 +137,12 @@
 
     /* Closing band, styled like the home page hero */
     .grown-close {
-      background: linear-gradient(170deg, #2A8AE0 0%, #1B73C6 40%, #0F4F92 100%);
+      /* Runs straight down and ends on the footer's #0F4F92, so the band flows into it */
+      background: linear-gradient(180deg, #2A8AE0 0%, #1B73C6 45%, #0F4F92 100%);
+      /* Overlap the footer by 1px so no sub-pixel seam of page background shows */
+      position: relative;
+      z-index: 1;
+      margin-bottom: -1px;
       color: #fff;
       text-align: center;
       padding: 72px 20px 80px;

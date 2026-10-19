@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:11 CT
+
+### Design
+- **Closing band blends into the footer** (`for-grown-up-families.html`): the `grown-close` gradient now runs straight down (180deg, `#2A8AE0` to `#1B73C6` at 45% to `#0F4F92`), so its whole bottom edge matches the footer's `#0F4F92`. Before, the 170deg diagonal only reached that color in one corner. The band also overlaps the footer by 1px (`margin-bottom: -1px`, `position: relative; z-index: 1`) so a sub-pixel seam of light page background can't show between them.
+
 ## 2026-10-19 12:09 CT
 
 ### Copy
