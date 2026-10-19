@@ -55,18 +55,6 @@ Images over the two columns: `images/home/then-keys.webp` (black and white, a pa
 - **"Mom moved to the coast." A different forecast.** A storm on her coast won't show up in your forecast. Looop sends severe weather alerts in more than 50 countries.
 - **"Everyone counts on me." The one in the middle.** Kids in two cities, parents in two homes. One calm screen, and one heads-up when someone needs a call.
 
-## "Is Mom okay today?"
-
-### More than where they are. How their day is going.
-
-Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day.
-
-- **What's around them.** Severe weather heading their way, in more than 50 countries, and crime reported nearby, in all 50 US states.
-- **Arrivals that matter.** Know when they arrive at a hospital or ER, a police station, or an airport.
-- **How long they've been there.** A nudge when they've been home much longer than is normal for them.
-- **Unusual Day.** A gentle nudge when driving, walking, or phone use doesn't fit their own normal routine, or their phone hasn't been picked up in hours.
-- **Spending, if they link an account.** An optional heads-up about an unusually large charge, with a threshold you set. That can be an early sign of a scam.
-
 ## "Is Dad still getting his walks in?"
 
 ### How they're feeling. How they're moving.
@@ -79,6 +67,18 @@ A restless night. A heart rate that's high for them. A week without the usual wa
 - **Fitness.** Steps, walking, and workouts, from a morning run to a session at the gym. See whether Mom is as active as usual for her.
 
 Based on your family's situation, you may want to add Health & Fitness sharing. It's optional, and works with Apple Health and Apple Watch.
+
+## "Is Mom okay today?"
+
+### More than where they are. How their day is going.
+
+Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day.
+
+- **What's around them.** Severe weather heading their way, in more than 50 countries, and crime reported nearby, in all 50 US states.
+- **Arrivals that matter.** Know when they arrive at a hospital or ER, a police station, or an airport.
+- **How long they've been there.** A nudge when they've been home much longer than is normal for them.
+- **Unusual Day.** A gentle nudge when driving, walking, or phone use doesn't fit their own normal routine, or their phone hasn't been picked up in hours.
+- **Spending, if they link an account.** An optional heads-up about an unusually large charge, with a threshold you set. That can be an early sign of a scam.
 
 Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 

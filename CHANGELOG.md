@@ -5,6 +5,11 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 ## 2026-10-19 11:47 CT
 
 ### Design
+- **Dad section before Mom section** (`for-grown-up-families.html`, markdown source): "Is Dad still getting his walks in?" (Health & Fitness) now comes right after "Sound familiar?", and "Is Mom okay today?" (the holistic list) follows it. The payoff line "Each day, all of it comes together in one answer..." moved with the order and now closes the Mom section, so it still sums up everything above it.
+
+## 2026-10-19 11:47 CT
+
+### Design
 - **Reveal sub line breaks in the middle** (`for-grown-up-families.html`): "Looop sends a heads-up when a Loved One's day looks unusual," / "so you can trust them more and still know when to call." now sits on two lines, with a `<br>` after "unusual,".
 
 ## 2026-10-19 11:46 CT
