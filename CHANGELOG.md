@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 18:15 CT
+
+### New Features
+- **Link preview card on the last untagged page** (`press/weather-and-crime-alerts.html`): the same `og:url`, `og:image` (`og-default.jpg` with width, height, and alt), `twitter:card`, and `twitter:image` tags as the other 35 pages, so every page on the site now has a preview card. This commit holds only those seven lines. Another session's uncommitted copy edits to this page are left in the working tree, with the tags already added there, so its next commit carries only its own changes.
+
 ## 2026-10-19 18:05 CT
 
 ### New Features
