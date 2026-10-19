@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:57 CT
+
+### Copy
+- **Three more then/now rows** (`for-grown-up-families.html`, markdown source), using only rows the copywriter guide allows in a generic "tracking app" comparison: "Precision GPS tracking" / "Safety alerts instead of tracking" (satellite and shield icons), "Every move recorded and stored" / "Just enough to know when to call" (database and check icons), and "A location history of everywhere they've been" / "A heads-up when they arrive at the places that matter" (history and map-pin-check icons). Ads, data sales, and call centers are left out because the page names no competitor.
+
+### Design
+- **Scary words highlighted in the left column**: "tracking", "recorded and stored", "every drive", "location history", and "checking" are wrapped in `<mark>` with a dull purple highlighter swipe (lower 48% of the line, `rgba(154,138,196,0.32)`).
+
 ## 2026-10-19 11:56 CT
 
 ### Design
