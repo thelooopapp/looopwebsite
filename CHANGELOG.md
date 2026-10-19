@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:47 CT
+
+### Design
+- **Reveal sub line breaks in the middle** (`for-grown-up-families.html`): "Looop sends a heads-up when a Loved One's day looks unusual," / "so you can trust them more and still know when to call." now sits on two lines, with a `<br>` after "unusual,".
+
 ## 2026-10-19 11:46 CT
 
 ### Design
