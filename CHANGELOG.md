@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:03 CT
+
+### Copy
+- **Life-events section title and subtitle swapped** (`for-grown-up-families.html`, markdown source): the heading is now "Looop is for the life events that come after the learner's permit" (period dropped), and "Sound familiar?" is the green subtitle under it.
+
 ## 2026-10-19 12:01 CT
 
 ### Design
