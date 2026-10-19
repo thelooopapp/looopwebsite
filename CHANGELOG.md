@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:45 CT
+
+### Design
+- **Then/now table rows are taller, text centered vertically** (`for-grown-up-families.html`): each text cell is a flex box with `align-items: center`, at least 76px tall (68px on phones), with 20px/24px padding (was 18px/22px). One-line and two-line cells in the same row now line up in the middle. The photo row is unchanged.
+
 ## 2026-10-19 11:44 CT
 
 ### Design
