@@ -31,7 +31,7 @@ Looop sends a heads-up when a Loved One's day looks unusual, so you can trust th
 
 **Subtitle:** This is the next one.
 
-When the kids got their licenses, you wanted to see every drive. That made sense. Now they're in college or out on their own. Your parents live by themselves, a few states away. Your aunt lives alone, and nobody stops by every day.
+When the kids got their licenses, you wanted to see every drive. That made sense. Now they're in college or out on their own. Maybe your parents live separately or a few states away. Maybe your aunt lives alone, and nobody stops by every day.
 
 You don't need to follow their every move. You want them to have their independence, and you want to know when their day looks unusual.
 

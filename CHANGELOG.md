@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:40 CT
+
+### Copy
+- **"The driving years were one chapter" paragraph** (`for-grown-up-families.html`): "Your parents live by themselves, a few states away. Your aunt lives alone, and nobody stops by every day." is now "Maybe your parents live separately or a few states away. Maybe your aunt lives alone, and nobody stops by every day." Markdown source updated.
+
 ## 2026-10-19 11:39 CT
 
 ### Copy
