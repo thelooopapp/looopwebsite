@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 19:05 CT
+
+### Design
+- **For college families**: the "Your family grew up" band moved up to sit just above the 104° heat section ("Time for a quick text"), after the alerts section.
+
 ## 2026-10-19 19:00 CT
 
 ### New Features
