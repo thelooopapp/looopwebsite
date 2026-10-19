@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 18:16 CT
+
+### Design
+- **Bigger Looop logo on the shared preview card** (`images/og-default.jpg`): the white wordmark is 75% larger (400px wide in the 1200x630 card, was 230px), so it fills the space above the tagline. The gap above the headline went from 34px to 22px to fit.
+
 ## 2026-10-19 18:15 CT
 
 ### New Features
