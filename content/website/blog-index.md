@@ -1,7 +1,7 @@
 ---
 title: "Resources: Guides for Caring From a Distance"
 slug: blog/index
-meta_description: "Guides and ideas for families who care from a distance: how to check on aging parents, how a heads-up tells you when to call, and more from the Looop team."
+meta_description: "Guides and ideas for families who care from a distance: how to check on aging parents, how a heads-up tells you when to call, and more from the Looop Team."
 primary_keyword: long distance caregiver tips
 secondary_keywords:
   - check on aging parents

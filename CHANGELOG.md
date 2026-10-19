@@ -672,6 +672,7 @@ Every HTML change is mirrored in its `content/` source. Pages that name Life360 
 ### Closing bands and the Life360 scorecard
 - **Every closing blue band uses the simpler style** (headline, one subtitle line, App Store badge), chosen by the owner over the portrait-and-pill version, which was tried and reverted. The homepage's closing band drops its portraits and pill to match: "Whatever happens, you're in the Looop."
 - **Looop vs. Life360: "Which one is right for you?" scorecard** replaces the two closing sentences under "Where Life360 may fit better": grey crosses for Life360 and green checks for Looop, opening with "Pay more" vs. "Pay less", then tracking, driving details, ads and data, and closing with "Peace of mind for you, independence for them." New `.scorecard` styles. It spans the full width of the card grid above it, with the same 24px gap as between those cards.
+- Article bylines and the Resources description now say "the Looop Team" (capital T) everywhere.
 
 ### Life360 comparison table icons
 - Looop vs. Life360, "Which one fits your family?": every cell now has an icon, in the same style as the "When they were 16" table on the grown-up families page. Life360 rows get muted lilac icons (crosshair, car, headset, megaphone, share); Looop rows get white-on-green icons (bell, car, phone, no-ads, shield). New `.compare-table.with-icons` styles in `styles.css`.
