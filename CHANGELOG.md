@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 13:10 CT
+
+### Design
+- **"Your family app should grow up too." is orange again** (`for-grown-up-families.html`, markdown source): back to the home page's on-blue orange `#FFCB70`, after trying light purple and two greens.
+
 ## 2026-10-19 13:09 CT
 
 ### Design
