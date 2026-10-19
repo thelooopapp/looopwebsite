@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:34 CT
+
+### New Features
+- **Two home page callouts to the "Like360 but for Adults" page** (`index.html`, `home.css`), both full column width and linking to `for-grown-up-families.html`. They're the first links to that page from anywhere on the site. Neither names a competitor.
+  - **Purple banner about halfway down** (48% of the page at 1440x900), between the "Know when it's time to check in" and "Storm near Mom?" features: "The driving years are over." (Albert Sans 900, white) / "They graduated. Your family app should too." (lavender) with a white "See what's next →" pill, on `#762EEB`. On phones it stacks and centers, the headline stays on one line at 24px, and the two sub lines each get their own line.
+  - **Pale purple left-edge card about two-thirds down** (66%), after the three-card row and right before the privacy band: "You've outgrown your family tracking app." / "You don't need precision tracking anymore. You just need to know when to check in." / "Looop for grown-up families →", on `#F3EDFF` with a 10px `#762EEB` left edge (8px on phones).
+- Albert Sans 900 added to the homepage font request. `home.css` is now linked as `?v=1019b`.
+
 ## 2026-10-19 12:20 CT
 
 ### Copy
