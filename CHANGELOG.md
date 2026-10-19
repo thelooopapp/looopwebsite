@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 10:37 CT
+
+### Copy
+- **Health & Fitness stance on the "Like360 but for Adults" page** (`for-grown-up-families.html`, `content/website/for-grown-up-families.md`): Health & Fitness sharing is now offered as something available that a family may want to add, not something framed around the Loved One's permission. The section is now "Health and fitness are two different things", with the Health card before Fitness. Its subtitle is "Health & Fitness sharing is available if you need it." The fine print is "Based on your family's situation, you may want to add Health & Fitness sharing. It's optional, and works with Apple Health and Apple Watch." This builds on the site-wide sweep's wording on this page ("Health is their heart rate, breathing, and sleep"; "Health & Fitness sharing and spending alerts are available. Add them if they fit your family."), which is included in this commit.
+
 ## 2026-10-19 10:26 CT
 
 ### New Features

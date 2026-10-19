@@ -66,16 +66,16 @@ Most family apps are built around a map: they answer "Where is she?" Looop answe
 
 ## "Is Dad still getting his walks in?"
 
-### Fitness and health are two different things
+### Health and fitness are two different things
 
-**Subtitle:** Looop shows both, if they choose to share.
+**Subtitle:** Health & Fitness sharing is available if you need it.
 
-A step count alone doesn't tell you how someone is doing. Fitness is how they're moving. Health is how their body is doing. A quiet week and an unusual heart rate are different stories, so Looop keeps them separate.
+A step count alone doesn't tell you how someone is doing. Fitness is how they're moving. Health is their heart rate, breathing, and sleep. A quiet week and an unusual heart rate are different stories, so Looop keeps them separate.
 
-- **Fitness.** Steps, walking, and workouts, from a morning run to a session at the gym. See whether Mom is as active as usual for her.
 - **Health.** Heart rate, breathing rate, and sleep. Get a heads-up about an unusually high or low heart rate or an unusual breathing rate.
+- **Fitness.** Steps, walking, and workouts, from a morning run to a session at the gym. See whether Mom is as active as usual for her.
 
-Fitness and health sharing are optional and always their choice. Works with Apple Health and Apple Watch.
+Based on your family's situation, you may want to add Health & Fitness sharing. It's optional, and works with Apple Health and Apple Watch.
 
 Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
@@ -88,7 +88,7 @@ Each day, all of it comes together in one answer: a Typical Day, or an Unusual D
 Looop sends your family alerts, and only when something seems off. You live your day. They get fewer "where are you?" texts, and you get fewer "just checking on you" calls.
 
 - **You decide whether to join.** Looop works by invitation, so nobody signs you up without your knowing.
-- **Fitness, health, and spending are your call.** Share them only if you want to.
+- **Health & Fitness sharing and spending alerts are available.** Add them if they fit your family.
 - **Your family's data isn't for sale.** No advertisers. Ever.
 - **You can change your mind.** Leave a group anytime.
 
