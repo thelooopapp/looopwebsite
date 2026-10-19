@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:07 CT
+
+### Design
+- **More space above the reveal sub line** (`for-grown-up-families.html`): the gap between "Your family app should grow up too." and "Looop sends a heads-up..." is now 20px (was 6px). To keep "The driving years were one chapter" above the fold at 1440x900 (heading now ends at 895px), the blue band's bottom padding went from 32px to 22px and the gap above the badge from 18px to 14px.
+
 ## 2026-10-19 12:05 CT
 
 ### Design
