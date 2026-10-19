@@ -43,7 +43,7 @@ Images over the two columns: `images/home/then-keys.webp` (black and white, a pa
 | Precision **GPS tracking** | Safety alerts instead of tracking |
 | Every move **recorded and stored** | Just enough to know when to call |
 | A report on **every drive** | A nudge when a drive looks unusual |
-| A **location history** of everywhere they've been | A heads-up when they arrive at the places that matter |
+| A location history of **everywhere they've been** | A heads-up when they arrive at the places that matter |
 | A map to keep **checking** | A heads-up when it's worth a call |
 | House rules | Their life, their routine, their choice |
 

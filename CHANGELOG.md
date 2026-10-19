@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:01 CT
+
+### Design
+- **Location history row emphasizes "everywhere they've been"** (`for-grown-up-families.html`, markdown source): the bold dark gray now covers "everywhere they've been" instead of "location history".
+
 ## 2026-10-19 11:59 CT
 
 ### Design
