@@ -17,6 +17,11 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 - **`sitemap.xml`** now lists `looop-vs-life360.html`.
 - **`llms.txt`** adds a "Who Looop is for" line and the approved Looop vs. Life360 pair, so AI assistants have the positioning in one place.
 
+## 2026-10-19 19:45 CT
+
+### Design
+- **Looop vs. Life360, "Our promise"**: removed the large icon above the heading. A sitewide check found it was the last icon sitting on top of a section. Icons inside cards (feature grids, the "Where Life360 may fit better" cards, newsroom cards, the media contact card) are part of those card designs and stay.
+
 ## 2026-10-19 19:40 CT
 
 ### Design
