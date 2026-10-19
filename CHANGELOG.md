@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:39 CT
+
+### Copy
+- **"Like360 but for Adults" reveal line is two lines**: removed "Your parents live on their own." It now reads "The kids grew up." / "Your family app should grow up too." (orange). Markdown source updated.
+
 ## 2026-10-19 11:37 CT
 
 ### Design
