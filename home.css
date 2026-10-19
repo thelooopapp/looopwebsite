@@ -138,18 +138,11 @@
   .reads b { font-size: 19px; font-weight: 800; line-height: 1.25; letter-spacing: -0.01em; color: var(--ink); }
   .reads span { color: var(--muted); font-size: 15px; }
 
-  /* Closing + footer */
+  /* Closing band */
   .close { text-align: center; background: linear-gradient(180deg, var(--brand-light) 0%, var(--brand) 45%, var(--brand-deep) 100%); }
   .close .stack { display: flex; flex-direction: column; align-items: center; gap: 18px; }
   .close h2 { font-size: clamp(34px, 5.4vw, 60px); }
   .close p { color: var(--on-brand-soft); font-size: 20px; }
-  footer { background: var(--brand-deep); color: var(--on-brand-soft); font-size: 15px; }
-  footer .cols { display: grid; grid-template-columns: 1.4fr repeat(4, 1fr); gap: 32px; padding-block: 48px 32px; }
-  footer img { height: 44px; width: auto; }
-  footer h4 { margin: 0 0 10px; color: var(--on-brand); font-size: 14px; font-weight: 800; }
-  footer ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
-  footer a { text-decoration: none; }
-  footer .legal { border-top: 1px solid rgba(255, 255, 255, .18); padding-block: 18px; font-size: 13px; }
 
   @media (max-width: 860px) {
     .nav ul { display: none; }
@@ -165,7 +158,6 @@
     .hero-phones img:nth-child(1) { margin-top: 0; }
     .hero-phones img { width: min(74vw, 300px); }
     .hero-phones { height: 320px; }
-    footer .cols { grid-template-columns: 1fr 1fr; }
   }
 
   /* Live-site additions */

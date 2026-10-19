@@ -88,11 +88,6 @@ Caring for people you love from far away comes with real questions. When should 
 **Teaser:** What the latest FBI and FTC data show, the warning signs families can notice, how to bring it up without talking down, and what to do if a scam happens.
 **Link:** blog/scams-targeting-older-adults.html
 
-### Is There a Secret Deal With Apple? How Background Location Really Works
-**Eyebrow:** Privacy
-**Teaser:** Using Apple's own developer documentation, how background location really works on iPhone, and why the real question is what an app does with it.
-**Link:** blog/apple-background-location-explained.html
-
 ## Research and comparisons
 
 ### The Long-Distance Caregiving Report: What the Research Says (2026)

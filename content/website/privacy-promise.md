@@ -11,13 +11,15 @@ status: draft
 legal_review: false
 ---
 
-# Our Privacy Promise
+# Your family's data isn't for sale
 
-**Key line (orange):** Your family's data isn't for sale.
+**Key line (green):** We never sell your data. We don't work with advertisers.
 
-**Subtitle:** We never sell your data, and we don't work with advertisers.
+Looop is a private family safety app. Its job is to tell you when to check in, never to collect your life and sell it.
 
-Looop is a private family safety app. Its job is to tell families when to check in, and it never collects your life to sell it. These are our promises, in plain words.
+**Key line (orange):** Our privacy promise, in plain words.
+
+[Download Looop]
 
 ## Seven promises, in plain language
 
