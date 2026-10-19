@@ -12,11 +12,13 @@ status: draft
 legal_review: false
 ---
 
-# How Looop works
+# Quiet when all is well, a nudge when it's not.
 
-**Subtitle:** Safety alerts instead of tracking, so the people you love can live their lives.
+**Key line (green):** That's how Looop works.
 
-Looop is a safety notifications app for families who care from a distance. It stays quiet when all is well and sends a gentle heads-up when something seems off, all in one app instead of five.
+A safety notifications app for families who care from a distance. Alerts instead of tracking, all in one app instead of five.
+
+**Key line (orange):** The people you love live their lives. You know when to call.
 
 [Download Looop]
 
@@ -32,8 +34,8 @@ Image: lockscreen-phones.png
 
 ### What's happening around them
 
-- **Nearby crime.** A heads-up when crime is reported near a Loved One, in all 50 US states. You pick the distance: 1, 3, 5, or 10 miles.
 - **Severe weather.** Storms, flood warnings, extreme heat or cold heading their way, in more than 50 countries, including the US.
+- **Nearby crime.** A heads-up when crime is reported near a Loved One, in all 50 US states. You pick the distance: 1, 3, 5, or 10 miles.
 
 ### When their day looks different
 
@@ -42,6 +44,7 @@ Image: lockscreen-phones.png
 - **Phone untouched for hours.** A heads-up when their phone hasn't been picked up in a long while.
 - **Low battery.** A heads-up before their phone runs out of charge.
 - **Arrivals that matter.** Know when they arrive at a hospital or ER, a police station, or an airport.
+- **Hasn't left home in a while.** A gentle nudge when they've stayed home, or at another saved place, for 3 days straight.
 
 ### Optional alerts, if you need them
 
@@ -153,7 +156,7 @@ Every stat is marked Typical or Unusual, based only on that person's own pattern
 ## Questions, answered
 
 **Does Looop track my family?**
-No. Looop sends safety alerts instead of tracking. It uses the low-power location services built into iPhone, which wake the app when someone arrives somewhere or moves a meaningful distance, instead of keeping GPS on all day. There's a family map for when you need it, and you won't need to keep checking it.
+No. Looop sends safety alerts instead of tracking. It uses the low-power location services built into iPhone, which wake the app when someone arrives somewhere important or moves, instead of keeping GPS on all day. There's a family map for when you need it, and you won't need to keep checking it.
 
 **What does my Loved One share?**
 What Looop needs to tell whether their day looks typical: things like whether they're driving, walking, or staying put, their phone battery, and the weather where they are. Family members in their Looop can also see where they are on the family map. Health & Fitness sharing is available if you need it. Before you invite anyone, walk through it together so there are no surprises.
@@ -162,13 +165,13 @@ What Looop needs to tell whether their day looks typical: things like whether th
 Yes. Health & Fitness sharing is available and optional. It covers health details like heart rate and sleep, and fitness details like steps and workouts, and it can be turned off anytime.
 
 **Does Looop sell my data?**
-No. Looop never sells your data, and there are no ads, ever. Families aren't the product.
+No. Looop never sells your data, and there are no ads, ever.
 
 **Does Looop work outside the US?**
-Severe weather alerts in more than 50 countries, including the US, Canada, Mexico, most of Europe, Israel, Australia, New Zealand, Japan, South Korea, India, China, the Philippines, Brazil, South Africa, the UAE, and Singapore. Crime alerts are available in all 50 US states.
+Yes! Severe weather alerts in more than 50 countries, including the US, Canada, Mexico, most of Europe, Israel, Australia, New Zealand, Japan, South Korea, India, China, the Philippines, Brazil, South Africa, the UAE, and Singapore. Crime alerts are available in all 50 US states.
 
 **Will Looop drain my battery?**
-Looop is built to go easy on battery. It uses the low-power location services built into iPhone, which wake the app when someone arrives somewhere or moves a meaningful distance, instead of keeping GPS on all day. You also get a heads-up before a Loved One's phone runs low.
+No. Looop is built to go easy on battery. It uses the low-power location services built into iPhone, which wake the app when someone arrives somewhere or moves a meaningful distance, instead of keeping GPS on all day. You also get a heads-up before a Loved One's phone runs low.
 
 **How do I invite someone?**
 Invite Loved Ones straight from your contacts. They can also join your group with a simple six-character code. If someone hasn't joined yet, you can send a friendly reminder.

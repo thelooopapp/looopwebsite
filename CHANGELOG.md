@@ -669,6 +669,17 @@ Every HTML change is mirrored in its `content/` source. Pages that name Life360 
 - How it works hero: the intro paragraph is shortened to two sentences: "Looop is a safety notifications app for families who care from a distance. It stays quiet when all is well and sends a gentle heads-up when something seems off, all in one app instead of five." (page and Markdown source).
 - How it works: "You hear from Looop when a call might be worth making." is now "You hear from Looop when it might be time to make a call." (page and Markdown source).
 
+### Hero restyles and How it works edits
+- **Homepage-style hero on How it works and Aging parents.** New reusable hero styles in `styles.css` (`.hero-home`, `.hero-faces`, `.pill`, `.hero-key`): a portrait row, a white pill on the second headline line, and big green and orange key lines.
+  - How it works: "Quiet when all is well, / a nudge when it's not", green "That's how Looop works.", a two-sentence lead, orange "The people you love live their lives. You know when to call."
+  - Aging parents: "Mom keeps her routine, / you get peace of mind", green "Check on aging parents from far away.", a three-sentence lead, orange "Alerts instead of tracking."
+- **Who it's for:** the shared family map now sits at the bottom of the page, above the closing band (`#family-map`, loads `map.css`).
+- **How it works, alerts list:** Severe weather now comes before Nearby crime, and a new "Hasn't left home in a while" alert (3 days at home or another saved place, the app's Long Stay rule) fills the empty spot next to "Arrivals that matter".
+- **How it works, check-in cards:** titles are in title case ("Call, Text, or FaceTime", "Quick Messages", "Group Chat and WhatsApp").
+- **How it works, weather:** removed "See where the data comes from"; the phrase "official weather and emergency agencies" now links to `weather-alert-sources.html`, with no underline or style change.
+- **How it works, copy:** "You hear from Looop when it might be time to make a call."; the battery FAQ starts with "No."; the outside-the-US FAQ starts with "Yes!"; the tracking FAQ says "arrives somewhere important or moves"; "Families aren't the product." removed from the data FAQ.
+- Stylesheet version bumped on every page so the new hero styles load. Markdown sources updated to match.
+
 ### Typography and consistency
 - **No single word alone on a last line.** The last two words of every heading, paragraph, list item and table cell are joined with a non-breaking space across all 36 pages, and `styles.css` / `home.css` add `text-wrap: balance` for short display lines and `text-wrap: pretty` for body text. A scan at 1280, 820 and 390 pixels wide found 2 remaining cases on desktop (both in the Life360 alternatives article, where the last word is too long to pair). The only wording change is on Who it's for: "One heads-up when someone needs a call." is now "A heads-up when they need a call."
 - **One type scale for the whole site.** Inner pages now use the homepage's sizes: hero title up to 72px, green hero key line up to 40px, white hero lead up to 22px, section titles up to 46px, orange question lines up to 28px, 17px body text and 23px blue card titles. Hero product images are larger so the phones match the homepage's. Articles and legal pages keep a smaller long-form scale with the same font, weights and colours.

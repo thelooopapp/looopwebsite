@@ -13,11 +13,13 @@ status: draft
 legal_review: false
 ---
 
-# Mom keeps her routine. You keep your peace of mind.
+# Mom keeps her routine, you get peace of mind.
 
-**Subtitle:** A gentle way to check on aging parents from far away, with alerts instead of tracking.
+**Key line (green):** Check on aging parents from far away.
 
-If your parents live alone in another city or state, the worry runs quietly in the background of your day. Looop helps carry it. It sends a heads-up when a storm is heading their way, when something is reported nearby, or when their day looks different than usual. Instead of checking their weather, a location app, a health and fitness app, and your bank alerts, it's all in one place. Otherwise, it stays quiet.
+A heads-up when a storm heads their way, something is reported nearby, or their day looks different. All in one app. Otherwise, quiet.
+
+**Key line (orange):** Alerts instead of tracking.
 
 [Download Looop]
 

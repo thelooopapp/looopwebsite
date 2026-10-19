@@ -1856,3 +1856,21 @@ p, li, td, blockquote { text-wrap: pretty; }
 .inner-page #devices .card-grid + .card-grid { margin-top: 24px; }
 
 .inner-page p.center { text-align: center; margin-top: 24px; }
+
+/* Inner-page hero styled like the homepage hero: portrait row, white pill on the
+   second headline line, green and orange key lines */
+.inner-page .page-hero.hero-home { display: flex; flex-direction: column; align-items: center; gap: 18px; }
+.inner-page .page-hero.hero-home h1, .inner-page .page-hero.hero-home p { margin: 0; }
+.hero-faces { display: flex; align-items: center; justify-content: center; }
+.hero-faces img { width: 84px; height: 84px; border-radius: 50%; border: 4px solid #4CAF50; background: #fff; padding: 3px; margin-inline: -7px; object-fit: cover; box-sizing: content-box; }
+.hero-faces img.lead { width: 116px; height: 116px; position: relative; z-index: 1; }
+.inner-page .page-hero .pill { display: inline-block; background: #fff; color: #1B73C6; border-radius: 0.22em; padding: 0 0.22em 0.06em; transform: rotate(-1.6deg); margin-top: 0.08em; }
+.inner-page .page-hero p.hero-key { font-size: clamp(24px, 3.6vw, 40px); line-height: 1.15; font-weight: 800; letter-spacing: -0.02em; max-width: 900px; text-wrap: balance; }
+.inner-page .page-hero p.hero-key.g { color: #A6F0B0; }
+.inner-page .page-hero p.hero-key.o { color: #FFCB70; }
+.inner-page .page-hero.hero-home .app-store-badge { margin-top: 6px; }
+@media (min-width: 769px) { .inner-page .page-hero .pill { white-space: nowrap; } }
+@media (max-width: 768px) {
+  .hero-faces img { width: 52px; height: 52px; margin-inline: -6px; }
+  .hero-faces img.lead { width: 76px; height: 76px; }
+}
