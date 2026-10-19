@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 18:53 CT
+
+### Design
+- **Like360 lockup sits evenly in its lavender block** (`for-grown-up-families.html`): measured to the letter edges, the space from the menu bar to the top of "Like360" now equals the space from the bottom of "Adults" to the blue band. That's 33px each on desktop (was 24 and 33) and 36px each on phones (was 18 and 36). Top padding is now 117px (was 108) on desktop and 122px (was 104) on phones. To keep "The driving years are over" above the fold at 1440x900 (still ends at 896px), the blue band's top padding went from 26px to 22px and the first section's top padding from 24px to 19px.
+
 ## 2026-10-19 18:52 CT
 
 ### New Features
