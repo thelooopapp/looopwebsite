@@ -2,6 +2,24 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:20 CT
+
+### Copy
+- **AI-writing tells removed from the "Like360 but for Adults" page** (`for-grown-up-families.html`, markdown source), using the copywriter guide's voice rules (plain, short, real family moments, no hype):
+  - "The driving years were one chapter / This is the next one." is now "The driving years are over / Your family looks different now." (cute two-part metaphor). The filler sentence "That made sense." is cut.
+  - "No alert usually means all is well." (it repeated its heading) is now "No news really is good news."
+  - "How they're feeling. How they're moving." is now "Health and fitness, in one place", and "More than where they are. How their day is going." is now "The whole shape of their day" (mirrored fragments).
+  - "A restless night. A heart rate that's high for them. A week without the usual walks." is now one plain sentence: "Maybe Mom hasn't slept well all week, or Dad has skipped his usual walks." (three stacked fragments).
+  - "Arrived safe. That's all you need to know." is now "Know they got there, without asking", and the closer "You never had to ask." is cut (stock phrases).
+  - "No advertisers. Ever." is now "We don't work with advertisers." (the guide's privacy promise wording). In the table, "Their life, their routine, their choice" is now "Their routine stays theirs" (rule-of-three triplet).
+- **Pill reads "Now that they're grown"** (was "Now that they are grown").
+
+### Design
+- **Reveal lines 50% bigger**: "The kids grew up." / "Your family app should grow up too." are now `clamp(33px, 3.9vw, 39px)` (was 22 to 26px).
+- **Reveal sub line is one sentence in a narrower column**: the `<br>` is gone, so it wraps naturally on phones, and the column is capped at 600px on desktop (was 960px).
+- **Family map above "Is everyone okay today?"**: `images/home/family-map.png` (the homepage map with five Loved Ones and their weather) now opens the `#all-is-well` section, up to 906px wide.
+- **Fold kept at 1440x900**: to make room for the bigger lines, the Like360 lockup is about 9% smaller (106/82px, was 116/90px), with 26px bottom padding (was 32px). "The driving years are over" ends at 896px.
+
 ## 2026-10-19 12:11 CT
 
 ### Design

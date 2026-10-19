@@ -27,17 +27,17 @@ Looop sends a heads-up when a Loved One's day looks unusual, so you can trust th
 
 ## "Do I really need to see every turn?"
 
-### The driving years were one chapter
+### The driving years are over
 
-**Subtitle:** This is the next one.
+**Subtitle:** Your family looks different now.
 
-When the kids got their licenses, you wanted to see every drive. That made sense. Now they're in college or out on their own. Maybe your parents live separately or a few states away. Maybe your aunt lives alone, and nobody stops by every day.
+When the kids got their licenses, you wanted to see every drive. Now they're in college or out on their own. Maybe your parents live separately or a few states away. Maybe your aunt lives alone, and nobody stops by every day.
 
 You don't need to follow their every move. You want them to have their independence, and you want to know when their day looks unusual.
 
 Images over the two columns: `images/home/then-keys.webp` (black and white, a parent drops a car key into a teen girl's hand) and `images/home/now-college.webp` (color, the same young woman hugging her mom goodbye on college move-in day).
 
-| When they were 16 | Now that they are grown |
+| When they were 16 | Now that they're grown |
 | --- | --- |
 | "Where are they right now?" | "Is their day going okay?" |
 | Precision **GPS tracking** | Safety alerts instead of tracking |
@@ -45,7 +45,7 @@ Images over the two columns: `images/home/then-keys.webp` (black and white, a pa
 | A report on **every drive** | A nudge when a drive looks unusual |
 | A location history of **everywhere they've been** | A heads-up when they arrive at the places that matter |
 | A map to keep **checking** | A heads-up when it's worth a call |
-| House rules | Their life, their routine, their choice |
+| House rules | Their routine stays theirs |
 
 Bold words in the left column are bold and a darker gray (#33373D) on the page. Left icons are dull purple on pale grey; right icons are white on green.
 
@@ -57,7 +57,7 @@ Bold words in the left column are bold and a darker gray (#33373D) on the page. 
 
 Mom's at home. Dad's at the gym. Sis is at the campus library. Uncle Tony is up at the lake house. Everyone is having a Typical Day, so Looop stays quiet and you get on with yours.
 
-No alert usually means all is well.
+No news really is good news.
 
 Image: images/home/phone3.webp (My Family screen, All is well, everyone on a Typical Day)
 
@@ -74,11 +74,11 @@ Image: images/home/phone3.webp (My Family screen, All is well, everyone on a Typ
 
 ## "Is Dad still getting his walks in?"
 
-### How they're feeling. How they're moving.
+### Health and fitness, in one place
 
 **Subtitle:** Health & Fitness sharing is available if you need it.
 
-A restless night. A heart rate that's high for them. A week without the usual walks. With Health & Fitness sharing, Looop gives you a heads-up when something is off for them.
+Maybe Mom hasn't slept well all week, or Dad has skipped his usual walks. With Health & Fitness sharing, Looop gives you a heads-up when something is off for them.
 
 - **Health.** Heart rate, breathing rate, and sleep. Get a heads-up about an unusually high or low heart rate or an unusual breathing rate.
 - **Fitness.** Steps, walking, and workouts, from a morning run to a session at the gym. See whether Mom is as active as usual for her.
@@ -87,7 +87,7 @@ Based on your family's situation, you may want to add Health & Fitness sharing. 
 
 ## "Is Mom okay today?"
 
-### More than where they are. How their day is going.
+### The whole shape of their day
 
 Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day.
 
@@ -101,11 +101,11 @@ Each day, all of it comes together in one answer: a Typical Day, or an Unusual D
 
 ## "Did Dad make it to the cabin?"
 
-### Arrived safe. That's all you need to know.
+### Know they got there, without asking
 
 **Subtitle:** No "text me when you get there" required.
 
-Save the places that matter, like home, the cabin, or a dorm. You get a heads-up when a Loved One arrives or leaves. Dad left home, caught his flight, finished the drive, and got to the cabin. You never had to ask.
+Save the places that matter, like home, the cabin, or a dorm. You get a heads-up when a Loved One arrives or leaves. Dad left home, caught his flight, finished the drive, and got to the cabin.
 
 Image: images/home/phone5.webp (Dad, Arrived Safe at The Cabin, Typical Day)
 
@@ -119,7 +119,7 @@ Looop sends your family alerts, and only when something seems off. You live your
 
 - **You decide whether to join.** Looop works by invitation, so nobody signs you up without your knowing.
 - **Health & Fitness sharing and spending alerts are available.** Add them if they fit your family.
-- **Your family's data isn't for sale.** No advertisers. Ever.
+- **Your family's data isn't for sale.** We don't work with advertisers.
 - **You can change your mind.** Leave a group anytime.
 
 Looop helps you know when to check in. It doesn't detect emergencies. If you think someone is in danger, call 911.

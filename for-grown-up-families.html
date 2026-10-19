@@ -16,7 +16,7 @@
     /* Hero lockup in the style of a map-first family app, then the Looop reveal */
     .grown-hero {
       background: #E4D7FB;
-      padding: 108px 20px 32px;
+      padding: 108px 20px 26px;
       text-align: center;
     }
     .grown-hero h1 {
@@ -28,9 +28,9 @@
       margin: 0 auto;
     }
     .grown-hero h1 span { display: block; }
-    .grown-hero .l1 { font-size: clamp(64px, 11vw, 116px); }
-    .grown-hero .l2 { font-size: clamp(50px, 8.6vw, 90px); color: #fff; }
-    .grown-hero .l3 { font-size: clamp(64px, 11vw, 116px); }
+    .grown-hero .l1 { font-size: clamp(64px, 10vw, 106px); }
+    .grown-hero .l2 { font-size: clamp(50px, 7.8vw, 82px); color: #fff; }
+    .grown-hero .l3 { font-size: clamp(64px, 10vw, 106px); }
 
     .grown-reveal {
       background: #2088E8;
@@ -61,7 +61,7 @@
       transform: translate(-50%, -50%);
     }
     .grown-reveal .reveal-line {
-      font-size: clamp(22px, 2.6vw, 26px);
+      font-size: clamp(33px, 3.9vw, 39px);
       font-weight: 700;
       line-height: 1.2;
       letter-spacing: -0.02em;
@@ -74,7 +74,7 @@
     .grown-reveal .reveal-line .o { color: #FFCB70; }
     .grown-reveal .reveal-sub {
       color: #E3F0FC;
-      max-width: 960px;
+      max-width: 600px;
       margin: 0 auto 14px;
     }
 
@@ -132,6 +132,8 @@
     .two-kinds .kind p { margin: 0; }
 
     .inner-page .first-after-hero { padding-top: 24px; }
+    .grown-map { max-width: 906px; margin: 0 auto 32px; }
+    .grown-map img { display: block; width: 100%; height: auto; }
     /* Card quotes keep their own height so every headline sits right under its quote */
     .inner-page .card-grid .card .question { flex-grow: 0; }
 
@@ -207,21 +209,21 @@
   <section class="grown-reveal">
     <div class="mark"><img src="images/looop-wordmark.png?v=2" width="301" height="132" alt="Looop"><span class="dot" aria-hidden="true"></span></div>
     <p class="reveal-line"><span>The kids grew up.</span><span class="o">Your family app should grow up&nbsp;too.</span></p>
-    <p class="reveal-sub">Looop sends a heads-up when a Loved One's day looks unusual,<br>so you can trust them more and still know when to&nbsp;call.</p>
+    <p class="reveal-sub">Looop sends a heads-up when a Loved One's day looks unusual, so you can trust them more and still know when to&nbsp;call.</p>
     <a href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111" class="app-store-badge"><img src="images/appstore-badge.png" alt="Download Looop on the App Store"></a>
   </section>
 
   <section class="page-section first-after-hero">
     <div class="section-inner narrow">
       <p class="question">"Do I really need to see every&nbsp;turn?"</p>
-      <h2>The driving years were one&nbsp;chapter</h2>
-      <p class="section-subtitle">This is the next&nbsp;one.</p>
-      <p>When the kids got their licenses, you wanted to see every drive. That made sense. Now they're in college or out on their own. Maybe your parents live separately or a few states away. Maybe your aunt lives alone, and nobody stops by every&nbsp;day.</p>
+      <h2>The driving years are&nbsp;over</h2>
+      <p class="section-subtitle">Your family looks different&nbsp;now.</p>
+      <p>When the kids got their licenses, you wanted to see every drive. Now they're in college or out on their own. Maybe your parents live separately or a few states away. Maybe your aunt lives alone, and nobody stops by every&nbsp;day.</p>
       <p>You don't need to follow their every move. You want them to have their independence, and you want to know when their day looks&nbsp;unusual.</p>
 
       <div class="then-now" role="table" aria-label="When they were learning to drive, compared with now">
         <div class="head then" role="columnheader"><img src="images/home/then-keys.webp?v=2" width="1000" height="753" loading="lazy" alt="Black and white photo: a parent drops a car key into a smiling teenage girl's open hand in the driveway, a used sedan behind her"><span>When they were 16</span></div>
-        <div class="head now" role="columnheader"><img src="images/home/now-college.webp" width="1000" height="753" loading="lazy" alt="The same young woman, now in college, hugging her mom goodbye on move-in day beside a car full of boxes"><span>Now that they are grown</span></div>
+        <div class="head now" role="columnheader"><img src="images/home/now-college.webp" width="1000" height="753" loading="lazy" alt="The same young woman, now in college, hugging her mom goodbye on move-in day beside a car full of boxes"><span>Now that they're grown</span></div>
         <div class="then" role="cell"><span class="icon-badge icon--lilac icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><line x1="2" x2="5" y1="12" y2="12"/><line x1="19" x2="22" y1="12" y2="12"/><line x1="12" x2="12" y1="2" y2="5"/><line x1="12" x2="12" y1="19" y2="22"/><circle cx="12" cy="12" r="7"/><circle cx="12" cy="12" r="3"/></svg></span><span>"Where are they right&nbsp;now?"</span></div>
         <div class="now" role="cell"><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/><path d="m9 16 2 2 4-4"/></svg></span><span>"Is their day going&nbsp;okay?"</span></div>
         <div class="then" role="cell"><span class="icon-badge icon--lilac icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 10a7.31 7.31 0 0 0 10 10Z"/><path d="m9 15 3-3"/><path d="M17 13a6 6 0 0 0-6-6"/><path d="M21 13A10 10 0 0 0 11 3"/></svg></span><span>Precision <mark>GPS tracking</mark></span></div>
@@ -235,19 +237,20 @@
         <div class="then" role="cell"><span class="icon-badge icon--lilac icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M14.106 5.553a2 2 0 0 0 1.788 0l3.659-1.83A1 1 0 0 1 21 4.619v12.764a1 1 0 0 1-.553.894l-4.553 2.277a2 2 0 0 1-1.788 0l-4.212-2.106a2 2 0 0 0-1.788 0l-3.659 1.83A1 1 0 0 1 3 19.381V6.618a1 1 0 0 1 .553-.894l4.553-2.277a2 2 0 0 1 1.788 0z"/><path d="M15 5.764v15"/><path d="M9 3.236v15"/></svg></span><span>A map to keep&nbsp;<mark>checking</mark></span></div>
         <div class="now" role="cell"><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg></span><span>A heads-up when it's worth a&nbsp;call</span></div>
         <div class="then" role="cell"><span class="icon-badge icon--lilac icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="8" height="4" x="8" y="2" rx="1" ry="1"/><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><path d="M12 11h4"/><path d="M12 16h4"/><path d="M8 11h.01"/><path d="M8 16h.01"/></svg></span><span>House rules</span></div>
-        <div class="now" role="cell"><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"/></svg></span><span>Their life, their routine, their&nbsp;choice</span></div>
+        <div class="now" role="cell"><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"/></svg></span><span>Their routine stays&nbsp;theirs</span></div>
       </div>
     </div>
   </section>
 
   <section id="all-is-well" class="page-section">
+    <figure class="grown-map"><img src="images/home/family-map.png" alt="A map of the United States, with the western edge of Europe and Africa across the Atlantic, showing five Loved Ones in four cities and the weather near each: sunny in San Diego for Uncle Tony, a flash flood warning in Austin for Bud, a tornado watch in Chicago for Mom and Dad, and clear skies in Madrid for Sis." width="906" height="394" loading="lazy"></figure>
     <div class="section-inner split">
       <div class="split-text">
         <p class="question">"Is everyone okay&nbsp;today?"</p>
         <h2>Most days, all is&nbsp;well</h2>
         <p class="section-subtitle">And you don't have to check to know&nbsp;it.</p>
         <p>Mom's at home. Dad's at the gym. Sis is at the campus library. Uncle Tony is up at the lake house. Everyone is having a Typical Day, so Looop stays quiet and you get on with&nbsp;yours.</p>
-        <p class="tagline">No alert usually means all is&nbsp;well.</p>
+        <p class="tagline">No news really is good&nbsp;news.</p>
       </div>
       <div class="split-media product-shot single">
         <img src="images/home/phone3.webp" width="660" height="1146" loading="lazy" alt="The Looop app's My Family screen with an All is well badge: Mom at Home, Dad at The Gym, Sis at the Campus Library, and Uncle Tony at The Lake House, each having a Typical Day">
@@ -303,9 +306,9 @@
   <section class="page-section">
     <div class="section-inner narrow">
       <p class="question">"Is Dad still getting his walks&nbsp;in?"</p>
-      <h2>How they're feeling. How they're&nbsp;moving.</h2>
+      <h2>Health and fitness, in one&nbsp;place</h2>
       <p class="section-subtitle">Health &amp; Fitness sharing is available if you need&nbsp;it.</p>
-      <p>A restless night. A heart rate that's high for them. A week without the usual walks. With Health &amp; Fitness sharing, Looop gives you a heads-up when something is off for&nbsp;them.</p>
+      <p>Maybe Mom hasn't slept well all week, or Dad has skipped his usual walks. With Health &amp; Fitness sharing, Looop gives you a heads-up when something is off for&nbsp;them.</p>
       <div class="two-kinds">
         <div class="kind">
           <span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"/><path d="M3.22 13H9.5l.5-1 2 4.5 2-7 1.5 3.5h5.27"/></svg></span>
@@ -325,7 +328,7 @@
   <section class="page-section">
     <div class="section-inner narrow">
       <p class="question">"Is Mom okay&nbsp;today?"</p>
-      <h2>More than where they are. How their day is&nbsp;going.</h2>
+      <h2>The whole shape of their&nbsp;day</h2>
       <p>Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each&nbsp;day.</p>
       <ul class="icon-list">
         <li><span class="icon-badge icon--orange icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6 16.326A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 .5 8.973"/><path d="m13 12-3 5h4l-3 5"/></svg></span><span><strong>What's around them.</strong> Severe weather heading their way, in more than 50 countries, and crime reported nearby, in all 50 US&nbsp;states.</span></li>
@@ -342,9 +345,9 @@
     <div class="section-inner split reverse">
       <div class="split-text">
         <p class="question">"Did Dad make it to the&nbsp;cabin?"</p>
-        <h2>Arrived safe. That's all you need to&nbsp;know.</h2>
+        <h2>Know they got there, without&nbsp;asking</h2>
         <p class="section-subtitle">No "text me when you get there"&nbsp;required.</p>
-        <p>Save the places that matter, like home, the cabin, or a dorm. You get a heads-up when a Loved One arrives or leaves. Dad left home, caught his flight, finished the drive, and got to the cabin. You never had to&nbsp;ask.</p>
+        <p>Save the places that matter, like home, the cabin, or a dorm. You get a heads-up when a Loved One arrives or leaves. Dad left home, caught his flight, finished the drive, and got to the&nbsp;cabin.</p>
       </div>
       <div class="split-media product-shot single">
         <img src="images/home/phone5.webp" width="660" height="1147" loading="lazy" alt="The Looop app showing Dad arriving safe at The Cabin on a Typical Day: he left home at 8:05 AM, reached the airport, finished a 42 mile drive, and arrived at The Cabin at 3:41 PM">
@@ -361,7 +364,7 @@
       <ul class="icon-list">
         <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><line x1="19" x2="19" y1="8" y2="14"/><line x1="22" x2="16" y1="11" y2="11"/></svg></span><span><strong>You decide whether to join.</strong> Looop works by invitation, so nobody signs you up without your&nbsp;knowing.</span></li>
         <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"/><path d="M3.22 13H9.5l.5-1 2 4.5 2-7 1.5 3.5h5.27"/></svg></span><span><strong>Health &amp; Fitness sharing and spending alerts are available.</strong> Add them if they fit your&nbsp;family.</span></li>
-        <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></span><span><strong>Your family's data isn't for sale.</strong> No advertisers. Ever.</span></li>
+        <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></span><span><strong>Your family's data isn't for sale.</strong> We don't work with&nbsp;advertisers.</span></li>
         <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m16 17 5-5-5-5"/><path d="M21 12H9"/><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/></svg></span><span><strong>You can change your mind.</strong> Leave a group&nbsp;anytime.</span></li>
       </ul>
       <p class="fine-print">Looop helps you know when to check in. It doesn't detect emergencies. If you think someone is in danger, call&nbsp;911.</p>
