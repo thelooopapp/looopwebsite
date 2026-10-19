@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:52 CT
+
+### Design
+- **Icons on every then/now table cell** (`for-grown-up-families.html`): each cell now leads with a 36px round icon badge (the site's `icon-badge icon-badge--sm`), 14px from the text. The left column uses a new page-scoped pale purple `icon--lilac` (`#8652FF` on a 14% tint) with generic Lucide-style tracking-app ideas, drawn fresh and not copied from any app: locate crosshair (where are they), gauge (drive report), folded map (map to check), and clipboard list (house rules). The right column uses the site's `icon--green`: calendar check (day going okay), car (unusual drive), phone (worth a call), and heart (their choice).
+
 ## 2026-10-19 11:51 CT
 
 ### New Features
