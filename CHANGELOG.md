@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 18:05 CT
+
+### New Features
+- **Link preview card on every page**: new shared `images/og-default.jpg` (1200x630, 120 KB): the white Looop wordmark, "Peace of mind for you, independence for them" (white pill on the second line), orange "Know they're safe, across any distance.", and the All is well phone, on the home page's blue gradient. It was rendered with headless Chrome from an HTML layout. 35 pages that had no `og:image` now have `og:url`, `og:image` (with width, height, and alt), `twitter:card` (`summary_large_image`), and `twitter:image`. That covers every audience page, features, apple-health, both coverage pages, privacy, privacy-promise, review, useragreement, looop-vs-life360, who-its-for, all 16 blog pages and the blog index, and the press index with five releases. Before, iMessage and WhatsApp guessed at the first big image on each page.
+- The home page keeps its own `og-home.jpg` (the faces card), and "Like360 but for Adults" keeps its unique card. `press/weather-and-crime-alerts.html` is not tagged yet because another session has uncommitted edits in it.
+
 ## 2026-10-19 18:02 CT
 
 ### New Features
