@@ -1904,3 +1904,34 @@ p, li, td, blockquote { text-wrap: pretty; }
   .inner-page .scorecard .sc-item.lead-row { font-size: 17px; }
   .inner-page .scorecard .sc-head { font-size: 15px; }
 }
+
+/* Family band: the old family app photo behind, the grown-up Looop family in front, shown as printed photos.
+   Used on Looop vs. Life360 and For grown-up families. */
+.inner-page .family-band {
+  background: linear-gradient(170deg, #2A8AE0 0%, #1B73C6 40%, #0F4F92 100%);
+  color: #fff;
+  padding: clamp(16px, 2vw, 24px) 20px;
+}
+.inner-page .family-band .fb-inner { max-width: 1180px; margin: 0 auto; display: grid; grid-template-columns: minmax(min-content, 0.76fr) 1.76fr; gap: 22px 28px; align-items: center; }
+.inner-page .family-band h2 { color: #fff; font-size: clamp(26px, 2.9vw, 36px); line-height: 1.12; margin: 0; }
+.inner-page .family-band .pill { display: inline-block; white-space: nowrap; background: #fff; color: #1B73C6; border-radius: 0.22em; padding: 0 0.22em 0.06em; transform: rotate(-1.6deg); margin-top: 0.08em; }
+.inner-page .family-band p { color: #D3E6FA; font-size: 17px; line-height: 1.55; margin: 12px 0 0; text-wrap: pretty; }
+.inner-page .family-band p strong { color: #FFCB70; font-weight: 800; }
+.inner-page .family-band .fb-store { display: inline-flex; align-items: center; justify-content: center; min-height: 42.5px; padding: 0 13.6px; border-radius: 999px; background: #000; margin-top: 18px; }
+.inner-page .family-band .fb-store img { display: block; width: 105.4px; height: auto; }
+.inner-page .family-band .fb-prints { display: grid; grid-template-columns: 1fr 1.55fr; align-items: end; padding-block: 19px 11px; }
+.inner-page .family-band .fb-print { position: relative; margin: 0; background: #FBFAF7; padding: 9px 9px 36px; border-radius: 3px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.18), 0 14px 30px rgba(8, 40, 80, 0.35); }
+.inner-page .family-band .fb-print img { display: block; width: 100%; height: auto; border-radius: 1px; }
+.inner-page .family-band .fb-old { transform: rotate(-4deg) translate(10px, -28px); margin-right: -48px; z-index: 1; }
+.inner-page .family-band .fb-new { transform: rotate(2.2deg); z-index: 2; }
+.inner-page .family-band .fb-tag { position: absolute; bottom: 7px; border-radius: 999px; padding: 4px 10px; font-size: 12px; font-weight: 800; color: #fff; white-space: nowrap; }
+.inner-page .family-band .fb-old .fb-tag { left: 9px; background: #4B3A7A; }
+.inner-page .family-band .fb-new .fb-tag { right: 9px; background: #1B73C6; }
+@media (max-width: 768px) {
+  .inner-page .family-band { padding: 32px 16px 28px; }
+  .inner-page .family-band .fb-inner { grid-template-columns: 1fr; }
+  .inner-page .family-band h2 { font-size: 28px; }
+  .inner-page .family-band .fb-prints { grid-template-columns: 1fr; padding-block: 8px 4px; }
+  .inner-page .family-band .fb-old { width: 72%; margin-right: 0; transform: rotate(-4deg); }
+  .inner-page .family-band .fb-new { margin-top: -28px; }
+}

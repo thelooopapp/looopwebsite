@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 18:45 CT
+
+### New Features
+- **"Your family grew up" band** on Looop vs. Life360 (after "Which one fits your family?") and For grown-up families (after the first section): "Your family grew up. / Your app should too." (white pill, one line), "Most family apps were built for parents of young kids. Looop is built for all your Loved Ones across cities, states, and countries." (orange), and the header's black App Store button at 85% size. On the right, two printed photos: a faded purple family with preteen kids tagged "Your old Family Tracking App" (dark purple pill, bottom left of its print), and the full-color extended family of ten outdoors tagged "Looop: Keeping your Adult Family Safe" (blue pill, bottom right). New images `images/home/family-life360.webp` and `images/home/family-looop-outdoor.webp`, new `.family-band` rules in `styles.css` (stylesheet `?v=1019l` on these two pages).
+
 ## 2026-10-19 18:16 CT
 
 ### Design
