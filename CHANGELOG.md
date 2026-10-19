@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:53 CT
+
+### Design
+- **Left-column table icons sit on grey circles** (`for-grown-up-families.html`): `icon--lilac` keeps the purple `#8652FF` icon, but its circle is now grey `#ECEEF2` (was a purple tint).
+
 ## 2026-10-19 11:52 CT
 
 ### Design
