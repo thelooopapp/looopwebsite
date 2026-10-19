@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:08 CT
+
+### Copy
+- **Life-events subtitle** (`for-grown-up-families.html`, markdown source): "Sound familiar?" is now "Which one keeps you up at night?", short and a little provocative, pointing at the six cards below.
+
 ## 2026-10-19 12:07 CT
 
 ### Design

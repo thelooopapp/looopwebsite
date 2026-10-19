@@ -64,7 +64,7 @@ Image: images/home/phone3.webp (My Family screen, All is well, everyone on a Typ
 ## Looop is for the life events that come
 ## *after the learner's permit*
 
-**Subtitle:** Sound familiar?
+**Subtitle:** Which one keeps you up at night?
 
 - **"She's off to college." Trust them more.** You don't need a report on every drive anymore. You'd just like to know if a day looks off, and otherwise let her live it.
 - **"He moved to the big city." Safe from afar.** His new neighborhood is busier than the one he grew up in. Get a heads-up when crime is reported near him, in all 50 US states.
