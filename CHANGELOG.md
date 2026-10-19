@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:50 CT
+
+### Design
+- **Then/now table text 10% bigger** (`for-grown-up-families.html`): row text is 17.6px on desktop (was the inherited 16px) and 16.5px on phones (was 15px). The title pills are unchanged.
+
 ## 2026-10-19 11:49 CT
 
 ### Design
