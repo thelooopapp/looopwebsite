@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:54 CT
+
+### Design
+- **Left-column table icons are quieter** (`for-grown-up-families.html`): `icon--lilac` is now a dull purple `#9A8AC4` (was `#8652FF`) on a paler grey circle `#F5F6F8` (was `#ECEEF2`), so the "then" column recedes next to the green "now" column.
+
 ## 2026-10-19 11:53 CT
 
 ### Design
