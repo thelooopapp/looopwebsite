@@ -5,6 +5,11 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 ## 2026-10-19 11:46 CT
 
 ### Design
+- **More space between the two reveal lines** (`for-grown-up-families.html`): "The kids grew up." and "Your family app should grow up too." now have a 12px gap between them.
+
+## 2026-10-19 11:46 CT
+
+### Design
 - **"Now that everyone's grown" pill is Looop green** (`for-grown-up-families.html`): background `#2E9B4A` (the site's Typical green) with white text, was brand blue.
 
 ## 2026-10-19 11:45 CT
