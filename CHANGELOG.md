@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:50 CT
+
+### Design
+- **Monitoring-app banner sub line fits on one line** (`home.css`, now `?v=1019f`): the longer sub line "You don't need GPS tracking anymore. Just need to know when to check in." is 18px on desktop (17px on phones) in `.grown-banner--wrap`, so it stays on one line down to 1024px wide. At 20.4px it only just fit at 1440px. The "driving years" banner keeps 20.4px.
+
 ## 2026-10-19 12:49 CT
 
 ### Copy

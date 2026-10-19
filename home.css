@@ -205,11 +205,13 @@
   .grown-banner:hover .gb-cta { background: #F3EDFF; }
   .grown-banner--wrap { margin-top: 0; }
   .grown-banner--wrap .gb-title { line-height: 1.05; }
+  .grown-banner--wrap .gb-sub { font-size: 18px; }
   @media (max-width: 860px) {
     .grown-banner { flex-direction: column; text-align: center; gap: 14px; margin-block: 52px; padding: 22px 16px; border-radius: 20px; }
     .grown-banner .gb-title { font-size: 24px; white-space: nowrap; }
     .grown-banner--wrap .gb-title { white-space: normal; }
     .grown-banner--wrap { margin-top: 0; }
+    .grown-banner--wrap .gb-sub { font-size: 17px; }
     .grown-banner .gb-sub { font-size: 19.2px; line-height: 1.4; }
     .grown-banner .gb-sub span { display: block; }
   }
