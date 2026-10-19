@@ -5,6 +5,11 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 ## 2026-10-19 11:56 CT
 
 ### Design
+- **Keys photo is lighter and slightly washed out** (`images/home/then-keys.webp`, 45 KB, was 53 KB): re-rendered from the original with brighter levels, 20% less contrast, and lifted shadows (ffmpeg `eq=brightness=0.07:contrast=0.8:gamma=1.1`), still black and white, for more of a faded-memory feel next to the color college photo. The page links it as `?v=2` so browsers fetch the new file.
+
+## 2026-10-19 11:56 CT
+
+### Design
 - **"A nudge when a drive looks unusual" uses a notification bell** (`for-grown-up-families.html`): the car icon is now a ringing bell, so the row reads as an alert, not a drive.
 
 ## 2026-10-19 11:55 CT
