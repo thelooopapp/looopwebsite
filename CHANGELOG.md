@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 13:07 CT
+
+### Design
+- **"Your family app should grow up too." is green** (`for-grown-up-families.html`, markdown source): now `#A6F0B0`, the home page's green for text on blue (`--typical-on-brand`), replacing the light purple from 13:05.
+
 ## 2026-10-19 13:05 CT
 
 ### Design
