@@ -61,8 +61,7 @@ No alert usually means all is well.
 
 Image: images/home/phone3.webp (My Family screen, All is well, everyone on a Typical Day)
 
-## Looop is for the life events that come
-## *after the learner's permit*
+## For life after the learner's permit
 
 **Subtitle:** Which one keeps you up at night?
 

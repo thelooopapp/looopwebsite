@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:09 CT
+
+### Copy
+- **Life-events heading is one short line** (`for-grown-up-families.html`, markdown source): "Looop is for the life events that come / *after the learner's permit*" is now "For life after the learner's permit", no italics.
+
 ## 2026-10-19 12:08 CT
 
 ### Copy
