@@ -35,6 +35,8 @@ When the kids got their licenses, you wanted to see every drive. That made sense
 
 You don't need to follow their every move. You want them to have their independence, and you want to know when their day looks unusual.
 
+Images over the two columns: `images/home/then-keys.webp` (black and white, a parent drops a car key into a teen girl's hand) and `images/home/now-college.webp` (color, the same young woman hugging her mom goodbye on college move-in day).
+
 | When they were 16 | Now that everyone's grown |
 | --- | --- |
 | "Where are they right now?" | "Is their day going okay?" |
@@ -47,11 +49,11 @@ You don't need to follow their every move. You want them to have their independe
 **Subtitle:** Looop is for the life events that come after the learner's permit.
 
 - **"She's off to college." Trust them more.** You don't need a report on every drive anymore. You'd just like to know if a day looks off, and otherwise let her live it.
-- **"He moved to the big city." Keep them safe from afar.** His new neighborhood is busier than the one he grew up in. Get a heads-up when crime is reported near him, in all 50 US states.
+- **"He moved to the big city." Safe from afar.** His new neighborhood is busier than the one he grew up in. Get a heads-up when crime is reported near him, in all 50 US states.
 - **"Help isn't down the street anymore." Parents on their own.** Know when Dad's been home longer than usual for him, or when he arrives at a hospital or ER.
 - **"Aunt Ira lives alone." Someone living solo.** Nobody stops by every day. Get a nudge if her phone hasn't been picked up in hours, or if her day looks different.
-- **"Mom moved to the coast." Far away, different weather.** A storm on her coast won't show up in your forecast. Looop sends severe weather alerts in more than 50 countries.
-- **"Everyone counts on me." For the one in the middle.** Kids in two cities, parents in two homes. One calm screen, and one heads-up when someone needs a call.
+- **"Mom moved to the coast." A different forecast.** A storm on her coast won't show up in your forecast. Looop sends severe weather alerts in more than 50 countries.
+- **"Everyone counts on me." The one in the middle.** Kids in two cities, parents in two homes. One calm screen, and one heads-up when someone needs a call.
 
 ## "Is Mom okay today?"
 
@@ -67,11 +69,11 @@ Most family apps are built around a map: they answer "Where is she?" Looop answe
 
 ## "Is Dad still getting his walks in?"
 
-### Health and fitness are two different things
+### How they're feeling. How they're moving.
 
 **Subtitle:** Health & Fitness sharing is available if you need it.
 
-A step count alone doesn't tell you how someone is doing. Fitness is how they're moving. Health is their heart rate, breathing, and sleep. A quiet week and an unusual heart rate are different stories, so Looop keeps them separate.
+A restless night. A heart rate that's high for them. A week without the usual walks. With Health & Fitness sharing, Looop gives you a heads-up when something is off for them.
 
 - **Health.** Heart rate, breathing rate, and sleep. Get a heads-up about an unusually high or low heart rate or an unusual breathing rate.
 - **Fitness.** Steps, walking, and workouts, from a morning run to a session at the gym. See whether Mom is as active as usual for her.

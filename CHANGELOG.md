@@ -2,6 +2,15 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:43 CT
+
+### Design
+- **Photos over the "When they were 16 / Now that everyone's grown" table** (`for-grown-up-families.html`): two AI-generated images of the same fair-haired young woman. `images/home/then-keys.webp` (black and white, 53 KB) shows a parent dropping a car key into her hand in the driveway. `images/home/now-college.webp` (color, 65 KB) shows her hugging her mom goodbye on college move-in day. Each is 4:3 with 12px corners, above its column label. They were generated from text prompts only, not from a real person's photo.
+- **"Sound familiar?" card headlines are all one line**: "Keep them safe from afar" is now "Safe from afar", "Far away, different weather" is now "A different forecast", and "For the one in the middle" is now "The one in the middle". Non-breaking spaces removed. All six are 28px tall at 1024px wide and up.
+
+### Copy
+- **Health & Fitness section headline**: "Health and fitness are two different things" is now "How they're feeling. How they're moving." The explainer paragraph is now "A restless night. A heart rate that's high for them. A week without the usual walks. With Health & Fitness sharing, Looop gives you a heads-up when something is off for them." Markdown source updated.
+
 ## 2026-10-19 11:40 CT
 
 ### Copy
