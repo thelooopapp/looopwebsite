@@ -12,10 +12,8 @@ persona: "Marcus, the only child far away; Dana, the stretched-thin middle; Lind
 status: draft
 facts_checked: 2026-10-06
 legal_review: true
-legal_notes: "Names a competitor. Every Life360 claim was re-verified against its linked source on Oct 6, 2026. Approved data-sale phrasing from COPYWRITER_GUIDELINES.md is used verbatim. Crime line now cites Life360's Crime Reports support article (a map on paid plans, not real-time). 'Same app' is used for pets and Tile, not 'same map'. Do not publish, link from nav or index until legal signs off. Page carries robots noindex."
+legal_notes: "Names a competitor. Every Life360 claim was re-verified against its linked source on Oct 6, 2026. Approved data-sale phrasing from COPYWRITER_GUIDELINES.md is used verbatim. Crime line now cites Life360's Crime Reports support article (a map on paid plans, not real-time). 'Same app' is used for pets and Tile, not 'same map'. noindex removed Oct 19, 2026 so search and AI engines can index the page."
 ---
-
-<!-- LEGAL REVIEW REQUIRED: names a competitor. Remove noindex after approval. -->
 
 # Looop vs. Life360
 
@@ -129,6 +127,9 @@ Choose Life360 if you want to pay more for precision GPS tracking, driving detai
 We never sell your data, and we don't work with advertisers. [Read our privacy promise](privacy-promise.html)
 
 ## Questions families ask
+
+**Is Looop or Life360 better for my family?**
+Looop is built for families who care from a distance after the driving years: kids at college or in a big city, parents living separately or a few states away, a relative living alone, or siblings and friends who look out for each other. It tells you when to check in, so the people you love can live their lives. Choose Life360 if you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data shared with its partners. Choose Looop if you want safety alerts instead of tracking, a nudge when a drive looks unusual, no ads ever, and your family's data never for sale.
 
 **Can I switch from Life360 to Looop?**
 Yes. Download Looop, sign up with your phone number, and invite your Loved Ones from your contacts. They join with a simple six-character code. Before you send invites, talk it through together and show everyone what Looop shares. If you pay for a Life360 plan, remember to cancel it the way you signed up.

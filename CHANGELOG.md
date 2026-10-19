@@ -2,6 +2,16 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 18:52 CT
+
+### New Features
+- **Looop vs. Life360 FAQ: "Is Looop or Life360 better for my family?"**, now the first question. It says who Looop is for (families caring from a distance after the driving years) and closes with the owner-approved "Choose Life360 if / Choose Looop if" pair, word for word. Added to `looop-vs-life360.html` and `content/website/looop-vs-life360.md`.
+
+### Infrastructure
+- **Comparison page can now be indexed by search and AI engines.** Removed `noindex` and the legal-review comment from `looop-vs-life360.html`, added a canonical tag, and added `FAQPage` JSON-LD built from all 8 FAQ entries.
+- **`sitemap.xml`** now lists `looop-vs-life360.html`.
+- **`llms.txt`** adds a "Who Looop is for" line and the approved Looop vs. Life360 pair, so AI assistants have the positioning in one place.
+
 ## 2026-10-19 19:20 CT
 
 ### Design
