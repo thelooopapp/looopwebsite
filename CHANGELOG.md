@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:44 CT
+
+### Copy
+- **Outgrown banner sub line is shorter** (`index.html`): "You just need to know when to check in." is now "Just when to check in."
+
+### Design
+- **Purple banner sub lines 20% bigger** (`home.css`, now `?v=1019e`): 20.4px on desktop (was 17px) and 19.2px on phones (was 16px), for both home page banners.
+
 ## 2026-10-19 12:42 CT
 
 ### Copy
