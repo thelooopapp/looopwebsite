@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A Family Safety App for Grown Kids and Aging Parents | Looop</title>
+  <meta name="description" content="Your kids grew up. Your parents live on their own. Looop sends a heads-up when a Loved One's day looks unusual, so you can trust them more and still know when to call.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Like360, but for Adults">
+  <meta property="og:description" content="Your kids grew up. Your parents live on their own. Looop sends a heads-up when a Loved One's day looks unusual, so you can trust them more and still know when to call.">
+  <meta property="og:site_name" content="Looop">
+  <link rel="stylesheet" href="styles.css?v=1018b">
+  <link rel="icon" type="image/png" href="images/logo_small.png">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Albert+Sans:wght@800;900&display=swap" rel="stylesheet">
+  <style>
+    /* Hero lockup in the style of a map-first family app, then the Looop reveal */
+    .grown-hero {
+      background: #E4D7FB;
+      padding: 150px 20px 72px;
+      text-align: center;
+    }
+    .grown-hero h1 {
+      font-family: 'Albert Sans', 'Plus Jakarta Sans', system-ui, sans-serif;
+      font-weight: 900;
+      line-height: 0.88;
+      letter-spacing: -0.035em;
+      color: #762EEB;
+      margin: 0 auto;
+    }
+    .grown-hero h1 span { display: block; }
+    .grown-hero .l1 { font-size: clamp(76px, 16vw, 188px); }
+    .grown-hero .l2 { font-size: clamp(60px, 12.5vw, 148px); color: #fff; }
+    .grown-hero .l3 { font-size: clamp(76px, 16vw, 188px); }
+
+    .grown-reveal {
+      background: #2088E8;
+      padding: 72px 20px 80px;
+      text-align: center;
+      color: #fff;
+    }
+    .grown-reveal .mark {
+      position: relative;
+      display: inline-block;
+      width: min(340px, 72vw);
+    }
+    .grown-reveal .mark img {
+      display: block;
+      width: 100%;
+      height: auto;
+      filter: brightness(0) invert(1);
+    }
+    /* The wordmark's green dot, restored after the white filter */
+    .grown-reveal .mark .dot {
+      position: absolute;
+      left: 54.3%;
+      top: 70.6%;
+      width: 4.3%;
+      aspect-ratio: 1;
+      border-radius: 50%;
+      background: #5BD35B;
+      transform: translate(-50%, -50%);
+    }
+    .grown-reveal .reveal-line {
+      font-size: clamp(22px, 3vw, 30px);
+      font-weight: 700;
+      line-height: 1.25;
+      letter-spacing: -0.02em;
+      color: #fff;
+      max-width: 640px;
+      margin: 28px auto 12px;
+    }
+    .grown-reveal .reveal-sub {
+      color: #E3F0FC;
+      max-width: 560px;
+      margin: 0 auto 28px;
+    }
+
+    /* Then and now */
+    .then-now {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      border-radius: 20px;
+      overflow: hidden;
+      background: #fff;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+      margin-top: 28px;
+    }
+    .then-now > div { padding: 18px 22px; border-top: 1px solid #ECEEF2; }
+    .then-now .head { border-top: 0; font-weight: 800; font-size: 15px; letter-spacing: 0.02em; text-transform: uppercase; }
+    .then-now .then { color: #5B626C; }
+    .then-now .now { color: #1E2126; font-weight: 600; background: #F4F9FF; }
+    .then-now .head.then { background: #F2F3F6; }
+    .then-now .head.now { color: #1B73C6; background: #E6F1FC; }
+
+    /* Fitness vs health callout */
+    .two-kinds {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-top: 24px;
+    }
+    .two-kinds .kind {
+      background: #fff;
+      border-radius: 20px;
+      padding: 24px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+    }
+    .two-kinds .kind h3 { margin: 12px 0 6px; }
+    .two-kinds .kind p { margin: 0; }
+
+    @media (max-width: 640px) {
+      .grown-hero { padding: 120px 16px 56px; }
+      .then-now > div { padding: 14px 14px; font-size: 15px; }
+      .two-kinds { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<nav class="navbar">
+  <a href="index.html" class="logo"><img src="images/logo_small.png" alt="Looop"><img class="wordmark" src="images/looop-wordmark.png?v=2" alt="" width="301" height="132"></a>
+    <a class="nav-cta" href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111" aria-label="Download Looop on the App Store"><img src="images/appstore-wordmark-white.png" alt="" width="124" height="31"></a>
+  <button class="hamburger" onclick="document.querySelector('.nav-links').classList.toggle('active')" aria-label="Menu"><span></span><span></span><span></span></button>
+  <ul class="nav-links">
+    <li><a href="features.html">How it works</a></li>
+    <li><a href="who-its-for.html">Who it's for</a></li>
+    <li><a href="privacy-promise.html">Privacy</a></li>
+    <li><a href="blog/index.html">Resources</a></li>
+    <li><a href="index.html#contact">Get in Touch</a></li>
+  </ul>
+</nav>
+
+<main class="inner-page">
+  <section class="grown-hero">
+    <h1><span class="l1">Like360</span><span class="l2">but for</span><span class="l3">Adults</span></h1>
+  </section>
+
+  <section class="grown-reveal">
+    <div class="mark"><img src="images/looop-wordmark.png?v=2" width="301" height="132" alt="Looop"><span class="dot" aria-hidden="true"></span></div>
+    <p class="reveal-line">The kids grew up. Your parents live on their own. Your family app should grow up&nbsp;too.</p>
+    <p class="reveal-sub">Looop sends a heads-up when a Loved One's day looks unusual, so you can trust them more and still know when to&nbsp;call.</p>
+    <a href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111" class="app-store-badge"><img src="images/appstore-badge.png" alt="Download Looop on the App Store"></a>
+  </section>
+
+  <section class="page-section">
+    <div class="section-inner narrow">
+      <p class="question">"Do I really need to see every&nbsp;turn?"</p>
+      <h2>The driving years were one&nbsp;chapter</h2>
+      <p class="section-subtitle">This is the next&nbsp;one.</p>
+      <p>When the kids got their licenses, you wanted to see every drive. That made sense. Now they're in college or out on their own. Your parents live by themselves, a few states away. Your aunt lives alone, and nobody stops by every&nbsp;day.</p>
+      <p>You don't need to follow their every move. You want them to have their independence, and you want to know when their day looks&nbsp;unusual.</p>
+
+      <div class="then-now" role="table" aria-label="When they were learning to drive, compared with now">
+        <div class="head then" role="columnheader">When they were 16</div>
+        <div class="head now" role="columnheader">Now that everyone's grown</div>
+        <div class="then" role="cell">"Where are they right&nbsp;now?"</div>
+        <div class="now" role="cell">"Is their day going&nbsp;okay?"</div>
+        <div class="then" role="cell">A report on every&nbsp;drive</div>
+        <div class="now" role="cell">A nudge when a drive looks&nbsp;unusual</div>
+        <div class="then" role="cell">A map to keep&nbsp;checking</div>
+        <div class="now" role="cell">A heads-up when it's worth a&nbsp;call</div>
+        <div class="then" role="cell">House rules</div>
+        <div class="now" role="cell">Their life, their routine, their&nbsp;choice</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-section">
+    <div class="section-inner">
+      <h2 class="center">Sound&nbsp;familiar?</h2>
+      <p class="section-subtitle center">Looop is for the life events that come after the learner's&nbsp;permit.</p>
+      <div class="card-grid three">
+        <div class="card">
+          <img src="images/home/av-sis.webp" alt="Smiling young woman with a braid, with a cycling badge" class="card-avatar" width="352" height="352" loading="lazy">
+          <p class="question">"She's off to&nbsp;college."</p>
+          <h3>Trust them more</h3>
+          <p>You don't need a report on every drive anymore. You'd just like to know if a day looks off, and otherwise let her live&nbsp;it.</p>
+        </div>
+        <div class="card">
+          <img src="images/home/av-bro.webp" alt="Smiling young man, with a gym badge" class="card-avatar" width="352" height="352" loading="lazy">
+          <p class="question">"He moved to the big&nbsp;city."</p>
+          <h3>Keep them safe from&nbsp;afar</h3>
+          <p>His new neighborhood is busier than the one he grew up in. Get a heads-up when crime is reported near him, in all 50 US&nbsp;states.</p>
+        </div>
+        <div class="card">
+          <img src="images/home/av-dad.webp" alt="Dad with gray hair looking concerned, with a heart badge" class="card-avatar" width="352" height="352" loading="lazy">
+          <p class="question">"Help isn't down the street&nbsp;anymore."</p>
+          <h3>Parents on their&nbsp;own</h3>
+          <p>Know when Dad's been home longer than usual for him, or when he arrives at a hospital or&nbsp;ER.</p>
+        </div>
+        <div class="card">
+          <img src="images/home/av-ira.webp" alt="Woman with curly gray hair, with a home badge" class="card-avatar" width="352" height="352" loading="lazy">
+          <p class="question">"Aunt Ira lives&nbsp;alone."</p>
+          <h3>Someone living&nbsp;solo</h3>
+          <p>Nobody stops by every day. Get a nudge if her phone hasn't been picked up in hours, or if her day looks&nbsp;different.</p>
+        </div>
+        <div class="card">
+          <img src="images/home/av-mom.webp" alt="Smiling mom with silver hair, with a walking badge" class="card-avatar" width="352" height="352" loading="lazy">
+          <p class="question">"Mom moved to the&nbsp;coast."</p>
+          <h3>Far away, different&nbsp;weather</h3>
+          <p>A storm on her coast won't show up in your forecast. Looop sends severe weather alerts in more than 50&nbsp;countries.</p>
+        </div>
+        <div class="card">
+          <img src="images/home/av-woman.webp" alt="Woman with dark hair looking concerned, with a home badge" class="card-avatar" width="352" height="352" loading="lazy">
+          <p class="question">"Everyone counts on&nbsp;me."</p>
+          <h3>For the one in the&nbsp;middle</h3>
+          <p>Kids in two cities, parents in two homes. One calm screen, and one heads-up when someone needs a&nbsp;call.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-section">
+    <div class="section-inner narrow">
+      <p class="question">"Is Mom okay&nbsp;today?"</p>
+      <h2>More than where they are. How their day is&nbsp;going.</h2>
+      <p>Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each&nbsp;day.</p>
+      <ul class="icon-list">
+        <li><span class="icon-badge icon--orange icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6 16.326A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 .5 8.973"/><path d="m13 12-3 5h4l-3 5"/></svg></span><span><strong>What's around them.</strong> Severe weather heading their way, in more than 50 countries, and crime reported nearby, in all 50 US&nbsp;states.</span></li>
+        <li><span class="icon-badge icon--orange icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 7v4"/><path d="M14 21v-3a2 2 0 0 0-4 0v3"/><path d="M14 9h-4"/><path d="M18 11h2a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-9a2 2 0 0 1 2-2h2"/><path d="M18 21V5a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16"/></svg></span><span><strong>Arrivals that matter.</strong> Know when they arrive at a hospital or ER, a police station, or an&nbsp;airport.</span></li>
+        <li><span class="icon-badge icon--orange icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></span><span><strong>How long they've been there.</strong> A nudge when they've been home much longer than is normal for&nbsp;them.</span></li>
+        <li><span class="icon-badge icon--orange icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M16 2v3"/><path d="M21 10.69V5a2 2 0 00-2-2H5a2 2 0 00-2 2v14a2 2 0 002 2h7.25"/><path d="m22 21-1.875-1.875"/><path d="M3 9h18"/><path d="M8 2v3"/><circle cx="18" cy="17" r="3"/></svg></span><span><strong>Unusual Day.</strong> A gentle nudge when driving, walking, or phone use doesn't fit their own normal routine, or their phone hasn't been picked up in&nbsp;hours.</span></li>
+        <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="2" y="5" width="20" height="14" rx="2"/><line x1="2" x2="22" y1="10" y2="10"/></svg></span><span><strong>Spending, if they link an account.</strong> An optional heads-up about an unusually large charge, with a threshold you set. That can be an early sign of a&nbsp;scam.</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="page-section">
+    <div class="section-inner narrow">
+      <p class="question">"Is Dad still getting his walks&nbsp;in?"</p>
+      <h2>Fitness and health are two different&nbsp;things</h2>
+      <p class="section-subtitle">Looop shows both, if they choose to&nbsp;share.</p>
+      <p>A step count alone doesn't tell you how someone is doing. Fitness is how they're moving. Health is how their body is doing. A quiet week and an unusual heart rate are different stories, so Looop keeps them&nbsp;separate.</p>
+      <div class="two-kinds">
+        <div class="kind">
+          <span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="13" cy="4" r="2"/><path d="m4 22 4-6 3 2 2-5"/><path d="m16 22-2-6-3-2 1-5 4 3h3"/><path d="M8 11l2-3"/></svg></span>
+          <h3>Fitness</h3>
+          <p>Steps, walking, and workouts, from a morning run to a session at the gym. See whether Mom is as active as usual for&nbsp;her.</p>
+        </div>
+        <div class="kind">
+          <span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"/><path d="M3.22 13H9.5l.5-1 2 4.5 2-7 1.5 3.5h5.27"/></svg></span>
+          <h3>Health</h3>
+          <p>Heart rate, breathing rate, and sleep. Get a heads-up about an unusually high or low heart rate or an unusual breathing&nbsp;rate.</p>
+        </div>
+      </div>
+      <p class="fine-print">Fitness and health sharing are optional and always their choice. Works with Apple Health and Apple&nbsp;Watch.</p>
+      <p class="tagline spaced">Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a&nbsp;call.</p>
+    </div>
+  </section>
+
+  <section class="page-section">
+    <div class="section-inner narrow">
+      <p class="question">"I'm an adult. I don't need to be&nbsp;watched."</p>
+      <h2>A word for the grown-ups you&nbsp;love</h2>
+      <p class="section-subtitle">You're right. Looop doesn't watch&nbsp;you.</p>
+      <p>Looop sends your family alerts, and only when something seems off. You live your day. They get fewer "where are you?" texts, and you get fewer "just checking on you"&nbsp;calls.</p>
+      <ul class="icon-list">
+        <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><line x1="19" x2="19" y1="8" y2="14"/><line x1="22" x2="16" y1="11" y2="11"/></svg></span><span><strong>You decide whether to join.</strong> Looop works by invitation, so nobody signs you up without your&nbsp;knowing.</span></li>
+        <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"/><path d="M3.22 13H9.5l.5-1 2 4.5 2-7 1.5 3.5h5.27"/></svg></span><span><strong>Fitness, health, and spending are your call.</strong> Share them only if you want&nbsp;to.</span></li>
+        <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></span><span><strong>Your family's data isn't for sale.</strong> No advertisers. Ever.</span></li>
+        <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m16 17 5-5-5-5"/><path d="M21 12H9"/><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/></svg></span><span><strong>You can change your mind.</strong> Leave a group&nbsp;anytime.</span></li>
+      </ul>
+      <p class="fine-print">Looop helps you know when to check in. It doesn't detect emergencies. If you think someone is in danger, call&nbsp;911.</p>
+    </div>
+  </section>
+
+  <section class="cta-band">
+    <h2>Peace of mind for you, independence for&nbsp;them.</h2>
+    <p class="section-subtitle">Invite the grown-ups you love, and know when it's worth a&nbsp;call.</p>
+    <a href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111" class="app-store-badge"><img src="images/appstore-badge.png" alt="Download Looop on the App Store"></a>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="footer-content">
+    <div class="footer-col footer-brand">
+      <a href="index.html" class="footer-home" aria-label="Looop home"><picture><source srcset="images/logo_small_white.avif" type="image/avif"><img src="images/logo_small_white.png" alt="Looop" class="footer-logo" width="124" height="91"></picture></a>
+      <p class="footer-tagline">Know they're safe, across any distance.</p>
+      <a href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111" class="footer-badge"><img src="images/appstore-badge.png" alt="Download Looop on the App Store" width="114" height="40" loading="lazy"></a>
+    </div>
+    <nav class="footer-col" aria-label="Product">
+      <h4>Product</h4>
+      <ul>
+        <li><a href="features.html">How it works</a></li>
+        <li><a href="privacy-promise.html">Our privacy promise</a></li>
+        <li><a href="who-its-for.html">Who it's for</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-col" aria-label="Who it's for">
+      <h4>Who it's for</h4>
+      <ul>
+        <li><a href="for-aging-parents.html">Aging parents</a></li>
+        <li><a href="for-college-families.html">College families</a></li>
+        <li><a href="for-friends-and-siblings.html">Friends and siblings</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-col" aria-label="Company">
+      <h4>Company</h4>
+      <ul>
+        <li><a href="press/index.html">Newsroom</a></li>
+        <li><a href="blog/index.html">Resources</a></li>
+        <li><a href="index.html#contact">Get in Touch</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-col" aria-label="Legal">
+      <h4>Legal</h4>
+      <ul>
+        <li><a href="privacy.html">Privacy Policy</a></li>
+        <li><a href="useragreement.html">User Agreement</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="footer-bottom">&copy; 2026 LooopApp LLC</div>
+</footer>
+
+</body>
+</html>

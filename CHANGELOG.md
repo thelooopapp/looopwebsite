@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 10:26 CT
+
+### New Features
+- **New page "Like360 but for Adults"** (`for-grown-up-families.html`, copy source `content/website/for-grown-up-families.md`): for families who have moved past the driving years, with kids in college or out on their own, parents living on their own, or a relative living alone. The hero echoes a well-known map-first family app without naming it anywhere: "Like360 / but for / Adults" in purple `#762EEB` and white on lavender, set in Albert Sans 900 (a free stand-in for that app's licensed Centra No2). Below it, the white Looop wordmark (CSS-whitened, with the green dot restored) on brand blue. Sections: a "When they were 16 / Now that everyone's grown" table, six life-event cards (college, a son in the big city, parents on their own, an aunt living alone, Mom on the coast, the one in the middle), the holistic list with arrivals and home-longer-than-usual, a "Fitness and health are two different things" section (fitness: steps, walking, workouts; health: heart rate, breathing rate, sleep, both optional), a word for the Loved Ones themselves, and a CTA using the approved line "Peace of mind for you, independence for them." Page styles are inline in a `<style>` block.
+- **Unlinked on purpose:** no nav, footer, or Who it's for link yet. It is in `sitemap.xml` so it can be indexed. Needs legal sign-off on the hero before it gets linked.
+
 ## 2026-10-18 22:18 CT
 
 ### Bug Fixes
