@@ -2,6 +2,15 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 17:10 CT
+
+### Press
+- **Launch release is published** (`press/launch-safety-notifications.html`, source `content/press/launch-safety-notifications.md`): "Looop Officially Launches a Safety Notifications App for Families Who Care From a Distance," dated Oct. 19, 2026. Copy says "officially launched" after the May soft launch, crime alerts work in all 50 US states, and "Loved One" is capitalized throughout. The privacy section no longer opens with the line about the industry and advertising.
+  - Removed the noindex meta, the draft comment and the "Draft for review" byline; the byline now reads "Press release · October 19, 2026". Source status is `published`.
+  - Added a canonical link and NewsArticle structured data (datePublished 2026-10-19), matching the other releases.
+  - Newsroom (`press/index.html`): the launch card is the first item in the news list, and the "New announcements are coming soon" placeholder is gone.
+  - Added the page to `sitemap.xml` and `llms.txt`.
+
 ## 2026-10-19 14:18 CT
 
 ### Design
