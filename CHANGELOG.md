@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:49 CT
+
+### Copy
+- **Second home page banner reworded so "tracking" isn't repeated** (`index.html`): "You've outgrown your family tracking app." is now "You've outgrown your family monitoring app." The sub line "You don't need precision tracking anymore. Just when to check in." is now "You don't need GPS tracking anymore. Just need to know when to check in." (owner's wording).
+
 ## 2026-10-19 12:44 CT
 
 ### Copy
