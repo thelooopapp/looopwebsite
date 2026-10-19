@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 12:41 CT
+
+### Copy
+- **Homepage privacy band leads with the stronger line** (`index.html`): the headline is now "Your family's data isn't for sale" (white pill on "isn't for sale"), and "Family privacy, protected." moved down to the orange key line. Before, the headline was "Family privacy, protected" with the data line under it.
+
 ## 2026-10-19 12:39 CT
 
 ### Design
