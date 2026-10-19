@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 19:00 CT
+
+### New Features
+- **"Your family grew up" band on For college families**, after "Twins in two states? Parents in a third?" and before "A word for your student". Same band and composite image as Looop vs. Life360 and For grown-up families (stylesheet `?v=1019n` on this page).
+
 ## 2026-10-19 18:55 CT
 
 ### Design
