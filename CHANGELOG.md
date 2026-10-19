@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 14:17 CT
+
+### Design
+- **Lock-screen alert phone: text lines up across all three cards** (`images/home/phone1.webp`): the three notifications were drawn at shrinking sizes (avatars 266, 239, and 213px, with fonts scaled to match), so each card's text started at a different spot and the line gaps got smaller card by card. All three cards now use the middle card's size (239px avatar, 74/58/48px text, the same padding and width), so the title, "@ place", and "Near person" lines start at the same x on every card. Each card's lines sit on fixed line heights (82/70/64px) so the spacing is even. Rendered from the app repo's `Main.dc.html` with overrides at render time; the source board and App Store screenshot 1 are unchanged. Same 660x1084 frame, and refs bumped to `?v=3` in `index.html` and `for-college-families.html`.
+
 ## 2026-10-19 14:01 CT
 
 ### Images
