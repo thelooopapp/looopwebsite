@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 13:08 CT
+
+### Copy
+- **First reveal line is "Your kids grew up."** (`for-grown-up-families.html`, markdown source): was "The kids grew up.", so it now talks straight to the reader like the line under it.
+
 ## 2026-10-19 13:07 CT
 
 ### Design
