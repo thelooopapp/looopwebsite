@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:58 CT
+
+### Design
+- **Scary words are bold dark gray, not highlighted** (`for-grown-up-families.html`, markdown source): the `<mark>` phrases in the left column ("tracking", "recorded and stored", "every drive", "location history", "checking") lose the purple highlighter and are now weight 700 in `#33373D`, darker than the column's `#5B626C` but not black.
+
 ## 2026-10-19 11:57 CT
 
 ### Copy

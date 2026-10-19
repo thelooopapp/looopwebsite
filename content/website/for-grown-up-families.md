@@ -47,7 +47,7 @@ Images over the two columns: `images/home/then-keys.webp` (black and white, a pa
 | A map to keep **checking** | A heads-up when it's worth a call |
 | House rules | Their life, their routine, their choice |
 
-Bold words in the left column get a dull purple highlighter on the page. Left icons are dull purple on pale grey; right icons are white on green.
+Bold words in the left column are bold and a darker gray (#33373D) on the page. Left icons are dull purple on pale grey; right icons are white on green.
 
 ## "Is everyone okay today?"
 
