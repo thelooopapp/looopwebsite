@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 11:56 CT
+
+### Design
+- **"A nudge when a drive looks unusual" uses a notification bell** (`for-grown-up-families.html`): the car icon is now a ringing bell, so the row reads as an alert, not a drive.
+
 ## 2026-10-19 11:55 CT
 
 ### Design
