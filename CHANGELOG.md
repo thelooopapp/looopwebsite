@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 19:10 CT
+
+### New Features
+- **Family map on For college families**, just above "Twins in two states? Parents in a third?": the same map as Who it's for and How it works (`images/home/family-map.png`, five Loved Ones in four cities with the weather near each). The page now loads `map.css`.
+
 ## 2026-10-19 19:05 CT
 
 ### Design
