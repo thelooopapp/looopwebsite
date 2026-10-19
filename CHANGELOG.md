@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 14:01 CT
+
+### Images
+- **Bud has a worried face on the family map** (`images/home/family-map.png`): his serious portrait, cropped from the owner's portrait sheet into `content/website/family-map/bro_worried.png`, replaces the smiling one next to the Flash Flood Warning. Mom, Dad and Bud now all show worried faces with orange rings. The `<img>` cache key on the three pages is now `?v=1019b`.
+
 ## 2026-10-19 13:59 CT
 
 ### Images
