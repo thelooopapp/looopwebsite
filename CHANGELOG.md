@@ -17,6 +17,11 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 - **`sitemap.xml`** now lists `looop-vs-life360.html`.
 - **`llms.txt`** adds a "Who Looop is for" line and the approved Looop vs. Life360 pair, so AI assistants have the positioning in one place.
 
+## 2026-10-19 19:40 CT
+
+### Design
+- **Footer on every page (38)**: the white cursive Looop wordmark (new `images/looop-wordmark-white.png`, 300x131, trimmed from `images/press/looop-wordmark-white.png`) replaces the circle emblem, with "Know they're safe, across any distance." under it. The App Store badge is removed from the footer, which stacked awkwardly on phones.
+
 ## 2026-10-19 19:30 CT
 
 ### Design
