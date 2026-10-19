@@ -53,8 +53,9 @@
   .nav ul { display: flex; gap: 28px; list-style: none; margin: 0; padding: 0; font-size: 15px; font-weight: 600; color: var(--ink); }
   .nav ul a { text-decoration: none; }
   .btn { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 0 20px; border-radius: 999px; background: var(--brand); color: var(--on-brand); font-weight: 700; font-size: 15px; text-decoration: none; white-space: nowrap; }
-  .nav .btn { background: #000; }
-  .nav .btn img { display: block; height: 24px; width: auto; }
+  .nav .btn { min-height: 50px; padding: 0 16px; background: #000; }
+  .nav .btn { min-width: 0; }
+  .nav .btn img { display: block; width: 124px; max-width: 100%; height: auto; }
 
   /* Hero */
   .hero { padding-block: 20px 0; text-align: center; overflow: hidden; }
@@ -183,7 +184,6 @@
     .nav ul.open a { display: block; padding: 13px 0; font-size: 17px; }
     .contact { padding: 26px 22px; }
   }
-  @media (max-width: 400px) { .nav .btn { padding: 0 14px; } .nav .btn img { height: 21px; } }
 
   /* Nav floats over the page like the inner pages' nav */
   .hero > .wrap > .nav { position: fixed; top: 20px; left: 50%; transform: translateX(-50%); width: 90%; max-width: 1100px; z-index: 100; box-sizing: border-box; }

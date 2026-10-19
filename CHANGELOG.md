@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-18 22:18 CT
+
+### Bug Fixes
+- **Header App Store button showed blue on the live site**: browsers and the GitHub Pages CDN kept serving the old `home.css`/`styles.css` under `?v=1013c`. Every page now links `?v=1018b`, so the black pill loads.
+- **Header logo matches the App Store badge below it**: the logo inside the black pill is now 124x31, the same size as the logo in the 54px hero badge, and the pill is 50px tall (was a 24px logo in a 44px pill). It never gets larger. On narrow phones (about 390px and below) it scales down proportionally to fit (`min-width: 0` on the button, `max-width: 100%` on the image), so the old under-400px shrink rule was removed. Image `width`/`height` attributes updated to 124/31 on all 38 pages.
+
 ## 2026-10-18 22:10 CT
 
 ### Design
