@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 18:02 CT
+
+### New Features
+- **Link preview card for the "Like360 but for Adults" page** (`for-grown-up-families.html`, new `images/og-grown-up-families.jpg`, 1200x630, 105 KB). Without an `og:image`, iMessage and WhatsApp grabbed the first big image on the page, the black-and-white keys photo. The card has the lavender Like360 lockup on the left. On the right, on Looop blue: the white wordmark, "Your kids grew up." (white), "Your family app should grow up too." (orange), and the All is well phone (`phone3.webp`). It was rendered with headless Chrome from an HTML layout. The page now has `og:url`, `og:image` (with width, height, and alt), `twitter:card` (`summary_large_image`), and `twitter:image`.
+
+### Copy
+- **Page description matches the page**: "Your parents live on their own." is removed from the meta and og descriptions, since that line came off the page earlier.
+
 ## 2026-10-19 17:53 CT
 
 ### Bug Fixes
