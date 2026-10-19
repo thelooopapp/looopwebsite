@@ -17,6 +17,11 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 - **`sitemap.xml`** now lists `looop-vs-life360.html`.
 - **`llms.txt`** adds a "Who Looop is for" line and the approved Looop vs. Life360 pair, so AI assistants have the positioning in one place.
 
+## 2026-10-19 19:50 CT
+
+### Copy
+- **Footer links in Title Case on every page (38)**, matching Privacy Policy, User Agreement and Get in Touch: How It Works, Our Privacy Promise, Who It's For (heading and link), Aging Parents, College Families, Friends and Siblings.
+
 ## 2026-10-19 19:45 CT
 
 ### Design
