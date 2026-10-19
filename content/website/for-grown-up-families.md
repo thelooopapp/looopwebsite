@@ -109,6 +109,23 @@ Save the places that matter, like home, the cabin, or a dorm. You get a heads-up
 
 Image: images/home/phone5.webp (Dad, Arrived Safe at The Cabin, Typical Day)
 
+## Our privacy promise
+
+Blue band copied from the home page privacy section.
+
+### Your family's data *isn't for sale* (white pill)
+
+(orange) Family privacy, protected.
+
+We never sell your data, and we don't work with advertisers.
+
+[Read our privacy promise](privacy-promise.html)
+
+- Never for Sale
+- No Ads, Ever
+- Alerts, Not Tracking
+- Leave Anytime
+
 ## "I'm an adult. I don't need to be watched."
 
 ### A word for the grown-ups you love
@@ -119,7 +136,6 @@ Looop sends your family alerts, and only when something seems off. You live your
 
 - **You decide whether to join.** Looop works by invitation, so nobody signs you up without your knowing.
 - **Health & Fitness sharing and spending alerts are available.** Add them if they fit your family.
-- **Your family's data isn't for sale.** We don't work with advertisers.
 - **You can change your mind.** Leave a group anytime.
 
 Looop helps you know when to check in. It doesn't detect emergencies. If you think someone is in danger, call 911.

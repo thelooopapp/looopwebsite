@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 13:02 CT
+
+### New Features
+- **Home page privacy band on the "Like360 but for Adults" page** (`for-grown-up-families.html`, markdown source): the blue "Our privacy promise" band from `index.html` (eyebrow, "Your family's data isn't for sale" with the white pill, orange "Family privacy, protected.", the advertisers line, "Read our privacy promise" link, and the four promise pills) now sits above "I'm an adult. I don't need to be watched." Its styles are copied from `home.css` into the page's `<style>` block, scoped to `.grown-privacy`, with the same one-column layout under 860px.
+
+### Copy
+- **Removed the duplicate privacy bullet** from the "A word for the grown-ups you love" list ("Your family's data isn't for sale. We don't work with advertisers."), since the band directly above now says it.
+
 ## 2026-10-19 12:50 CT
 
 ### Design

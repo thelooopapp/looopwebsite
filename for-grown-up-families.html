@@ -137,6 +137,24 @@
     /* Card quotes keep their own height so every headline sits right under its quote */
     .inner-page .card-grid .card .question { flex-grow: 0; }
 
+    /* Privacy band, copied from the home page (index.html #privacy) */
+    .grown-privacy { background: linear-gradient(170deg, #2A8AE0 0%, #1B73C6 40%, #0F4F92 100%); color: #fff; padding: 72px 20px; }
+    .grown-privacy .gp-wrap { max-width: 1120px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: center; }
+    .inner-page .grown-privacy p { margin: 0; }
+    .inner-page .grown-privacy .eyebrow { color: #D3E6FA; font-weight: 800; font-size: clamp(22px, 2.6vw, 28px); line-height: 1.2; letter-spacing: -0.02em; }
+    .inner-page .grown-privacy h2 { color: #fff; font-size: clamp(30px, 4.4vw, 50px); font-weight: 800; line-height: 1.1; letter-spacing: -0.02em; text-wrap: balance; margin: 0; }
+    .grown-privacy .pill { display: inline-block; background: #fff; color: #1B73C6; border-radius: 0.22em; padding: 0 0.22em 0.06em; transform: rotate(-1.6deg); margin-top: 0.08em; }
+    .inner-page .grown-privacy .key { margin-top: 18px; color: #FFCB70; font-weight: 800; font-size: clamp(20px, 2.4vw, 26px); line-height: 1.2; letter-spacing: -0.02em; }
+    .inner-page .grown-privacy .say { margin-top: 8px; font-size: 21px; line-height: 1.4; color: #D3E6FA; max-width: 30ch; text-wrap: balance; }
+    .grown-privacy .more { display: inline-block; margin-top: 24px; font-weight: 700; color: #fff; text-decoration: underline; }
+    .grown-privacy .promises { display: flex; flex-direction: column; gap: 14px; list-style: none; margin: 0; padding: 0; }
+    .inner-page .grown-privacy .promises li { background: #fff; color: #1E2126; border-radius: 999px; padding: 14px 26px 14px 14px; font-weight: 800; font-size: clamp(18px, 2.2vw, 22px); display: flex; align-items: center; gap: 14px; letter-spacing: -0.01em; }
+    .grown-privacy .promises svg { width: 40px; height: 40px; flex: none; }
+    @media (max-width: 860px) {
+      .grown-privacy { padding: 52px 16px; }
+      .grown-privacy .gp-wrap { grid-template-columns: 1fr; gap: 28px; }
+    }
+
     /* Closing band, styled like the home page hero */
     .grown-close {
       /* Runs straight down and ends on the footer's #0F4F92, so the band flows into it */
@@ -355,6 +373,24 @@
     </div>
   </section>
 
+  <section class="grown-privacy" id="privacy">
+    <div class="gp-wrap">
+      <div>
+        <p class="eyebrow">Our privacy promise</p>
+        <h2>Your family's data <span class="pill">isn't for sale</span></h2>
+        <p class="key k o">Family privacy,&nbsp;protected.</p>
+        <p class="say">We never sell your data, and we don't work with&nbsp;advertisers.</p>
+        <a class="more" href="privacy-promise.html">Read our privacy promise</a>
+      </div>
+      <ul class="promises">
+        <li><svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#1B73C6"/><rect x="12" y="18" width="16" height="12" rx="3" fill="#fff"/><path d="M15.500 18v-3a4.500 4.500 0 0 1 9 0v3" fill="none" stroke="#fff" stroke-width="2.400"/></svg>Never for&nbsp;Sale</li>
+        <li><svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#4CAF50"/><path d="M12 28 28 12M20 11v18M24 15.500c-1-1.500-2.500-2-4-2-2.200 0-4 1.200-4 3.200 0 4.300 8 2 8 6.300 0 2-1.800 3.200-4 3.200-1.700 0-3.300-.7-4.200-2.200" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/></svg>No Ads, Ever</li>
+        <li><svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#7B61D9"/><path d="M9 20s4-7 11-7 11 7 11 7-4 7-11 7-11-7-11-7z" fill="none" stroke="#fff" stroke-width="2.200"/><circle cx="20" cy="20" r="3" fill="#fff"/><path d="M11 29 29 11" stroke="#fff" stroke-width="2.400" stroke-linecap="round"/></svg>Alerts, Not&nbsp;Tracking</li>
+        <li><svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#FF9800"/><path d="M15 21.500l4 4 7.500-9" fill="none" stroke="#fff" stroke-width="2.800" stroke-linecap="round" stroke-linejoin="round"/></svg>Leave Anytime</li>
+      </ul>
+    </div>
+  </section>
+
   <section class="page-section">
     <div class="section-inner narrow">
       <p class="question">"I'm an adult. I don't need to be&nbsp;watched."</p>
@@ -364,7 +400,6 @@
       <ul class="icon-list">
         <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><line x1="19" x2="19" y1="8" y2="14"/><line x1="22" x2="16" y1="11" y2="11"/></svg></span><span><strong>You decide whether to join.</strong> Looop works by invitation, so nobody signs you up without your&nbsp;knowing.</span></li>
         <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"/><path d="M3.22 13H9.5l.5-1 2 4.5 2-7 1.5 3.5h5.27"/></svg></span><span><strong>Health &amp; Fitness sharing and spending alerts are available.</strong> Add them if they fit your&nbsp;family.</span></li>
-        <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></span><span><strong>Your family's data isn't for sale.</strong> We don't work with&nbsp;advertisers.</span></li>
         <li><span class="icon-badge icon--green icon-badge--sm"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m16 17 5-5-5-5"/><path d="M21 12H9"/><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/></svg></span><span><strong>You can change your mind.</strong> Leave a group&nbsp;anytime.</span></li>
       </ul>
       <p class="fine-print">Looop helps you know when to check in. It doesn't detect emergencies. If you think someone is in danger, call&nbsp;911.</p>
