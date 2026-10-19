@@ -1883,7 +1883,7 @@ p, li, td, blockquote { text-wrap: pretty; }
 .inner-page .compare-table .looop-col .icon--green { --icon-color: #fff; --icon-tint: #34B254; }
 
 /* "Which is right for you?" scorecard: grey crosses for Life360, green checks for Looop */
-.inner-page .scorecard { max-width: 860px; margin: 72px auto 0; background: #fff; border-radius: 28px; padding: 36px 40px; box-shadow: 0 2px 10px rgba(20, 30, 50, 0.07); text-align: left; }
+.inner-page .scorecard { max-width: none; margin: 24px 0 0; background: #fff; border-radius: 28px; padding: 36px 40px; box-shadow: 0 2px 10px rgba(20, 30, 50, 0.07); text-align: left; }
 .inner-page .scorecard h2 { text-align: center; }
 .inner-page .scorecard .sc-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px 32px; margin-top: 24px; }
 .inner-page .scorecard .sc-head { font-weight: 800; font-size: 18px; margin: 0; }
@@ -1898,7 +1898,7 @@ p, li, td, blockquote { text-wrap: pretty; }
 .inner-page .scorecard .sc-item.y svg { stroke: #2E9B4A; }
 .inner-page .scorecard .sc-close { margin: 26px 0 0; text-align: center; color: #2E9B4A; font-weight: 800; font-size: 20px; }
 @media (max-width: 640px) {
-  .inner-page .scorecard { padding: 26px 20px; margin-top: 48px; }
+  .inner-page .scorecard { padding: 26px 20px; }
   .inner-page .scorecard .sc-grid { gap: 10px 14px; }
   .inner-page .scorecard .sc-item { font-size: 15px; gap: 8px; }
   .inner-page .scorecard .sc-item.lead-row { font-size: 17px; }
