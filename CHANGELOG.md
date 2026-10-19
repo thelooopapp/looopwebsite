@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 17:30 CT
+
+### SEO
+- **Bing Webmaster Tools verification** (`index.html`): added the `msvalidate.01` meta tag to the homepage head so Bing can verify the site. Bing's index feeds ChatGPT search and Copilot, and verification lets us submit the press releases there.
+
 ## 2026-10-19 17:10 CT
 
 ### Press
