@@ -20,17 +20,17 @@ Families don't live on one street anymore. Parents live alone in the house you g
 
 ## Find your people
 
-### Aging parents
+### Aging Parents
 **Teaser:** Mom keeps her routine. You keep your peace of mind. For adult children caring for parents from afar.
 **Link:** for-aging-parents.html
 **Image:** 5.png (Mom)
 
-### College families
+### College Families
 **Teaser:** They're on their own now. You'll still know if something seems off. For parents of kids away at school.
 **Link:** for-college-families.html
 **Image:** 3.png
 
-### Friends and siblings
+### Friends and Siblings
 **Teaser:** Look out for each other, from two time zones or two neighborhoods. For sisters, best friends, partners, and the group chat.
 **Link:** for-friends-and-siblings.html
 **Image:** 4.png

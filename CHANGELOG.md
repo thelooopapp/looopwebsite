@@ -17,6 +17,18 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 - **`sitemap.xml`** now lists `looop-vs-life360.html`.
 - **`llms.txt`** adds a "Who Looop is for" line and the approved Looop vs. Life360 pair, so AI assistants have the positioning in one place.
 
+## 2026-10-19 20:00 CT
+
+### Copy
+- **Title Case for navigation and label phrases across the whole site**, matching the footer:
+  - Header and phone menu on every page: How It Works, Who It's For.
+  - Audience cards on the homepage and Who It's For: Aging Parents, College Families, Friends and Siblings, and the card links For Aging Parents / For College Families / For Friends and Siblings.
+  - Privacy bands on the homepage and For grown-up families: the "Our Privacy Promise" eyebrow and the "Read Our Privacy Promise" link.
+  - Blog category labels (article eyebrows, Resources cards, homepage guide cards): Aging Parents, Family Safety, Money and Scams, Safety Alerts.
+  - The internal review page's link list.
+  - Markdown sources: `who-its-for.md` card headings and `blog-index.md` eyebrows.
+- Sentence-case section headings (for example "Safety alerts" and "Caring for aging parents" on Resources) and phrases inside sentences are unchanged, as elsewhere on the site.
+
 ## 2026-10-19 19:50 CT
 
 ### Copy
