@@ -2,6 +2,16 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-19 19:56 CT
+
+### Design
+- **Life360 references use Life360's real app purples**, sampled from the owner's screenshots of the Life360 app: main `#8653FF` (splash screen and active tab), light `#F2EAFF` (pill and icon backgrounds), dark `#29004E` (headings). They replace `#762EEB`, `#E4D7FB`, `#4B1BA6`, and `#F3EDFF`, which came from Life360's website buttons and were darker and bluer than the app.
+  - **"Like360 but for Adults" hero** (`for-grown-up-families.html`): background `#F2EAFF`, "Like360" and "Adults" in `#8653FF`. "but for" is now dark purple `#29004E`, because white disappears on the paler background.
+  - **Both home page banners** (`home.css`, now `?v=1019j`): background `#8653FF`, sub lines `#F2EAFF`, button text `#29004E`, button hover `#F2EAFF`.
+  - **"Your family grew up" photo band** (Looop vs. Life360 and For grown-up families): the faded "Your old Family Tracking App" photo (`images/home/family-life360.webp`) is re-toned as a duotone from a soft `#8653FF` to `#F2EAFF`, replacing the old muted lavender. Its label pill is now `#29004E` (was `#4B3A7A`). The composite `images/home/family-prints.webp` is rebuilt at the same 1734x759 with the same layout, tilt, and shadows, and is linked as `?v=2`.
+  - **Link preview card** `images/og-grown-up-families.jpg` is re-rendered in the new purples, and `og:image` and `twitter:image` are now `?v=2`.
+- Left as is because they're Looop's colors, not Life360's: the `#7B61D9` "Alerts, Not Tracking" privacy icon, the comparison page's gray Life360 column and `#13083E` text, and the deliberately dull `#9A8AC4` "then" icons.
+
 ## 2026-10-19 18:53 CT
 
 ### Design
