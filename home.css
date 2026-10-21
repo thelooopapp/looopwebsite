@@ -207,8 +207,9 @@
   .gb-anim .gb-base .gb-cta { background: #8653FF; color: #fff; }
   @keyframes gb-liquid { from { clip-path: circle(0% at 0% 50%); } to { clip-path: circle(160% at 0% 50%); } }
   /* Blue variant: the Weather Grid banner on the home page, pale blue to brand blue, with the phone tilted 5° left
-     between the copy and the button and poking out above and below. The phone rides in the fill layer, so the
-     liquid fill reveals it; the base layer's copy keeps its space but stays hidden. */
+     between the copy and the button and poking out above and below. The phone is always shown: the base layer's
+     copy sits above the fill (z-index 2) so the liquid fill pours in behind it; the fill layer's copy keeps its
+     space but stays hidden. */
   .grown-banner--weather { margin-block: 128px 120px; background: linear-gradient(170deg, var(--brand-light) 0%, var(--brand) 40%, var(--brand-deep) 100%); }
   .grown-banner--weather .gb-sub { color: #DCEBFA; }
   .grown-banner--weather .gb-cta { color: var(--brand-deep); }
@@ -220,7 +221,8 @@
   .grown-banner--weather .gb-base .gb-title { color: var(--brand-deep); }
   .grown-banner--weather .gb-base .gb-sub { color: var(--brand); }
   .grown-banner--weather .gb-base .gb-cta { background: var(--brand); color: #fff; }
-  .grown-banner--weather .gb-base .gb-phone { visibility: hidden; }
+  .grown-banner--weather .gb-base .gb-phone { position: relative; z-index: 2; }
+  .grown-banner--weather .gb-fill .gb-phone { visibility: hidden; }
   @media (max-width: 860px) {
     .grown-banner--weather { margin-block: 52px; }
     .gb-phone { width: 170px; margin-block: 4px; }

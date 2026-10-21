@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-21 16:20 CT
+
+### Design
+- **The Weather Grid banner's phone is always shown** (`home.css`). Before, the phone was revealed by the blue liquid fill. Now the base layer's phone is visible and sits above the fill (`position: relative; z-index: 2`), so the fill pours in behind it. The fill layer's copy only holds its space (`visibility: hidden`). The stylesheet link is bumped to `home.css?v=1021b` so the change reaches cached browsers.
+
 ## 2026-10-21 16:12 CT
 
 ### Bug Fixes
