@@ -29,8 +29,9 @@ This page compares the two, with sources, including where Life360 may be the bet
 
 **Subtitle:** Peace of mind for you, independence for them.
 
-| Choose Life360 if you want to pay more for | Choose Looop if you want |
+| Choose Life360 if you want | Choose Looop if you want |
 | --- | --- |
+| Pay more for | Pay less and get |
 | Precision GPS tracking | Safety alerts instead of tracking |
 | Driving details recorded and stored | A nudge when a drive looks unusual |
 | Call center support | You're the first call, with 911 and their emergency contacts one tap away |

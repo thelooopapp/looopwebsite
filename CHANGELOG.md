@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 21:31 CT
+
+### Copy
+- **"Pay more" and "Pay less" are a row in the comparison table, not the header** (`looop-vs-life360.html`, markdown source): the header is now "Choose Life360 if you want" (was "...if you want to pay more for") and "Choose Looop if you want". A new first row reads "Pay more for" (dull purple dollar icon) and "Pay less and get" (white dollar icon on green), matching the other rows' icons and text.
+
+### Design
+- **Scorecard "Pay more" and "Pay less" match their columns**: the `lead-row` class is removed from both in "Which one is right for you?", so they use the same size and weight as the rows under them. Life360 is 17px regular gray and Looop is 17px bold, where both were 20px weight 800.
+
 ## 2026-10-20 21:30 CT
 
 ### Copy
