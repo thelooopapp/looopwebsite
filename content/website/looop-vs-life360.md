@@ -29,7 +29,7 @@ This page compares the two, with sources, including where Life360 may be the bet
 
 **Subtitle:** Peace of mind for you, independence for them.
 
-| Choose Life360 if you want | Choose Looop if you want |
+| Choose Life360 if you want to: | Choose Looop if you want to: |
 | --- | --- |
 | Pay more for… | Pay less and get… |
 | Precision GPS tracking | Safety alerts instead of tracking |

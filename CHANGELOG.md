@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 21:34 CT
+
+### Copy
+- **Comparison table headers end in "to:"** (`looop-vs-life360.html`, markdown source): "Choose Life360 if you want to:" and "Choose Looop if you want to:", leading into "Pay more for…" and "Pay less and get…".
+
 ## 2026-10-20 21:33 CT
 
 ### Copy
