@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 20:47 CT
+
+### New Features
+- **Liquid fill on the two home page purple banners** (`index.html`, `home.css`, now `?v=1019l`): each banner starts in Life360's pale `#F2EAFF` with dark purple text and a purple button. When 60% of it scrolls into view, `#8653FF` pours in from the left edge as a growing curve (`clip-path: circle()` from 0% to 160% at the left middle, 1.3s, `cubic-bezier(.5,0,.2,1)`), and the text turns white as the fill passes. It plays once per page view. A small script wraps each banner's content in a purple fill layer and a pale copy behind it (`aria-hidden`, so screen readers hear the text once), adds `gb-anim`, and adds `gb-in` through an IntersectionObserver. With no IntersectionObserver or with `prefers-reduced-motion`, the script does nothing and the banner shows as the finished purple banner. Layout and height are unchanged (132px on desktop) and stack the same on phones.
+
 ## 2026-10-19 19:56 CT
 
 ### Design

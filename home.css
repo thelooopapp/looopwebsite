@@ -197,6 +197,15 @@
   .grown-banner--wrap { margin-top: 0; }
   .grown-banner--wrap .gb-title { line-height: 1.05; }
   .grown-banner--wrap .gb-sub { font-size: 18px; }
+  /* Liquid fill on scroll: script splits each banner into a pale base layer and a purple fill layer, then pours the fill in from the left once the banner is in view */
+  .grown-banner.gb-anim { display: grid; grid-template-columns: minmax(0, 1fr); align-items: stretch; padding: 0; background: #F2EAFF; }
+  .gb-anim .gb-layer { grid-area: 1 / 1; display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 28px 32px; border-radius: inherit; }
+  .gb-anim .gb-fill { background: #8653FF; clip-path: circle(0% at 0% 50%); }
+  .gb-anim.gb-in .gb-fill { animation: gb-liquid 1.3s cubic-bezier(.5, 0, .2, 1) forwards; }
+  .gb-anim .gb-base .gb-title { color: #29004E; }
+  .gb-anim .gb-base .gb-sub { color: #6B4FB8; }
+  .gb-anim .gb-base .gb-cta { background: #8653FF; color: #fff; }
+  @keyframes gb-liquid { from { clip-path: circle(0% at 0% 50%); } to { clip-path: circle(160% at 0% 50%); } }
   @media (max-width: 860px) {
     .grown-banner { flex-direction: column; text-align: center; gap: 14px; margin-block: 52px; padding: 22px 16px; border-radius: 20px; }
     .grown-banner .gb-title { font-size: 24px; white-space: nowrap; }
@@ -205,4 +214,5 @@
     .grown-banner--wrap .gb-sub { font-size: 17px; }
     .grown-banner .gb-sub { font-size: 19.2px; line-height: 1.4; }
     .grown-banner .gb-sub span { display: block; }
+    .gb-anim .gb-layer { flex-direction: column; text-align: center; gap: 14px; padding: 22px 16px; }
   }
