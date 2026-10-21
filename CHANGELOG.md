@@ -2,6 +2,13 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 21:28 CT
+
+### Copy
+- **Looop vs. Life360 table, sharper Life360 cells** (`looop-vs-life360.html`, markdown source):
+  - Independence: "Built around seeing where family members are and where they've been" is now "Records and stores everywhere you go, so family can see where you are now and up to 30 days of where you've been". Life360's plans page shows 2, 7, and 30 days of location history by plan, checked Oct 20, 2026.
+  - Ads: "Uber offers in landing notifications" is now "Uber offers when you land".
+
 ## 2026-10-20 21:25 CT
 
 ### Copy
