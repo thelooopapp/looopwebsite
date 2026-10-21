@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 21:21 CT
+
+### Design
+- **Health and Fitness link card removed from three pages** at the owner's request: Aging parents, College families, and the "Using Apple Watch to Stay Close to Aging Parents" blog post. It stays on For grown-up families, How it works, and Looop vs. Life360.
+
 ## 2026-10-20 21:15 CT
 
 ### New Features
