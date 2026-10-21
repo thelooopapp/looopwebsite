@@ -210,12 +210,12 @@
      between the copy and the button and poking out above and below. The phone is always shown: the base layer's
      copy sits above the fill (z-index 2) so the liquid fill pours in behind it; the fill layer's copy keeps its
      space but stays hidden. */
-  .grown-banner--weather { margin-block: 128px 120px; background: linear-gradient(170deg, var(--brand-light) 0%, var(--brand) 40%, var(--brand-deep) 100%); }
+  .grown-banner--weather { margin-block: 164px 156px; background: linear-gradient(170deg, var(--brand-light) 0%, var(--brand) 40%, var(--brand-deep) 100%); }
   .grown-banner--weather .gb-sub { color: #DCEBFA; }
   .grown-banner--weather .gb-cta { color: var(--brand-deep); }
   .grown-banner--weather:hover .gb-cta { background: #DCEBFA; }
   .grown-banner--weather > div, .grown-banner--weather .gb-layer > div { flex: 1; }
-  .gb-phone { flex: none; width: 190px; height: auto; margin-block: -116px; transform: rotate(-5deg); }
+  .gb-phone { flex: none; width: 228px; height: auto; margin-block: -153px; transform: rotate(-5deg); }
   .grown-banner--weather.gb-anim { background: #E8F1FB; }
   .grown-banner--weather .gb-fill { background: linear-gradient(170deg, var(--brand-light) 0%, var(--brand) 40%, var(--brand-deep) 100%); }
   .grown-banner--weather .gb-base .gb-title { color: var(--brand-deep); }
@@ -225,7 +225,7 @@
   .grown-banner--weather .gb-fill .gb-phone { visibility: hidden; }
   @media (max-width: 860px) {
     .grown-banner--weather { margin-block: 52px; }
-    .gb-phone { width: 170px; margin-block: 4px; }
+    .gb-phone { width: 204px; margin-block: 4px; }
     .grown-banner { flex-direction: column; text-align: center; gap: 14px; margin-block: 52px; padding: 22px 16px; border-radius: 20px; }
     .grown-banner .gb-title { font-size: 24px; white-space: nowrap; }
     .grown-banner--wrap .gb-title { white-space: normal; }
