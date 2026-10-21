@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-21 16:12 CT
+
+### Bug Fixes
+- **The Weather Grid banner rendered unstyled on the live home page** (`index.html`). It showed purple, with a full-size phone and squeezed text. The 16:05 push changed `home.css` but left its cache-busting query at `home.css?v=1019l`. Browsers and Cloudflare (`max-age=14400`) kept serving the old stylesheet, which had no `grown-banner--weather` or `gb-phone` rules. The link is now `home.css?v=1021a`.
+
 ## 2026-10-21 16:05 CT
 
 ### New Features
