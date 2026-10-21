@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 21:43 CT
+
+### Design
+- **"Choose Life360 if you want to:" header is light gray** (`looop-vs-life360.html`, page `<style>`): it was brand blue with white text, and now uses `#E9ECF1` with `#6B7280` text, the same as the Life360 header in the comparison table below (`.vs-l360.vs-head`). Only Looop's column header stays blue.
+
 ## 2026-10-20 21:34 CT
 
 ### Copy
