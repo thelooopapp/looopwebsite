@@ -44,8 +44,8 @@ This page compares the two, with sources, including where Life360 may be the bet
 | | Life360 | Looop |
 | --- | --- | --- |
 | What it is | A GPS location tracking app: a live family map plus location history | A safety notifications app: alerts that tell you when to check in |
-| Built for | Families of every stage on one map, plus pets and Tile item trackers in the same app. Its aging-parent offer is sold through premium plans. | People caring from a distance: aging parents, kids at college, siblings and friends who look out for each other |
-| What you're notified about | Arrivals and departures at saved places, no-shows, flight landings, and severe weather. Paid plans add crash detection. | Nearby crime (all 50 US states), severe weather, unusual activity, an Unusual Day, arrivals at a hospital, police station, or airport, a phone untouched for hours, and low battery. Health & Fitness sharing and spending alerts are available if you need them. |
+| Built for | Families of every stage on one map, plus pets and Tile item trackers in the same app. | People caring from a distance: aging parents, kids at college, siblings and friends who look out for each other |
+| What you're notified about | Arrivals and departures at saved places, no-shows, flight landings, and severe weather. Paid plans add crash detection. | Nearby crime (all 50 US states), severe weather, unusual activity, an Unusual Day, arrivals and departures at saved places, arrivals at a hospital, police station, or airport, a phone untouched for hours, and low battery. Health & Fitness sharing and spending alerts are available if you need them. |
 | Approach to location | Precision GPS tracking: continuous location, with your movements recorded and stored for 2 to 30 days depending on plan | Just enough to know if something unusual is going on. A family map is there for when you need it. |
 | Driving | Driving details recorded and stored | A nudge when a drive looks unusual, and a heads-up when they finish a drive |
 | Independence | Built around seeing where family members are and where they've been | Loved Ones live their day. Looop only speaks up when something looks off. |

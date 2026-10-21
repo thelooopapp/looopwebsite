@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 21:25 CT
+
+### Copy
+- **Looop vs. Life360 table: removed an inaccurate claim** (`looop-vs-life360.html`, markdown source): "Its aging-parent offer is sold through premium plans." is gone from the "Built for" row. Checked Oct 20, 2026: Life360's aging-parents page (life360.com/aging-parents) markets the regular app with "Get started for free" and "Bring Mom & Dad into the Circle", and only some extras (towing distance, identity theft reimbursement, credit monitoring) are on paid plans. The cited page (life360.com/en-ca/plans-pricing-ap) lists all four plans, including Free. There's no aging-parent offer sold only through premium plans.
+- **"What you're notified about" now lists arrivals and departures at saved places for Looop**, since Looop sends those too (per How it works). It sits after "an Unusual Day" and before the hospital, police station, and airport arrivals.
+
 ## 2026-10-20 21:21 CT
 
 ### Design
