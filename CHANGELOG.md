@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 21:05 CT
+
+### Design
+- **"Your old Family Tracking App" pill matches the purple banners** (`images/home/family-prints.webp`, linked as `?v=3` on For grown-up families and Looop vs. Life360): the pill on the faded photo is now Life360's main purple `#8653FF`, the same as the home page banners (was the dark `#29004E`). The composite is re-rendered at the same 1734x759 and layout.
+
 ## 2026-10-20 21:02 CT
 
 ### New Features
