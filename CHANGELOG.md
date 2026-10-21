@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 21:30 CT
+
+### Copy
+- **Looop vs. Life360 Apple Watch row leads with value, not mechanics** (`looop-vs-life360.html`, markdown source): Looop's cell "Reads Apple Watch health and fitness data through Apple Health on the iPhone, with Health & Fitness sharing. No extra app needed." is now "Works with the Apple Watch, Oura Ring, or Whoop they already own, through Apple Health. Nothing new to install."
+
 ## 2026-10-20 21:28 CT
 
 ### Copy
