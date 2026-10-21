@@ -2,6 +2,18 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 22:25 CT
+
+### Design
+- **The three comparison tables on Looop vs. Life360 are formatted the same** (`looop-vs-life360.html`, page `<style>`). The "in 30 seconds" checklist (`vs-table`) now matches the "Choose Looop" table and "At a glance":
+  - **Blue:** its headers use the site's brand blue `#1B73C6` (was `#116DFF`), as does its footnote link.
+  - **Card:** 20px corners and a `0 4px 24px rgba(0,0,0,.06)` shadow (was 24px with a purple-tinted shadow). Its 960px width cap is removed, so all three tables are 1000px wide.
+  - **Type:** headers are 15px semibold and left aligned (was 18px bold and centered). Cells use 20px side padding, 1.6 line height, `#DDE3EA` row lines, `#1E2126` regular Looop text, `#5B626C` Life360 text, and 15px notes (were 13px).
+- **Every table header is 60px tall** with its content vertically centered. All body cells are vertically centered too ("At a glance" was top aligned).
+- **Looop name headers show the white Looop wordmark** (`images/looop-wordmark-white.png`, `alt="Looop"`) instead of the word "Looop", in the checklist and "At a glance". The checklist's small circle icon is gone.
+- **Body columns match across all tables**: Looop cells white, Life360 cells light gray `#F6F7F9`.
+- **Quiet line icons on row labels** in the checklist and "At a glance": 18px outline icons in soft gray `#A3AAB4`, with no badge (lock, ban, bell, calendar check, map pin, storm cloud, card, building, watch, people, info, car, compass, megaphone, phone, smartphone). The "Choose Looop" table keeps its own cell icons.
+
 ## 2026-10-20 21:49 CT
 
 ### Design
