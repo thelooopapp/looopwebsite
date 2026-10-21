@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 20:59 CT
+
+### Design
+- **Map pills wait 1 second after the map comes into view** (`map.css`, now `?v=1020b` on all five map pages): "Tornado Watch" now starts at 1s (was 0.15s) and "Flash Flood Warning" at 1.45s (was 0.6s), so the 0.45s gap between them is unchanged.
+
 ## 2026-10-20 20:56 CT
 
 ### New Features
