@@ -2,6 +2,23 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-21 16:05 CT
+
+### New Features
+- **Weather Grid banner on the home page** (`index.html`, `home.css`). It sits above "Is everyone okay today?" in `#how`:
+  - **Copy:** "Weather, all together, at a glance." / "Every Loved One's 5-day forecast, side by side."
+  - **Button:** a white "See it all at once →" button. The whole banner links to the App Store.
+  - **Phone:** the new Weather Grid phone sits between the copy and the button, tilted 5° left, and pokes out above and below the banner.
+  - **Animation:** a blue variant (`grown-banner--weather`) of the purple Like360 banner. It uses the same liquid fill, pale blue `#E8F1FB` to the brand blue gradient. The phone is in the fill layer, so the fill reveals it. The comment on the fill script now covers both banners.
+  - **Phones (≤860px):** the banner stacks the copy, phone and button, with the phone inside the banner. The title wraps instead of staying on one line.
+- **New phone image `images/home/phone-weather-grid.webp`** (660×1276). It shows the app's Weather Grid for the people on the home page map, each in their city:
+  - Tony in San Diego, Bud in Austin, Mom in Chicago, and Sis in Madrid.
+  - Each has the real Open-Meteo 5-day forecast from Oct 21, 2026, the same source and call the app uses.
+  - The tiles are square, with the app's own `assets/sky/` photos picked by its rules.
+  - There's a blue "My Family's Weather" header, and the grid is centered vertically on the screen.
+  - None of the cells has an alert border, because no city had an active weather warning.
+  - The source is `content/website/weather-grid/` (`grid.html` + `render.sh`, rendered with headless Chrome). It isn't published.
+
 ## 2026-10-20 22:25 CT
 
 ### Design

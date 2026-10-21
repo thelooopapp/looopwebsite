@@ -206,7 +206,24 @@
   .gb-anim .gb-base .gb-sub { color: #6B4FB8; }
   .gb-anim .gb-base .gb-cta { background: #8653FF; color: #fff; }
   @keyframes gb-liquid { from { clip-path: circle(0% at 0% 50%); } to { clip-path: circle(160% at 0% 50%); } }
+  /* Blue variant: the Weather Grid banner on the home page, pale blue to brand blue, with the phone tilted 5° left
+     between the copy and the button and poking out above and below. The phone rides in the fill layer, so the
+     liquid fill reveals it; the base layer's copy keeps its space but stays hidden. */
+  .grown-banner--weather { margin-block: 128px 120px; background: linear-gradient(170deg, var(--brand-light) 0%, var(--brand) 40%, var(--brand-deep) 100%); }
+  .grown-banner--weather .gb-sub { color: #DCEBFA; }
+  .grown-banner--weather .gb-cta { color: var(--brand-deep); }
+  .grown-banner--weather:hover .gb-cta { background: #DCEBFA; }
+  .grown-banner--weather > div, .grown-banner--weather .gb-layer > div { flex: 1; }
+  .gb-phone { flex: none; width: 190px; height: auto; margin-block: -116px; transform: rotate(-5deg); }
+  .grown-banner--weather.gb-anim { background: #E8F1FB; }
+  .grown-banner--weather .gb-fill { background: linear-gradient(170deg, var(--brand-light) 0%, var(--brand) 40%, var(--brand-deep) 100%); }
+  .grown-banner--weather .gb-base .gb-title { color: var(--brand-deep); }
+  .grown-banner--weather .gb-base .gb-sub { color: var(--brand); }
+  .grown-banner--weather .gb-base .gb-cta { background: var(--brand); color: #fff; }
+  .grown-banner--weather .gb-base .gb-phone { visibility: hidden; }
   @media (max-width: 860px) {
+    .grown-banner--weather { margin-block: 52px; }
+    .gb-phone { width: 170px; margin-block: 4px; }
     .grown-banner { flex-direction: column; text-align: center; gap: 14px; margin-block: 52px; padding: 22px 16px; border-radius: 20px; }
     .grown-banner .gb-title { font-size: 24px; white-space: nowrap; }
     .grown-banner--wrap .gb-title { white-space: normal; }
@@ -215,4 +232,5 @@
     .grown-banner .gb-sub { font-size: 19.2px; line-height: 1.4; }
     .grown-banner .gb-sub span { display: block; }
     .gb-anim .gb-layer { flex-direction: column; text-align: center; gap: 14px; padding: 22px 16px; }
+    .grown-banner--weather .gb-title { white-space: normal; line-height: 1.05; }
   }
