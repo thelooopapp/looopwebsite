@@ -2,6 +2,13 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 21:49 CT
+
+### Design
+- **Looop is the first product column in every comparison on Looop vs. Life360** (`looop-vs-life360.html`, markdown source), which reverses 21:45. This follows how companies build their own comparison pages: ClickUp (vs. Asana), 1Password (vs. LastPass), and Bitwarden (vs. LastPass) all put their own product first, right after the feature labels, and the competitor second. Checked Oct 20, 2026.
+  - "Choose Looop if you want to: / Choose Life360 if you want to:" table, "Looop vs. Life360 in 30 seconds" checklist, "At a glance", and the "Which one is right for you?" scorecard are all now Looop, then Life360. Every row is swapped, and the scorecard's `aria-label` reads "Looop compared with Life360".
+  - **Header row reads blue, blue, gray from left to right**: the labels column header and Looop's header are blue, and Life360's header is `#E9ECF1` with `#6B7280` text. The checklist's empty top-left header is now blue `#116DFF` like its Looop header (was white), and "At a glance" drops the white top-left override.
+
 ## 2026-10-20 21:45 CT
 
 ### Design
