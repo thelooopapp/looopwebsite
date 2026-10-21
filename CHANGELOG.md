@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-21 16:40 CT
+
+### Copy
+- **The Weather Grid banner's button now reads "Try it free →"** (`index.html`; was "See it all at once →"). It's in sentence case, like the other buttons on the site and most app sites. The button still goes to the App Store.
+
 ## 2026-10-21 16:33 CT
 
 ### Design
