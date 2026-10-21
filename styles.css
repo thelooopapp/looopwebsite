@@ -1925,3 +1925,20 @@ p, li, td, blockquote { text-wrap: pretty; }
   .inner-page .family-band .fb-inner { grid-template-columns: 1fr; }
   .inner-page .family-band h2 { font-size: 28px; }
 }
+
+/* Wide link card to the Health and Fitness page (apple-health.html): copy on the left, the supported devices on the right.
+   Sits full width under a pair of cards. No animation. Stacks on phones. */
+a.health-link { display: flex; align-items: center; justify-content: space-between; gap: 24px; margin-top: 16px; padding: 16px 20px 16px 24px; border-radius: 20px; background: #fff; box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06); text-decoration: none; color: inherit; }
+a.health-link p.hl-title { margin: 0; font-size: 19px; font-weight: 800; line-height: 1.25; letter-spacing: -0.01em; color: #1E2126; }
+a.health-link p.hl-sub { margin: 6px 0 0; font-size: 15px; line-height: 1.45; color: #5B626C; }
+a.health-link .hl-cta { display: inline-block; margin-top: 8px; font-size: 15px; font-weight: 800; color: #2E9B4A; }
+a.health-link, a.health-link * { text-decoration: none !important; }
+a.health-link:hover .hl-cta { text-decoration: underline !important; }
+a.health-link .hl-devices { flex: none; display: flex; align-items: center; }
+a.health-link .hl-devices img { width: 84px; height: 84px; object-fit: contain; }
+a.health-link .hl-devices img + img { margin-left: -6px; }
+@media (max-width: 640px) {
+  a.health-link { flex-direction: column-reverse; align-items: flex-start; gap: 10px; padding: 18px; }
+  a.health-link .hl-devices img { width: 72px; height: 72px; }
+  a.health-link .hl-title { font-size: 18px; }
+}

@@ -83,7 +83,7 @@ Maybe Mom hasn't slept well all week, or Dad has skipped his usual walks. With H
 - **Health.** Heart rate, breathing rate, and sleep. Get a heads-up about an unusually high or low heart rate or an unusual breathing rate.
 - **Fitness.** Steps, walking, and workouts, from a morning run to a session at the gym. See whether Mom is as active as usual for her.
 
-Based on your family's situation, you may want to add Health & Fitness sharing. It's optional, and works with Apple Health and Apple Watch.
+Wide link card to apple-health.html, with Apple Watch, Oura Ring, and Whoop pictures: **Learn more about adding Health & Fitness alerts** / Health & Fitness sharing is optional. Add it if it fits your family. / See how it works →
 
 ## "Is Mom okay today?"
 

@@ -2,6 +2,17 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 21:15 CT
+
+### New Features
+- **Wide link card to the Health and Fitness page** (new `a.health-link` component in `styles.css`; pages now link `styles.css?v=1020f`): a short, wide white card. On the left: "Learn more about adding Health & Fitness alerts", "Health & Fitness sharing is optional. Add it if it fits your family.", and a green "See how it works →". On the right: the Apple Watch, Oura Ring, and Whoop illustrations. It links to `apple-health.html` and has no animation. On phones the devices stack above the text. It works inside or outside `.inner-page`, and underlines from page link styles are switched off inside it. It's placed on six pages:
+  - **Like360 but for Adults**, under the Health and Fitness cards. It replaces the fine print "Based on your family's situation...", whose short version is now the card's sub line.
+  - **How it works**, in "Activity, fitness, and health", replacing the plain text link "Read more about health and fitness alerts".
+  - **Aging parents** and **College families**, right after the list with "Health & Fitness sharing is available".
+  - **Looop vs. Life360**, after "No extra watch app needed".
+  - **Blog: Using Apple Watch to Stay Close to Aging Parents**, before "About Looop".
+- Before this, only How it works linked to the Health and Fitness page.
+
 ## 2026-10-20 21:05 CT
 
 ### Design
