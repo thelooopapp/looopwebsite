@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 21:33 CT
+
+### Copy
+- **Ellipses on the comparison table's first row** (`looop-vs-life360.html`, markdown source): "Pay more for…" and "Pay less and get…", so each leads into the rows below it.
+
 ## 2026-10-20 21:31 CT
 
 ### Copy
