@@ -124,6 +124,17 @@
     }
     .then-now .head.then span { background: #fff; color: #1E2126; }
     .then-now .head.now span { background: #1B73C6; color: #fff; }
+    /* Pill wipe: each pill starts in inverted colors, then its real colors pour in from the left (script below) */
+    .then-now .head span.pw { overflow: hidden; }
+    .then-now .head.then span.pw { background: #1E2126; color: #fff; }
+    .then-now .head.now span.pw { background: #fff; color: #1B73C6; }
+    .then-now .head span.pw .pw-fill { position: absolute; inset: 0; max-width: none; padding: inherit; border-radius: inherit; box-shadow: none; transform: none; letter-spacing: inherit; white-space: nowrap; clip-path: circle(0% at 0% 50%); }
+    .then-now .head.then span.pw .pw-fill { background: #fff; color: #1E2126; }
+    .then-now .head.now span.pw .pw-fill { background: #1B73C6; color: #fff; }
+    .pw-in .head span .pw-fill { animation: pw-liquid 0.7s cubic-bezier(.5, 0, .2, 1) forwards; }
+    .pw-in .head.then span .pw-fill { animation-delay: 0.3s; }
+    .pw-in .head.now span .pw-fill { animation-delay: 1s; }
+    @keyframes pw-liquid { from { clip-path: circle(0% at 0% 50%); } to { clip-path: circle(160% at 0% 50%); } }
 
     /* Fitness vs health callout */
     .two-kinds {
@@ -486,5 +497,27 @@
   <div class="footer-bottom">&copy; 2026 LooopApp LLC</div>
 </footer>
 
+<script>
+  // "When they were 16", then "Now that they're grown": each pill wipes from inverted to its real colors once the table is in view.
+  // Without IntersectionObserver, or with reduced motion, the pills just show in their real colors.
+  (function () {
+    var table = document.querySelector('.then-now');
+    if (!table || !('IntersectionObserver' in window) || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    table.querySelectorAll('.head span').forEach(function (pill) {
+      var fill = document.createElement('span');
+      fill.className = 'pw-fill';
+      fill.setAttribute('aria-hidden', 'true');
+      fill.textContent = pill.textContent;
+      pill.appendChild(fill);
+      pill.classList.add('pw');
+    });
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting) { table.classList.add('pw-in'); io.disconnect(); }
+      });
+    }, { threshold: 0.4 });
+    io.observe(table);
+  })();
+</script>
 </body>
 </html>

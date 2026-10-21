@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 21:02 CT
+
+### New Features
+- **Then/now photo pills wipe in, one after the other** (`for-grown-up-families.html`): when 40% of the table is in view, "When they were 16" starts inverted (dark `#1E2126` with white text) and at 0.3s its real white pill with dark text pours in from the left. "Now that they're grown" starts as a white pill with blue text and at 1s wipes to its real blue pill with white text. It's the same liquid wipe as the home page banners (`clip-path: circle()` from the left, 0.7s, `cubic-bezier(.5,0,.2,1)`). A small script adds an `aria-hidden` overlay copy of each pill's text and starts it once. Without IntersectionObserver or with reduced motion, the pills show in their real colors.
+
 ## 2026-10-20 20:59 CT
 
 ### Design
