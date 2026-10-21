@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 21:45 CT
+
+### Design
+- **"At a glance" table headers on Looop vs. Life360** (`looop-vs-life360.html`, page `<style>`): the Life360 header is now `#E9ECF1` with `#6B7280` text, matching the other Life360 headers. The empty header over the row labels is white, so only Looop's header stays blue.
+
 ## 2026-10-20 21:43 CT
 
 ### Design
