@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-21 16:33 CT
+
+### Design
+- **The Weather Grid banner's phone is another 20% bigger** (`home.css`). It's 274px wide on desktop (was 228px) and 245px on phones (was 204px). The desktop overhang is now `-198px` (was `-153px`), so the banner keeps its 190px height. Its outer margins grew to `209px 231px` (were `164px 156px`) so the phone clears the cards above and the "Is everyone okay today?" heading below. On phones (375px) the phone still fits inside the banner with no sideways scroll. The stylesheet link is bumped to `home.css?v=1021d`.
+
 ## 2026-10-21 16:26 CT
 
 ### Design
