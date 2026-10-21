@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-20 20:56 CT
+
+### New Features
+- **Weather pills pop onto the family map** (`index.html`, `features.html`, `for-college-families.html`, `who-its-for.html`, `for-grown-up-families.html`; `map.css` and new `map.js`, both `?v=1020a`). When the map is half in view, "Tornado Watch" pops in over Mom and Dad, then "Flash Flood Warning" over Bud, 0.45s later. Each grows from 40% to full size with a slight overshoot (0.55s, `cubic-bezier(.34,1.56,.64,1)`, growing from its bottom center). It plays once.
+  - New `images/home/family-map-base.png` is the map without the two pills. The dots under them were rebuilt from the grid's own repeat: the flood area copies dots from whole 31px rows above it, the tornado area copies from 17 dots (306px) to its left and is trimmed to the original border, and leftover shadow haze is cleared.
+  - New `images/home/map-pill-tornado.png` (278x55) and `map-pill-flood.png` (339x55) are cropped pixel-for-pixel from the original map. They're placed in percent over the base image, so they scale with it, with `border-radius: 999px` and a soft drop shadow.
+  - Without IntersectionObserver or with `prefers-reduced-motion`, the pills simply show. The map's alt text still describes both alerts, and the pill images use `alt=""`. `images/home/family-map.png` is no longer referenced.
+
 ## 2026-10-20 20:47 CT
 
 ### New Features
