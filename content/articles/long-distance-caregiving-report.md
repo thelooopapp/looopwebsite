@@ -179,3 +179,9 @@ Looop is a safety notifications app for families who care from a distance. It gi
 - NIH News in Health. "Long-Distance Caregiving" (November 2020). https://newsinhealth.nih.gov/2020/11/long-distance-caregiving
 
 Data checked: October 2026
+
+## Keep reading
+
+- [How to Check On Aging Parents Without Making Them Feel Watched](how-to-check-on-aging-parents.html)
+- [The Holiday Visit Checklist: What to Notice When You See Your Parents](holiday-visit-checklist.html)
+- [Family Safety Notifications: Knowing When to Check In](tracking-vs-knowing.html)

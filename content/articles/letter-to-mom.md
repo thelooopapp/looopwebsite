@@ -103,3 +103,9 @@ Whoever it's for, keep the part where you say you trust them, and explain that y
 Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, Health & Fitness sharing is available and optional, and Looop never sells your data and doesn't work with advertisers.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
+
+## Keep reading
+
+- [How to Check On Aging Parents Without Making Them Feel Watched](how-to-check-on-aging-parents.html)
+- [Using Apple Watch to Stay Close to Aging Parents, No Extra App Needed](apple-watch-aging-parents.html)
+- [Family Safety Notifications: Knowing When to Check In](tracking-vs-knowing.html)

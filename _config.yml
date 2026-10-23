@@ -4,3 +4,4 @@ exclude:
   - content/
   - readme.txt
   - CHANGELOG.md
+  - SEO_STRATEGY.md

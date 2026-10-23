@@ -149,3 +149,9 @@ Looop is a safety notifications app for families who care from a distance. It gi
 - U.S. Department of Justice, Office for Victims of Crime. National fraud hotline for people 60 and older. [ovc.ojp.gov](https://ovc.ojp.gov/program/stop-elder-fraud/providing-help-restoring-hope)
 
 Data checked: October 2026
+
+## Keep reading
+
+- [Before You Link Mom's Bank Account to Any App, Ask These 5 Questions](before-you-link-moms-bank-account.html)
+- [The Holiday Visit Checklist: What to Notice When You See Your Parents](holiday-visit-checklist.html)
+- [How to Check On Aging Parents Without Making Them Feel Watched](how-to-check-on-aging-parents.html)

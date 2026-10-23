@@ -142,3 +142,9 @@ Looop also uses only what it needs to tell whether something looks unusual. Read
 - Apple Developer. "App privacy details on the App Store." https://developer.apple.com/app-store/app-privacy-details/
 
 Facts checked: October 6, 2026
+
+## Keep reading
+
+- [Before You Link Mom's Bank Account to Any App, Ask These 5 Questions](before-you-link-moms-bank-account.html)
+- [Family Safety Notifications: Knowing When to Check In](tracking-vs-knowing.html)
+- [A Letter to Mom: Why I Asked You to Join Looop](letter-to-mom.html)

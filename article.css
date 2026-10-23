@@ -204,6 +204,38 @@
   height: 50px;
 }
 
+/* Related guides, between the article and the back link */
+.article-related {
+  margin-top: 48px;
+}
+
+.article-related h2 {
+  font-size: 22px;
+  font-weight: 700;
+  color: #1E2126;
+  margin-bottom: 12px;
+}
+
+.article-related ul {
+  list-style: none;
+  padding: 0;
+}
+
+.article-related li {
+  padding: 12px 0;
+  border-top: 1px solid rgba(30, 33, 38, 0.1);
+}
+
+.article-related a {
+  font-size: 17px;
+  font-weight: 600;
+  color: #1B73C6;
+}
+
+.article-related a:hover {
+  color: #1E2126;
+}
+
 /* Back link */
 .article-back {
   margin-top: 48px;

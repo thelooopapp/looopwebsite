@@ -172,3 +172,9 @@ Looop is a safety notifications app for families who care from a distance. It gi
 - AARP. "12 Key Things to Consider Before Caregiving for a Parent" (January 29, 2025). https://www.aarp.org/caregiving/basics/caring-for-parent-things-to-consider/
 
 Sources checked: October 2026
+
+## Keep reading
+
+- [How to Check On Aging Parents Without Making Them Feel Watched](how-to-check-on-aging-parents.html)
+- [Scams That Target Older Adults: Signs Families Can Notice Early](scams-targeting-older-adults.html)
+- [Using Apple Watch to Stay Close to Aging Parents, No Extra App Needed](apple-watch-aging-parents.html)

@@ -116,3 +116,9 @@ Looop is a safety notifications app for families who care from a distance. It gi
 - Apple. "Health App & Privacy." https://www.apple.com/legal/privacy/data/en/health-app/
 
 Sources checked: October 2026
+
+## Keep reading
+
+- [How to Check On Aging Parents Without Making Them Feel Watched](how-to-check-on-aging-parents.html)
+- [A Letter to Mom: Why I Asked You to Join Looop](letter-to-mom.html)
+- [The Holiday Visit Checklist: What to Notice When You See Your Parents](holiday-visit-checklist.html)

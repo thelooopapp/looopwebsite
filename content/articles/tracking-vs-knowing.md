@@ -152,3 +152,9 @@ Most days, the answer is no, and Looop stays quiet. When someone could use a cal
 **Choose Looop if you want safety alerts instead of tracking, a nudge when a drive looks unusual, no ads ever, and your family's data never for sale. Peace of mind for you, independence for them.**
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
+
+## Keep reading
+
+- [How to Check On Aging Parents Without Making Them Feel Watched](how-to-check-on-aging-parents.html)
+- [How Location Apps Turn Your Family's Movements Into Ad Money](how-location-apps-make-money.html)
+- [A Heads-Up When Crime Is Near Mom](crime-near-mom-not-a-crime-map.html)

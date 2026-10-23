@@ -167,3 +167,9 @@ Your parent keeps their routine, and everyone makes fewer "just checking" calls.
 - Call when something changes, and whenever your gut says to.
 
 If you do one thing this week, have the first conversation, and let your parent decide what comes next.
+
+## Keep reading
+
+- [A Letter to Mom: Why I Asked You to Join Looop](letter-to-mom.html)
+- [The Holiday Visit Checklist: What to Notice When You See Your Parents](holiday-visit-checklist.html)
+- [The Long-Distance Caregiving Report: What the Research Says (2026)](long-distance-caregiving-report.html)

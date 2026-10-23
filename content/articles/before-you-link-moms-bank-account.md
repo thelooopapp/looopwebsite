@@ -102,3 +102,9 @@ The rest of Looop works the same way: a heads-up when severe weather is heading 
 - Plaid. "How we handle data." https://plaid.com/how-we-handle-data/
 
 Facts checked: October 6, 2026
+
+## Keep reading
+
+- [Scams That Target Older Adults: Signs Families Can Notice Early](scams-targeting-older-adults.html)
+- [How Location Apps Turn Your Family's Movements Into Ad Money](how-location-apps-make-money.html)
+- [How to Check On Aging Parents Without Making Them Feel Watched](how-to-check-on-aging-parents.html)

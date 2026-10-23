@@ -2,6 +2,28 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-23 13:15 CT
+
+### SEO
+- **New SEO strategy** (`SEO_STRATEGY.md`, not published): goals and metrics, search intent by audience, competitors, a one-keyword-per-URL map, technical and content plans, link building, an AI-answer prompt audit, and a 90-day roadmap.
+- **Canonical tags on every indexable page.** 27 pages had none, and the site answers at both `/features` and `/features.html`, so search engines could see duplicates.
+- **Structured data:**
+  - BreadcrumbList on every product page, guide, Resources and the Newsroom.
+  - BlogPosting on all 15 guides (headline, description, publish date, last-changed date, publisher).
+  - FAQPage built from the FAQs on `features.html` (10) and `apple-health.html` (6).
+  - The home page graph gains a WebSite node, and the Organization gets `sameAs` with the App Store link.
+- **`sitemap.xml` rebuilt**: 27 URLs, each with `<lastmod>` from its last commit. It adds the Privacy Policy and User Agreement. Noindex pages stay out.
+- **New `404.html`**: noindex, root-relative links so it works at any path, with links to Home, How Looop works and Resources.
+- **"Keep reading" links** at the end of the 10 indexable guides, three related guides each (`article.css` adds `.article-related`; guides link `article.css?v=1023a`). Mirrored in each `content/articles/` source.
+- **`llms.txt`** lists Who Looop is for, Friends and Siblings, Grown-Up Families, Health and Fitness Alerts, and a new Guides section.
+- **Meta descriptions** on `privacy.html` and `useragreement.html` (they had none).
+- **Home page share tags**: `twitter:image` and the `og:image` size tags.
+
+### Performance
+- **The family map image is WebP** (`images/home/family-map-base.webp`, 174 KB; the PNG was 338 KB) on `index.html`, `features.html`, `who-its-for.html`, `for-college-families.html` and `for-grown-up-families.html`. The PNG stays in the repo.
+
+No copy, titles, URLs or noindex settings changed. Press release pages are untouched.
+
 ## 2026-10-21 16:40 CT
 
 ### Copy
