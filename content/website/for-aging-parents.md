@@ -79,7 +79,7 @@ A phone left on the kitchen counter can just mean a long lunch with friends. Loo
 
 Looop works alongside Find My, Check In, and Health Sharing. Apple's tools live in separate places; Looop brings it all together in one place.
 
-Weighing your options? See [family safety apps compared](compare/index.html), or read [the best apps to check on an aging parent](blog/best-apps-to-check-on-aging-parent.html).
+Weighing your options? See [family safety apps compared](blog/family-safety-apps-compared.html), or read [the best apps to check on an aging parent](blog/best-apps-to-check-on-aging-parent.html).
 
 ## A word for your parents
 

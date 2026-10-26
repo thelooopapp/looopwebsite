@@ -35,7 +35,7 @@ No Looop alert will ever carry an ad.
 
 **Availability**
 
-Looop is available now for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111. Looop's privacy promise is at https://www.thelooopapp.com/privacy-promise.html. A side-by-side comparison of Looop and Life360 is at https://www.thelooopapp.com/looop-vs-life360.html, and a guide to how family safety apps compare is at https://www.thelooopapp.com/compare/index.html.
+Looop is available now for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111. Looop's privacy promise is at https://www.thelooopapp.com/privacy-promise.html. A side-by-side comparison of Looop and Life360 is at https://www.thelooopapp.com/looop-vs-life360.html, and a guide to how family safety apps compare is at https://www.thelooopapp.com/blog/family-safety-apps-compared.html.
 
 **About Looop**
 

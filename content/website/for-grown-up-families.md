@@ -96,7 +96,7 @@ Looop takes a holistic approach to family care: weather, crime, spending, health
 
 Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-Already share locations as a family? Keep doing it. Looop works alongside Find My and tells you when it's worth a call. [See how family safety apps compare](compare/index.html)
+Already share locations as a family? Keep doing it. Looop works alongside Find My and tells you when it's worth a call. [See how family safety apps compare](blog/family-safety-apps-compared.html)
 
 ## "Did Dad make it to the cabin?"
 

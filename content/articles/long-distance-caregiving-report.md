@@ -153,7 +153,7 @@ Every family is different. These seven steps come straight from the research abo
 
 > **Tools families use**
 >
-> If you're choosing technology, these are the main kinds. Medical alert services can get help in an emergency. A phone's built-in location sharing shows where someone is when you need to know, and family location apps put everyone on a shared map. Looop sends a heads-up when severe weather, crime nearby, or an unusual day might make a call worth making. Many families combine a few. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+> If you're choosing technology, these are the main kinds. Medical alert services can get help in an emergency. A phone's built-in location sharing shows where someone is when you need to know, and family location apps put everyone on a shared map. Looop sends a heads-up when severe weather, crime nearby, or an unusual day might make a call worth making. Many families combine a few. For a fair look at what each kind of tool does, see [Family safety apps compared](../blog/family-safety-apps-compared.html).
 
 ## Help us write the next report
 

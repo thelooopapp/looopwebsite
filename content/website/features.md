@@ -166,7 +166,7 @@ Map-based apps put everyone's location front and center, so you check the map to
 
 Already use Find My? Keep it. Looop works alongside Find My, and brings it all together in one place.
 
-[See how family safety apps compare](compare/index.html)
+[See how family safety apps compare](blog/family-safety-apps-compared.html)
 
 ---
 

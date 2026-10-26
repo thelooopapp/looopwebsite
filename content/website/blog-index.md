@@ -26,7 +26,7 @@ See how Looop compares, including where another app may fit better.
 ### Family Safety Apps Compared
 **Eyebrow:** Comparison
 **Teaser:** Life360, Find My, iSharing, GeoZilla, Family Nest, and more, side by side: what each is built for, and who it fits.
-**Link:** compare/index.html
+**Link:** blog/family-safety-apps-compared.html
 
 ### Looop vs. Life360
 **Eyebrow:** Comparison
@@ -51,7 +51,7 @@ See how Looop compares, including where another app may fit better.
 ### Find My and Looop: Use Both
 **Eyebrow:** Comparison
 **Teaser:** Find My shows where someone is. Looop tells you when it might be a good time to call. Here's how they work together.
-**Link:** compare/find-my-and-looop.html
+**Link:** blog/find-my-and-looop.html
 
 ## Caring for aging parents
 
@@ -134,7 +134,7 @@ See how Looop compares, including where another app may fit better.
 ### What Family Safety Apps' Privacy Labels Say
 **Eyebrow:** Research
 **Teaser:** We read the App Store privacy labels of more than 20 family safety apps. Here's what they declare, in Apple's own words.
-**Link:** research/family-safety-app-privacy-labels.html
+**Link:** blog/family-safety-app-privacy-labels.html
 
 ## CTA
 

@@ -99,7 +99,7 @@ Whoever it's for, keep the part where you say you trust them, and explain that y
 
 > **Tools families use**
 >
-> If your parent asks what else is out there, here's the short version. Medical alert services get help in an emergency. Family location apps put everyone on a shared map, and the location sharing built into a phone shows where someone is right now. Looop sends a heads-up about severe weather, crime nearby, or a day that looks unusual, when a call might be worth making. Plenty of families use two or three. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+> If your parent asks what else is out there, here's the short version. Medical alert services get help in an emergency. Family location apps put everyone on a shared map, and the location sharing built into a phone shows where someone is right now. Looop sends a heads-up about severe weather, crime nearby, or a day that looks unusual, when a call might be worth making. Plenty of families use two or three. For a fair look at what each kind of tool does, see [Family safety apps compared](../blog/family-safety-apps-compared.html).
 
 ## About Looop
 

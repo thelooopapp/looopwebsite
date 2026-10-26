@@ -27,7 +27,7 @@ If you're searching for a Life360 alternative, there's a good chance that questi
 
 We compared nine options with Life360. Three of them, iSharing, GeoZilla, and Family Nest, work a lot like it. The rest are the tools already on your phone, an emergency service for drivers, and our own app, Looop. Each one is good at something. We'll tell you who each fits, including when the answer isn't Looop.
 
-Want the whole field in one table? See [Family safety apps compared](../compare/index.html).
+Want the whole field in one table? See [Family safety apps compared](../blog/family-safety-apps-compared.html).
 
 *Facts about each company come from its own help pages, privacy policies, App Store listings, and filings, or from reputable reporting, linked throughout. iSharing, GeoZilla, Family Nest, OnStar Guardian, and Life360's Safety Incidents and Subscription Tracker were checked October 26, 2026; the rest in October 2026. Prices are from US App Store listings and change often.*
 
@@ -87,7 +87,7 @@ Its Elderly Care feature sends an alert when an older person doesn't use their p
 
 **Who it fits.** Families who want a Life360-style map with SOS and driving reports, plus an alert if an older parent's phone goes quiet.
 
-See [Looop vs. iSharing](../compare/looop-vs-isharing.html).
+See [Looop vs. iSharing](../blog/looop-vs-isharing.html).
 
 ## GeoZilla
 
@@ -99,7 +99,7 @@ GeoZilla, from GZ TECH LTD, calls itself a family GPS tracker. Its [App Store li
 
 **Who it fits.** Families, especially with teens, who want a map with check-ins, driving insights, and an Apple Watch app.
 
-See [Looop vs. GeoZilla](../compare/looop-vs-geozilla.html).
+See [Looop vs. GeoZilla](../blog/looop-vs-geozilla.html).
 
 ## Family Nest (formerly Family360)
 
@@ -113,7 +113,7 @@ If you've seen "Life360 vs. Family360," this is that app. Its store pages now re
 
 **Who it fits.** Families with kids, new drivers, couples, or a travel group who want an affordable shared map with SOS and speed alerts, across iPhone and Android.
 
-See [Looop vs. Family Nest](../compare/looop-vs-family-nest.html) and [Is Family Nest the same as Family360?](../answers/is-family-nest-the-same-as-family360.html)
+See [Looop vs. Family Nest](../blog/looop-vs-family-nest.html) and [Is Family Nest the same as Family360?](../blog/looop-vs-family-nest.html#faq)
 
 ## Apple Find My
 
@@ -129,7 +129,7 @@ Apple's Messages app also has [Check In](https://support.apple.com/en-us/105104)
 
 **Who it fits.** All-iPhone families who want simple, free location sharing and a light check-in for trips. Looop works alongside Find My.
 
-See [Find My and Looop](../compare/find-my-and-looop.html).
+See [Find My and Looop](../blog/find-my-and-looop.html).
 
 ## Google Maps location sharing and Find Hub
 
@@ -167,7 +167,7 @@ Glympse's family use is built around sharing for a set time. Ongoing alerts aren
 
 **Who it fits.** Anyone sharing their location for one drive, trip, or night out, without an always-on connection.
 
-See [Looop vs. Glympse](../compare/looop-vs-glympse.html).
+See [Looop vs. Glympse](../blog/looop-vs-glympse.html).
 
 ## OnStar Guardian
 
@@ -179,7 +179,7 @@ OnStar Guardian is emergency and roadside help for drivers, and it works in any 
 
 **Who it fits.** A parent who still drives, when you want crash response and someone who can send help. Looop does a different job, a heads-up when it might be worth a call, so many families could use both.
 
-See [OnStar Guardian and Looop](../compare/onstar-guardian-and-looop.html).
+See [OnStar Guardian and Looop](../blog/onstar-guardian-and-looop.html).
 
 ## Looop
 
@@ -223,7 +223,7 @@ Start with the people on the other end. What would they agree to, and what would
 
 Whatever you choose, talk with each person first, show them what's shared, and make it easy for them to say no.
 
-See every app side by side in [Family safety apps compared](../compare/index.html), or read [the best family safety apps, by what you need](best-family-safety-apps.html).
+See every app side by side in [Family safety apps compared](../blog/family-safety-apps-compared.html), or read [the best family safety apps, by what you need](best-family-safety-apps.html).
 
 ## About Looop
 

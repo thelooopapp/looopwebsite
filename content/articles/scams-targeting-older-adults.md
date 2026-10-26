@@ -131,7 +131,7 @@ Talk about it together first, and only set it up if your parent wants it. Learn 
 
 > **Tools families use**
 >
-> Spending alerts are one kind of tool. A phone's built-in location sharing shows where someone is when you need to know, and family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop's other alerts cover severe weather, crime nearby, and a day that looks unusual. Many families use more than one tool. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+> Spending alerts are one kind of tool. A phone's built-in location sharing shows where someone is when you need to know, and family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop's other alerts cover severe weather, crime nearby, and a day that looks unusual. Many families use more than one tool. For a fair look at what each kind of tool does, see [Family safety apps compared](../blog/family-safety-apps-compared.html).
 
 ## Keep talking
 

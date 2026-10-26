@@ -35,7 +35,7 @@ We put this question first. If an app's business includes selling data or advert
 
 **What to look for:** a plain sentence, like "We never sell your data and we don't work with advertisers." Be careful with softer wording such as "we don't sell personal information," which can come with exceptions in the fine print.
 
-**Where to check:** the privacy policy, the App Store privacy label, and the company's own news. Some family location apps have sold location data in the past, and some run growing ad businesses today. Our guides on [how location apps make money](how-location-apps-make-money.html) and [who's paying for your family safety app](whos-paying-for-your-family-safety-app.html) explain what to look for, and [Family safety apps compared](../compare/index.html) puts the apps side by side.
+**Where to check:** the privacy policy, the App Store privacy label, and the company's own news. Some family location apps have sold location data in the past, and some run growing ad businesses today. Our guides on [how location apps make money](how-location-apps-make-money.html) and [who's paying for your family safety app](whos-paying-for-your-family-safety-app.html) explain what to look for, and [Family safety apps compared](../blog/family-safety-apps-compared.html) puts the apps side by side.
 
 An app with that business model may never misuse spending data. Still, you should know the model before you decide.
 

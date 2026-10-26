@@ -2,7 +2,7 @@
 title: "14 of 15 Family Location Apps Declare \"Data Used to Track You,\" Looop Study of App Store Privacy Labels Finds"
 slug: privacy-label-study
 status: draft
-notes: "Names competitors (Life360, iSharing, GeoZilla, Glympse, Findmykids, Family Nest, Apple, Google, Verizon, AT&T, T-Mobile, Kidslox, OurPact). Every figure comes from the study page (research/family-safety-app-privacy-labels.html), built from each app's US App Store listing checked Oct 26, 2026. Labels described only in Apple's terms; says a declaration isn't proof of selling data and makes no claim that any app sells data. Clean labels named. Go out only after the study page is live."
+notes: "Names competitors (Life360, iSharing, GeoZilla, Glympse, Findmykids, Family Nest, Apple, Google, Verizon, AT&T, T-Mobile, Kidslox, OurPact). Every figure comes from the study page (blog/family-safety-app-privacy-labels.html), built from each app's US App Store listing checked Oct 26, 2026. Labels described only in Apple's terms; says a declaration isn't proof of selling data and makes no claim that any app sells data. Clean labels named. Go out only after the study page is live."
 placeholders:
   - "[DATE] in the dateline (also set datePublished and dateModified in the HTML JSON-LD)"
 ---
@@ -14,7 +14,7 @@ placeholders:
 
 **AUSTIN, Texas, [DATE]:** Fourteen of 15 family location apps declare "Data Used to Track You" on their App Store privacy labels, according to a review of 25 family safety apps published today by Looop, the safety notifications app for families who care from a distance. Seven of the 15 also list "Contains: Advertising" on their App Store pages.
 
-Looop read the US App Store listing of each app on October 26, 2026, and recorded what each developer declares, in Apple's terms. The full table, method, and sources are at https://www.thelooopapp.com/research/family-safety-app-privacy-labels.html.
+Looop read the US App Store listing of each app on October 26, 2026, and recorded what each developer declares, in Apple's terms. The full table, method, and sources are at https://www.thelooopapp.com/blog/family-safety-app-privacy-labels.html.
 
 **What the labels say**
 
@@ -38,7 +38,7 @@ Looop takes a holistic approach to family care: weather, crime, spending, health
 
 **Availability**
 
-The study, "What Family Safety Apps' App Store Privacy Labels Say (2026)," is at https://www.thelooopapp.com/research/family-safety-app-privacy-labels.html. Reporters and writers are welcome to cite it with a link. Looop's comparison of family safety apps is at https://www.thelooopapp.com/compare/index.html. Looop is available now for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111.
+The study, "What Family Safety Apps' App Store Privacy Labels Say (2026)," is at https://www.thelooopapp.com/blog/family-safety-app-privacy-labels.html. Reporters and writers are welcome to cite it with a link. Looop's comparison of family safety apps is at https://www.thelooopapp.com/blog/family-safety-apps-compared.html. Looop is available now for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111.
 
 **About Looop**
 

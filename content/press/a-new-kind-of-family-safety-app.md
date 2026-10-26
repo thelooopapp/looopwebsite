@@ -45,7 +45,7 @@ Looop has no ads, ever, and doesn't work with advertisers. Your family's data is
 
 **How Looop compares**
 
-A side-by-side look at Looop and other family safety apps, including what each does well, is at [Family safety apps compared](https://www.thelooopapp.com/compare/index.html).
+A side-by-side look at Looop and other family safety apps, including what each does well, is at [Family safety apps compared](https://www.thelooopapp.com/blog/family-safety-apps-compared.html).
 
 **Availability**
 

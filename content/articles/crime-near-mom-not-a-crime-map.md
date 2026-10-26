@@ -35,7 +35,7 @@ For a family caring from a distance, a map often does the opposite of what you w
 
 What most families actually want is narrower: tell me if something happened near Mom, and otherwise let me get on with my day.
 
-Some family apps now add crime to their map as pins. If you're comparing, see [how Looop's crime alerts compare](../looop-vs-life360.html#differences), or [how family safety apps compare](../compare/index.html) more broadly.
+Some family apps now add crime to their map as pins. If you're comparing, see [how Looop's crime alerts compare](../looop-vs-life360.html#differences), or [how family safety apps compare](../blog/family-safety-apps-compared.html) more broadly.
 
 ## How a heads-up works
 

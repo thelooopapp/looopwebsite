@@ -39,7 +39,7 @@ Spending data is sensitive. Looop never sells your data and doesn't work with ad
 
 **Availability**
 
-Spending alerts are available in Looop for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111. Learn more at https://www.thelooopapp.com. How Life360's Subscription Tracker uses bank data is explained at https://www.thelooopapp.com/answers/life360-subscription-tracker-bank-data.html, and a guide to how family safety apps compare is at https://www.thelooopapp.com/compare/index.html.
+Spending alerts are available in Looop for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111. Learn more at https://www.thelooopapp.com. How Life360's Subscription Tracker uses bank data is explained at https://www.thelooopapp.com/looop-vs-life360.html#faq, and a guide to how family safety apps compare is at https://www.thelooopapp.com/blog/family-safety-apps-compared.html.
 
 **About Looop**
 

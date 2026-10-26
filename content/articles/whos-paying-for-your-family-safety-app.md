@@ -91,7 +91,7 @@ None of this is hidden. Life360 describes much of it publicly, and many families
 
 If an app's business includes advertising built on location data, or selling location data, that's worth weighing alongside its features.
 
-Life360 isn't the only family app worth a close look. Most of the family locator apps we reviewed declare "Data Used to Track You" on their App Store privacy labels. Our [privacy label study](../research/family-safety-app-privacy-labels.html) shows what each label says, and [Family safety apps compared](../compare/index.html) puts the apps side by side.
+Life360 isn't the only family app worth a close look. Most of the family locator apps we reviewed declare "Data Used to Track You" on their App Store privacy labels. Our [privacy label study](../blog/family-safety-app-privacy-labels.html) shows what each label says, and [Family safety apps compared](../blog/family-safety-apps-compared.html) puts the apps side by side.
 
 ## Questions to ask any family safety app
 
@@ -156,6 +156,6 @@ Every app has a business model. With a family safety app, it's worth knowing exa
 
 The questions above take about ten minutes, and they work for any app you're considering, including ours.
 
-For a fuller side-by-side, see [Looop vs. Life360](../looop-vs-life360.html) and [Family safety apps compared](../compare/index.html).
+For a fuller side-by-side, see [Looop vs. Life360](../looop-vs-life360.html) and [Family safety apps compared](../blog/family-safety-apps-compared.html).
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**

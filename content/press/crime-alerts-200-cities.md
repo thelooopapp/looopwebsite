@@ -33,7 +33,7 @@ Some family apps now show crime as pins on a map. With Looop, families choose th
 
 **Availability**
 
-Nearby Crime Alerts are available now in Looop for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111. Learn more at https://www.thelooopapp.com. A guide to how family safety apps compare is at https://www.thelooopapp.com/compare/index.html.
+Nearby Crime Alerts are available now in Looop for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111. Learn more at https://www.thelooopapp.com. A guide to how family safety apps compare is at https://www.thelooopapp.com/blog/family-safety-apps-compared.html.
 
 **About Looop**
 

@@ -2,6 +2,16 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-26 08:55 CT
+
+### Copy
+- Kept navigation as it was: removed the "Compare Apps" footer link from every page.
+- Moved the comparison hub (now blog/family-safety-apps-compared.html), every comparison page, and the privacy label study into Resources (blog/), with breadcrumbs Home > Resources > page. Every link, canonical, and structured-data URL updated.
+- Removed the standalone question pages (answers/). Their questions are answered in the FAQs of Looop vs. Life360 (new: what Subscription Tracker does with bank data), Looop vs. Family Nest, Looop vs. iSharing, Find My and Looop, and in the privacy label study; links point there.
+
+### Bug Fixes
+- Rebuilt sitemap.xml: an earlier edit on this branch had dropped most existing pages from it.
+
 ## 2026-10-26 08:40 CT
 
 ### Copy

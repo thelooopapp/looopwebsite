@@ -62,7 +62,7 @@ Five friends in five cities. When a hurricane warning hits one of them, the whol
 
 The whole group is on one screen, so you can see at a glance who's okay. Each of you chooses which alerts you get, and Health & Fitness sharing is available if you need it.
 
-Already share locations with each other? Keep doing it. Looop works alongside Find My and tells you when it's worth a call. [See how family safety apps compare](compare/index.html)
+Already share locations with each other? Keep doing it. Looop works alongside Find My and tells you when it's worth a call. [See how family safety apps compare](blog/family-safety-apps-compared.html)
 
 ## Check in, your way
 

@@ -49,7 +49,7 @@ Looop uses only what it needs to tell whether a day looks typical or unusual. It
 
 Every app on the App Store has a privacy label that says what data it collects and how it's used. Looop's App Store privacy label has no "Data Used to Track You" section, and the listing doesn't say "contains advertising." Checked October 26, 2026.
 
-Curious how other family safety apps compare? Read our study of [family safety app privacy labels](research/family-safety-app-privacy-labels.html).
+Curious how other family safety apps compare? Read our study of [family safety app privacy labels](blog/family-safety-app-privacy-labels.html).
 
 ## Everyone joins by invitation
 

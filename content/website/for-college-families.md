@@ -44,7 +44,7 @@ An alert leads to one calm text, so you can skip the ten anxious ones.
 
 Plenty of parents are worried about college kids and their own parents at the same time. Add everyone to one Looop. You'll see who is having a typical day at a glance, and get one heads-up when someone needs a call.
 
-Looop is made for grown kids living on their own, and it works alongside Find My if you already share locations. [See how family safety apps compare](compare/index.html)
+Looop is made for grown kids living on their own, and it works alongside Find My if you already share locations. [See how family safety apps compare](blog/family-safety-apps-compared.html)
 
 ## A word for your student
 

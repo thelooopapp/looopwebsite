@@ -12,7 +12,7 @@ secondary_keywords:
 persona: "Marcus, the only child far away; Priya, the sibling coordinator; Linda, 76, as invitee"
 status: draft
 facts_checked: 2026-10-26
-notes: "Names competitors. Every competitor fact comes from COMPETITORS.md, the V items in the Oct 26, 2026 research notes, or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, aging-page, and dispatch facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; the app includes Meta's app events SDK. 'Elderly' never appears in Looop's voice; it appears only in iSharing's feature name (Elderly Care) and in the answers/isharing-for-elderly-parents.html URL. CONFIRM: Check In and Health Sharing descriptions are marked (U) in COMPETITORS.md; confirm against Apple's guides before publishing. Find My place notifications carried from blog/best-life360-alternatives.html. OnStar Guardian facts are V from its App Store listing; the FTC order headline is deliberately left out. Medical alert services are covered in general terms only, with no brand claims."
+notes: "Names competitors. Every competitor fact comes from COMPETITORS.md, the V items in the Oct 26, 2026 research notes, or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, aging-page, and dispatch facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; the app includes Meta's app events SDK. 'Elderly' never appears in Looop's voice; it appears only in iSharing's feature name (Elderly Care) and in the blog/looop-vs-isharing.html#faq URL. CONFIRM: Check In and Health Sharing descriptions are marked (U) in COMPETITORS.md; confirm against Apple's guides before publishing. Find My place notifications carried from blog/best-life360-alternatives.html. OnStar Guardian facts are V from its App Store listing; the FTC order headline is deliberately left out. Medical alert services are covered in general terms only, with no brand claims."
 ---
 
 # The Best Apps to Check On an Aging Parent in 2026
@@ -152,11 +152,11 @@ Whatever you choose, set it up together. Show your parent what's shared, ask wha
 
 ## More comparisons
 
-- [Family safety apps compared](../compare/index.html): every app we compare, in one table
-- [Find My and Looop](../compare/find-my-and-looop.html)
-- [OnStar Guardian and Looop](../compare/onstar-guardian-and-looop.html)
-- [Does Apple's Check In work for checking on a parent?](../answers/apple-check-in-for-parents.html)
-- [Does iSharing work for aging parents?](../answers/isharing-for-elderly-parents.html)
+- [Family safety apps compared](../blog/family-safety-apps-compared.html): every app we compare, in one table
+- [Find My and Looop](../blog/find-my-and-looop.html)
+- [OnStar Guardian and Looop](../blog/onstar-guardian-and-looop.html)
+- [Does Apple's Check In work for checking on a parent?](../blog/find-my-and-looop.html#faq)
+- [Does iSharing work for aging parents?](../blog/looop-vs-isharing.html#faq)
 - [Looop for aging parents](../for-aging-parents.html)
 
 ## Sources

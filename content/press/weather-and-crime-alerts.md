@@ -40,7 +40,7 @@ Looop never sells your data and doesn't work with advertisers.
 
 **Availability**
 
-Looop is available now for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111. Learn more at https://www.thelooopapp.com. A guide to how family safety apps compare is at https://www.thelooopapp.com/compare/index.html.
+Looop is available now for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111. Learn more at https://www.thelooopapp.com. A guide to how family safety apps compare is at https://www.thelooopapp.com/blog/family-safety-apps-compared.html.
 
 **About Looop**
 

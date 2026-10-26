@@ -37,7 +37,7 @@ Wherever your Loved One lives in the US.
 
 **Note:** An alert means crime was reported nearby. It doesn't mean your Loved One is involved. It's a nudge that it might be a good time to check in. Looop isn't an emergency service. If you think someone is in danger, call 911.
 
-Nearby Crime Alerts are one part of Looop's holistic approach to family care. [See how family safety apps compare](compare/index.html)
+Nearby Crime Alerts are one part of Looop's holistic approach to family care. [See how family safety apps compare](blog/family-safety-apps-compared.html)
 
 ---
 

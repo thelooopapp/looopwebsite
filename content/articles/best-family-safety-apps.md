@@ -106,10 +106,10 @@ Whatever you choose, talk with each person first, show them what's shared, and m
 
 ## More comparisons
 
-- [Family safety apps compared](../compare/index.html): every app we compare, in one table
+- [Family safety apps compared](../blog/family-safety-apps-compared.html): every app we compare, in one table
 - [The best apps to check on an aging parent](best-apps-to-check-on-aging-parent.html)
 - [The best Life360 alternatives](best-life360-alternatives.html)
-- [Looop vs. Findmykids](../compare/looop-vs-findmykids.html)
+- [Looop vs. Findmykids](../blog/looop-vs-findmykids.html)
 
 ## Sources
 

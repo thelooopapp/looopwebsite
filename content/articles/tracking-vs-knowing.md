@@ -142,7 +142,7 @@ Safety notifications fit any group of people who care about each other from a di
 
 > **Tools families use**
 >
-> If you're comparing options, here's how the main kinds fit together. Family location apps put everyone on a shared map, and the location sharing built into a phone shows where someone is when you need to know. Medical alert services can get help in an emergency. Looop sends a heads-up when a storm, crime nearby, or an unusual day might make a call worth making. Lots of families use two or more. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+> If you're comparing options, here's how the main kinds fit together. Family location apps put everyone on a shared map, and the location sharing built into a phone shows where someone is when you need to know. Medical alert services can get help in an emergency. Looop sends a heads-up when a storm, crime nearby, or an unusual day might make a call worth making. Lots of families use two or more. For a fair look at what each kind of tool does, see [Family safety apps compared](../blog/family-safety-apps-compared.html).
 
 ## The question worth asking
 

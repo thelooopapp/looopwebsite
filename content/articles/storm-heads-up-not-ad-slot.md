@@ -112,7 +112,7 @@ In practice, that means:
 
 And on the days when the sky is clear and nothing looks unusual, Looop stays quiet.
 
-No ads, ever, and your family's data is never for sale. You can read our full [privacy promise](../privacy-promise.html), or learn more about [how location apps make money](how-location-apps-make-money.html). For a side-by-side look, see [Looop vs. Life360](../looop-vs-life360.html) and [Family safety apps compared](../compare/index.html).
+No ads, ever, and your family's data is never for sale. You can read our full [privacy promise](../privacy-promise.html), or learn more about [how location apps make money](how-location-apps-make-money.html). For a side-by-side look, see [Looop vs. Life360](../looop-vs-life360.html) and [Family safety apps compared](../blog/family-safety-apps-compared.html).
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 
