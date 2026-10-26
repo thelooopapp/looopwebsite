@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-26 07:50 CT
+
+### Copy
+- New-entrant release retitled "Looop Is a New Kind of Family Safety App, Not Another Map" with the owner-approved team quote; the privacy label study's quote is approved.
+
 ## 2026-10-26 07:30 CT
 
 ### Copy

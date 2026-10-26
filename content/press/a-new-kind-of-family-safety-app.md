@@ -1,5 +1,5 @@
 ---
-title: "Looop Is a New Kind of Family Safety App, and It Isn't Another Map"
+title: "Looop Is a New Kind of Family Safety App, Not Another Map"
 slug: a-new-kind-of-family-safety-app
 status: draft
 notes: "The 'enter' release. Names no competitor except Apple's Find My, in the approved complement line ('works alongside Find My'). Does not name Life360. the app includes Meta's app events SDK."
@@ -10,9 +10,9 @@ placeholders:
 <!-- DRAFT FOR REVIEW: contains placeholders. noindex until final. -->
 <!-- DRAFT: noindex until the owner approves release. -->
 
-> Editor's note (remove before release): the owner sets the dateline date (and datePublished in the HTML). The team quote needs the owner's approval before noindex is removed.
+> Editor's note (remove before release): the owner sets the dateline date (and datePublished in the HTML).
 
-# Looop Is a New Kind of Family Safety App, and It Isn't Another Map
+# Looop Is a New Kind of Family Safety App, Not Another Map
 
 ## An independent Austin startup brings weather, crime, spending, health, fitness, activity, and the shape of each day together in one daily answer for families who care from a distance
 
@@ -30,7 +30,7 @@ Looop takes a holistic approach to family care: weather, crime, spending, health
 
 Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call. When all is well, Looop stays quiet.
 
-"Our own families are spread across the country, and none of us wanted to watch a dot on a map to know if Mom was okay. We wanted to hear when a call was worth making, and to leave everyone alone the rest of the time," said the team behind Looop.
+"Families are spread across the country, and none of us wanted to watch a dot on a map to know if Mom was okay. We want a nudge when it's worth making a call, and to leave everyone alone the rest of the time," said the team behind Looop.
 
 **Built for families who care from a distance**
 

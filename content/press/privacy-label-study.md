@@ -5,7 +5,6 @@ status: draft
 notes: "Names competitors (Life360, iSharing, GeoZilla, Glympse, Findmykids, Family Nest, Apple, Google, Verizon, AT&T, T-Mobile, Kidslox, OurPact). Every figure comes from the study page (research/family-safety-app-privacy-labels.html), built from each app's US App Store listing checked Oct 26, 2026. Labels described only in Apple's terms; says a declaration isn't proof of selling data and makes no claim that any app sells data. Clean labels named. Go out only after the study page is live."
 placeholders:
   - "[DATE] in the dateline (also set datePublished and dateModified in the HTML JSON-LD)"
-  - "Team quote needs owner approval"
 ---
 
 # 14 of 15 Family Location Apps Declare "Data Used to Track You," Looop Study of App Store Privacy Labels Finds
@@ -29,7 +28,6 @@ Looop read the US App Store listing of each app on October 26, 2026, and recorde
 
 Apple's App Store privacy labels are filled in by each app's developer, and each one says, "This information has not been verified by Apple." Apple's [privacy definitions](https://apps.apple.com/us/story/id1539235847) say tracking occurs "when data collected about you or your device is linked with third-party data for targeted advertising or advertising measurement purposes," or when it "is shared with a data broker." A "Data Used to Track You" declaration doesn't say which of these an app does, and the study makes no claim that any app sells data.
 
-<!-- QUOTE NEEDS OWNER APPROVAL -->
 "When you ask your mom to join a family safety app, you should be able to see what it says about her data in plain words. Apple's labels make that possible, so we read them all and put them in one place, including our own," said the team behind Looop.
 
 **Looop's own label**
