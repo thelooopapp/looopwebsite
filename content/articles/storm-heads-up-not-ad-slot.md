@@ -113,7 +113,7 @@ In practice, that means:
 
 And on the days when the sky is clear and nothing looks unusual, Looop stays quiet.
 
-No ads ever, and your family's data is never for sale. You can read our full [privacy promise](../privacy-promise.html), or learn more about [how location apps make money](how-location-apps-make-money.html).
+No ads ever, and your family's data is never for sale. You can read our full [privacy promise](../privacy-promise.html), or learn more about [how location apps make money](how-location-apps-make-money.html). For a side-by-side look, see [Looop vs. Life360](../looop-vs-life360.html) and [Family safety apps compared](../compare/index.html).
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 
@@ -125,4 +125,4 @@ No ads ever, and your family's data is never for sale. You can read our full [pr
 - Centers for Disease Control and Prevention. "Carbon Monoxide Poisoning Basics." https://www.cdc.gov/carbon-monoxide/about/index.html
 - Life360. "Life360 Partners with AccuWeather to Deliver Real-Time Severe Weather Alerts" (September 10, 2025). https://investors.life360.com/news-releases/news-release-details/life360-partners-accuweather-deliver-real-time-severe-weather
 
-Facts checked: October 6, 2026
+Facts checked: October 26, 2026

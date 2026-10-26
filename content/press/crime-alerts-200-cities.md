@@ -30,9 +30,11 @@ Looop is not an emergency service and does not prevent crime. In an emergency, f
 
 Nearby Crime Alerts are one part of Looop's holistic approach to family care. Looop brings together weather, crime, spending, health, fitness, activity, and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call. Every loved one joins by invitation and keeps their independence. Looop never sells your data and doesn't work with advertisers.
 
+Some family apps now show crime as pins on a map. With Looop, families choose the distance (1, 3, 5, or 10 miles) and get a heads-up as part of a daily answer, not a pin on a map.
+
 **Availability**
 
-Nearby Crime Alerts are available now in Looop for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111. Learn more at https://www.thelooopapp.com.
+Nearby Crime Alerts are available now in Looop for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111. Learn more at https://www.thelooopapp.com. A guide to how family safety apps compare is at https://www.thelooopapp.com/compare/index.html.
 
 **About Looop**
 

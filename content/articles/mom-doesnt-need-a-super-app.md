@@ -81,6 +81,8 @@ That shows up in a few promises we make to every family:
 
 You won't find calendar sync or a document drawer, and there are no offers in your notifications.
 
+For a side-by-side look, see [Looop vs. Life360](../looop-vs-life360.html) and [Family safety apps compared](../compare/index.html).
+
 ## The call is the point
 
 Most of what matters between you and Mom happens on the phone or at her kitchen table.

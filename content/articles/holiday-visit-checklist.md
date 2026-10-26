@@ -145,6 +145,10 @@ Never set anything up on a parent's phone without them knowing. Looop never sell
 
 Not sure how to bring it up? Our [letter to Mom](letter-to-mom.html) is a starting point you can copy and change.
 
+> **Tools families use**
+>
+> If you're thinking about tools before you leave, here's a quick guide. The location sharing built into a phone shows where someone is when you need to know. Family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or a day that looks unusual might make a call worth making. Many families use more than one. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+
 ## Your visit, step by step
 
 - Use the holiday visit to notice things gently.

@@ -98,6 +98,10 @@ The letter works for anyone you care about from a distance. A few easy swaps:
 
 Whoever it's for, keep the part where you say you trust them, and explain that you'd like a quieter way to know when to call.
 
+> **Tools families use**
+>
+> If your parent asks what else is out there, here's the short version. The location sharing built into a phone shows where someone is when you need to know. Family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or a day that looks unusual might make a call worth making. Many families use more than one. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+
 ## About Looop
 
 Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, Health & Fitness sharing is available and optional, and Looop never sells your data and doesn't work with advertisers.

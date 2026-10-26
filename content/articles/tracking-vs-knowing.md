@@ -121,7 +121,7 @@ Looop is a safety notifications app, built from the ground up around these five 
 
 **It tells you about what's around them.** Looop sends a heads-up when severe weather is heading toward a Loved One, in more than 50 countries, including the US, and when crime is reported near them in all 50 US states. You choose your own crime alert distance.
 
-**It notices when a day looks different.** Looop learns each person's own normal. When driving, walking, or phone use looks unusual for them, or their whole day looks off compared to their usual routine, you get a gentle "Unusual Day" nudge to check in.
+**It notices when a day looks different.** When driving, walking, or phone use looks unusual for them, or their whole day looks off compared to their usual routine, you get a gentle "Unusual Day" nudge to check in.
 
 **It stays quiet the rest of the time.** On a typical day, there's nothing to check. Your Looop shows who's having a normal day and who might need a look, in plain language, at a glance.
 
@@ -140,6 +140,10 @@ Safety notifications fit any group of people who care about each other from a di
 - **Adult children of aging parents:** Mom keeps her routine, and you hear about it when her day looks off.
 - **Siblings sharing the load:** everyone gets the same heads-up, so you can agree on who calls Dad.
 - **Friends, partners, and chosen family:** look out for each other, both ways.
+
+> **Tools families use**
+>
+> If you're comparing options, here's how the main kinds fit together. The location sharing built into a phone shows where someone is when you need to know. Family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or a day that looks unusual might make a call worth making. Many families use more than one. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
 
 ## The question worth asking
 

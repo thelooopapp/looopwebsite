@@ -102,6 +102,8 @@ The goal is to bother your parent less.
 
 If Health & Fitness sharing isn't needed, Looop still works. You'll still get a heads-up about severe weather heading their way, crime reported nearby in all 50 US states, and a gentle nudge when their day looks different from their usual routine.
 
+Looop works alongside Find My, too. If your family already shares locations there, keep it. Looop adds the heads-up about weather, crime, and a day that looks different, all in one place. See [Find My and Looop](../compare/find-my-and-looop.html) for how the two fit together, or [Family safety apps compared](../compare/index.html) for the bigger picture.
+
 ## About Looop
 
 Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, Health & Fitness sharing is available and optional, and Looop never sells your data and doesn't work with advertisers.

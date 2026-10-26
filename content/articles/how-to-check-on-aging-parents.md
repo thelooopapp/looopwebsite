@@ -142,6 +142,10 @@ Four rules of thumb can help.
 
 And if you ever believe your parent is in immediate danger, call 911 or their local emergency services first.
 
+> **Tools families use**
+>
+> Most families end up with a mix of tools, and each does a different job. The location sharing built into a phone shows where someone is when you need to know. Family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or a day that looks unusual might make a call worth making. Many families use more than one. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+
 ## A tool that fits this approach
 
 We built Looop to work the way this guide does.

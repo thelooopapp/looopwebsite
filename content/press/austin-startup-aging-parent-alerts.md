@@ -3,7 +3,7 @@ title: "Austin Startup Already Ships Aging-Parent Alerts While a Public Company 
 slug: austin-startup-aging-parent-alerts
 status: draft
 legal_review: true
-legal_notes: "Names a competitor (Life360). Every Life360 statement was verified against its linked source on Oct 6, 2026. Does not claim Life360 lacks any feature; says what Life360 has publicly said it is working on. Press release: noindex until placeholders are filled and legal signs off."
+legal_notes: "Names a competitor (Life360). Every Life360 statement was verified against its linked source on Oct 6, 2026. Does not claim Life360 lacks any feature; says what Life360 has publicly said it is working on. Oct 26, 2026: added one sentence acknowledging Life360's Safety Incidents (map pins within one mile; COMPETITORS.md, help page checked Oct 26, 2026) so the release can't be read as omitting it; the 'still promising' framing is limited to aging-parent wellness and scam features. Links to the Looop vs. Life360 page and the comparison hub added. Press release: noindex until placeholders are filled and legal signs off."
 placeholders: []
 ---
 
@@ -21,6 +21,8 @@ placeholders: []
 Mom's winter at her place in Florida, Dad's wine tour in Italy, a semester abroad in Spain: Looop's alerts work wherever they go.
 
 In October 2025, Life360 CEO Lauren Antonoff [discussed on Fox Business](https://www.fox.com/watch/clip/fmc-2k7cu0b1c58nunwm/life360-explores-features-to-support-aging-parents-safety) how the company is exploring features for aging parents. On its [Q4 2025 earnings call](https://www.fool.com/earnings/call-transcripts/2026/03/02/life360-lif-q4-2025-earnings-call-transcript/) in March 2026, the company said it was working on devices for aging parents but did not expect to launch them that year. On its [Q2 2026 call](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/) in August, it named aging parents as a next line of business. And at a [Goldman Sachs conference](https://in.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-5589446) in September, it said it is working on services for aging parents, including wellness features, scam protection, and emergency response.
+
+In 2026, Life360 also added [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents), which show recent, high-severity incidents within one mile of a member as pins on its map.
 
 Looop's aging-parent alerts are already here. Looop launched on the App Store in May 2026 and has shipped new features and updates steadily since.
 
@@ -46,7 +48,7 @@ Looop never sells your data and doesn't work with advertisers. Its notifications
 
 **Availability**
 
-Looop is available now for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111. Learn more at https://www.thelooopapp.com.
+Looop is available now for iPhone on the App Store at https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111. Learn more at https://www.thelooopapp.com. A side-by-side comparison of Looop and Life360 is at https://www.thelooopapp.com/looop-vs-life360.html, and a guide to how family safety apps compare is at https://www.thelooopapp.com/compare/index.html.
 
 **About Looop**
 

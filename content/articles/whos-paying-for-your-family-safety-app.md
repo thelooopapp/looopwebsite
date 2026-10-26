@@ -10,6 +10,7 @@ secondary_keywords:
   - Life360 alternative
 persona: "Dana, the stretched-thin middle (also Priya, the sibling coordinator)"
 status: draft
+legal_notes: "Names a competitor (Life360). Oct 26, 2026: added Safety Incidents to 'What it is' and a Subscription Tracker section quoting Life360's Set Up Subscription Tracker page exactly (save a dated screenshot or Wayback copy before publishing). Field-wide label line ('most family locator apps we reviewed declare Data Used to Track You') is from COMPETITORS.md; link to the privacy label study goes live with the study. The 'clean privacy label' bullet must be confirmed with engineering (Meta app events SDK) before publishing; the HTML carries a CONFIRM WITH ENGINEERING comment."
 legal_review: true
 ---
 
@@ -23,7 +24,7 @@ You can ask that about any app, but it matters more for a family safety app beca
 
 This guide explains the common ways location-sharing apps make money, walks through one well-known example using public sources, and ends with a simple checklist for choosing a family safety app that doesn't sell your data.
 
-*Facts in this article are drawn from the public sources linked throughout, current as of [DATE CHECKED].*
+*Facts in this article are drawn from the public sources linked throughout, current as of October 26, 2026.*
 
 ## Why this matters more for family apps
 
@@ -63,7 +64,7 @@ Life360 is one of the best-known family location-sharing apps, and it's a useful
 
 ### What it is
 
-Life360 is a GPS location tracking app built around a live family map and location history. Its notifications focus on arrivals, departures, and missed arrivals at set places. Its own setup guide cites location accuracy to about 50 feet.
+Life360 is a GPS location tracking app built around a live family map and location history. Its notifications cover arrivals, departures, and missed arrivals at set places, plus severe weather alerts and, new in 2026, [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents): recent, high-severity incidents within one mile, shown as pins on its map. Its own setup guide cites location accuracy to about 50 feet.
 
 ### An advertising platform
 
@@ -83,11 +84,17 @@ Life360 has a history of selling location data to a dozen data brokers. In 2021,
 
 Life360 then [stopped most of those sales](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users), but kept Arity and began selling aggregated data to Placer.ai, which it [describes](https://www.sec.gov/Archives/edgar/data/1581760/000158176024000105/life360incq324mediarelea.htm) as a growing data business.
 
+### Bank data and ads
+
+In May 2026, Life360 added a free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) that links checking accounts and credit cards through Plaid and watches for recurring charges, price changes, and renewals. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting an account, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance."
+
 ### What to take from this
 
 None of this is hidden. Life360 describes much of it publicly, and many families use the app knowing how it works.
 
 If an app's business includes advertising built on location data, or selling location data, that's worth weighing alongside its features.
+
+Life360 isn't the only family app worth a close look. Most of the family locator apps we reviewed declare "Data Used to Track You" on their App Store privacy labels. Our [privacy label study](../research/family-safety-app-privacy-labels.html) shows what each label says, and [Family safety apps compared](../compare/index.html) puts the apps side by side.
 
 ## Questions to ask any family safety app
 
@@ -127,6 +134,8 @@ How Looop handles your family's information:
 
 - **Looop never sells your data.**
 - **Looop doesn't work with advertisers.** There's no ad platform, and no sponsored offers or ads in your notifications.
+- **Spending data is only for your family.** If someone links a bank account for spending alerts, it runs through Plaid and is never used for ads or sold.
+- **A clean privacy label.** Looop's App Store privacy label has no "Data Used to Track You" section.
 - **Just enough to know.** Looop uses only what it needs to tell whether something unusual is going on.
 - **Invitation only.** Loved Ones join by invitation and choose to be part of your Looop.
 - **Health & Fitness sharing, available and optional.** Heart rate, sleep, and steps are there if you need them.
@@ -151,5 +160,7 @@ Peace of mind for you, independence for them.
 Every app has a business model. With a family safety app, it's worth knowing exactly what it is, because the information involved belongs to the people you love.
 
 The questions above take about ten minutes, and they work for any app you're considering, including ours.
+
+For a fuller side-by-side, see [Looop vs. Life360](../looop-vs-life360.html) and [Family safety apps compared](../compare/index.html).
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**

@@ -10,6 +10,7 @@ secondary_keywords:
   - private family safety app
 persona: "Dana, the stretched-thin middle (also Priya, the sibling coordinator)"
 status: draft
+legal_notes: "No competitor named. Oct 26, 2026: added the field-wide label point in general terms (from COMPETITORS.md: all six family locators and five of six phone locators reviewed declare Data Used to Track You) and links to the privacy label study and the comparison hub. Looop's own label line must be confirmed with engineering before publishing (Meta app events SDK); the HTML carries a CONFIRM WITH ENGINEERING comment."
 legal_review: false
 ---
 
@@ -102,7 +103,7 @@ You don't have to delete every app. These steps limit how far your location trav
 
 1. **Turn off tracking requests.** On iPhone, go to Settings, then Privacy & Security, then [Tracking](https://support.apple.com/en-us/102420). Turning off "Allow Apps to Request to Track" stops apps from asking.
 2. **Review location access, app by app.** In Settings, Privacy & Security, [Location Services](https://support.apple.com/en-us/102515), give location only to apps that need it, and only "While Using" where you can.
-3. **Read the App Store privacy label.** Apple asks apps to disclose data used to track you. Apple's definition of tracking [includes sharing data](https://developer.apple.com/app-store/app-privacy-details/) with a data broker.
+3. **Read the App Store privacy label.** Apple asks apps to disclose data used to track you. Apple's definition of tracking [includes sharing data](https://developer.apple.com/app-store/app-privacy-details/) with a data broker. Most of the family locator apps we reviewed declare "Data Used to Track You" on their labels. Our [privacy label study](../research/family-safety-app-privacy-labels.html) shows what each one says.
 4. **Ask the business model question.** If the app is free, how does it pay its bills? Our guide [Who's Really Paying for Your Free Family Safety App?](whos-paying-for-your-family-safety-app.html) walks through the questions to ask.
 
 ## How Looop is different
@@ -115,8 +116,9 @@ We made a few promises that shape the whole business:
 - **Looop doesn't work with advertisers.** You won't see ads or sponsored offers in your notifications.
 - **Bank linking is optional.** If you choose to turn on spending alerts, the connection runs through Plaid. Skip it and everything else still works.
 - **You stay in control.** Delete your account and data whenever you choose.
+- **No "Data Used to Track You."** Looop's App Store privacy label has no "Data Used to Track You" section.
 
-Looop also uses only what it needs to tell whether something looks unusual. Read the full [privacy promise](../privacy-promise.html).
+Looop also uses only what it needs to tell whether something looks unusual. Read the full [privacy promise](../privacy-promise.html), or see how [family safety apps compare](../compare/index.html).
 
 | A tracking app | Looop |
 | --- | --- |

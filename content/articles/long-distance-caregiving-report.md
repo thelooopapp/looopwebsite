@@ -152,6 +152,10 @@ Every family is different, but a few practical takeaways stand out.
 
 **7. Pick technology that eases worry.** Choose tools your parent agrees to that show only what helps and stay quiet when all is well.
 
+> **Tools families use**
+>
+> If you're choosing technology, here's the short version. The location sharing built into a phone shows where someone is when you need to know. Family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or a day that looks unusual might make a call worth making. Many families use more than one. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+
 ## Help us write the next report
 
 This roundup is built on other people's research. Next, we want to hear from you.

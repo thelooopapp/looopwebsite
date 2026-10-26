@@ -130,6 +130,10 @@ A few things to know:
 
 Talk about it together first, and only set it up if your parent wants it. Learn more on [how Looop works](features.html).
 
+> **Tools families use**
+>
+> Spending alerts are one kind of tool. Here's how the others fit. The location sharing built into a phone shows where someone is when you need to know. Family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or a day that looks unusual might make a call worth making. Many families use more than one. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+
 ## Keep talking
 
 Scammers try to isolate people and rush them. Regular calls where money and odd messages are ordinary topics make that harder, and so does agreeing now on who your parent calls first if the answer is ever "Actually, something strange did happen."

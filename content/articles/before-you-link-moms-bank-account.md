@@ -10,6 +10,7 @@ secondary_keywords:
   - family safety app that doesn't sell data
 persona: "Priya, the sibling coordinator (also Marcus, the only child far away)"
 status: draft
+legal_notes: "No competitor named. Oct 26, 2026: Question 3 adds an unnamed example paraphrasing Life360's Set Up Subscription Tracker help page ('Life360 may use your transaction data to show you relevant ads and measure ad performance'). Name and link Life360 only if legal approves; save a dated copy. Adds a link to the comparison hub."
 legal_review: false
 ---
 
@@ -35,7 +36,7 @@ We put this question first. If an app's business includes selling data or advert
 
 **What to look for:** a plain sentence, like "We never sell your data and we don't work with advertisers." Be careful with softer wording such as "we don't sell personal information," which can come with exceptions in the fine print.
 
-**Where to check:** the privacy policy, the App Store privacy label, and the company's own news. Some family location apps have sold location data in the past, and some run growing ad businesses today. Our guides on [how location apps make money](how-location-apps-make-money.html) and [who's paying for your family safety app](whos-paying-for-your-family-safety-app.html) explain what to look for.
+**Where to check:** the privacy policy, the App Store privacy label, and the company's own news. Some family location apps have sold location data in the past, and some run growing ad businesses today. Our guides on [how location apps make money](how-location-apps-make-money.html) and [who's paying for your family safety app](whos-paying-for-your-family-safety-app.html) explain what to look for, and [Family safety apps compared](../compare/index.html) puts the apps side by side.
 
 An app with that business model may never misuse spending data. Still, you should know the model before you decide.
 
@@ -52,6 +53,8 @@ With Plaid, the person signs in to their own bank through Plaid's screen. Plaid 
 "Link your account" can mean very different things. Ask which data the app reads, how often, what it keeps, and what it does with it.
 
 Also ask what the app *doesn't* promise. No app can tell whether a payment is a scam. It can only notice that something looks different. Be wary of any app that says it will "stop" or "prevent" fraud on its own.
+
+**Read what you agree to when you connect.** The terms can allow more than the feature you came for. One family app's setup page, for example, says that by connecting an account you agree it may use your transaction data to show you relevant ads and measure ad performance. If the terms say something like that, an alert isn't the only thing your parent's spending is used for.
 
 **What to look for:** a clear, specific description of the feature, plus honest limits.
 
@@ -84,7 +87,7 @@ An app can be one helpful piece. These steps work on their own, too.
 
 Looop is a safety notifications app. Spending alerts are one optional piece of it. These are our answers to each question.
 
-1. **Data and advertisers:** Looop never sells your data and doesn't work with advertisers. That covers bank data, location data, and everything else.
+1. **Data and advertisers:** Looop never sells your data and doesn't work with advertisers. That covers bank data, location data, and everything else. Spending data is used only for your family's alerts, never for ads.
 2. **The connection:** Bank linking runs through Plaid. Looop never sees bank passwords.
 3. **What it does:** Looop reads transactions on a linked account and sends a heads-up when one goes over an amount you set. An unusually large payment can be an early sign of a scam, so you can call Mom that same day. Looop can't tell whether a payment is a scam, and it doesn't stop or reverse payments. It tells you when a call might be worth making.
 4. **Consent:** Loved Ones join Looop by invitation. We encourage families to set up spending alerts together, with the account holder's OK.

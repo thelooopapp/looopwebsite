@@ -29,7 +29,7 @@ Some family apps have grown into a place for everything you might want to find. 
 
 Take Life360. Its own blog describes [adding Tile Bluetooth trackers](https://www.life360.com/blog/meet-the-improved-life360) to the Life360 app, so families can see their Tiles and family members in one place. In October 2025 it introduced a [pet GPS tracker](https://www.life360.com/blog/life360-pet-gps) that puts a pet on the same Life360 map. Its own product page invites families to keep [people, pets and things all on one map](https://www.life360.com/learn/trackyourpetinrealtime).
 
-On August 25, 2026, the company [announced more pet products](https://investors.life360.com/news-releases/news-release-details/life360-announces-new-pet-care-products-so-no-one-forgets-fido): a QR code collar tag, "Zoomies" alerts for when a pet has a burst of energy, and a weekly roundup of a pet's routine.
+On August 25, 2026, the company [announced more pet products](https://investors.life360.com/news-releases/news-release-details/life360-announces-new-pet-care-products-so-no-one-forgets-fido): a QR code collar tag, "Zoomies" alerts for when a pet has a burst of energy, and a weekly roundup of a pet's routine. Life360's map now includes Lost Pet Alerts, too.
 
 For lots of households, that's handy. Pets are family, and anything that helps bring a dog home faster is a good thing. Losing your keys is no fun either.
 
@@ -110,6 +110,7 @@ Looop is a safety notifications app for families who care from a distance. It gi
 - Life360. "Life360 Announces New Pet Care Products So No One Forgets Fido This Back-To-School Season" (August 25, 2026). https://investors.life360.com/news-releases/news-release-details/life360-announces-new-pet-care-products-so-no-one-forgets-fido
 - Life360 blog. "Meet Life360 Pet GPS: The Pet Tracker That Keeps the Whole Family Connected" (October 22, 2025). https://www.life360.com/blog/life360-pet-gps
 - Life360. Pet GPS product page. https://www.life360.com/learn/trackyourpetinrealtime
+- Life360 app, Map details: "Lost Pet Alerts" map layer (seen October 2026)
 - Life360 blog. "Meet the Improved Life360" (March 22, 2019; updated May 22, 2024). https://www.life360.com/blog/meet-the-improved-life360
 
 Sources checked: October 2026
