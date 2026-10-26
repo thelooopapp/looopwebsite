@@ -75,4 +75,4 @@ Yes. Looop is built for adult children caring for a parent from a distance. She 
 
 Sources checked: October 26, 2026
 
-Life360, Apple, and iSharing are trademarks of their respective owners. Looop is not affiliated with iSharing.
+Life360, Apple, and iSharing are trademarks of their respective owners. Looop is not affiliated with any of them.

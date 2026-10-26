@@ -119,7 +119,7 @@ Every fact about OneLocator on this page comes from its App Store listing.
 
 Facts checked October 26, 2026. Features, prices, and policies change, so check each company's current offer before you decide.
 
-Life360, Apple, Apple Watch, Apple Health, Oura, Whoop, OneLocator, Find My, Findo, Famio, Familo, Carpin, and Be Closer are trademarks of its respective owner. Looop is not affiliated with it.
+Life360, Apple, Apple Watch, Apple Health, Oura, Whoop, OneLocator, Find My, Findo, Famio, Familo, Carpin, and Be Closer are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 ### More comparisons
 

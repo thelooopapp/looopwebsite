@@ -2,6 +2,13 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-26 08:30 CT
+
+### Copy
+- Removed AI-writing tells across every page on the branch (about 600 rewrites): "this, not that" contrasts, made-up feature jargon, template headings, repeated sentences across sibling pages, stacked fragments, filler openers and closers, and bolded lead-ins. Paired statements now sit one point per line.
+- Heroes rewritten to the new template: short headline and up to two short lines; explanations moved into the first section. All hero text and buttons fit on the first screen at 390x844 and 1440x900.
+- Fixed trademark line grammar. Restored the owner-approved headline "Looop Is a New Kind of Family Safety App, Not Another Map."
+
 ## 2026-10-26 07:50 CT
 
 ### Copy

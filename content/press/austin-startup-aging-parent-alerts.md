@@ -54,7 +54,7 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 
 Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, fitness, activity, and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
-Life360, Apple Watch, Apple Health, Oura, and Whoop are trademarks of its owner. Looop is not affiliated with Life360.
+Life360, Apple Watch, Apple Health, Oura, and Whoop are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 **Media Contact**
 

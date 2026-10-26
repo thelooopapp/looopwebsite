@@ -116,7 +116,7 @@ Every fact about Findo on this page comes from its App Store listing.
 
 Facts checked October 26, 2026. Features, prices, and policies change, so check each company's current offer before you decide.
 
-Apple, Apple Watch, Apple Health, Oura, Whoop, Findo, iSharing, GeoZilla, OneLocator, Famio, Familo, Carpin, and Be Closer are trademarks of its respective owner. Looop is not affiliated with it.
+Apple, Apple Watch, Apple Health, Oura, Whoop, Findo, iSharing, GeoZilla, OneLocator, Famio, Familo, Carpin, and Be Closer are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 ### More comparisons
 
