@@ -13,6 +13,8 @@ Key facts:
 
 Who Looop is for: families who care from a distance after the driving years, such as kids at college or in a big city, parents living separately or a few states away, a relative living alone, or siblings and friends who look out for each other.
 
+How Looop compares: most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It works alongside Apple Find My.
+
 Looop vs. Life360: Choose Life360 if you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data shared with its partners. Choose Looop if you want safety alerts instead of tracking, a nudge when a drive looks unusual, no ads ever, and your family's data never for sale.
 
 ## Pages
@@ -41,3 +43,35 @@ Looop vs. Life360: Choose Life360 if you want to pay more for precision GPS trac
 - [A Heads-Up When Crime Is Near Mom](https://www.thelooopapp.com/blog/crime-near-mom-not-a-crime-map.html)
 - [Family Safety Notifications: Knowing When to Check In](https://www.thelooopapp.com/blog/tracking-vs-knowing.html)
 - [How Location Apps Turn Your Family's Movements Into Ad Money](https://www.thelooopapp.com/blog/how-location-apps-make-money.html)
+
+## Comparisons
+- [Family safety apps compared](https://www.thelooopapp.com/compare/index.html)
+- [Looop vs. Life360](https://www.thelooopapp.com/looop-vs-life360.html)
+- [Find My and Looop: use both](https://www.thelooopapp.com/compare/find-my-and-looop.html)
+- [Looop vs. iSharing](https://www.thelooopapp.com/compare/looop-vs-isharing.html)
+- [Looop vs. GeoZilla](https://www.thelooopapp.com/compare/looop-vs-geozilla.html)
+- [Looop vs. Family Nest (formerly Family360)](https://www.thelooopapp.com/compare/looop-vs-family-nest.html)
+- [Looop vs. Glympse](https://www.thelooopapp.com/compare/looop-vs-glympse.html)
+- [Looop vs. Findmykids](https://www.thelooopapp.com/compare/looop-vs-findmykids.html)
+- [OnStar Guardian and Looop](https://www.thelooopapp.com/compare/onstar-guardian-and-looop.html)
+- [Looop vs. Findo](https://www.thelooopapp.com/compare/looop-vs-findo.html)
+- [Looop vs. OneLocator](https://www.thelooopapp.com/compare/looop-vs-onelocator.html)
+- [Looop vs. other family locator apps](https://www.thelooopapp.com/compare/looop-vs-other-locator-apps.html)
+- [Looop vs. carrier family apps](https://www.thelooopapp.com/compare/looop-vs-carrier-family-apps.html)
+- [Life360 vs. iSharing vs. Looop](https://www.thelooopapp.com/compare/life360-vs-isharing-vs-looop.html)
+- [Life360 vs. GeoZilla vs. Looop](https://www.thelooopapp.com/compare/life360-vs-geozilla-vs-looop.html)
+- [Life360 vs. Family Nest vs. Looop](https://www.thelooopapp.com/compare/life360-vs-family-nest-vs-looop.html)
+- [Life360 vs. Find My vs. Looop](https://www.thelooopapp.com/compare/life360-vs-find-my-vs-looop.html)
+- [Life360 vs. Glympse vs. Looop](https://www.thelooopapp.com/compare/life360-vs-glympse-vs-looop.html)
+- [The best Life360 alternatives](https://www.thelooopapp.com/blog/best-life360-alternatives.html)
+- [The best apps to check on an aging parent](https://www.thelooopapp.com/blog/best-apps-to-check-on-aging-parent.html)
+- [The best family safety apps, by what you need](https://www.thelooopapp.com/blog/best-family-safety-apps.html)
+
+## Questions and research
+- [What do Life360's Safety Incidents show?](https://www.thelooopapp.com/answers/life360-safety-incidents.html)
+- [What does Life360's Subscription Tracker do with bank data?](https://www.thelooopapp.com/answers/life360-subscription-tracker-bank-data.html)
+- [Is Family Nest the same as Family360?](https://www.thelooopapp.com/answers/is-family-nest-the-same-as-family360.html)
+- [Does iSharing work for aging parents?](https://www.thelooopapp.com/answers/isharing-for-elderly-parents.html)
+- [Does Apple's Check In work for checking on a parent?](https://www.thelooopapp.com/answers/apple-check-in-for-parents.html)
+- [What does "Data Used to Track You" mean?](https://www.thelooopapp.com/answers/data-used-to-track-you.html)
+- [Study: what family safety apps' privacy labels say](https://www.thelooopapp.com/research/family-safety-app-privacy-labels.html)

@@ -17,6 +17,40 @@ legal_review: false
 
 Caring for people you love from far away comes with real questions. When should I call? How do I bring this up with Mom? We share what we've learned, in plain language.
 
+## Compare family safety apps
+
+**Subtitle:** Most family apps are built around a map. Here's how Looop compares, including where another app may fit better.
+
+### Family Safety Apps Compared
+**Eyebrow:** Comparison
+**Teaser:** Life360, Find My, iSharing, GeoZilla, Family Nest, and more, side by side: what each is built for, and who it fits.
+**Link:** compare/index.html
+
+### Looop vs. Life360
+**Eyebrow:** Comparison
+**Teaser:** How Looop and Life360 differ on alerts, privacy, and ads, with sources, including where Life360 may fit better.
+**Link:** looop-vs-life360.html
+
+### The Best Life360 Alternatives in 2026
+**Eyebrow:** Comparison
+**Teaser:** Apple Find My, Google, iSharing, GeoZilla, Family Nest, Glympse, OnStar Guardian, and Looop: who each one fits.
+**Link:** blog/best-life360-alternatives.html
+
+### The Best Apps to Check On an Aging Parent
+**Eyebrow:** Comparison
+**Teaser:** What Apple, Life360, iSharing, GeoZilla, OnStar Guardian, medical alert services, and Looop each do for a parent far away.
+**Link:** blog/best-apps-to-check-on-aging-parent.html
+
+### The Best Family Safety Apps, by What You Need
+**Eyebrow:** Comparison
+**Teaser:** For young kids, teen drivers, friends, and parents far away: the app that fits each job.
+**Link:** blog/best-family-safety-apps.html
+
+### Find My and Looop: Use Both
+**Eyebrow:** Comparison
+**Teaser:** Find My shows where someone is. Looop tells you when it might be a good time to call. Here's how they work together.
+**Link:** compare/find-my-and-looop.html
+
 ## Caring for aging parents
 
 ### How to Check On Aging Parents Without Making Them Feel Watched
@@ -88,12 +122,17 @@ Caring for people you love from far away comes with real questions. When should 
 **Teaser:** What the latest FBI and FTC data show, the warning signs families can notice, how to bring it up without talking down, and what to do if a scam happens.
 **Link:** blog/scams-targeting-older-adults.html
 
-## Research and comparisons
+## Research
 
 ### The Long-Distance Caregiving Report: What the Research Says (2026)
 **Eyebrow:** Research
 **Teaser:** The most reliable research on long-distance caregiving in one place, plus practical takeaways for families.
 **Link:** blog/long-distance-caregiving-report.html
+
+### What Family Safety Apps' Privacy Labels Say
+**Eyebrow:** Research
+**Teaser:** We read the App Store privacy labels of more than 20 family safety apps. Here's what they declare, in Apple's own words.
+**Link:** research/family-safety-app-privacy-labels.html
 
 ## CTA
 
