@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-26 07:30 CT
+
+### Copy
+- Took the internal review page (review.html) off the published site.
+
 ## 2026-10-26 22:15 CT
 
 ### Copy
