@@ -101,7 +101,7 @@ GeoZilla's description says it suits an elderly loved one or a teenager. Looop i
 
 Looop never sells your data and doesn't work with advertisers. Looop's App Store privacy label has no "Data Used to Track You" section. GeoZilla's label lists identifiers under "Data Used to Track You."
 
-Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect falls or crashes. If you think someone is in danger, call 911 first.
+Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect emergencies. If you think someone is in danger, call 911 first.
 
 ## Where GeoZilla may fit better
 
@@ -142,7 +142,7 @@ Yes. Looop works on its own. Some families keep a map app for a teen driver and 
 Yes. That's who it's built for. Looop tells you when Mom's day looks unusual, when a storm heads her way, or when crime is reported nearby, so you know when to call. She keeps her routine, and you get fewer "just checking" calls to make.
 
 **Does Looop have an SOS button or crash detection?**
-No. Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect falls or crashes. If you think someone is in danger, call 911 first. You can call 911 or a Loved One's emergency contacts in one tap from the app.
+No. Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect emergencies. If you think someone is in danger, call 911 first. You can call 911 or a Loved One's emergency contacts in one tap from the app.
 
 **Does Looop sell my data?**
 No. Looop never sells your data and doesn't work with advertisers. There are no ads in the app.
@@ -156,7 +156,7 @@ Facts about GeoZilla come from its App Store listing.
 
 Facts checked October 26, 2026. Features, prices, and policies change, so check each company's current offer before you decide.
 
-GeoZilla, Life360, Apple, and Apple Watch are trademarks of their respective owners. Looop is not affiliated with any of them.
+GeoZilla, Life360, Apple, Apple Watch, Apple Health, Oura, Whoop, Find My, iSharing, Family Nest, and Family360 are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 ## Compare more family safety apps
 

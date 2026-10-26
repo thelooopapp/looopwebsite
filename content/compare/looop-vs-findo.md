@@ -34,7 +34,7 @@ Findo is built around a live map of family and friends, with travel history, pla
 | | Looop | Findo |
 | --- | --- | --- |
 | What it is | A safety notifications app that tells you when to check in | A family and friends locator ("GPS Tracker, Family Location") |
-| Built for | Families who care from a distance: a parent far away, kids at college, siblings and friends | Family and friends in circles |
+| Built for | Families who care from a distance: a parent far away, kids at college, siblings, and friends | Family and friends in circles |
 | The map | A family map for when you need it | Live locations on a map, plus travel history |
 | Places | Arrival and departure alerts at places you save | Arrival and departure alerts at favorite places |
 | SOS | No SOS button. Looop isn't an emergency service. | Emergency alerts sent to everyone in your circle |
@@ -118,7 +118,7 @@ Every fact about Findo on this page comes from its App Store listing.
 
 Facts checked October 26, 2026. Features, prices, and policies change, so check each company's current offer before you decide.
 
-Findo is a trademark of its respective owner. Looop is not affiliated with it.
+Apple, Apple Watch, Apple Health, Oura, Whoop, Findo, iSharing, GeoZilla, OneLocator, Famio, Familo, Carpin, and Be Closer are trademarks of its respective owner. Looop is not affiliated with it.
 
 ### More comparisons
 

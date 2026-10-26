@@ -56,11 +56,11 @@ everyone has an iPhone and you want free, simple location sharing, plus help fin
 | Built around | Safety notifications: one answer each day, a Typical Day or an Unusual Day that might be worth a call | A live family map plus location history | Where people, devices, and items are, built into Apple devices |
 | Built for | Adults caring from a distance: parents, kids at college, siblings, and friends | Families of every stage, plus pets and items, with a page for aging parents | Anyone with an iPhone or other Apple device |
 | Place notifications | Arrivals and departures at places you save | Arrivals, departures, and no-shows at saved places | When a friend arrives at or leaves a place you choose |
-| Checking in | Nothing for a Loved One to start. Looop speaks up when a day looks unusual | Place alerts and no-show alerts | Check In, in Messages: the person being checked on starts each session with a timer or destination |
+| Checking in | Nothing for a Loved One to start. Looop speaks up when a day looks unusual | Place alerts and no-show alerts | Check In, in Messages: Apple says the person being checked on starts each session with a timer or destination <!-- VERIFY against Apple's Check In and Health Sharing guides before publishing --> |
 | Severe weather | Severe weather alerts in more than 50 countries | Severe weather alerts, through AccuWeather | Not part of Find My |
 | Nearby crime | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Safety Incidents: recent, high-severity events within one mile, US only. Free Circles see details for three in 24 hours | Not part of Find My |
 | Spending | Optional alerts for an unusually large charge on a linked account, through Plaid | Subscription Tracker for recurring charges, through Plaid. ID theft protection on paid plans | Not part of Find My |
-| Health & Fitness | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not offered | Health Sharing lives in Apple's Health app, separate from Find My |
+| Health & Fitness | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not offered | Apple says Health Sharing lives in its Health app, separate from Find My <!-- VERIFY against Apple's Check In and Health Sharing guides before publishing --> |
 | Driving | A nudge when a drive looks unusual, and a heads-up when a drive ends | Driving summaries and driver reports. Crash detection on paid plans | Not part of Find My |
 | Emergency help | 911 and up to three emergency contacts, one tap away. No dispatch or crash detection | SOS alerts. 24/7 emergency dispatch and roadside help on Gold and Platinum | Shares location over satellite on iPhone 14 and later, when there's no cell or Wi-Fi |
 | Items | Only people | Tile item trackers and pet products in the same app | AirTags and other items, with item sharing for up to five people |
@@ -71,30 +71,36 @@ everyone has an iPhone and you want free, simple location sharing, plus help fin
 
 Checked October 26, 2026, from the sources below. Apple's other tools, like Check In and Health Sharing, live in separate apps. Life360 and Find My offer things Looop doesn't, like Android support (Life360), crash detection and dispatch (Life360), and device and item finding (Find My). [See who each app is best for](#best-for).
 
-## Who each app is best for
+## What each app does well, and where it may fit better
 
 **Question:** "What is each one good at?"
 **Subtitle:** Each one is good at something. Here's who each fits.
 
-### Life360: Best for a live map with emergency help
+### What Life360 does well
 
 Life360 is one of the best-known family apps. It's built around a live family map with location history, place alerts, and driving reports, and it works on iPhone and Android. Paid plans add crash detection, and Gold and Platinum include SOS with 24/7 emergency dispatch and roadside help.
 
 It does more than location now. Severe weather alerts come through AccuWeather. Its [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) feature, new in 2026, puts recent, high-severity events within one mile on the map, with a notification. Its free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) links bank accounts through Plaid to show recurring charges across a Circle.
 
-Life360 also runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517). By connecting an account to Subscription Tracker, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance," according to its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker). Life360 has a history of selling location data to a dozen data brokers.
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
-**Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data shared with its partners.
+On data, Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517). Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting an account to Subscription Tracker, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance." Life360 has a history of selling location data to a dozen data brokers.
 
-### Apple Find My: Best for free location sharing on iPhone
+**Where Life360 may fit better:** families with Android phones, a household with a new teen driver, or anyone who wants crash detection on paid plans and 24/7 emergency dispatch on Gold and Platinum.
+
+**Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data being shared with its partners.
+
+### What Find My does well
 
 If everyone in your family has an iPhone, you already have [Find My](https://apps.apple.com/us/app/find-my/id1514844621). It's free and built in. You can share your location with friends and family for a set time or until you choose to stop, and Find My can [notify you](https://support.apple.com/guide/iphone/get-notified-when-a-friends-location-changes-iph843dd79b6/ios) when someone arrives at or leaves a place. It also finds Apple devices and AirTags, lets you share an item with up to five people, and can share location over satellite on iPhone 14 and later.
 
-Apple has other tools in separate places. [Check In](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/web), in Messages, lets someone start a check-in with a timer or a destination. If they don't respond, it shares their location, battery, and signal with the person they chose. Health Sharing, in the Health app, lets a person share Health data with family.
+Apple has other tools in separate places. According to [Apple's guide](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/web), Check In, in Messages, lets someone start a check-in with a timer or a destination, and if they don't respond, it shares their location, battery, and signal with the person they chose. Apple says Health Sharing, in the Health app, lets a person share Health data with family.
+
+<!-- VERIFY against Apple's Check In and Health Sharing guides before publishing -->
 
 Find My's App Store label has no "Data Used to Track You" section.
 
-**Best for:** all-iPhone families who want free, simple location sharing and help finding devices and items. Looop works alongside Find My.
+**Where Find My may fit better:** all-iPhone families who want free, simple location sharing and help finding devices and items. Looop works alongside Find My.
 
 ### Looop: Best for caring from a distance
 
@@ -147,7 +153,9 @@ Maybe not. Find My shows where someone is. Looop tells you how her day is going,
 
 ### Is Apple's Check In enough for checking on a parent?
 
-Check In works well for a single trip or evening. Each session is started by the person being checked on, with a timer or a destination. Looop has nothing for a parent to start. [Read more about Check In for parents](../answers/apple-check-in-for-parents.html).
+<!-- VERIFY against Apple's Check In and Health Sharing guides before publishing -->
+
+Check In works well for a single trip or evening. Apple says each session is started by the person being checked on, with a timer or a destination. Looop has nothing for a parent to start. [Read more about Check In for parents](../answers/apple-check-in-for-parents.html).
 
 ### Can I use Find My and Looop together?
 
@@ -176,7 +184,7 @@ Every fact about another app on this page comes from that company's own App Stor
 
 Facts checked October 26, 2026, unless a different date is noted. Features, prices, and policies change, so check each company's current offer before you decide.
 
-Life360, Apple, Find My, iPhone, and AirTag are trademarks of their respective owners. Looop is not affiliated with any of them.
+Life360, Apple, Apple Watch, Apple Health, Oura, Whoop, Find My, iPhone, AirTag, Android, and Tile are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 ## More comparisons
 

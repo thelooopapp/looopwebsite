@@ -36,6 +36,8 @@ There's a free plan. On the App Store, paid plans include $7.99 or $14.99 a mont
 
 ## What its privacy policy says
 
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
+
 iSharing's privacy policy, last revised May 21, 2026, says: "We may also share location information with third parties for advertising, research, and analytic purposes." Its App Store privacy label declares "Data Used to Track You" for purchases, location, contact info, identifiers, usage data, diagnostics, and other data.
 
 <!-- ARCHIVE: save a dated copy of iSharing's privacy policy (last revised May 21, 2026) on the day this page is published. Quote checked Oct 26, 2026. -->
@@ -81,4 +83,4 @@ Yes. Looop is built for adult children caring for a parent from a distance. She 
 
 Sources checked: October 26, 2026
 
-iSharing is a trademark of its owner. Looop is not affiliated with iSharing.
+Life360, Apple, and iSharing are trademarks of its owner. Looop is not affiliated with iSharing.

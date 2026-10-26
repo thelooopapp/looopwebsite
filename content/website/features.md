@@ -40,7 +40,7 @@ Image: lockscreen-phones.png
 ### When their day looks different
 
 - **Unusual Day.** A gentle nudge when something is off compared to their own normal routine.
-- **Unusual activity.** A nudge when driving, walking, or phone use doesn't fit their usual pattern. You won't need to review every drive.
+- **Unusual activity.** A nudge when driving, walking, or phone use doesn't look like their usual day. You won't need to review every drive.
 - **Phone untouched for hours.** A heads-up when their phone hasn't been picked up in a long while.
 - **Low battery.** A heads-up before their phone runs out of charge.
 - **Arrivals that matter.** Know when they arrive at a hospital or ER, a police station, or an airport.
@@ -108,7 +108,7 @@ Image: transparent_map.png
 
 Activity is what they're doing: today's walking, driving, and resting time, and how much they've used their phone. With Health & Fitness sharing, you can also see their fitness (steps and workouts) and their health (sleep, including deep, REM, and light sleep, and naps; heart rate; and breathing rate).
 
-Every stat is marked Typical or Unusual, based only on that person's own patterns. Works with Apple Health and Apple Watch.
+Every stat is marked Typical or Unusual, compared only with that person's own routine. Works with Apple Health and Apple Watch.
 
 [Read more about health and fitness alerts](apple-health.html)
 

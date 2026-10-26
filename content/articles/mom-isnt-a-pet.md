@@ -27,7 +27,7 @@ Nobody meant anything by it, but she noticed. That small moment says a lot about
 
 Some family apps have grown into a place for everything you might want to find. It helps to know about this trend before you invite a parent.
 
-Take Life360. Its own blog describes [adding Tile Bluetooth trackers](https://www.life360.com/blog/meet-the-improved-life360) to the Life360 app, so families can see their Tiles and family members in one place. In October 2025 it introduced a [pet GPS tracker](https://www.life360.com/blog/life360-pet-gps) that puts a pet on the same Life360 map. Its own product page invites families to keep [people, pets and things all on one map](https://www.life360.com/learn/trackyourpetinrealtime).
+Take Life360. Its own blog describes [adding Tile Bluetooth trackers](https://www.life360.com/blog/meet-the-improved-life360) to the Life360 app, so families can see their Tiles and family members in one place. In October 2025 it introduced a [pet GPS tracker](https://www.life360.com/blog/life360-pet-gps) that puts a pet on the same Life360 map. Its own product page invites families to keep [people, pets, and things all on one map](https://www.life360.com/learn/trackyourpetinrealtime).
 
 On August 25, 2026, the company [announced more pet products](https://investors.life360.com/news-releases/news-release-details/life360-announces-new-pet-care-products-so-no-one-forgets-fido): a QR code collar tag, "Zoomies" alerts for when a pet has a burst of energy, and a weekly roundup of a pet's routine. Life360's map now includes Lost Pet Alerts, too.
 
@@ -67,7 +67,7 @@ In practice, that means:
 
 - **Quiet when all is well.** If Mom's day looks like her usual day, Looop stays quiet.
 - **A heads-up on what's around her.** You'll hear when severe weather is heading toward her town, and when crime is reported near her in all 50 US states.
-- **A gentle nudge when her day looks different.** If her driving, walking, or phone use doesn't fit her own usual pattern, Looop suggests it might be a good time to check in.
+- **A gentle nudge when her day looks different.** If her driving, walking, or phone use doesn't look like her usual day, Looop suggests it might be a good time to check in.
 - **Health & Fitness sharing, if you need it.** Heart rate, sleep, and steps are available and optional.
 
 There's a family map, too, as a supporting feature for the moment after a nudge. It's the place to look once Looop has told you something seems off.

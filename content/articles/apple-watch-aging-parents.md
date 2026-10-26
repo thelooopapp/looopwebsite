@@ -39,7 +39,7 @@ The data reaches you in four steps.
 
 **3. Looop reads only what your parent allows.** If your parent says yes, Looop reads the categories they turned on. Looop only reads from Apple Health. It doesn't write anything back.
 
-**4. You see a calm summary.** Each stat is marked Typical or Unusual, based on your parent's own patterns. If something stands out, Looop gives you a gentle nudge that it might be a good time to check in.
+**4. You see a calm summary.** Each stat is marked Typical or Unusual, compared with your parent's own routine. If something stands out, Looop gives you a gentle nudge that it might be a good time to check in.
 
 That's why there's no extra watch app to install, update, or charge. If your parent already wears the watch and carries the phone, the pieces are in place.
 

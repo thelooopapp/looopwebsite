@@ -34,7 +34,7 @@ Glympse is built for temporary location sharing: you share for a set time, the p
 | | Looop | Glympse |
 | --- | --- | --- |
 | What it is | A safety notifications app that tells you when to check in | A location sharing app for temporary shares that expire |
-| Built for | Families who care from a distance: a parent far away, kids at college, siblings and friends | Sharing with friends, family, coworkers, or clients while you're on the way |
+| Built for | Families who care from a distance: a parent far away, kids at college, siblings, and friends | Sharing with friends, family, coworkers, or clients while you're on the way |
 | How sharing works | Loved Ones join your Looop by invitation, and it works quietly in the background | You start a share for a set time, and "location sharing expires automatically" |
 | Who can view | Everyone joins Looop on iPhone | Anyone you send a link to, in any browser, with no sign-up |
 | What you hear about | Severe weather, nearby crime, unusual activity, and a daily Typical Day or Unusual Day. Health & Fitness sharing and spending alerts are available if you need them. | Live shares, private Groups, and ETAs |
@@ -123,7 +123,7 @@ Every fact about Glympse on this page comes from its App Store listing.
 
 Facts checked October 26, 2026. Features, prices, and policies change, so check each company's current offer before you decide.
 
-Glympse is a trademark of its respective owner. Looop is not affiliated with it.
+Life360, Glympse, Apple Watch, Apple Health, Oura, Whoop, and Find My are trademarks of its respective owner. Looop is not affiliated with it.
 
 ### More comparisons
 

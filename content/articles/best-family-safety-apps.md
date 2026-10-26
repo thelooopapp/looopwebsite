@@ -57,9 +57,11 @@ So we sorted the field by what you need. We recommend other apps where they fit 
 
 Life360 is one of the best-known family apps, and new drivers are a big part of its appeal. It offers driving summaries and individual driver reports, crash detection on paid plans, and SOS with 24/7 emergency dispatch and roadside help on Gold and Platinum. It works on iPhone and Android, and paid plans are listed from $9.99 to $24.99 on the App Store.
 
-It also offers severe weather alerts, [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) on the map, and a [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) that links bank accounts through Plaid. By connecting one, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance," according to its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker). Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517) and has a history of selling location data to a dozen data brokers.
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
-**Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data shared with its partners.
+It also offers severe weather alerts, [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) on the map, and a [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) that links bank accounts through Plaid. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting one, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance." Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517) and has a history of selling location data to a dozen data brokers.
+
+**Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data being shared with its partners.
 
 ### GeoZilla
 
@@ -132,4 +134,4 @@ Whatever you choose, talk with each person first, show them what's shared, and m
 
 Facts checked: October 26, 2026
 
-Findmykids, Google Family Link, Life360, GeoZilla, Glympse, Apple, Find My, and iPhone are trademarks of their respective owners. Looop is not affiliated with any of them.
+Findmykids, Google Family Link, Life360, GeoZilla, Glympse, Apple, Apple Watch, Apple Health, Find My, iPhone, and Android are trademarks of their respective owners. Looop is not affiliated with any of them.

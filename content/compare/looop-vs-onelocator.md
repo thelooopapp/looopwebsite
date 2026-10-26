@@ -34,7 +34,7 @@ OneLocator is a free, ad-supported family locator built around one shared map, w
 | | Looop | OneLocator |
 | --- | --- | --- |
 | What it is | A safety notifications app that tells you when to check in | A family locator ("family locator & kids finder") |
-| Built for | Families who care from a distance: a parent far away, kids at college, siblings and friends | Everyday family coordination, like checking that a child got to school |
+| Built for | Families who care from a distance: a parent far away, kids at college, siblings, and friends | Everyday family coordination, like checking that a child got to school |
 | The map | A family map for when you need it | Family members on one live map, with location history and trip details |
 | Places | Arrival and departure alerts at places you save | Safe Zone arrival and departure alerts |
 | Driving | A nudge when a drive looks unusual, and a heads-up when a drive ends. No driving reports. | Driving Reports |
@@ -121,7 +121,7 @@ Every fact about OneLocator on this page comes from its App Store listing.
 
 Facts checked October 26, 2026. Features, prices, and policies change, so check each company's current offer before you decide.
 
-OneLocator is a trademark of its respective owner. Looop is not affiliated with it.
+Life360, Apple, Apple Watch, Apple Health, Oura, Whoop, OneLocator, Find My, Findo, Famio, Familo, Carpin, and Be Closer are trademarks of its respective owner. Looop is not affiliated with it.
 
 ### More comparisons
 

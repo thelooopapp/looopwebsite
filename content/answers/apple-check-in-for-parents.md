@@ -70,4 +70,4 @@ No. Looop isn't an emergency service. It tells you when it might be a good time 
 
 Sources checked: October 26, 2026
 
-Apple, iPhone, and Find My are trademarks of their respective owners. Looop is not affiliated with any of them.
+Life360, Apple, iPhone, and Find My are trademarks of their respective owners. Looop is not affiliated with any of them.

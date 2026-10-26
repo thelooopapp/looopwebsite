@@ -19,7 +19,7 @@ legal_notes: "Names a competitor (Family Nest, formerly Family360). Facts from C
 
 # Is Family Nest the Same as Family360?
 
-Yes. Family Nest is the app that used to be called Family360. Its App Store description calls it "same app, new name, and Circles are now called Nests," and its version notes say "Family360 is now Family Nest."
+Yes. Family Nest is the app that used to be called Family360. Its App Store description says it's the "same app, new name, and Circles are now called Nests." Its version notes say "Family360 is now Family Nest."
 
 One thing to watch for: Family Nest isn't related to "FamilyNest - Family Organizer," which is a different app.
 
@@ -29,13 +29,15 @@ From its App Store listing, checked October 26, 2026:
 
 - **Free:** private "Nests" with chat, a live map, live location sharing for trips, place alerts for home, school, and work, over-speed alerts, a phone locator, and SOS.
 - **Premium:** real-time tracking with arrival times, 365 days of history, travel statistics, unlimited places, and priority support, for $5.99 a month or $39.99 a year.
-- **Also:** a weekly "Nest Drive" driving score, an Apple Watch app, and an Android version.
+- **Also:** a weekly "Nest Drive" driving score and an Android version.
+
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 The listing notes that the app contains advertising. Its privacy policy, effective September 23, 2026, says, "We do not sell personal data to third parties."
 
 ## What it does well
 
-Family Nest gives families a lot for free, including SOS and place alerts. It runs on iPhone, Android, and Apple Watch, and its driving score is handy for a household with a new driver.
+Family Nest gives families a lot for free, including SOS and place alerts. It runs on iPhone and Android, and its driving score is handy for a household with a new driver.
 
 ## How Looop takes a different approach
 
@@ -61,6 +63,8 @@ No. "FamilyNest - Family Organizer" is a different app.
 
 ### Does Family Nest sell data?
 
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
+
 Its privacy policy, effective September 23, 2026, says, "We do not sell personal data to third parties." Its App Store listing notes that the app contains advertising.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
@@ -72,4 +76,4 @@ Its privacy policy, effective September 23, 2026, says, "We do not sell personal
 
 Sources checked: October 26, 2026
 
-Family Nest, Family360, Apple Watch, and Android are trademarks of their respective owners. Looop is not affiliated with any of them.
+Family Nest, Family360, Life360, Apple, and Android are trademarks of their respective owners. Looop is not affiliated with any of them.

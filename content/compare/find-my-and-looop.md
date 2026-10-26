@@ -34,13 +34,13 @@ Apple Find My shows where people, devices, and AirTags are, and it's free on eve
 
 | | Looop | Apple (Find My, Check In, Health Sharing) |
 | --- | --- | --- |
-| Built around | Safety notifications: is today a typical day, or one that might be worth a call? | Find My: people, devices, and AirTags on a map. Check In: a session in Messages for one trip or a set time |
-| Who starts it | Nothing for your Loved One to start. Looop works quietly in the background once they've joined | Check In: the person being checked on starts each session, with a timer or a destination |
+| Built around | Safety notifications: is today a typical day, or one that might be worth a call? | Find My: people, devices, and AirTags on a map. Check In: according to [Apple's guide](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/web), a session in Messages for one trip or a set time <!-- VERIFY against Apple's Check In and Health Sharing guides before publishing --> |
+| Who starts it | Nothing for your Loved One to start. Looop works quietly in the background once they've joined | Check In: Apple says the person being checked on starts each session, with a timer or a destination <!-- VERIFY against Apple's Check In and Health Sharing guides before publishing --> |
 | Where it lives | All in one place, on one calm screen | Separate places: Find My, Messages, and the Health app |
 | Weather | Severe weather alerts in more than 50 countries | Apple's Weather app is separate from Find My |
 | Crime alerts | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Not listed |
 | Spending alerts | Optional: a heads-up about an unusually large charge on a linked account, through Plaid | Not listed |
-| Health | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Health Sharing, in the Health app, lets a person share Health data with family |
+| Health | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Apple says Health Sharing, in the Health app, lets a person share Health data with family <!-- VERIFY against Apple's Check In and Health Sharing guides before publishing --> |
 | A daily answer | Each day, one answer: a Typical Day, or an Unusual Day that might be worth a call | Not listed |
 | Location | A family map, as a supporting feature, for after a nudge | Share location with friends and family for a set time or until you stop, and know when a family member arrives home |
 | Lost devices and items | Not offered | Find a lost iPhone, iPad, Mac, AirPods, or AirTag, and share an AirTag with up to five people |
@@ -69,11 +69,15 @@ On iPhone 14 and later, Find My can share location over satellite when there's n
 
 ### Check In for one trip
 
-Check In in Messages lets someone tell a friend or family member they got home, for a walk home or a drive across town.
+According to [Apple's guide](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/web), Check In in Messages lets someone tell a friend or family member they got home, for a walk home or a drive across town.
+
+<!-- VERIFY against Apple's Check In and Health Sharing guides before publishing -->
 
 ### Health Sharing
 
-In the Health app, a person can share Health data with family.
+Apple says a person can share Health data with family in the Health app.
+
+<!-- VERIFY against Apple's Check In and Health Sharing guides before publishing -->
 
 ### Privacy you can check
 
@@ -100,13 +104,15 @@ Looop is built for adult children caring from a distance, and for siblings who w
 
 ### Nothing for Mom to start
 
-Check In works when the person starts a session. Looop works quietly in the background once she's joined, so there are no sessions, timers, or check-ins for her to remember. She lives her day.
+<!-- VERIFY against Apple's Check In and Health Sharing guides before publishing -->
+
+Apple says Check In works when the person starts a session. Looop works quietly in the background once she's joined, so there are no sessions, timers, or check-ins for her to remember. She lives her day.
 
 ### Your family's data isn't for sale
 
 Like Find My, Looop's App Store privacy label has no "Data Used to Track You" section. Looop never sells your data and doesn't work with advertisers.
 
-Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect falls or crashes. If you think someone is in danger, call 911 first.
+Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect emergencies. If you think someone is in danger, call 911 first.
 
 ## How families use both
 
@@ -161,13 +167,14 @@ Find My answers "Where is she?" Looop answers "Is Mom okay today?" It tells you 
 Yes. Looop works alongside Find My. Keep Find My for her phone, her AirTags, and sharing location. Looop runs on its own and adds the heads-up about her day.
 
 **Does Apple's Check In work for checking on a parent?**
-Check In works well for one walk or one drive. The person being checked on starts each session in Messages, with a timer or a destination. Looop doesn't need Mom to start anything. [Read the full answer](../answers/apple-check-in-for-parents.html).
+<!-- VERIFY against Apple's Check In and Health Sharing guides before publishing -->
+Check In works well for one walk or one drive. According to [Apple's guide](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/web), the person being checked on starts each session in Messages, with a timer or a destination. Looop doesn't need Mom to start anything. [Read the full answer](../answers/apple-check-in-for-parents.html).
 
 **Does Looop work with Apple Watch and Apple Health?**
 Yes. If your Loved One wears an Apple Watch, Oura Ring, or Whoop, Health & Fitness sharing through Apple Health is available if you need it. Nothing new to install on the watch.
 
 **Is Looop an emergency service?**
-Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect falls or crashes. If you think someone is in danger, call 911 first.
+Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect emergencies. If you think someone is in danger, call 911 first.
 
 ## Sources
 
@@ -179,7 +186,7 @@ Facts about Apple's tools come from Apple's own App Store listing and guides.
 
 Facts checked October 26, 2026. Features, prices, and policies change, so check each company's current offer before you decide.
 
-Apple, Find My, iPhone, AirTag, Apple Watch, and Apple Health are trademarks of their respective owners. Looop is not affiliated with any of them.
+Life360, Apple, Find My, iPhone, AirTag, Apple Watch, Apple Health, Oura, Whoop, iSharing, GeoZilla, Family Nest, and Family360 are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 ## Compare more family safety apps
 

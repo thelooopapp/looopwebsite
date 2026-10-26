@@ -46,7 +46,7 @@ iSharing is a location sharing app built around a live map, with place alerts, l
 | Driving | A nudge when a drive looks unusual. No crash detection | Driving reports on speeding, sudden braking, and phone use (Gold and up) |
 | Map and history | A family map, as a supporting feature, for after a nudge | Real-time location with Street View, place alerts, and location history from 7 days to 1 year, by plan |
 | Find a lost phone | Not offered | Find My Device |
-| Ads and data | No ads, and no advertisers. Data never for sale | Its privacy policy says: "We may also share location information with third parties for advertising, research, and analytic purposes." |
+| Ads and data | No ads, and no advertisers. Data never for sale | Its privacy policy says: "We may also share location information with third parties for advertising, research, and analytic purposes." <!-- ARCHIVE: save dated copy of the quoted page before publishing --> |
 | "Data Used to Track You" on its App Store label | No "Data Used to Track You" section | Yes: purchases, location, contact info, identifiers, usage data, diagnostics, and other data |
 | Price | Free for the first two weeks | Free plan. Premium from $7.99 a month or $69.99 a year on the App Store list, with a seven-day free trial |
 
@@ -103,9 +103,11 @@ Looop is built for adult children caring from a distance, and for siblings and f
 
 Looop never sells your data and doesn't work with advertisers. Looop's App Store privacy label has no "Data Used to Track You" section.
 
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
+
 iSharing's [privacy policy](https://isharingsoft.com/privacy_policy), last revised May 21, 2026, says: "We may share your personal information, including your location data, with third parties for marketing purposes." Its App Store label lists location, identifiers, and five other kinds of data as "Data Used to Track You."
 
-Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect falls or crashes. If you think someone is in danger, call 911 first.
+Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect emergencies. If you think someone is in danger, call 911 first.
 
 ## Where iSharing may fit better
 
@@ -149,7 +151,7 @@ iSharing offers what it calls "Elderly Care": an alert when an older person does
 No. Looop never sells your data and doesn't work with advertisers. Bank linking is optional, runs through Plaid, and is never used for ads.
 
 **Is Looop an emergency service?**
-Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect falls or crashes. If you think someone is in danger, call 911 first.
+Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect emergencies. If you think someone is in danger, call 911 first.
 
 ## Sources
 
@@ -164,7 +166,7 @@ Facts about iSharing come from its own App Store listing, website, privacy polic
 
 Facts checked October 26, 2026. Features, prices, and policies change, so check each company's current offer before you decide.
 
-iSharing, Life360, and Apple are trademarks of their respective owners. Looop is not affiliated with any of them.
+iSharing, Life360, Apple, Apple Watch, Apple Health, Oura, Whoop, Find My, GeoZilla, Family Nest, and Family360 are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 ## Compare more family safety apps
 

@@ -43,7 +43,7 @@ Everything below compares Looop with the app as it's listed today.
 | | Looop | Family Nest |
 | --- | --- | --- |
 | Built around | Safety notifications: is today a typical day, or one that might be worth a call? | A shared family map, with live location sharing in private groups it calls Nests |
-| Who it's for | Adult children caring for a parent from a distance, and families spread across cities, states, and countries | Parents and kids, new drivers, couples, and travel groups. It mentions elderly care as one use |
+| Who it's for | Adult children caring for a parent from a distance, and families spread across cities, states, and countries | Parents and kids, new drivers, couples, and travel groups. Its description lists "Elderly care: gentle arrival and departure alerts" as one use |
 | Weather alerts | Severe weather alerts in more than 50 countries | Weather is shown in the app. Alerts are not listed |
 | Crime alerts | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Not listed |
 | Spending alerts | Optional: a heads-up about an unusually large charge on a linked account, through Plaid | Not listed |
@@ -54,7 +54,7 @@ Everything below compares Looop with the app as it's listed today.
 | Map and history | A family map, as a supporting feature, for after a nudge | Live map, place alerts, and trip sharing. Premium adds up to 365 days of history |
 | Platforms | iPhone | iPhone and Android |
 | Ads | No ads, and no advertisers | Its App Store listing notes advertising |
-| Selling data | Never sold | Its privacy policy says: "We do not sell personal data to third parties." |
+| Selling data | Never sold | Its privacy policy says: "We do not sell personal data to third parties." <!-- ARCHIVE: save dated copy of the quoted page before publishing --> |
 | "Data Used to Track You" on its App Store label | No "Data Used to Track You" section | No "Data Used to Track You" section |
 | Price | Free for the first two weeks | Free plan. Premium is $5.99 a month or $39.99 a year |
 
@@ -70,7 +70,7 @@ Private Nests with chat, a live map, trip sharing, place alerts for home, school
 
 ### Driving feedback
 
-Nest Drive gives a weekly driving score based on hard brakes and speeding, which can help a new driver.
+Nest Drive gives a weekly driving score, which can help a new driver.
 
 ### iPhone and Android
 
@@ -107,7 +107,7 @@ Looop is made by LooopApp LLC, an independent startup in Austin, Texas, that lau
 
 Neither app's App Store label has a "Data Used to Track You" section. The difference is ads: Family Nest's listing notes advertising, and Looop has none. We never sell your data and don't work with advertisers.
 
-Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect falls or crashes. If you think someone is in danger, call 911 first.
+Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect emergencies. If you think someone is in danger, call 911 first.
 
 ## Where Family Nest may fit better
 
@@ -145,6 +145,8 @@ Yes. Family Nest's App Store listing says it was formerly Family360: the same ap
 Not really. Family Nest is a family locator built around a map, with place alerts, speed alerts, and SOS. Looop is a safety notifications app that brings weather, crime, spending, health, fitness, activity, and the shape of each day together, and stays quiet when all is well.
 
 **Does Family Nest sell my data?**
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
+
 Its privacy policy, effective September 23, 2026, says: "We do not sell personal data to third parties." Looop never sells your data either, and it doesn't work with advertisers.
 
 **Can I use Family Nest and Looop together?**
@@ -164,7 +166,7 @@ Facts about Family Nest come from its own App Store listing, website, and privac
 
 Facts checked October 26, 2026. Features, prices, and policies change, so check each company's current offer before you decide.
 
-Family Nest, Family360, Life360, and Apple are trademarks of their respective owners. Looop is not affiliated with any of them.
+Family Nest, Family360, Life360, Apple, Apple Watch, Apple Health, Oura, Whoop, Find My, iSharing, GeoZilla, and Android are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 ## Compare more family safety apps
 

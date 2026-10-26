@@ -18,6 +18,8 @@ legal_notes: "Names a competitor (Life360). The transaction-data sentence is quo
 
 # What Does Life360's Subscription Tracker Do With Bank Data?
 
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
+
 Life360's Subscription Tracker connects your checking accounts and credit cards through Plaid and finds the recurring charges on them. Life360's own setup page also says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance."
 
 Here's what the feature does, and what to ask before you link an account to any family app.
@@ -35,6 +37,8 @@ According to Life360's help page:
 Neither page mentions alerts for unusually large charges, fraud, or scams.
 
 ## What Life360's terms say about your transaction data
+
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 Life360's [Set Up Subscription Tracker](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) page says that by connecting an account, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance."
 

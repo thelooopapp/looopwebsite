@@ -14,14 +14,14 @@ placeholders:
 ## A review of 25 family safety apps also finds clean labels from Apple, Google, Verizon, AT&T, and T-Mobile, and from two parental control apps
 
 
-**AUSTIN, Texas, [DATE]:** Fourteen of 15 family location apps declare "Data Used to Track You" on their App Store privacy labels, according to a review of 25 family safety apps published today by Looop, the safety notifications app for families who care from a distance. Seven of the 15 also list "Contains: Advertising" on their App Store pages.
+**AUSTIN, Texas, [DATE]:** Fourteen of 15 family location apps declare "Data Used to Track You" on their App Store privacy labels, according to a review of 25 family safety apps published today by Looop, the safety notifications app for families who care from a distance. Seven of the 15 also list "Contains: Advertising" on their App Store pages. <!-- RECHECK: iSharing "contains advertising" (7 of 15 or 6 of 15) -->
 
 Looop read the US App Store listing of each app on October 26, 2026, and recorded what each developer declares, in Apple's terms. The full table, method, and sources are at https://www.thelooopapp.com/research/family-safety-app-privacy-labels.html.
 
 **What the labels say**
 
 - **Family location apps:** 14 of 15 declare "Data Used to Track You." Apps that declare it include Life360, iSharing, GeoZilla, Glympse, and Findmykids. Family Nest is the one family location app without the section.
-- **Advertising:** 7 of the 15 family location apps list "Contains: Advertising" in their Age Rating section.
+- **Advertising:** 7 of the 15 family location apps list "Contains: Advertising" in their Age Rating section. <!-- RECHECK: iSharing "contains advertising" (7 of 15 or 6 of 15) -->
 - **Platform and carrier apps:** none of Apple Find My, Google Family Link, Verizon Family, AT&T Secure Family, or T-Mobile FamilyMode declares "Data Used to Track You" or lists advertising.
 - **Across all 24 apps from other developers:** 16 declare "Data Used to Track You," and Identifiers is the most common data type in that section, on 14 of those 16 labels.
 - **Clean labels:** seven apps from other developers have neither a "Data Used to Track You" section nor "Contains: Advertising": Find My, Google Family Link, Verizon Family, AT&T Secure Family, T-Mobile FamilyMode, Kidslox, and OurPact. OurPact's label lists a single data type, Contact Info, for App Functionality.

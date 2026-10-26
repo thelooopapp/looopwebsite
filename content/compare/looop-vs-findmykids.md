@@ -34,7 +34,7 @@ Findmykids is built for parents of young kids, with a child's location, place al
 | | Looop | Findmykids |
 | --- | --- | --- |
 | What it is | A safety notifications app that tells you when to check in | A family locator for parents of young kids |
-| Built for | Grown-up families who care from a distance: aging parents, kids at college, siblings and friends | Parents of children, including kids with GPS watches |
+| Built for | Grown-up families who care from a distance: aging parents, kids at college, siblings, and friends | Parents of children, including kids with GPS watches |
 | SOS | No SOS button. Looop isn't an emergency service. | An SOS button a child can press to alert a parent |
 | Loud signal | Not offered | A signal that can be heard even on silent or inside a backpack |
 | Places | Arrival and departure alerts at places you save | Arrival and departure alerts for places like school and home |
@@ -121,7 +121,7 @@ Every fact about Findmykids on this page comes from its App Store listing.
 
 Facts checked October 26, 2026. Features, prices, and policies change, so check each company's current offer before you decide.
 
-Findmykids is a trademark of its respective owner. Looop is not affiliated with it.
+Findmykids, Apple Watch, Apple Health, Oura, Whoop, GeoZilla, Family Nest, Family360, Famio, Familo, Carpin, and Be Closer are trademarks of its respective owner. Looop is not affiliated with it.
 
 ### More comparisons
 

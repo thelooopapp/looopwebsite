@@ -35,7 +35,7 @@ Verizon Family, AT&T Secure Family, and T-Mobile FamilyMode are built mostly for
 | --- | --- | --- | --- | --- |
 | What it is | A safety notifications app that tells you when to check in | Parental controls and locator | Parental controls and location | "Locate and protect your child" |
 | Made by | LooopApp LLC, Austin, Texas. Works on any carrier. | Verizon Wireless | AT&T Services | T-Mobile USA |
-| Built for | Grown-up families: aging parents, kids at college, siblings and friends | Families with kids; its release notes mention Adult Check-Ins | Kids, for up to 10 members and 30 devices, with a paired Companion app | Parents of children |
+| Built for | Grown-up families: aging parents, kids at college, siblings, and friends | Families with kids; its release notes mention Adult Check-Ins | Kids, for up to 10 members and 30 devices, with a paired Companion app | Parents of children |
 | Screen time and filters | Not offered | Content filters and screen time | Content filters | Screen time and content filters |
 | SOS and emergencies | No SOS button. Looop isn't an emergency service. | Safe Walk SOS (the listing says it doesn't contact 911) | A family emergency alert | SOS |
 | Also includes | Severe weather, nearby crime, unusual activity, and a daily Typical Day or Unusual Day. Health & Fitness sharing and spending alerts are available if you need them. | Location, check-ins, driving insights, crash detection alerts, roadside help, and Gizmo watch support | A family map, location history, arrival alerts, check-ins, a driving score, and crash alerts | Check-in and location |
@@ -120,7 +120,7 @@ Every fact about these apps on this page comes from their App Store listings.
 
 Facts checked October 26, 2026. Features, prices, and policies change, so check each company's current offer before you decide.
 
-Verizon, Verizon Family, AT&T, AT&T Secure Family, T-Mobile, T-Mobile FamilyMode, and Gizmo are trademarks of their respective owners. Looop is not affiliated with any of them.
+Life360, Verizon, Verizon Family, AT&T, AT&T Secure Family, T-Mobile, T-Mobile FamilyMode, Gizmo, Apple Watch, Apple Health, Oura, Whoop, Find My, and OnStar Guardian are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 ### More comparisons
 

@@ -48,9 +48,9 @@ We looked at the same four things for every app:
 | App | What it is | What it notifies you about | Ads and data | Works on |
 | --- | --- | --- | --- | --- |
 | Life360 | Precision GPS tracking, with your movements recorded and stored | Arrivals, departures, and missed arrivals at set places; severe weather; recent high-severity incidents within one mile (US) | Runs an ad business; its Subscription Tracker terms allow transaction data to be used for ads; has a history of selling location data to brokers | iPhone and Android |
-| iSharing | Location sharing with a live map and location history | Place alerts, SOS, a quiet-phone alert (Elderly Care), and driving reports on paid plans | Policy allows sharing location with third parties for advertising; App Store label declares "Data Used to Track You" | iPhone |
+| iSharing | Location sharing with a live map and location history | Place alerts, SOS, a quiet-phone alert (Elderly Care), and driving reports on paid plans | Policy allows sharing location with third parties for advertising; App Store label declares "Data Used to Track You" | Not checked |
 | GeoZilla | A family locator with a map, location history, and check-ins | Place arrivals, a help alert, battery, and driving (speeding, phone use) | App Store label declares "Data Used to Track You" (identifiers) | iPhone and Apple Watch |
-| Family Nest (formerly Family360) | A family locator built around private "Nests" with a map and chat | Place alerts, over-speed alerts, and SOS | Policy says it doesn't sell personal data; App Store lists it as containing advertising | iPhone, Apple Watch, and Android |
+| Family Nest (formerly Family360) | A family locator built around private "Nests" with a map and chat | Place alerts, over-speed alerts, and SOS | Policy says it doesn't sell personal data; App Store lists it as containing advertising | iPhone and Android |
 | Apple Find My | Location sharing built into Apple devices | Arrives at, leaves, or isn't at a place you choose | Apple says shared location isn't accessible to Apple when both people are on iOS 17 or later | Apple devices |
 | Google Maps and Find Hub | Location sharing in Google's apps | Arrives at or leaves a place you choose | Google says it never sells personal information; it does use location for ads, depending on settings | Google Maps: iPhone and Android |
 | Google Family Link | Parental controls for kids and teens, with location | A child's arrivals and departures | Kids may see ads, but not personalized ones | Parent: iPhone or Android. Child: Android or Chromebook |
@@ -78,8 +78,6 @@ Life360 also has a history of selling location data to a dozen data brokers. [Th
 
 **Platforms.** iPhone and Android, with app links on [Life360's site](https://www.life360.com/).
 
-**Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data shared with its partners.
-
 Compare them side by side in [Looop vs. Life360](../looop-vs-life360.html).
 
 ## iSharing
@@ -87,6 +85,8 @@ Compare them side by side in [Looop vs. Life360](../looop-vs-life360.html).
 **What it is.** iSharing, from iSharingSoft in Irvine, California, is one of the apps closest to Life360. Its [App Store listing](https://apps.apple.com/us/app/id416436167) describes a live map with Street View, place alerts for home, work, and school, location history from 7 days to a year depending on plan, a panic alert that records sound, messaging, and Meetups for temporary group sharing.
 
 **Notifications.** Its Elderly Care feature sends an alert when an older person doesn't use their phone. Battery and inactivity alerts come with Silver and up, and driving reports for speeding, sudden braking, and phone use come with Gold and up.
+
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 **Privacy and ads.** iSharing's [privacy policy](https://isharingsoft.com/privacy_policy), last revised May 21, 2026, says: "We may also share location information with third parties for advertising, research, and analytic purposes." Its App Store privacy label declares "Data Used to Track You," including location, identifiers, and usage data.
 
@@ -98,7 +98,7 @@ See [Looop vs. iSharing](../compare/looop-vs-isharing.html) and [Life360 vs. iSh
 
 ## GeoZilla
 
-**What it is.** GeoZilla, from GZ TECH LTD, calls itself a family GPS tracker. Its [App Store listing](https://apps.apple.com/us/app/-/id981856216) describes place arrival alerts, location history, check-ins, chat, battery levels, a help alert, driving insights for speeding and phone use, and an Apple Watch app. Its description says it suits families with elderly relatives as well as teens.
+**What it is.** GeoZilla, from GZ TECH LTD, calls itself a family GPS tracker. Its [App Store listing](https://apps.apple.com/us/app/-/id981856216) describes place arrival alerts, location history, check-ins, chat, battery levels, a help alert, driving insights for speeding and phone use, and an Apple Watch app. Its description says it suits families with older relatives as well as teens.
 
 **Privacy and ads.** Its App Store privacy label declares "Data Used to Track You" for identifiers.
 
@@ -110,13 +110,15 @@ See [Looop vs. GeoZilla](../compare/looop-vs-geozilla.html) and [Life360 vs. Geo
 
 ## Family Nest (formerly Family360)
 
-**What it is.** If you've seen "Life360 vs. Family360," this is that app. Its store pages now read "Family Nest (ex Family360)." Families join private "Nests" with chat, a live map, place alerts for home, school, and work, over-speed alerts, a phone locator, and SOS, all free, according to its [App Store listing](https://apps.apple.com/us/app/-/id1537446782). Premium adds real-time tracking with ETA, 365 days of history, and travel statistics. It also has a weekly Nest Drive driving score, an Apple Watch app, and shows the weather through OpenWeatherMap.
+**What it is.** If you've seen "Life360 vs. Family360," this is that app. Its store pages now read "Family Nest (ex Family360)." Families join private "Nests" with chat, a live map, place alerts for home, school, and work, over-speed alerts, a phone locator, and SOS, all free, according to its [App Store listing](https://apps.apple.com/us/app/-/id1537446782). Premium adds real-time tracking with ETA, 365 days of history, and travel statistics. It also has a weekly Nest Drive driving score and shows the weather through OpenWeatherMap.
+
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 **Privacy and ads.** Family Nest's [privacy policy](https://www.familynestapp.com/privacy-policy), effective September 23, 2026, says: "We do not sell personal data to third parties." Its App Store listing notes that the app contains advertising.
 
 **Price.** $5.99 a month or $39.99 a year on the App Store.
 
-**Platforms.** iPhone, Apple Watch, and Android.
+**Platforms.** iPhone and Android.
 
 **Who it fits.** Families with kids, new drivers, couples, or a travel group who want an affordable shared map with SOS and speed alerts, across iPhone and Android.
 
@@ -208,6 +210,8 @@ Looop takes a holistic approach to family care: weather, crime, spending, health
 
 **Who it fits.** Adults who care from a distance, like grown kids with parents in another state or parents of college students, who want to know when to call without hovering.
 
+**Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data being shared with its partners.
+
 **Choose Looop if you want safety alerts instead of tracking, a nudge when a drive looks unusual, no ads ever, and your family's data never for sale. Peace of mind for you, independence for them.**
 
 ## Which one is right for you?
@@ -219,7 +223,7 @@ Start with the people on the other end. What would they agree to, and what would
 - **A mix of iPhone and Android:** Google Maps location sharing.
 - **A Life360-style map with SOS, driving reports, and an alert when a parent's phone goes quiet:** iSharing.
 - **A map with check-ins, driving insights, and an Apple Watch app:** GeoZilla.
-- **An affordable family map on iPhone, Android, and Apple Watch:** Family Nest.
+- **An affordable family map on iPhone and Android:** Family Nest.
 - **Sharing for one trip or night out:** Glympse.
 - **A parent who still drives and could need help after a crash:** OnStar Guardian, alongside a daily heads-up from Looop.
 - **You'll pay more for precision GPS tracking and driving details recorded and stored, and you're fine with targeted ads:** Life360.
@@ -277,4 +281,4 @@ Looop stays quiet when all is well and nudges you when it's worth a call.
 
 Facts checked: October 2026. iSharing, GeoZilla, Family Nest, OnStar Guardian, and Life360's Safety Incidents and Subscription Tracker checked October 26, 2026.
 
-Life360, iSharing, GeoZilla, Family Nest, Apple, Find My, Google, Find Hub, Family Link, Glympse, OnStar, and OnStar Guardian are trademarks of their respective owners. Looop is not affiliated with any of them.
+Life360, iSharing, GeoZilla, Family Nest, Family360, Apple, Apple Watch, Find My, Google, Android, Google Maps, Find Hub, Family Link, Glympse, OnStar, and OnStar Guardian are trademarks of their respective owners. Looop is not affiliated with any of them.

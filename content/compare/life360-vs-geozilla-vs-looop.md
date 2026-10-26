@@ -69,22 +69,26 @@ you want a family map with place alerts, an emergency alert, driving insights, a
 
 Checked October 26, 2026, from the sources below. "Not listed" means we didn't see it on the app's App Store listing or website that day; features change. Life360 and GeoZilla offer things Looop doesn't, like an emergency alert, driving insights, and an Apple Watch app. [See who each app is best for](#best-for).
 
-## Who each app is best for
+## What each app does well, and where it may fit better
 
 **Question:** "What is each one good at?"
 **Subtitle:** Each one is good at something. Here's who each fits.
 
-### Life360: Best for a live map with emergency help
+### What Life360 does well
 
 Life360 is one of the best-known family apps. It's built around a live family map with location history, place alerts, and driving reports, and it works on iPhone and Android. Paid plans add crash detection, and Gold and Platinum include SOS with 24/7 emergency dispatch and roadside help.
 
 It does more than location now. Severe weather alerts come through AccuWeather. Its [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) feature, new in 2026, puts recent, high-severity events within one mile on the map, with a notification. Its free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) links bank accounts through Plaid to show recurring charges across a Circle.
 
-Life360 also runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517). By connecting an account to Subscription Tracker, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance," according to its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker). Life360 has a history of selling location data to a dozen data brokers.
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
-**Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data shared with its partners.
+On data, Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517). Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting an account to Subscription Tracker, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance." Life360 has a history of selling location data to a dozen data brokers.
 
-### GeoZilla: Best for a family map with a watch app
+**Where Life360 may fit better:** families with Android phones, a household with a new teen driver, or anyone who wants crash detection on paid plans and 24/7 emergency dispatch on Gold and Platinum.
+
+**Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data being shared with its partners.
+
+### What GeoZilla does well
 
 GeoZilla, listed on the [App Store](https://apps.apple.com/us/app/-/id981856216) by GZ TECH LTD, is a family map. You get alerts when family members arrive at or leave a place, daily location history, check-ins, chat, battery levels, and an Emergency Alert that lets family know someone needs help.
 
@@ -92,7 +96,7 @@ For drivers, it shows whether a family member is speeding or using their phone w
 
 Plans are flexible: weekly from $5.99 to $11.99, monthly at $19.99, quarterly at $39.99, and yearly at $49.99 or $69.99, according to its App Store listing. Its privacy label lists identifiers under "Data Used to Track You," including a user ID used for third-party advertising.
 
-**Best for:** families with kids or teens who want a shared map, place alerts, driving insights, and an Apple Watch app, and who like the option of a weekly plan.
+**Where GeoZilla may fit better:** families with kids or teens who want a shared map, place alerts, driving insights, and an Apple Watch app, and who like the option of a weekly plan.
 
 ### Looop: Best for caring from a distance
 
@@ -170,7 +174,7 @@ Every fact about another app on this page comes from that company's own App Stor
 
 Facts checked October 26, 2026, unless a different date is noted. Features, prices, and policies change, so check each company's current offer before you decide.
 
-Life360 and GeoZilla are trademarks of their respective owners. Looop is not affiliated with any of them.
+Life360, GeoZilla, Apple Watch, Apple Health, Oura, Whoop, iSharing, and Android are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 ## More comparisons
 

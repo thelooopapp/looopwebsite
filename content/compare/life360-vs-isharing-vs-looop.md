@@ -69,30 +69,36 @@ you want a family map with place alerts, a panic alert, and inactivity alerts, w
 
 Checked October 26, 2026, from the sources below. "Not listed" means we didn't see it on the app's App Store listing or website that day; features change. Life360 and iSharing offer things Looop doesn't, like SOS alerts, driving reports, and Android support. [See who each app is best for](#best-for).
 
-## Who each app is best for
+## What each app does well, and where it may fit better
 
 **Question:** "What is each one good at?"
 **Subtitle:** Each one is good at something. Here's who each fits.
 
-### Life360: Best for a live map with emergency help
+### What Life360 does well
 
 Life360 is one of the best-known family apps. It's built around a live family map with location history, place alerts, and driving reports, and it works on iPhone and Android. Paid plans add crash detection, and Gold and Platinum include SOS with 24/7 emergency dispatch and roadside help.
 
 It does more than location now. Severe weather alerts come through AccuWeather. Its [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) feature, new in 2026, puts recent, high-severity events within one mile on the map, with a notification. Its free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) links bank accounts through Plaid to show recurring charges across a Circle.
 
-Life360 also runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517). By connecting an account to Subscription Tracker, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance," according to its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker). Life360 has a history of selling location data to a dozen data brokers.
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
-**Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data shared with its partners.
+On data, Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517). Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting an account to Subscription Tracker, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance." Life360 has a history of selling location data to a dozen data brokers.
 
-### iSharing: Best for a family map with inactivity alerts
+**Where Life360 may fit better:** families with Android phones, a household with a new teen driver, or anyone who wants crash detection on paid plans and 24/7 emergency dispatch on Gold and Platinum.
+
+**Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data being shared with its partners.
+
+### What iSharing does well
 
 iSharing, from iSharingSoft in Irvine, California, shares real-time location on a map with Street View. It offers place alerts for home, work, and school, location history from 7 days to a year depending on plan, a panic or SOS alert with recorded sound, messaging, and temporary group sharing called Meetups.
 
 It also reaches out to families with older parents. Its "Elderly Care" alerts let you know when someone hasn't used their phone, on Silver plans and up, and Gold and up adds driving reports. Premium plans are listed from $7.99 a month or $69.99 a year on the App Store, with a seven-day free trial.
 
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
+
 On data, iSharing's [privacy policy](https://isharingsoft.com/privacy_policy), last revised May 21, 2026, says: "We may also share location information with third parties for advertising, research, and analytic purposes." Its [App Store label](https://apps.apple.com/us/app/id416436167) lists seven kinds of data under "Data Used to Track You."
 
-**Best for:** families who want a map with place alerts, a panic button, and inactivity alerts at a lower monthly price than Life360's top plans, and who are comfortable with its data policy.
+**Where iSharing may fit better:** families who want a map with place alerts, a panic button, and inactivity alerts at a lower monthly price than Life360's top plans, and who are comfortable with its data policy.
 
 ### Looop: Best for caring from a distance
 
@@ -172,7 +178,7 @@ Every fact about another app on this page comes from that company's own App Stor
 
 Facts checked October 26, 2026, unless a different date is noted. Features, prices, and policies change, so check each company's current offer before you decide.
 
-Life360 and iSharing are trademarks of their respective owners. Looop is not affiliated with any of them.
+Life360, iSharing, Apple Watch, Apple Health, Oura, Whoop, GeoZilla, and Android are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 ## More comparisons
 

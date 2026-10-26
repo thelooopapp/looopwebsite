@@ -34,7 +34,7 @@ OnStar Guardian is built for emergencies on the road, with crash response, an Em
 | | Looop | OnStar Guardian |
 | --- | --- | --- |
 | What it is | A safety notifications app that tells you when to check in | An emergency and roadside assistance app |
-| Built for | Families who care from a distance: a parent far away, kids at college, siblings and friends | Drivers and passengers in any vehicle, in the US and Canada |
+| Built for | Families who care from a distance: a parent far away, kids at college, siblings, and friends | Drivers and passengers in any vehicle, in the US and Canada |
 | In an emergency | Looop isn't an emergency service. It doesn't call 911, send help, or detect crashes. | An Emergency button reaches a 24/7 OnStar Advisor who can send first responders |
 | After a crash | Not offered | Mobile Crash Response connects to an OnStar Advisor |
 | Roadside help | Not offered | Roadside assistance, including up to four tows a year |
@@ -126,7 +126,7 @@ Every fact about OnStar Guardian on this page comes from its App Store listing.
 
 Facts checked October 26, 2026. Features, prices, and policies change, so check each company's current offer before you decide.
 
-OnStar and OnStar Guardian are trademarks of their respective owners. Looop is not affiliated with any of them.
+Life360, OnStar, OnStar Guardian, Apple Watch, Apple Health, Oura, Whoop, and Find My are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 ### More comparisons
 

@@ -70,30 +70,36 @@ you want a low-cost family map for parents and kids on iPhone and Android, with 
 
 Checked October 26, 2026, from the sources below. "Not listed" means we didn't see it on the app's App Store listing or website that day; features change. Life360 and Family Nest offer things Looop doesn't, like SOS alerts, speed alerts, and Android support. [See who each app is best for](#best-for).
 
-## Who each app is best for
+## What each app does well, and where it may fit better
 
 **Question:** "What is each one good at?"
 **Subtitle:** Each one is good at something. Here's who each fits.
 
-### Life360: Best for a live map with emergency help
+### What Life360 does well
 
 Life360 is one of the best-known family apps. It's built around a live family map with location history, place alerts, and driving reports, and it works on iPhone and Android. Paid plans add crash detection, and Gold and Platinum include SOS with 24/7 emergency dispatch and roadside help.
 
 It does more than location now. Severe weather alerts come through AccuWeather. Its [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) feature, new in 2026, puts recent, high-severity events within one mile on the map, with a notification. Its free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) links bank accounts through Plaid to show recurring charges across a Circle.
 
-Life360 also runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517). By connecting an account to Subscription Tracker, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance," according to its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker). Life360 has a history of selling location data to a dozen data brokers.
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
-**Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data shared with its partners.
+On data, Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517). Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting an account to Subscription Tracker, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance." Life360 has a history of selling location data to a dozen data brokers.
 
-### Family Nest (formerly Family360): Best for a low-cost map for parents and kids
+**Where Life360 may fit better:** families with Android phones, a household with a new teen driver, or anyone who wants crash detection on paid plans and 24/7 emergency dispatch on Gold and Platinum.
+
+**Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data being shared with its partners.
+
+### What Family Nest does well
 
 If you're searching for Family360, this is the same app. Its store pages read "Family Nest (ex Family360)." It isn't related to "FamilyNest - Family Organizer," which is a different app.
 
 Family Nest is a kids-first family locator on iPhone and Android. The free version includes private groups called Nests, with chat, a live map, live location sharing for trips, place alerts for home, school, and work, over-speed alerts, a phone locator, and SOS. Premium adds ETAs, 365 days of location history, travel statistics, unlimited places, and priority support. A recent update added a weekly driving score, and the app shows the weather through OpenWeatherMap.
 
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
+
 Premium costs $5.99 a month or $39.99 a year on the [App Store](https://apps.apple.com/us/app/-/id1537446782), where the listing notes that it contains advertising. Its [privacy policy](https://www.familynestapp.com/privacy-policy), effective September 23, 2026, says: "We do not sell personal data to third parties." Its App Store label has no "Data Used to Track You" section.
 
-**Best for:** parents of kids and new drivers who want an affordable shared map with place alerts, speed alerts, and SOS, in a family with both iPhones and Android phones.
+**Where Family Nest may fit better:** parents of kids and new drivers who want an affordable shared map with place alerts, speed alerts, and SOS, in a family with both iPhones and Android phones.
 
 ### Looop: Best for caring from a distance
 
@@ -144,6 +150,8 @@ It depends on what you need. Life360 has more emergency features, like crash det
 
 ### Does Family Nest sell my data?
 
+<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
+
 Its privacy policy says, "We do not sell personal data to third parties," and "We do not sell your location data to anyone." Its App Store listing notes that the app contains advertising. Looop has no ads and never sells your data.
 
 ### Can I use Looop for my parents and a map app for my kids?
@@ -172,7 +180,7 @@ Every fact about another app on this page comes from that company's own App Stor
 
 Facts checked October 26, 2026, unless a different date is noted. Features, prices, and policies change, so check each company's current offer before you decide.
 
-Life360, Family Nest, and Family360 are trademarks of their respective owners. Looop is not affiliated with any of them.
+Life360, Family Nest, Family360, Apple Watch, Apple Health, Oura, Whoop, and Android are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 ## More comparisons
 
