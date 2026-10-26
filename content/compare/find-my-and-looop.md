@@ -12,11 +12,8 @@ secondary_keywords:
 persona: "Marcus, the only child far away (his mom already shares her location in Find My); Linda, 76, as invitee"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names Apple. Framed as a complement, per the guide: never says Apple tracks or sells data, that Check In is unsafe, or that Apple lacks weather alerts or health sharing. Apple Weather saved-location alerts are unverified, so the page says nothing either way; the weather row says only that Apple's Weather app is separate from Find My. Find My facts from its App Store listing, re-checked Oct 26, 2026. Check In (the person starts each session; shares location, battery, and signal if they don't respond) and Health Sharing are marked U in COMPETITORS.md: confirm against Apple's guide before publishing. Health Sharing has no source link yet; add Apple's support page once confirmed. Any sentence or cell about Looop's App Store privacy label (no 'Data Used to Track You' section) carries a CONFIRM WITH ENGINEERING comment in the HTML: confirm with engineering that the Meta app events SDK runs without advertiser tracking and that the label is still accurate before publishing."
+notes: "Names Apple. Framed as a complement, per the guide: never says Apple tracks or sells data, that Check In is unsafe, or that Apple lacks weather alerts or health sharing. Apple Weather saved-location alerts are unverified, so the page says nothing either way; the weather row says only that Apple's Weather app is separate from Find My. Find My facts from its App Store listing, re-checked Oct 26, 2026. Check In (the person starts each session; shares location, battery, and signal if they don't respond) and Health Sharing are marked U in COMPETITORS.md: confirm against Apple's guide before publishing. Health Sharing has no source link yet; add Apple's support page once confirmed."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names competitors.
 
 # Find My and Looop: use both
 
@@ -34,13 +31,13 @@ Apple Find My shows where people, devices, and AirTags are, and it's free on eve
 
 | | Looop | Apple (Find My, Check In, Health Sharing) |
 | --- | --- | --- |
-| Built around | Safety notifications: is today a typical day, or one that might be worth a call? | Find My: people, devices, and AirTags on a map. Check In: according to [Apple's guide](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/web), a session in Messages for one trip or a set time <!-- VERIFY against Apple's Check In and Health Sharing guides before publishing --> |
-| Who starts it | Nothing for your Loved One to start. Looop works quietly in the background once they've joined | Check In: Apple says the person being checked on starts each session, with a timer or a destination <!-- VERIFY against Apple's Check In and Health Sharing guides before publishing --> |
+| Built around | Safety notifications: is today a typical day, or one that might be worth a call? | Find My: people, devices, and AirTags on a map. Check In: according to [Apple's guide](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/web), a session in Messages for one trip or a set time |
+| Who starts it | Nothing for your Loved One to start. Looop works quietly in the background once they've joined | Check In: Apple says the person being checked on starts each session, with a timer or a destination |
 | Where it lives | All in one place, on one calm screen | Separate places: Find My, Messages, and the Health app |
 | Weather | Severe weather alerts in more than 50 countries | Apple's Weather app is separate from Find My |
 | Crime alerts | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Not listed |
 | Spending alerts | Optional: a heads-up about an unusually large charge on a linked account, through Plaid | Not listed |
-| Health | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Apple says Health Sharing, in the Health app, lets a person share Health data with family <!-- VERIFY against Apple's Check In and Health Sharing guides before publishing --> |
+| Health | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Apple says Health Sharing, in the Health app, lets a person share Health data with family |
 | A daily answer | Each day, one answer: a Typical Day, or an Unusual Day that might be worth a call | Not listed |
 | Location | A family map, as a supporting feature, for after a nudge | Share location with friends and family for a set time or until you stop, and know when a family member arrives home |
 | Lost devices and items | Not offered | Find a lost iPhone, iPad, Mac, AirPods, or AirTag, and share an AirTag with up to five people |
@@ -71,13 +68,9 @@ On iPhone 14 and later, Find My can share location over satellite when there's n
 
 According to [Apple's guide](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/web), Check In in Messages lets someone tell a friend or family member they got home, for a walk home or a drive across town.
 
-<!-- VERIFY against Apple's Check In and Health Sharing guides before publishing -->
-
 ### Health Sharing
 
 Apple says a person can share Health data with family in the Health app.
-
-<!-- VERIFY against Apple's Check In and Health Sharing guides before publishing -->
 
 ### Privacy you can check
 
@@ -103,8 +96,6 @@ Find My is there when you open it and ask "Where is she?" Looop answers "Is Mom 
 Looop is built for adult children caring from a distance, and for siblings who want the same heads-up. See everyone you care about on one calm screen, and know at a glance who's okay.
 
 ### Nothing for Mom to start
-
-<!-- VERIFY against Apple's Check In and Health Sharing guides before publishing -->
 
 Apple says Check In works when the person starts a session. Looop works quietly in the background once she's joined, so there are no sessions, timers, or check-ins for her to remember. She lives her day.
 
@@ -167,7 +158,6 @@ Find My answers "Where is she?" Looop answers "Is Mom okay today?" It tells you 
 Yes. Looop works alongside Find My. Keep Find My for her phone, her AirTags, and sharing location. Looop runs on its own and adds the heads-up about her day.
 
 **Does Apple's Check In work for checking on a parent?**
-<!-- VERIFY against Apple's Check In and Health Sharing guides before publishing -->
 Check In works well for one walk or one drive. According to [Apple's guide](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/web), the person being checked on starts each session in Messages, with a timer or a destination. Looop doesn't need Mom to start anything. [Read the full answer](../answers/apple-check-in-for-parents.html).
 
 **Does Looop work with Apple Watch and Apple Health?**

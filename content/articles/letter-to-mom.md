@@ -10,7 +10,6 @@ secondary_keywords:
   - check in app for family
 persona: "Marcus, the only child far away (writer); Linda, the independent parent, 76 (reader)"
 status: draft
-legal_review: false
 ---
 
 # A Letter to Mom: Why I Asked You to Join Looop

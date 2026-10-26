@@ -11,7 +11,6 @@ secondary_keywords:
   - long distance caregiver tips
 persona: "Marcus, the only child far away (also Dana, the stretched-thin middle; Priya, the sibling coordinator)"
 status: draft
-legal_review: false
 ---
 
 # The Long-Distance Caregiving Report: What the Research Says (2026)

@@ -2,8 +2,7 @@
 title: "14 of 15 Family Location Apps Declare \"Data Used to Track You,\" Looop Study of App Store Privacy Labels Finds"
 slug: privacy-label-study
 status: draft
-legal_review: true
-legal_notes: "Names competitors (Life360, iSharing, GeoZilla, Glympse, Findmykids, Family Nest, Apple, Google, Verizon, AT&T, T-Mobile, Kidslox, OurPact). Every figure comes from the study page (research/family-safety-app-privacy-labels.html), built from each app's US App Store listing checked Oct 26, 2026. Labels described only in Apple's terms; says a declaration isn't proof of selling data and makes no claim that any app sells data. Clean labels named. CONFIRM WITH ENGINEERING: privacy label. The sentence on Looop's own label (no 'Data Used to Track You' section, no 'Contains: Advertising') needs engineering to confirm the label is still accurate, since the app includes Meta's app events SDK. RECHECK: iSharing's 'Contains: Advertising' line (see the study's legal_notes); if it changes, '7 of the 15' becomes '6 of the 15.' Press release: noindex until placeholders are filled and legal signs off. Go out only after the study page is live."
+notes: "Names competitors (Life360, iSharing, GeoZilla, Glympse, Findmykids, Family Nest, Apple, Google, Verizon, AT&T, T-Mobile, Kidslox, OurPact). Every figure comes from the study page (research/family-safety-app-privacy-labels.html), built from each app's US App Store listing checked Oct 26, 2026. Labels described only in Apple's terms; says a declaration isn't proof of selling data and makes no claim that any app sells data. Clean labels named. Go out only after the study page is live."
 placeholders:
   - "[DATE] in the dateline (also set datePublished and dateModified in the HTML JSON-LD)"
   - "Team quote needs owner approval"
@@ -14,14 +13,14 @@ placeholders:
 ## A review of 25 family safety apps also finds clean labels from Apple, Google, Verizon, AT&T, and T-Mobile, and from two parental control apps
 
 
-**AUSTIN, Texas, [DATE]:** Fourteen of 15 family location apps declare "Data Used to Track You" on their App Store privacy labels, according to a review of 25 family safety apps published today by Looop, the safety notifications app for families who care from a distance. Seven of the 15 also list "Contains: Advertising" on their App Store pages. <!-- RECHECK: iSharing "contains advertising" (7 of 15 or 6 of 15) -->
+**AUSTIN, Texas, [DATE]:** Fourteen of 15 family location apps declare "Data Used to Track You" on their App Store privacy labels, according to a review of 25 family safety apps published today by Looop, the safety notifications app for families who care from a distance. Seven of the 15 also list "Contains: Advertising" on their App Store pages.
 
 Looop read the US App Store listing of each app on October 26, 2026, and recorded what each developer declares, in Apple's terms. The full table, method, and sources are at https://www.thelooopapp.com/research/family-safety-app-privacy-labels.html.
 
 **What the labels say**
 
 - **Family location apps:** 14 of 15 declare "Data Used to Track You." Apps that declare it include Life360, iSharing, GeoZilla, Glympse, and Findmykids. Family Nest is the one family location app without the section.
-- **Advertising:** 7 of the 15 family location apps list "Contains: Advertising" in their Age Rating section. <!-- RECHECK: iSharing "contains advertising" (7 of 15 or 6 of 15) -->
+- **Advertising:** 7 of the 15 family location apps list "Contains: Advertising" in their Age Rating section.
 - **Platform and carrier apps:** none of Apple Find My, Google Family Link, Verizon Family, AT&T Secure Family, or T-Mobile FamilyMode declares "Data Used to Track You" or lists advertising.
 - **Across all 24 apps from other developers:** 16 declare "Data Used to Track You," and Identifiers is the most common data type in that section, on 14 of those 16 labels.
 - **Clean labels:** seven apps from other developers have neither a "Data Used to Track You" section nor "Contains: Advertising": Find My, Google Family Link, Verizon Family, AT&T Secure Family, T-Mobile FamilyMode, Kidslox, and OurPact. OurPact's label lists a single data type, Contact Info, for App Functionality.

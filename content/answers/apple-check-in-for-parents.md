@@ -10,19 +10,14 @@ secondary_keywords:
 persona: "Marcus, the only child far away (Linda, 76, as invitee)"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names Apple (Check In, Find My). Stance: complement, never opponent. Check In details are marked unverified in COMPETITORS.md: the page describes only that the person starts each session and that Check In shares location, battery, and signal if they don't respond. VERIFY against Apple's Check In guide before publishing. Never says Check In is unsafe or that Apple lacks weather alerts or health sharing. noindex until legal signs off."
+notes: "Names Apple (Check In, Find My). Stance: complement, never opponent. Never says Check In is unsafe or that Apple lacks weather alerts or health sharing."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names a competitor.
 
 # Does Apple's Check In Work for Checking On a Parent?
 
 It can, for a specific moment. Apple's Check In is built for a single stretch of time, like Mom's drive home after dinner. Your parent starts each session herself. If she doesn't respond, Check In shares her location, battery, and signal with the person she's checking in with.
 
 So it works well when she thinks to use it. It isn't built for the ordinary days in between.
-
-<!-- VERIFY against Apple's Check In guide before publishing -->
 
 ## What Check In does well
 

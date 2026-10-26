@@ -2,16 +2,15 @@
 title: "Looop Is a New Kind of Family Safety App, and It Isn't Another Map"
 slug: a-new-kind-of-family-safety-app
 status: draft
-legal_review: true
-legal_notes: "The 'enter' release. Names no competitor except Apple's Find My, in the approved complement line ('works alongside Find My'). Does not name Life360. CONFIRM WITH ENGINEERING: the sentence about Looop's App Store privacy label (no 'Data Used to Track You' section, no 'contains advertising'); the app includes Meta's app events SDK. Press release: noindex until the date is set, the team quote is approved, and legal signs off."
+notes: "The 'enter' release. Names no competitor except Apple's Find My, in the approved complement line ('works alongside Find My'). Does not name Life360. the app includes Meta's app events SDK."
 placeholders:
   - "[DATE]"
 ---
 
 <!-- DRAFT FOR REVIEW: contains placeholders. noindex until final. -->
-<!-- LEGAL REVIEW REQUIRED: names competitors. Remove noindex after approval. -->
+<!-- DRAFT: noindex until the owner approves release. -->
 
-> Editor's note (remove before release): the owner sets the dateline date (and datePublished in the HTML). The team quote needs the team's approval, and legal must sign off before noindex is removed.
+> Editor's note (remove before release): the owner sets the dateline date (and datePublished in the HTML). The team quote needs the owner's approval before noindex is removed.
 
 # Looop Is a New Kind of Family Safety App, and It Isn't Another Map
 
@@ -42,8 +41,6 @@ Looop isn't an emergency service. It doesn't call 911 or send help. It helps fam
 **Private by design**
 
 Looop has no ads, ever, and doesn't work with advertisers. Your family's data is never for sale. Looop's App Store privacy label has no "Data Used to Track You" section and doesn't list the app as containing advertising.
-
-<!-- CONFIRM WITH ENGINEERING: privacy label -->
 
 **How Looop compares**
 

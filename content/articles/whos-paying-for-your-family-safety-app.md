@@ -10,11 +10,8 @@ secondary_keywords:
   - Life360 alternative
 persona: "Dana, the stretched-thin middle (also Priya, the sibling coordinator)"
 status: draft
-legal_notes: "Names a competitor (Life360). Oct 26, 2026: added Safety Incidents to 'What it is' and a Subscription Tracker section quoting Life360's Set Up Subscription Tracker page exactly (save a dated screenshot or Wayback copy before publishing). Field-wide label line ('most family locator apps we reviewed declare Data Used to Track You') is from COMPETITORS.md; link to the privacy label study goes live with the study. The 'clean privacy label' bullet must be confirmed with engineering (Meta app events SDK) before publishing; the HTML carries a CONFIRM WITH ENGINEERING comment."
-legal_review: true
+notes: "Names a competitor (Life360). Field-wide label line ('most family locator apps we reviewed declare Data Used to Track You') is from COMPETITORS.md; link to the privacy label study goes live with the study."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this piece names a competitor.
 
 # Who's Really Paying for Your Free Family Safety App?
 
@@ -86,9 +83,7 @@ Life360 then [stopped most of those sales](https://appleinsider.com/articles/22/
 
 ### Bank data and ads
 
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
-
-In May 2026, Life360 added a free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) that links checking accounts and credit cards through Plaid and watches for recurring charges, price changes, and renewals. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting an account, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance."
+In May 2026, Life360 added a free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) that links checking accounts and credit cards through Plaid and watches for recurring charges, price changes, and renewals. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting an account, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere."
 
 ### What to take from this
 

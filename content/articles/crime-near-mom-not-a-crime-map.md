@@ -10,7 +10,6 @@ secondary_keywords:
   - check on aging parents
 persona: "Marcus, the only child far away (also Dana, the stretched-thin middle; Ray, the new empty-nester)"
 status: draft
-legal_review: false
 ---
 
 # A Heads-Up When Crime Is Near Mom

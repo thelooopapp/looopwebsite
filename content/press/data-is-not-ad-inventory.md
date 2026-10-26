@@ -2,7 +2,6 @@
 title: "Looop Pledges Families' Data Will Never Be Ad Inventory"
 slug: data-is-not-ad-inventory
 status: draft
-legal_review: true
 ---
 
 # Looop Pledges Families' Data Will Never Be Ad Inventory

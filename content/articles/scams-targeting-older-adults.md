@@ -10,7 +10,6 @@ secondary_keywords:
   - aging parents financial scams
 persona: "Priya, the sibling coordinator (also Marcus, the only child far away; Linda as the parent reading over a shoulder)"
 status: draft
-legal_review: false
 ---
 
 # Scams That Target Older Adults: Signs Families Can Notice Early

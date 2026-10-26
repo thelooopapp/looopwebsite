@@ -11,11 +11,8 @@ secondary_keywords:
 persona: "Dana, the stretched-thin middle; Marcus, the only child far away"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names a competitor. GeoZilla facts from COMPETITORS.md and research-family-locators.md (V items), and its App Store listing re-checked Oct 26, 2026 (subtitle, in-app purchases, privacy label, Apple Watch, help alert, driving, elderly line, consent line). Ownership and origin claims deliberately left out. Billing complaints left out. No claim that GeoZilla lacks a feature: unconfirmed features read 'Not listed'. Any sentence or cell about Looop's App Store privacy label (no 'Data Used to Track You' section) carries a CONFIRM WITH ENGINEERING comment in the HTML: confirm with engineering that the Meta app events SDK runs without advertiser tracking and that the label is still accurate before publishing."
+notes: "Names a competitor. GeoZilla facts from COMPETITORS.md and research-family-locators.md (V items), and its App Store listing re-checked Oct 26, 2026 (subtitle, in-app purchases, privacy label, Apple Watch, help alert, driving, elderly line, consent line). Ownership and origin claims deliberately left out. Billing complaints left out. No claim that GeoZilla lacks a feature: unconfirmed features read 'Not listed'."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names competitors.
 
 # Looop vs. GeoZilla
 

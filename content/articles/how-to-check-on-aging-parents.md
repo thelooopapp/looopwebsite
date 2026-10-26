@@ -10,7 +10,6 @@ secondary_keywords:
   - staying connected with aging parents
 persona: "Marcus, the only child far away (also Priya, the sibling coordinator; Linda, the independent parent, as invitee)"
 status: draft
-legal_review: false
 ---
 
 # How to Check On Aging Parents Without Making Them Feel Watched

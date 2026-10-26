@@ -10,7 +10,6 @@ secondary_keywords:
   - apple health sharing family
 persona: "Priya, the sibling coordinator (also Linda, the independent parent, as invitee)"
 status: draft
-legal_review: false
 ---
 
 # Using Apple Watch to Stay Close to Aging Parents, No Extra App Needed

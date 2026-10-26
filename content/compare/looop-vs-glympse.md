@@ -11,11 +11,8 @@ secondary_keywords:
 persona: "Dana, the stretched-thin middle; Marcus, the only child far away"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names competitors; noindex until legal approval. Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Privacy label: every sentence saying Looop's App Store label has no 'Data Used to Track You' section (or no 'contains advertising') is marked in the HTML with CONFIRM WITH ENGINEERING: privacy label; confirm with engineering that the Meta app events SDK runs without advertiser tracking and the label is still accurate before publishing. Glympse: its listing says 'Your data is never sold.' The page quotes that and never implies otherwise; the contrast is ads only (its listing says Contains Advertising). Glympse is not said to lack any feature; weather and crime are described as not listed on its App Store page."
+notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Glympse: its listing says 'Your data is never sold.' The page quotes that and never implies otherwise; the contrast is ads only (its listing says Contains Advertising). Glympse is not said to lack any feature; weather and crime are described as not listed on its App Store page."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names competitors. Keep noindex until approved.
 
 # Looop vs. Glympse: two different jobs
 

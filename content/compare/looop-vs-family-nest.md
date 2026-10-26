@@ -12,11 +12,8 @@ secondary_keywords:
 persona: "Marcus, the only child far away; Dana, the stretched-thin middle"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names a competitor. Family Nest facts from COMPETITORS.md and its App Store listing, re-checked Oct 26, 2026: the description says it was formerly Family360 ('same app, new name, and Circles are now called Nests', paraphrased because the original contains an em dash); $5.99 a month or $39.99 a year; age rating lists Advertising; NEW: its privacy label shows no 'Data Used to Track You' section (COMPETITORS.md doesn't record this; add it). Privacy policy quoted exactly from the version effective Sept. 23, 2026. Nothing about its developer or owner beyond the Family360 name change, per the guide. Never say Family Nest sells data. COMPETITORS.md lists an Apple Watch app but the App Store compatibility list doesn't show one, so the Watch row is left out. Any sentence or cell about Looop's App Store privacy label (no 'Data Used to Track You' section) carries a CONFIRM WITH ENGINEERING comment in the HTML: confirm with engineering that the Meta app events SDK runs without advertiser tracking and that the label is still accurate before publishing."
+notes: "Names a competitor. Family Nest facts from COMPETITORS.md and its App Store listing, re-checked Oct 26, 2026: the description says it was formerly Family360 ('same app, new name, and Circles are now called Nests', paraphrased because the original contains an em dash); $5.99 a month or $39.99 a year; age rating lists Advertising; NEW: its privacy label shows no 'Data Used to Track You' section (COMPETITORS.md doesn't record this; add it). Privacy policy quoted exactly from the version effective Sept. 23, 2026. Nothing about its developer or owner beyond the Family360 name change, per the guide. Never say Family Nest sells data. COMPETITORS.md lists an Apple Watch app but the App Store compatibility list doesn't show one, so the Watch row is left out."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names competitors.
 
 # Looop vs. Family Nest (formerly Family360)
 
@@ -54,7 +51,7 @@ Everything below compares Looop with the app as it's listed today.
 | Map and history | A family map, as a supporting feature, for after a nudge | Live map, place alerts, and trip sharing. Premium adds up to 365 days of history |
 | Platforms | iPhone | iPhone and Android |
 | Ads | No ads, and no advertisers | Its App Store listing notes advertising |
-| Selling data | Never sold | Its privacy policy says: "We do not sell personal data to third parties." <!-- ARCHIVE: save dated copy of the quoted page before publishing --> |
+| Selling data | Never sold | Its privacy policy says: "We do not sell personal data to third parties." |
 | "Data Used to Track You" on its App Store label | No "Data Used to Track You" section | No "Data Used to Track You" section |
 | Price | Free for the first two weeks | Free plan. Premium is $5.99 a month or $39.99 a year |
 
@@ -145,7 +142,6 @@ Yes. Family Nest's App Store listing says it was formerly Family360: the same ap
 Not really. Family Nest is a family locator built around a map, with place alerts, speed alerts, and SOS. Looop is a safety notifications app that brings weather, crime, spending, health, fitness, activity, and the shape of each day together, and stays quiet when all is well.
 
 **Does Family Nest sell my data?**
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 Its privacy policy, effective September 23, 2026, says: "We do not sell personal data to third parties." Looop never sells your data either, and it doesn't work with advertisers.
 

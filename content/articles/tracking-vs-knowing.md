@@ -10,7 +10,6 @@ secondary_keywords:
   - private family safety app
 persona: "Dana, the stretched-thin middle (also Ray, the new empty-nester; Jordan, the college student, as invitee)"
 status: draft
-legal_review: false
 ---
 
 # Family Safety Notifications: Knowing When to Check In

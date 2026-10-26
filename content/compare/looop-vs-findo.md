@@ -11,11 +11,8 @@ secondary_keywords:
 persona: "Marcus, the only child far away; Dana, the stretched-thin middle"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names competitors; noindex until legal approval. Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Privacy label: every sentence saying Looop's App Store label has no 'Data Used to Track You' section (or no 'contains advertising') is marked in the HTML with CONFIRM WITH ENGINEERING: privacy label; confirm with engineering that the Meta app events SDK runs without advertiser tracking and the label is still accurate before publishing. Findo: features, label, and price model from its App Store listing re-checked Oct 26, 2026 (the label's Data Used to Track You also lists Other Data, beyond COMPETITORS.md). Review sentiment and billing complaints are left out. Not called a tracker of anyone without consent, a scam, or a data seller."
+notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Findo: features, label, and price model from its App Store listing re-checked Oct 26, 2026 (the label's Data Used to Track You also lists Other Data, beyond COMPETITORS.md). Review sentiment and billing complaints are left out. Not called a tracker of anyone without consent, a scam, or a data seller."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names competitors. Keep noindex until approved.
 
 # Looop vs. Findo: alerts, not a map
 

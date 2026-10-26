@@ -9,7 +9,6 @@ secondary_keywords:
   - check in app for family
 persona: "Dana, the stretched-thin middle (also Marcus, Priya, Linda as invitee)"
 status: draft
-legal_review: false
 ---
 
 # Quiet when all is well, a nudge when it's not.

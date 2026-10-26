@@ -10,7 +10,6 @@ secondary_keywords:
   - family safety app that doesn't sell data
 persona: "Marcus, the only child far away (also Priya, the sibling coordinator)"
 status: draft
-legal_review: true
 ---
 
 # When a Storm Heads Toward Mom

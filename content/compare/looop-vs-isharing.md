@@ -12,11 +12,8 @@ secondary_keywords:
 persona: "Marcus, the only child far away; Priya, the sibling coordinator; Linda, 76, as invitee"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names a competitor. iSharing facts from COMPETITORS.md (Oct 26, 2026) and its App Store listing, re-checked Oct 26, 2026 (name, subtitle, in-app purchase prices, privacy label). Privacy policy quoted exactly from the version last revised May 21, 2026; save a dated copy before publishing. The 2024 security flaw is deliberately left out. No claim that iSharing lacks a feature: unconfirmed features read 'Not listed'. Any sentence or cell about Looop's App Store privacy label (no 'Data Used to Track You' section) carries a CONFIRM WITH ENGINEERING comment in the HTML: confirm with engineering that the Meta app events SDK runs without advertiser tracking and that the label is still accurate before publishing."
+notes: "Names a competitor. iSharing facts from COMPETITORS.md (Oct 26, 2026) and its App Store listing, re-checked Oct 26, 2026 (name, subtitle, in-app purchase prices, privacy label). Privacy policy quoted exactly from the version last revised May 21, 2026; The 2024 security flaw is deliberately left out. No claim that iSharing lacks a feature: unconfirmed features read 'Not listed'."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names competitors.
 
 # Looop vs. iSharing
 
@@ -46,7 +43,7 @@ iSharing is a location sharing app built around a live map, with place alerts, l
 | Driving | A nudge when a drive looks unusual. No crash detection | Driving reports on speeding, sudden braking, and phone use (Gold and up) |
 | Map and history | A family map, as a supporting feature, for after a nudge | Real-time location with Street View, place alerts, and location history from 7 days to 1 year, by plan |
 | Find a lost phone | Not offered | Find My Device |
-| Ads and data | No ads, and no advertisers. Data never for sale | Its privacy policy says: "We may also share location information with third parties for advertising, research, and analytic purposes." <!-- ARCHIVE: save dated copy of the quoted page before publishing --> |
+| Ads and data | No ads, and no advertisers. Data never for sale | Its privacy policy says: "We may also share location information with third parties for advertising, research, and analytic purposes." |
 | "Data Used to Track You" on its App Store label | No "Data Used to Track You" section | Yes: purchases, location, contact info, identifiers, usage data, diagnostics, and other data |
 | Price | Free for the first two weeks | Free plan. Premium from $7.99 a month or $69.99 a year on the App Store list, with a seven-day free trial |
 
@@ -102,8 +99,6 @@ Looop is built for adult children caring from a distance, and for siblings and f
 ### Privacy you can check
 
 Looop never sells your data and doesn't work with advertisers. Looop's App Store privacy label has no "Data Used to Track You" section.
-
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 iSharing's [privacy policy](https://isharingsoft.com/privacy_policy), last revised May 21, 2026, says: "We may share your personal information, including your location data, with third parties for marketing purposes." Its App Store label lists location, identifiers, and five other kinds of data as "Data Used to Track You."
 

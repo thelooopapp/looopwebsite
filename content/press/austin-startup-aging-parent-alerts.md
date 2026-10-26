@@ -2,15 +2,14 @@
 title: "Austin Startup Already Ships Aging-Parent Alerts While a Public Company Is Still Promising Them"
 slug: austin-startup-aging-parent-alerts
 status: draft
-legal_review: true
-legal_notes: "Names a competitor (Life360). Every Life360 statement was verified against its linked source on Oct 6, 2026. Does not claim Life360 lacks any feature; says what Life360 has publicly said it is working on. Oct 26, 2026: added one sentence acknowledging Life360's Safety Incidents (map pins within one mile; COMPETITORS.md, help page checked Oct 26, 2026) so the release can't be read as omitting it; the 'still promising' framing is limited to aging-parent wellness and scam features. Links to the Looop vs. Life360 page and the comparison hub added. Press release: noindex until placeholders are filled and legal signs off."
+notes: "Names a competitor (Life360). Every Life360 statement was verified against its linked source on Oct 6, 2026. Does not claim Life360 lacks any feature; says what Life360 has publicly said it is working on. Oct 26, 2026: added one sentence acknowledging Life360's Safety Incidents (map pins within one mile; COMPETITORS.md, help page checked Oct 26, 2026) so the release can't be read as omitting it; the 'still promising' framing is limited to aging-parent wellness and scam features. Links to the Looop vs. Life360 page and the comparison hub added."
 placeholders: []
 ---
 
 <!-- DRAFT FOR REVIEW: contains placeholders. noindex until final. -->
-<!-- LEGAL REVIEW REQUIRED: names a competitor. Remove noindex after approval. -->
+<!-- DRAFT: noindex until the owner approves release. -->
 
-> Editor's note (remove before release): The team quote needs the team's approval, and legal must sign off before noindex is removed (names Life360).
+> Editor's note (remove before release): The team quote needs the owner's approval before noindex is removed (names Life360).
 
 # Austin Startup Already Ships Aging-Parent Alerts While a Public Company Is Still Promising Them
 

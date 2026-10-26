@@ -12,11 +12,8 @@ secondary_keywords:
 persona: "Marcus, the only child far away; Priya, the sibling coordinator; Linda, 76, as invitee"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names competitors. Every competitor fact comes from COMPETITORS.md, the V items in the Oct 26, 2026 research notes, or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, aging-page, and dispatch facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; save a dated screenshot or Wayback copy before use. CONFIRM WITH ENGINEERING: the sentence about Looop's App Store privacy label (no 'Data Used to Track You'); the app includes Meta's app events SDK. 'Elderly' never appears in Looop's voice; it appears only in iSharing's feature name (Elderly Care) and in the answers/isharing-for-elderly-parents.html URL. CONFIRM: Check In and Health Sharing descriptions are marked (U) in COMPETITORS.md; confirm against Apple's guides before publishing. Find My place notifications carried from blog/best-life360-alternatives.html. OnStar Guardian facts are V from its App Store listing; the FTC order headline is deliberately left out. Medical alert services are covered in general terms only, with no brand claims."
+notes: "Names competitors. Every competitor fact comes from COMPETITORS.md, the V items in the Oct 26, 2026 research notes, or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, aging-page, and dispatch facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; the app includes Meta's app events SDK. 'Elderly' never appears in Looop's voice; it appears only in iSharing's feature name (Elderly Care) and in the answers/isharing-for-elderly-parents.html URL. CONFIRM: Check In and Health Sharing descriptions are marked (U) in COMPETITORS.md; confirm against Apple's guides before publishing. Find My place notifications carried from blog/best-life360-alternatives.html. OnStar Guardian facts are V from its App Store listing; the FTC order headline is deliberately left out. Medical alert services are covered in general terms only, with no brand claims."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this piece names competitors.
 
 # The Best Apps to Check On an Aging Parent in 2026
 
@@ -42,8 +39,8 @@ Each kind of app answers a different worry:
 | App | Built around | What it tells you about | Price |
 | --- | --- | --- | --- |
 | Apple Find My | Where people, devices, and items are | When someone arrives at or leaves a place you choose | Free |
-| Apple Check In | Apple says it's a check-in your parent starts, with a timer or a destination | If she doesn't respond, her location, battery, and signal | Free, in Messages <!-- VERIFY against Apple's Check In and Health Sharing guides before publishing --> |
-| Apple Health Sharing | Health data your parent chooses to share, Apple says | The Health data and trend notifications she shares | Free, in the Health app <!-- VERIFY against Apple's Check In and Health Sharing guides before publishing --> |
+| Apple Check In | Apple says it's a check-in your parent starts, with a timer or a destination | If she doesn't respond, her location, battery, and signal | Free, in Messages |
+| Apple Health Sharing | Health data your parent chooses to share, Apple says | The Health data and trend notifications she shares | Free, in the Health app |
 | Life360 | A live family map plus location history | Arrivals, departures, no-shows, severe weather, and Safety Incidents. Crash detection and dispatch on paid plans | Free. Paid plans listed from $9.99 to $24.99 |
 | iSharing | A family map with location history | Arrivals and departures, plus inactivity alerts on paid plans | Free. Premium from $7.99 a month |
 | GeoZilla | A family map with location history | Arrivals and departures, an Emergency Alert, and driving | Weekly, monthly, or yearly plans, from $5.99 a week |
@@ -63,13 +60,9 @@ If your parent has an iPhone, start here. These tools are free and already on he
 
 According to [Apple's guide](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/web), Check In, in Messages, is built for one trip or one evening: your parent starts it with a timer or a destination, and if she doesn't respond when it's time, it shares her location, battery, and signal with you. It's a good fit for a drive to see a friend or an evening out. Each check-in starts with her.
 
-<!-- VERIFY against Apple's Check In and Health Sharing guides before publishing -->
-
 ### Health Sharing
 
 Apple says a parent can share Health data, and notifications about trends, with family in its Health app. It's a good fit if your parent wants you to see the readings she's already collecting.
-
-<!-- VERIFY against Apple's Check In and Health Sharing guides before publishing -->
 
 **Best for:** iPhone families who want free, simple tools and don't mind each one living in a separate place. Looop works alongside Find My.
 
@@ -77,9 +70,7 @@ Apple says a parent can share Health data, and notifications about trends, with 
 
 Life360 is one of the best-known family apps, and it now has a [page for aging parents](https://www.life360.com/aging-parents). It offers location sharing, place alerts, no-show alerts, severe weather alerts, crash detection, emergency dispatch, driving summaries, credit monitoring, and identity theft reimbursement. Many of those features need paid plans, listed from $9.99 to $24.99 on the App Store. It works on iPhone and Android.
 
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
-
-It keeps adding more. Its 2026 [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) feature puts recent, high-severity events within one mile on the map. Its [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) links bank accounts through Plaid to show recurring charges. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance." Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517) and has a history of selling location data to a dozen data brokers.
+It keeps adding more. Its 2026 [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) feature puts recent, high-severity events within one mile on the map. Its [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) links bank accounts through Plaid to show recurring charges. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere." Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517) and has a history of selling location data to a dozen data brokers.
 
 **Best for:** a parent and family who want a live map and 24/7 emergency dispatch, especially if some of you use Android phones.
 
@@ -88,8 +79,6 @@ It keeps adding more. Its 2026 [Safety Incidents](https://support.life360.com/hc
 ## iSharing
 
 iSharing is a family map with place alerts, location history, and a panic or SOS alert. It also pitches families with older parents: its "Elderly Care" alerts let you know when someone hasn't used their phone, on Silver plans and up. Premium plans are listed from $7.99 a month or $69.99 a year on the [App Store](https://apps.apple.com/us/app/id416436167), with a seven-day trial.
-
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 Its [privacy policy](https://isharingsoft.com/privacy_policy), last revised May 21, 2026, says: "We may also share location information with third parties for advertising, research, and analytic purposes."
 

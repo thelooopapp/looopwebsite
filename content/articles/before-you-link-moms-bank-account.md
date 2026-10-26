@@ -10,8 +10,7 @@ secondary_keywords:
   - family safety app that doesn't sell data
 persona: "Priya, the sibling coordinator (also Marcus, the only child far away)"
 status: draft
-legal_notes: "No competitor named. Oct 26, 2026: Question 3 adds an unnamed example paraphrasing Life360's Set Up Subscription Tracker help page ('Life360 may use your transaction data to show you relevant ads and measure ad performance'). Name and link Life360 only if legal approves; save a dated copy. Adds a link to the comparison hub."
-legal_review: false
+notes: "No competitor named. Oct 26, 2026: Question 3 adds an unnamed example paraphrasing Life360's Set Up Subscription Tracker help page ('Life360 may use your transaction data to show you relevant ads and measure ad performance'). Adds a link to the comparison hub."
 ---
 
 # Before You Link Mom's Bank Account to Any App, Ask These 5 Questions
@@ -54,7 +53,7 @@ With Plaid, the person signs in to their own bank through Plaid's screen. Plaid 
 
 Also ask what the app *doesn't* promise. No app can tell whether a payment is a scam. It can only notice that something looks different. Be wary of any app that says it will "stop" or "prevent" fraud on its own.
 
-**Read what you agree to when you connect.** The terms can allow more than the feature you came for. One family app's setup page, for example, says that by connecting an account you agree it may use your transaction data to show you relevant ads and measure ad performance. If the terms say something like that, an alert isn't the only thing your parent's spending is used for.
+**Read what you agree to when you connect.** The terms can allow more than the feature you came for. One family app's setup page, for example, says that by connecting an account you agree it may use your transaction data to show you relevant ads and measure ad performance in its app and elsewhere. If the terms say something like that, an alert isn't the only thing your parent's spending is used for.
 
 **What to look for:** a clear, specific description of the feature, plus honest limits.
 

@@ -10,11 +10,8 @@ secondary_keywords:
 persona: "Marcus, the only child far away (also Dana, the stretched-thin middle)"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names a competitor (Life360). Every Life360 fact is from COMPETITORS.md, checked Oct 26, 2026 against Life360's Safety Incidents help page. Says plainly that Life360 has crime features; never implies it lacks crime alerts. Contrast is the choice of distance and the approach, not quality. noindex until legal signs off."
+notes: "Names a competitor (Life360). Every Life360 fact is from COMPETITORS.md, checked Oct 26, 2026 against Life360's Safety Incidents help page. Says plainly that Life360 has crime features; never implies it lacks crime alerts. Contrast is the choice of distance and the approach, not quality."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names a competitor.
 
 # What Do Life360's Safety Incidents Show?
 

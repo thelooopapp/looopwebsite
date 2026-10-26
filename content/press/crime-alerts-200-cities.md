@@ -2,7 +2,6 @@
 title: "Looop Brings Crime Alerts Near Loved Ones to All 50 US States"
 slug: crime-alerts-200-cities
 status: draft
-legal_review: false
 ---
 
 # Looop Brings Crime Alerts Near Loved Ones to All 50 US States

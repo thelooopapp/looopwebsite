@@ -9,7 +9,6 @@ secondary_keywords:
   - neighborhood crime alerts for parents
 persona: "Dana, the stretched-thin middle (also Marcus, Ray)"
 status: draft
-legal_review: false
 coverage_source: "New crime data provider covering all 50 US states, October 2026"
 ---
 

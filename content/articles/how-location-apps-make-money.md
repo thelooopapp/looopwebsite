@@ -10,8 +10,7 @@ secondary_keywords:
   - private family safety app
 persona: "Dana, the stretched-thin middle (also Priya, the sibling coordinator)"
 status: draft
-legal_notes: "No competitor named. Oct 26, 2026: added the field-wide label point in general terms (from COMPETITORS.md: all six family locators and five of six phone locators reviewed declare Data Used to Track You) and links to the privacy label study and the comparison hub. Looop's own label line must be confirmed with engineering before publishing (Meta app events SDK); the HTML carries a CONFIRM WITH ENGINEERING comment."
-legal_review: false
+notes: "No competitor named. Oct 26, 2026: added the field-wide label point in general terms (from COMPETITORS.md: all six family locators and five of six phone locators reviewed declare Data Used to Track You) and links to the privacy label study and the comparison hub."
 ---
 
 # How Location Apps Turn Your Family's Movements Into Ad Money

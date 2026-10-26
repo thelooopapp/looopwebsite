@@ -12,11 +12,8 @@ secondary_keywords:
 persona: "Reporters, list writers, and privacy researchers (also Dana, the stretched-thin middle, comparing apps)"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names competitors (24 apps). Every competitor fact is from that app's US App Store listing, checked Oct 26, 2026 (raw notes with URLs: scratchpad privacy-label-data.md), except the Family Nest privacy policy quote, which is from COMPETITORS.md (policy effective Sept 23, 2026). Labels are described only in Apple's terms ('declares \"Data Used to Track You\"'); the page says plainly that a declaration isn't proof of selling data and makes no claim that any app sells data. No star ratings or rating counts are used. Clean labels are named (Apple Find My, Google Family Link, the three carrier apps, Kidslox, OurPact, and Family Nest's no-tracking section). CONFIRM WITH ENGINEERING: privacy label. Every sentence and table cell stating Looop's label facts (no 'Data Used to Track You' section, no 'Contains: Advertising,' data linked for App Functionality, usage and diagnostics not linked) needs engineering to confirm the label is still accurate, since the app includes Meta's app events SDK to measure Looop's own ads. RECHECK: iSharing's 'Contains: Advertising' line showed on its full listing URL but not on the short /id416436167 URL on Oct 26, 2026; if it's gone, change iSharing to No and every '7 of 15' to '6 of 15' (here and in the press release). The Apple definitions are quoted from Apple's 'Privacy Definitions and Examples' page on apps.apple.com. noindex until legal signs off."
+notes: "Names competitors (24 apps). Every competitor fact is from that app's US App Store listing, checked Oct 26, 2026 (raw notes with URLs: scratchpad privacy-label-data.md), except the Family Nest privacy policy quote, which is from COMPETITORS.md (policy effective Sept 23, 2026). Labels are described only in Apple's terms ('declares \"Data Used to Track You\"'); the page says plainly that a declaration isn't proof of selling data and makes no claim that any app sells data. No star ratings or rating counts are used. Clean labels are named (Apple Find My, Google Family Link, the three carrier apps, Kidslox, OurPact, and Family Nest's no-tracking section). The Apple definitions are quoted from Apple's 'Privacy Definitions and Examples' page on apps.apple.com."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names competitors.
 
 # What Family Safety Apps' App Store Privacy Labels Say (2026)
 
@@ -27,7 +24,7 @@ This is a review of what the developers themselves declare. We use Apple's terms
 ## Key numbers
 
 - **14 of 15** family location apps we reviewed declare "Data Used to Track You" on their App Store privacy labels.
-- **7 of 15** family location apps list "Contains: Advertising" on their App Store pages. <!-- RECHECK: iSharing "contains advertising" (7 of 15 or 6 of 15) -->
+- **7 of 15** family location apps list "Contains: Advertising" on their App Store pages.
 - **16 of 24** apps from other developers declare "Data Used to Track You." **Identifiers** is the most common data type in that section, on 14 of those 16 labels.
 - **0 of 5** apps from Apple, Google, Verizon, AT&T, and T-Mobile declare "Data Used to Track You," and none lists advertising.
 - **7 apps** from other developers have neither: Find My, Google Family Link, Verizon Family, AT&T Secure Family, T-Mobile FamilyMode, Kidslox, and OurPact.
@@ -151,8 +148,6 @@ Seven apps from other developers have no "Data Used to Track You" section and no
 - **Verizon Family, AT&T Secure Family, and T-Mobile FamilyMode,** the three carrier apps.
 - **Kidslox,** whose listing also says, "Kidslox contains no advertisements."
 - **OurPact,** the leanest label in the group: one data type, Contact Info, listed for App Functionality.
-
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 Family Nest is the one family location app without a "Data Used to Track You" section. Its listing does show "Contains: Advertising," and its [privacy policy](https://www.familynestapp.com/privacy-policy) says, "We do not sell personal data to third parties."
 

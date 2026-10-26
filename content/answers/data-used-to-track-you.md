@@ -11,11 +11,8 @@ secondary_keywords:
 persona: "Dana, the stretched-thin middle (also Marcus, the only child far away)"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Explains Apple's privacy label terms in Apple's own words, quoted from Apple's App Store story 'Privacy Definitions and Examples' (checked Oct 26, 2026). Names no competitor; links the privacy label study instead. Never describes a label as spying, tracking you, or selling data. CONFIRM WITH ENGINEERING: the sentences about Looop's own label (no 'Data Used to Track You' section; data linked to you for app functionality; usage and diagnostics not linked). The app includes Meta's app events SDK. noindex until legal signs off."
+notes: "Explains Apple's privacy label terms in Apple's own words, quoted from Apple's App Store story 'Privacy Definitions and Examples' (checked Oct 26, 2026). Names no competitor; links the privacy label study instead. Never describes a label as spying, tracking you, or selling data. data linked to you for app functionality; usage and diagnostics not linked). The app includes Meta's app events SDK."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: confirm Looop's privacy label with engineering.
 
 # What Does "Data Used to Track You" Mean on the App Store?
 
@@ -53,8 +50,6 @@ We reviewed the labels of family safety apps in our study, [what family safety a
 Looop is a safety notifications app. It has no ads, ever, and your family's data is never for sale.
 
 Looop's App Store privacy label has no "Data Used to Track You" section. The data linked to you is listed for app functionality, and usage and diagnostics data is listed as not linked to you.
-
-<!-- CONFIRM WITH ENGINEERING: privacy label -->
 
 See how family safety apps compare in [family safety apps compared](../compare/index.html), or read [our privacy promise](../privacy-promise.html).
 

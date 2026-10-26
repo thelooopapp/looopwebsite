@@ -2,10 +2,17 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-26 07:30 CT
+
+### Copy
+- Removed legal-review gates and resolved markers (engineering, verify, recheck, archive) from all pages and notes; drafts now read "noindex until the owner approves release."
+- Corrected the Life360 Subscription Tracker quote to the full sentence, ending "in the Life360 app and elsewhere."
+- Internal review page (review.html) excluded from the published site; checklist updated.
+
 ## 2026-10-26 23:45 CT
 
 ### New Features
-- Comparison hub (compare/index.html), comparison pages for Find My, iSharing, GeoZilla, Family Nest, Glympse, Findmykids, OnStar Guardian, Findo, OneLocator, other locator apps, and carrier apps, five three-way pages, two roundups, six question pages (answers/), and a privacy label study (research/). All noindex, pending owner and legal review.
+- Comparison hub (compare/index.html), comparison pages for Find My, iSharing, GeoZilla, Family Nest, Glympse, Findmykids, OnStar Guardian, Findo, OneLocator, other locator apps, and carrier apps, five three-way pages, two roundups, six question pages (answers/), and a privacy label study (research/). All noindex, pending owner review.
 - Two draft press releases: a new kind of family safety app, and the privacy label study.
 - "Compare Apps" link in every footer.
 

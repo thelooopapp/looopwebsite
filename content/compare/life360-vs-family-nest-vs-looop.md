@@ -12,11 +12,8 @@ secondary_keywords:
 persona: "Marcus, the only child far away; Linda, 76, as invitee"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; save a dated screenshot or Wayback copy before use. Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. CONFIRM WITH ENGINEERING: every sentence and table cell about Looop's App Store privacy label (no 'Data Used to Track You', no 'contains advertising'); the app includes Meta's app events SDK. 'Not listed' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. Family Nest facts from COMPETITORS.md and its App Store listing (re-checked Oct 26, 2026: no 'Data Used to Track You' section; age rating lists advertising). Policy quoted exactly (effective Sept 23, 2026). Nothing about its owner or where it is based, per the copywriter guide. Apple Watch app left out: COMPETITORS.md lists one, but the Oct 26 App Store page didn't show watchOS. Never say Family Nest sells data."
+notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. the app includes Meta's app events SDK. 'Not listed' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. Family Nest facts from COMPETITORS.md and its App Store listing (re-checked Oct 26, 2026: no 'Data Used to Track You' section; age rating lists advertising). Policy quoted exactly (effective Sept 23, 2026). Nothing about its owner or where it is based, per the copywriter guide. Apple Watch app left out: COMPETITORS.md lists one, but the Oct 26 App Store page didn't show watchOS. Never say Family Nest sells data."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names competitors.
 
 # Life360 vs. Family Nest vs. Looop
 
@@ -81,9 +78,7 @@ Life360 is one of the best-known family apps. It's built around a live family ma
 
 It does more than location now. Severe weather alerts come through AccuWeather. Its [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) feature, new in 2026, puts recent, high-severity events within one mile on the map, with a notification. Its free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) links bank accounts through Plaid to show recurring charges across a Circle.
 
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
-
-On data, Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517). Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting an account to Subscription Tracker, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance." Life360 has a history of selling location data to a dozen data brokers.
+On data, Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517). Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting an account to Subscription Tracker, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere." Life360 has a history of selling location data to a dozen data brokers.
 
 **Where Life360 may fit better:** families with Android phones, a household with a new teen driver, or anyone who wants crash detection on paid plans and 24/7 emergency dispatch on Gold and Platinum.
 
@@ -94,8 +89,6 @@ On data, Life360 runs a [growing ad business](https://investors.life360.com/stat
 If you're searching for Family360, this is the same app. Its store pages read "Family Nest (ex Family360)." It isn't related to "FamilyNest - Family Organizer," which is a different app.
 
 Family Nest is a kids-first family locator on iPhone and Android. The free version includes private groups called Nests, with chat, a live map, live location sharing for trips, place alerts for home, school, and work, over-speed alerts, a phone locator, and SOS. Premium adds ETAs, 365 days of location history, travel statistics, unlimited places, and priority support. A recent update added a weekly driving score, and the app shows the weather through OpenWeatherMap.
-
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 Premium costs $5.99 a month or $39.99 a year on the [App Store](https://apps.apple.com/us/app/-/id1537446782), where the listing notes that it contains advertising. Its [privacy policy](https://www.familynestapp.com/privacy-policy), effective September 23, 2026, says: "We do not sell personal data to third parties." Its App Store label has no "Data Used to Track You" section.
 
@@ -149,8 +142,6 @@ Yes. Family360 is now called Family Nest, and its store pages read "Family Nest 
 It depends on what you need. Life360 has more emergency features, like crash detection on paid plans and 24/7 emergency dispatch on Gold and Platinum, plus severe weather alerts and Safety Incidents. Family Nest costs less, at $5.99 a month or $39.99 a year, and its App Store label has no "Data Used to Track You" section. Both are built around a live map. If you'd rather get a heads-up than watch a map, Looop is a different option.
 
 ### Does Family Nest sell my data?
-
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 Its privacy policy says, "We do not sell personal data to third parties," and "We do not sell your location data to anyone." Its App Store listing notes that the app contains advertising. Looop has no ads and never sells your data.
 

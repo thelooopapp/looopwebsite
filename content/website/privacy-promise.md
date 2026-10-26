@@ -8,8 +8,7 @@ secondary_keywords:
   - family app without tracking
 persona: "Linda, the independent parent (invitee); Jordan, the college student (invitee)"
 status: draft
-legal_review: false
-legal_notes: "CONFIRM WITH ENGINEERING: privacy label. The 'Our App Store privacy label' section says Looop's label has no 'Data Used to Track You' section and the listing doesn't say 'contains advertising' (checked Oct 26, 2026). Engineering must confirm the label before publishing, and re-confirm at each refresh."
+notes: "The 'Our App Store privacy label' section says Looop's label has no 'Data Used to Track You' section and the listing doesn't say 'contains advertising' (checked Oct 26, 2026)."
 ---
 
 # Your family's data isn't for sale

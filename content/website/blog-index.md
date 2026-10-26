@@ -8,7 +8,6 @@ secondary_keywords:
   - family safety notifications
 persona: "Dana, the stretched-thin middle"
 status: draft
-legal_review: false
 ---
 
 # Resources

@@ -11,11 +11,8 @@ secondary_keywords:
 persona: "Dana, the stretched-thin middle; Ray, the new empty-nester"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names competitors; noindex until legal approval. Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Privacy label: every sentence saying Looop's App Store label has no 'Data Used to Track You' section (or no 'contains advertising') is marked in the HTML with CONFIRM WITH ENGINEERING: privacy label; confirm with engineering that the Meta app events SDK runs without advertiser tracking and the label is still accurate before publishing. Carrier apps: facts from V notes (App Store listings). Never says these apps sold data. The FCC location-data fines and the Supreme Court ruling are headline only and are left out. T-Mobile FamilyMode price is unverified and is not stated. All three labels are described as having no Data Used to Track You section, as on their listings."
+notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Carrier apps: facts from V notes (App Store listings). Never says these apps sold data. The FCC location-data fines and the Supreme Court ruling are headline only and are left out. T-Mobile FamilyMode price is unverified and is not stated. All three labels are described as having no Data Used to Track You section, as on their listings."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names competitors. Keep noindex until approved.
 
 # Looop vs. carrier family apps: works on any carrier
 

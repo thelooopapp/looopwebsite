@@ -10,7 +10,6 @@ secondary_keywords:
   - sibling caregiving
 persona: "Dana, Marcus, Priya (buyers); Linda (invitee)"
 status: draft
-legal_review: false
 ---
 
 # Mom keeps her routine, you get peace of mind.

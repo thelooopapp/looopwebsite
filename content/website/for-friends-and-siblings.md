@@ -8,7 +8,6 @@ secondary_keywords:
   - severe weather alerts for family
 persona: "Erin and Kate; Maya and Aunt Ruth; Tasha and Sam; Alex and Jamie; the group chat"
 status: draft
-legal_review: false
 ---
 
 # Look out for each other, wherever you are.

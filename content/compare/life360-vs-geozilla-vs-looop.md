@@ -11,11 +11,8 @@ secondary_keywords:
 persona: "Dana, the stretched-thin middle; Ray, the new empty-nester"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; save a dated screenshot or Wayback copy before use. Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. CONFIRM WITH ENGINEERING: every sentence and table cell about Looop's App Store privacy label (no 'Data Used to Track You', no 'contains advertising'); the app includes Meta's app events SDK. 'Not listed' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. GeoZilla facts from its App Store listing (re-checked Oct 26, 2026). Billing complaints and the 2017 funding/origin headline are deliberately left out. Never call GeoZilla a scam or spyware, or say it sells data."
+notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. the app includes Meta's app events SDK. 'Not listed' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. GeoZilla facts from its App Store listing (re-checked Oct 26, 2026). Billing complaints and the 2017 funding/origin headline are deliberately left out. Never call GeoZilla a scam or spyware, or say it sells data."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names competitors.
 
 # Life360 vs. GeoZilla vs. Looop
 
@@ -80,9 +77,7 @@ Life360 is one of the best-known family apps. It's built around a live family ma
 
 It does more than location now. Severe weather alerts come through AccuWeather. Its [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) feature, new in 2026, puts recent, high-severity events within one mile on the map, with a notification. Its free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) links bank accounts through Plaid to show recurring charges across a Circle.
 
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
-
-On data, Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517). Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting an account to Subscription Tracker, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance." Life360 has a history of selling location data to a dozen data brokers.
+On data, Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517). Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting an account to Subscription Tracker, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere." Life360 has a history of selling location data to a dozen data brokers.
 
 **Where Life360 may fit better:** families with Android phones, a household with a new teen driver, or anyone who wants crash detection on paid plans and 24/7 emergency dispatch on Gold and Platinum.
 

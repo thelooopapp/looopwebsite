@@ -10,11 +10,8 @@ secondary_keywords:
 persona: "Marcus, the only child far away (Linda, 76, as invitee)"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names a competitor (iSharing). Facts from COMPETITORS.md and iSharing's App Store listing, checked Oct 26, 2026. Privacy policy quoted exactly (last revised May 21, 2026, checked Oct 26, 2026); ARCHIVE a dated copy of the policy before publishing. Privacy label described in Apple's words ('declares'). Does not mention the 2024 security flaw and does not claim iSharing lacks any feature. 'Elderly' appears only in the searched title, the meta description, and iSharing's own names; Looop's voice says 'aging parents.' CONFIRM WITH ENGINEERING: the sentence about Looop's App Store label having no 'Data Used to Track You' section. noindex until legal signs off."
+notes: "Names a competitor (iSharing). Facts from COMPETITORS.md and iSharing's App Store listing, checked Oct 26, 2026. Privacy policy quoted exactly (last revised May 21, 2026, checked Oct 26, 2026); Privacy label described in Apple's words ('declares'). Does not mention the 2024 security flaw and does not claim iSharing lacks any feature. 'Elderly' appears only in the searched title, the meta description, and iSharing's own names;"
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names a competitor.
 
 # Does iSharing Work for Elderly Parents?
 
@@ -36,11 +33,7 @@ There's a free plan. On the App Store, paid plans include $7.99 or $14.99 a mont
 
 ## What its privacy policy says
 
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
-
 iSharing's privacy policy, last revised May 21, 2026, says: "We may also share location information with third parties for advertising, research, and analytic purposes." Its App Store privacy label declares "Data Used to Track You" for purchases, location, contact info, identifiers, usage data, diagnostics, and other data.
-
-<!-- ARCHIVE: save a dated copy of iSharing's privacy policy (last revised May 21, 2026) on the day this page is published. Quote checked Oct 26, 2026. -->
 
 ## What it does well
 
@@ -53,8 +46,6 @@ A quiet phone is one signal. Looop looks at the whole day.
 Looop is a safety notifications app built for adult children and the parents they love. It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of her day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 Mom joins by invitation, and there's nothing for her to start or remember. Health & Fitness sharing is available if you need it. Looop has no ads, ever, and your family's data is never for sale. Looop's App Store privacy label has no "Data Used to Track You" section.
-
-<!-- CONFIRM WITH ENGINEERING: privacy label -->
 
 Compare them in [Looop vs. iSharing](../compare/looop-vs-isharing.html) and [Life360 vs. iSharing vs. Looop](../compare/life360-vs-isharing-vs-looop.html), or browse [family safety apps compared](../compare/index.html).
 

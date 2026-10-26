@@ -10,8 +10,7 @@ secondary_keywords:
   - loved one living alone
 persona: "Families whose kids have grown past the driving years, with aging parents or a relative living alone"
 status: draft
-legal_review: false
-notes: "Hero echoes a well-known map-first family app's colors and type (purple #762EEB on lavender, a heavy geometric sans set in Albert Sans 900) without naming it. Not linked from any other page yet. Get legal sign-off on the hero before linking it."
+notes: "Hero echoes a well-known map-first family app's colors and type (purple #762EEB on lavender, a heavy geometric sans set in Albert Sans 900) without naming it. Not linked from any other page yet."
 ---
 
 # Like360 but for Adults

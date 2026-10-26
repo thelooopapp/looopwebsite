@@ -9,7 +9,6 @@ secondary_keywords:
   - sandwich generation
 persona: "Dana, the stretched-thin middle"
 status: draft
-legal_review: false
 ---
 
 # Who Looop is for

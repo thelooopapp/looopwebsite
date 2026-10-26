@@ -10,17 +10,12 @@ secondary_keywords:
 persona: "Dana, the stretched-thin middle (also Marcus, the only child far away)"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names a competitor (Life360). The transaction-data sentence is quoted exactly from Life360's Set Up Subscription Tracker help page, checked Oct 26, 2026. ARCHIVE: save a dated screenshot or Wayback Machine copy of that page on the day this page is published. Never say Life360 sells or shares transaction data. Looop's spending alerts: optional, through Plaid, never used for ads or sold; never say Looop detects or prevents scams. noindex until legal signs off."
+notes: "Names a competitor (Life360). The transaction-data sentence is quoted exactly from Life360's Set Up Subscription Tracker help page, checked Oct 26, 2026. Never say Life360 sells or shares transaction data. Looop's spending alerts: optional, through Plaid, never used for ads or sold; never say Looop detects or prevents scams."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names a competitor.
 
 # What Does Life360's Subscription Tracker Do With Bank Data?
 
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
-
-Life360's Subscription Tracker connects your checking accounts and credit cards through Plaid and finds the recurring charges on them. Life360's own setup page also says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance."
+Life360's Subscription Tracker connects your checking accounts and credit cards through Plaid and finds the recurring charges on them. Life360's own setup page also says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere."
 
 Here's what the feature does, and what to ask before you link an account to any family app.
 
@@ -38,11 +33,7 @@ Neither page mentions alerts for unusually large charges, fraud, or scams.
 
 ## What Life360's terms say about your transaction data
 
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
-
-Life360's [Set Up Subscription Tracker](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) page says that by connecting an account, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance."
-
-<!-- ARCHIVE: save a dated screenshot or Wayback Machine copy of Life360's Set Up Subscription Tracker page on the day this page is published. Quote checked Oct 26, 2026. -->
+Life360's [Set Up Subscription Tracker](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) page says that by connecting an account, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere."
 
 That's worth reading before anyone in the family links a card. Our guide [before you link Mom's bank account](../blog/before-you-link-moms-bank-account.html) covers the other questions to ask.
 

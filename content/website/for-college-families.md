@@ -9,7 +9,6 @@ secondary_keywords:
   - parent of college student worry
 persona: "Ray, the new empty-nester; Dana (buyers); Jordan, the college student (invitee)"
 status: draft
-legal_review: false
 ---
 
 # They're on their own now. You'll still know if something seems off.

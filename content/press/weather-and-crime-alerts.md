@@ -1,7 +1,6 @@
 ---
 title: "Looop Now Sends Severe Weather Alerts in More Than 50 Countries"
 status: draft
-legal_review: false
 ---
 
 # Looop Now Sends Severe Weather Alerts in More Than 50 Countries

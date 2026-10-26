@@ -11,11 +11,8 @@ secondary_keywords:
 persona: "Marcus, the only child far away (also Dana, the stretched-thin middle)"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names a competitor (Family Nest, formerly Family360). Facts from COMPETITORS.md and Family Nest's App Store listing and privacy policy, checked Oct 26, 2026. The 'same app, new name' wording is quoted from the App Store description. Does not say Family Nest sells data (its policy says it doesn't) and says nothing about its owner beyond the rename. noindex until legal signs off."
+notes: "Names a competitor (Family Nest, formerly Family360). Facts from COMPETITORS.md and Family Nest's App Store listing and privacy policy, checked Oct 26, 2026. The 'same app, new name' wording is quoted from the App Store description. Does not say Family Nest sells data (its policy says it doesn't) and says nothing about its owner beyond the rename."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names a competitor.
 
 # Is Family Nest the Same as Family360?
 
@@ -30,8 +27,6 @@ From its App Store listing, checked October 26, 2026:
 - **Free:** private "Nests" with chat, a live map, live location sharing for trips, place alerts for home, school, and work, over-speed alerts, a phone locator, and SOS.
 - **Premium:** real-time tracking with arrival times, 365 days of history, travel statistics, unlimited places, and priority support, for $5.99 a month or $39.99 a year.
 - **Also:** a weekly "Nest Drive" driving score and an Android version.
-
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 The listing notes that the app contains advertising. Its privacy policy, effective September 23, 2026, says, "We do not sell personal data to third parties."
 
@@ -62,8 +57,6 @@ Yes. Family360 is now Family Nest. Its App Store listing says it's the "same app
 No. "FamilyNest - Family Organizer" is a different app.
 
 ### Does Family Nest sell data?
-
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 Its privacy policy, effective September 23, 2026, says, "We do not sell personal data to third parties." Its App Store listing notes that the app contains advertising.
 

@@ -1,7 +1,6 @@
 ---
 title: "Looop Officially Launches a Safety Notifications App for Families Who Care From a Distance"
 status: published
-legal_review: false
 ---
 
 # Looop Officially Launches a Safety Notifications App for Families Who Care From a Distance

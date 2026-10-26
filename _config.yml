@@ -5,3 +5,5 @@ exclude:
   - readme.txt
   - CHANGELOG.md
   - SEO_STRATEGY.md
+  # Internal checklist; never published.
+  - review.html

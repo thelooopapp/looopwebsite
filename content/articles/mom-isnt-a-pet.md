@@ -10,10 +10,7 @@ secondary_keywords:
   - Life360 alternative
 persona: "Linda, the independent parent, 76 (also Marcus, the only child far away)"
 status: draft
-legal_review: true
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this piece names a competitor.
 
 # Mom Isn't a Pet (or Your Keys)
 

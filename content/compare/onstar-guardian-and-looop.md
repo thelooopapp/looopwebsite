@@ -11,11 +11,8 @@ secondary_keywords:
 persona: "Priya, the sibling coordinator (Dad still drives); Marcus, the only child far away"
 status: draft
 facts_checked: 2026-10-26
-legal_review: true
-legal_notes: "Names competitors; noindex until legal approval. Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Privacy label: every sentence saying Looop's App Store label has no 'Data Used to Track You' section (or no 'contains advertising') is marked in the HTML with CONFIRM WITH ENGINEERING: privacy label; confirm with engineering that the Meta app events SDK runs without advertiser tracking and the label is still accurate before publishing. OnStar Guardian: framed as a complement. The page never implies Looop sends help, calls 911, or detects crashes, and says so plainly. The FTC order on GM and OnStar is headline only and is left out. OnStar is not called a data seller; its label is described in Apple's words."
+notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. OnStar Guardian: framed as a complement. The page never implies Looop sends help, calls 911, or detects crashes, and says so plainly. The FTC order on GM and OnStar is headline only and is left out. OnStar is not called a data seller; its label is described in Apple's words."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this page names competitors. Keep noindex until approved.
 
 # OnStar Guardian and Looop: before the emergency
 

@@ -10,10 +10,7 @@ secondary_keywords:
   - Life360 alternative
 persona: "Marcus, the only child far away (also Linda, the independent parent, as invitee)"
 status: draft
-legal_review: true
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this piece names a competitor.
 
 # Mom Needs a Call When It Counts
 

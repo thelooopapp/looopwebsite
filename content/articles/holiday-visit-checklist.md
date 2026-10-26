@@ -10,7 +10,6 @@ secondary_keywords:
   - long distance caregiver tips
 persona: "Priya, the sibling coordinator (also Marcus, the only child far away; Linda, the independent parent)"
 status: draft
-legal_review: false
 ---
 
 # The Holiday Visit Checklist: What to Notice When You See Your Parents

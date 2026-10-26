@@ -16,11 +16,8 @@ secondary_keywords:
   - check in app for family
 persona: "Ray, the new empty-nester (also Marcus, the only child far away; Linda and Jordan as invitees)"
 status: draft
-legal_review: true
-legal_notes: "Names competitors. Oct 26, 2026 revision (Phase 1 rollout): added iSharing, GeoZilla, Family Nest (formerly Family360), and OnStar Guardian using only COMPETITORS.md facts (checked Oct 26, 2026), cross-checked against their US App Store listings the same day. iSharing and Family Nest policy lines are quoted exactly; save dated copies. Life360 crime (Safety Incidents) and money (Subscription Tracker) statements added; the Subscription Tracker sentence is quoted exactly from Life360's setup page. ARCHIVE: save a dated copy of the Life360 Set Up Subscription Tracker page before publishing. Never say Life360 sells or shares transaction data. Not used, per COMPETITORS.md: iSharing's 2024 security flaw, Family Nest's owner or location, review-site complaints, and any claim that a competitor lacks a feature. 'Works on' lists only platforms confirmed on the App Store or in COMPETITORS.md (Android not confirmed for iSharing, GeoZilla, or OnStar Guardian). Retitled for searches beyond Life360; dateModified 2026-10-26."
+notes: "Names competitors. Oct 26, 2026 revision (Phase 1 rollout): added iSharing, GeoZilla, Family Nest (formerly Family360), and OnStar Guardian using only COMPETITORS.md facts (checked Oct 26, 2026), cross-checked against their US App Store listings the same day. iSharing and Family Nest policy lines are quoted exactly; save dated copies. Life360 crime (Safety Incidents) and money (Subscription Tracker) statements added; the Subscription Tracker sentence is quoted exactly from Life360's setup page. Never say Life360 sells or shares transaction data. Not used, per COMPETITORS.md: iSharing's 2024 security flaw, Family Nest's owner or location, review-site complaints, and any claim that a competitor lacks a feature. 'Works on' lists only platforms confirmed on the App Store or in COMPETITORS.md (Android not confirmed for iSharing, GeoZilla, or OnStar Guardian). Retitled for searches beyond Life360; dateModified 2026-10-26."
 ---
-
-> LEGAL REVIEW REQUIRED before publishing: this piece names competitors.
 
 # The Best Life360 Alternatives in 2026, Including iSharing, GeoZilla, and Family Nest
 
@@ -70,9 +67,7 @@ We looked at the same four things for every app:
 
 **Privacy and ads.** This is where many people start looking elsewhere. Life360 [launched an advertising platform](https://www.life360.com/en-us/press/life360-unveils-advertising-platform-to-connect-brands-with-its-engaged-community-of-40-million-u-s-monthly-active-users) in 2024 with Uber as a key partner, tied into notifications when members land at an airport. In June 2025 it [launched Place Ads](https://www.life360.com/press/life360-enhances-ad-platform-launch-place-ads-and-uplift), which reach families based on real-world places they visit.
 
-<!-- ARCHIVE: save dated copy of Life360 Subscription Tracker setup page before publishing -->
-
-Its free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker), added in May 2026, links checking accounts and credit cards through Plaid to find recurring charges. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance."
+Its free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker), added in May 2026, links checking accounts and credit cards through Plaid to find recurring charges. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere."
 
 Life360 also has a history of selling location data to a dozen data brokers. [The Markup reported](https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user) in 2021 that its buyers included Cuebiq, X-Mode, SafeGraph, and Allstate's Arity. Life360 then [stopped most of those sales](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users), kept Arity, and began selling aggregated data to Placer.ai. In a [2024 earnings release](https://www.sec.gov/Archives/edgar/data/1581760/000158176024000105/life360incq324mediarelea.htm), it said its data business had returned to growth.
 
@@ -85,8 +80,6 @@ Compare them side by side in [Looop vs. Life360](../looop-vs-life360.html).
 **What it is.** iSharing, from iSharingSoft in Irvine, California, is one of the apps closest to Life360. Its [App Store listing](https://apps.apple.com/us/app/id416436167) describes a live map with Street View, place alerts for home, work, and school, location history from 7 days to a year depending on plan, a panic alert that records sound, messaging, and Meetups for temporary group sharing.
 
 **Notifications.** Its Elderly Care feature sends an alert when an older person doesn't use their phone. Battery and inactivity alerts come with Silver and up, and driving reports for speeding, sudden braking, and phone use come with Gold and up.
-
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 **Privacy and ads.** iSharing's [privacy policy](https://isharingsoft.com/privacy_policy), last revised May 21, 2026, says: "We may also share location information with third parties for advertising, research, and analytic purposes." Its App Store privacy label declares "Data Used to Track You," including location, identifiers, and usage data.
 
@@ -111,8 +104,6 @@ See [Looop vs. GeoZilla](../compare/looop-vs-geozilla.html) and [Life360 vs. Geo
 ## Family Nest (formerly Family360)
 
 **What it is.** If you've seen "Life360 vs. Family360," this is that app. Its store pages now read "Family Nest (ex Family360)." Families join private "Nests" with chat, a live map, place alerts for home, school, and work, over-speed alerts, a phone locator, and SOS, all free, according to its [App Store listing](https://apps.apple.com/us/app/-/id1537446782). Premium adds real-time tracking with ETA, 365 days of history, and travel statistics. It also has a weekly Nest Drive driving score and shows the weather through OpenWeatherMap.
-
-<!-- ARCHIVE: save dated copy of the quoted page before publishing -->
 
 **Privacy and ads.** Family Nest's [privacy policy](https://www.familynestapp.com/privacy-policy), effective September 23, 2026, says: "We do not sell personal data to third parties." Its App Store listing notes that the app contains advertising.
 
