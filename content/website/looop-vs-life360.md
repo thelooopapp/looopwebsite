@@ -200,6 +200,9 @@ Yes. Every Loved One joins by invitation. Health & Fitness sharing, like heart r
 **Does Looop use my bank data for ads?**
 No. Bank linking in Looop is optional and runs through Plaid. It's used only for spending alerts, like a heads-up about an unusually large charge, and it's never used for ads or sold. Life360's Subscription Tracker also connects checking accounts and credit cards through Plaid. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere."
 
+**What does Life360's Subscription Tracker do with bank data?**
+Subscription Tracker connects checking accounts and credit cards through Plaid and finds recurring charges, with alerts for price changes, new subscriptions, and renewals. Life360's [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere."
+
 **Does Life360 have crime alerts?**
 Yes. Life360's [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) show recent, high-severity events, like fires, thefts, and weapon-related crimes, as pins on its map, with a notification. They cover the last six hours, within one mile of you or a Circle member, in the US. Free Circles can see details for up to three incidents in 24 hours. Looop's crime alerts work in all 50 US states at the distance your family chooses: 1, 3, 5, or 10 miles.
 
