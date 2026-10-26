@@ -28,7 +28,7 @@ Your parent wants to keep their independence, and a life that isn't organized ar
 
 It also runs both ways. Your parent worries about you, too: the late drive home, the storm in your city. The best setups are shared, so they get the same heads-up about you that you get about them. You're each sharing just enough to know when something is off.
 
-Keep that in mind as you read. Every step below should pass one test: would your parent be glad you did it this way?
+Keep that in mind as you read. At each step below, ask yourself whether your parent would be glad you did it this way.
 
 ## Signs it might be time to do more
 
@@ -143,7 +143,7 @@ And if you ever believe your parent is in immediate danger, call 911 or their lo
 
 > **Tools families use**
 >
-> Most families end up with a mix of tools, and each does a different job. Phones have location sharing built in for when you need to know where someone is. Family location apps put everyone on a shared map, and medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or an unusual day might make a call worth making. For a fair look at each kind of tool, see [Family safety apps compared](../blog/family-safety-apps-compared.html).
+> Most families end up with a mix of tools, and each does a different job. Phones have location sharing built in for when you need to know where someone is. Family location apps put everyone on a shared map, and medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or an unusual day might make a call worth making. When you're ready to compare them, start with [Family safety apps compared](../blog/family-safety-apps-compared.html).
 
 ## A tool that fits this approach
 
@@ -161,13 +161,13 @@ Your parent keeps their routine, and everyone makes fewer "just checking" calls.
 
 ## Checking in, step by step
 
-- Start with a conversation, before any setup.
-- Lead with how you feel.
-- Send an invitation, and never set anything up without them knowing.
-- Share only what helps you know when to call.
-- Make it two-way. They look out for you, too.
-- Let quiet mean all is well.
-- Call when something changes, and whenever your gut says to.
+- This week, pick a calm time to talk, like a Sunday call or your next visit.
+- Write down your opening line, starting with how you feel, so it comes out the way you mean it.
+- Send the invite while you're on the phone together, so they can ask questions as they accept.
+- Start with weather and crime alerts, and add Health & Fitness sharing later only if you both want it.
+- Text your siblings to agree on who calls on Sundays, and who calls when a storm alert comes in.
+- Put the doctors, pharmacy, neighbor, and spare-key list in a shared note this weekend.
+- Set a reminder for three months from now to ask, "Still feel okay with this?"
 
 If you do one thing this week, have the first conversation, and let your parent decide what comes next.
 

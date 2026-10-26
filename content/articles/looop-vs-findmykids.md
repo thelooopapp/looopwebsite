@@ -43,7 +43,6 @@ Looop is a safety notifications app built for grown-up families who care from a 
 | App Store privacy label | No "Data Used to Track You" section | Declares "Data Used to Track You": Identifiers |
 
 Checked October 26, 2026, on Findmykids's App Store listing.  
-Findmykids offers things Looop doesn't, like an SOS button and a loud signal for kids.  
 [See where Findmykids may fit better](#fits-better), or compare every app in [Family safety apps compared](family-safety-apps-compared.html).
 
 ## What Findmykids does well
@@ -58,8 +57,8 @@ Findmykids offers things Looop doesn't, like an SOS button and a loud signal for
 ## Built for the years after the first phone
 
 **Question:** "Our kids are grown. What do we use now?"
-**Subtitle:** Findmykids answers "Where is my kid?"  
-Looop answers "Is Mom okay today?"
+**Subtitle:** Your kids grew up, and Mom got older.  
+Looop tells you when her day looks different, so you know when to call.
 
 ### Everything about Mom's day, in one answer
 
@@ -75,7 +74,7 @@ On a typical day, Looop stays quiet. When it might be a good time to check in, i
 
 Looop is for grown-up families: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Every Loved One joins by invitation and keeps their own routine.
 
-Looop is for life after the school years, when the people you worry about are grown and living on their own.
+There's nothing new for them to carry. Looop runs on the iPhone they already have.
 
 ### No ads, ever, and your family's data is never for sale
 
@@ -86,14 +85,13 @@ Spending alerts, if you use them, run through Plaid. That data is never used for
 ## Where Findmykids may fit better
 
 **Question:** "What if our youngest is still in grade school?"
-**Subtitle:** Then Findmykids may be the better fit for now.
+**Subtitle:** While the kids are small, Findmykids may be the better fit.
 
 - **Young kids and first phones.** If your child is getting a first phone or a GPS watch, Findmykids is built for that. Looop is made for grown-up families.
 - **An SOS button and a loud signal.** Findmykids gives kids an SOS button and a signal that rings through silent mode. Looop has neither and isn't an emergency service.
 - **Screen time at school.** Findmykids shows how much time a child spends in apps and games during the school day. Looop doesn't.
 
 Some families use both.  
-Findmykids looks after the youngest.  
 Looop covers Grandma and the kids who've moved away.
 
 ## Questions about Findmykids and Looop

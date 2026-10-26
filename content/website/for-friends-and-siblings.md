@@ -24,7 +24,7 @@ Image: map.png
 
 ## "If something happened, who would even know?"
 
-**Subtitle:** You would. And they'd know about you.
+**Subtitle:** You'd both know.
 
 Maybe you're two sisters in two time zones, or best friends with a "text me when you're home" rule. Looop works both ways. Each of you gets a heads-up about the other, so looking out for each other never feels one-sided.
 
@@ -48,7 +48,7 @@ Three states apart and still each other's first call. You might see a crime aler
 Enjoy the date. If something seems off, your best friend will know. A gentle nudge if her night looks unusual means one quick text, so nobody has to wait up.
 
 ### Long-distance partners
-Three hours behind and always guessing? Get a heads-up about severe weather on their drive home. You'll be the first to know when to call. Looop sends alerts instead of tracking, because trust is the point.
+Three hours behind and always guessing? Get a heads-up about severe weather on their drive home. You'll be the first to know when to call. Looop sends alerts instead of tracking.
 
 ### The group chat
 Five friends in five cities. When a hurricane warning hits one of them, the whole chat knows to check in.

@@ -44,7 +44,6 @@ Looop is a safety notifications app that runs every day and tells you when it mi
 | App Store privacy label | No "Data Used to Track You" section | Declares "Data Used to Track You": Usage Data |
 
 Checked October 26, 2026, on Glympse's App Store listing.  
-Glympse does things Looop doesn't, like sharing with people who don't have the app.  
 [See where Glympse may fit better](#fits-better), or compare every app in [Family safety apps compared](family-safety-apps-compared.html).
 
 ## What Glympse does well
@@ -59,8 +58,8 @@ Glympse does things Looop doesn't, like sharing with people who don't have the a
 ## What Looop does every day
 
 **Question:** "What about the days nobody's on the road?"
-**Subtitle:** Glympse answers "Where are you right now?"  
-Looop answers "Is Mom okay today?"
+**Subtitle:** Looop keeps running after the trip is over.  
+It tells you when Mom's day looks different, so you know when to call.
 
 ### One answer about her whole day
 
@@ -72,7 +71,7 @@ Severe weather alerts work in more than 50 countries, and nearby crime alerts wo
 
 Looop stays quiet when all is well and sends a nudge when it might be a good time to check in. There's a family map for when you need it, for example after a nudge to check in.
 
-With Glympse, someone starts a share when they want you to see where they are. Looop works quietly in the background every day, so nobody has to remember to start anything.
+Looop works quietly in the background every day, so nobody has to remember to start a share.
 
 ### Made for families who live far apart
 
@@ -80,7 +79,8 @@ Looop is made for families who care from a distance: a parent a few states away,
 
 ### Both say your data is never sold
 
-Glympse and Looop both say your data is never sold. Where they differ is advertising. Glympse's listing says it contains advertising, while Looop doesn't work with advertisers and has no ads, ever. Looop's App Store privacy label has no "Data Used to Track You" section.
+Glympse and Looop both say your data is never sold. Glympse's listing says it contains advertising.  
+Looop has no ads and doesn't work with advertisers, and its App Store privacy label has no "Data Used to Track You" section.
 
 If you turn on spending alerts, they run through Plaid, and that data is never used for ads or sold.
 
@@ -95,7 +95,6 @@ If you turn on spending alerts, they run through Plaid, and that data is never u
 - **Sharing with customers.** Glympse also offers ETAs and branded sharing for businesses. Looop is only for families and friends.
 
 Plenty of families use both.  
-Glympse covers the drive to the airport.  
 Looop covers the everyday question of whether Mom's okay.
 
 ## Questions about Glympse and Looop

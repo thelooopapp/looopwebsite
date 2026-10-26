@@ -48,7 +48,7 @@ Below, we compare the two with sources, including where Life360 may be the bette
 
 | | Looop | Life360 |
 | --- | --- | --- |
-| Data sales | Yes. Never sold | No. Has a history of selling location data to a dozen data brokers |
+| Never sells your data | Yes. Never sold | No. Has a history of selling location data to a dozen data brokers |
 | No advertisers, no ads in your alerts | Yes. No advertisers | No. Ad business, including Uber offers in notifications |
 | Built to tell you when to check in | Yes. Quiet until it matters | No. Built around a live map and location history |
 | Unusual Day alerts, based on their own routine | Yes. Included | No. Wellness checks described to investors as in development |
@@ -60,7 +60,7 @@ Below, we compare the two with sources, including where Life360 may be the bette
 | Apple Watch health and fitness alerts, no extra app | Yes. Through Apple Health | Partly. A separate watch app |
 | Built only for people | Yes. Just your people | No. Shares the app with pets and item trackers |
 
-Life360 details as checked October 6, 2026, from the sources listed below. Safety Incidents and Subscription Tracker checked October 26, 2026. Life360 offers some things Looop doesn't, like crash detection, 24/7 emergency dispatch, and Android support. [See where Life360 may fit better](#where-life360-fits).
+Life360 details as checked October 6, 2026, from the sources listed below. Safety Incidents and Subscription Tracker checked October 26, 2026. [See where Life360 may fit better](#where-life360-fits).
 
 ## At a glance
 
@@ -101,7 +101,7 @@ Life360 details as checked October 6, 2026, from the sources listed below. Safet
 
 Looop was designed from the first screen around one question: "Is Mom okay today?" Every alert exists to answer it.
 
-Life360 is adding aging parents to an app built for a different job. Its [aging-parent page](https://www.life360.com/en-ca/plans-pricing-ap) pitches its premium Gold and Platinum plans. On its [Q2 2026 earnings call](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/), CEO Lauren Antonoff named aging parents as a next line of business, alongside advertising and pets. Its head of design [credits his redesign](https://www.jaytrainerdesign.com/project/life360) with a 22% lift in premium conversion. Those are fair goals for a public company. **Looop is an independent startup that answers to the families who use it.**
+Life360 is adding aging parents to an app built for a different job. Its [aging-parent page](https://www.life360.com/en-ca/plans-pricing-ap) pitches its premium Gold and Platinum plans. On its [Q2 2026 earnings call](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/), CEO Lauren Antonoff named aging parents as a next line of business, alongside advertising and pets. Its head of design [credits his redesign](https://www.jaytrainerdesign.com/project/life360) with a 22% lift in premium conversion. **Looop is an independent startup that answers to the families who use it.**
 
 ### Your parent's data is never for sale
 
@@ -139,7 +139,7 @@ Life360's Subscription Tracker connects checking accounts and credit cards throu
 
 Looop is built to tell you when to check in, and it uses only what it needs to tell whether something unusual is going on.
 
-Life360 is aiming wider. In a [May 2026 post](https://chrishulls.medium.com/life360-is-building-a-family-ai-team-come-build-it-with-us-f6a3cd19ef20), Executive Chairman Chris Hulls describes a family super app with calendar events, bills, RSVPs, and a drawer for documents like insurance cards. He calls the approach "aggressive on permissions, anchored in trust." Some families will love that. Mom may just want fewer worried calls.
+Life360 is aiming wider. In a [May 2026 post](https://chrishulls.medium.com/life360-is-building-a-family-ai-team-come-build-it-with-us-f6a3cd19ef20), Executive Chairman Chris Hulls describes a family super app with calendar events, bills, RSVPs, and a drawer for documents like insurance cards. He calls the approach "aggressive on permissions, anchored in trust." Some families will love that.
 
 ### Made only for people
 
@@ -155,7 +155,7 @@ Life360 solves a different problem. It released a separate [Life360 for Watch](h
 
 ## Where Life360 may fit better
 
-**Question:** "Is Looop right for us?"
+**Question:** "Should we just stay with Life360?"
 **Subtitle:** We want you to pick the app that fits your family.
 
 - **Android families.** Looop is iPhone only today. Life360 works on iPhone and Android, so a mixed-phone family can all join.

@@ -27,7 +27,8 @@ iSharing pitches inactivity alerts for older parents.
 
 ## What iSharing is built around
 
-iSharing is a location sharing app built around a live map, with place alerts, location history, driving reports, and an inactivity alert it pitches for older parents. Looop is a safety notifications app for families caring from a distance, built around one daily answer about each Loved One's day.
+iSharing is a location sharing app built around a live map, with place alerts, location history, driving reports, and an inactivity alert it pitches for older parents.\
+Looop is a safety notifications app for families caring from a distance, built around one daily answer about each Loved One's day.
 
 ## At a glance
 
@@ -90,7 +91,7 @@ iSharing says it has been around for more than 15 years.
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day.
 
-No more checking the weather in five cities, a map in one app, and bank alerts in another. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
+If her phone sits still all morning, Looop weighs that against the rest of her day before it nudges you. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 ### Quiet until it matters
 
@@ -110,7 +111,7 @@ Looop isn't an emergency service. It doesn't call 911 for you, send help, or det
 
 ## Where iSharing may fit better
 
-**Question:** "Is Looop right for us?"
+**Question:** "Should we stick with iSharing?"
 **Subtitle:** If one of these sounds like you, iSharing may be the better pick.
 
 ### A live map of the kids

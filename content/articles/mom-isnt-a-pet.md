@@ -42,17 +42,17 @@ For a parent like Linda, every detail of a family app sends a message. Where she
 
 When a parent shows up on the same map as a collar tag and a key finder, the answer gets muddy. The tool was built for finding things, and now she's on the list with them.
 
-The guidelines we follow at Looop start from a simple test: would the person on the other end be glad to read this? Would Mom be glad to see this screen? Ask it about any app you bring into her life.
+For any app you bring into her life, ask whether Mom would be glad to see its screen.
 
 ## What the app is built around
 
 What an app is built around shapes how it treats the people in it.
 
-**An app built around finding things** asks: where is it right now? That's the right question for keys, bags, and a dog who slipped the gate. It's a hard question to feel good about when the "it" is your mother.
+**Finding things** is what a tracker map does well, for keys, bags, and a dog who slipped the gate. Your mother is a person with her own routine.
 
-**An app built around a person** asks: is her day going the way her days usually go? If yes, there's nothing to do. If no, it might be a good time to call.
+**Looop asks** whether her day is going the way her days usually go. If it is, there's nothing to do. If it isn't, it might be a good time to call.
 
-That second question keeps her routine and her independence at the center.
+That question keeps her routine and her independence at the center.
 
 ## Looop is built only for people
 
@@ -91,10 +91,10 @@ For more on that first conversation, see our guide to [checking on aging parents
 
 ## Before you invite her
 
-- Some family apps now put people, pets, and lost-item tags on one map. That's useful for finding things.
-- For a parent who lives on her own, where she appears and what she's grouped with tells her how you see her.
-- Looop is built only for people: quiet when all is well, a heads-up when something's around her, a nudge when her day looks different.
-- Ask first, and let her choose what she shares.
+- Open the app you're considering and look at her screen, to see who and what shows up next to her.
+- Ask her what she'd want the family to see, and what she'd rather keep to herself.
+- Send the invite while you're together, on a visit or a call, so she can ask questions as she sets it up.
+- Decide with your siblings who gets her alerts, so she isn't fielding calls from everyone at once.
 
 ## About Looop
 

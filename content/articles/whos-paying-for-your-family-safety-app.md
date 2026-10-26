@@ -47,7 +47,7 @@ What makes location-based ads different is timing and context. An app that knows
 
 A step further is placing partner offers in push notifications. These arrive on your lock screen, the same place you'd see an alert about a Loved One.
 
-That blurs a line many families care about. A safety app's notifications should mean "pay attention." When some of them are ads, the signal gets noisier.
+That blurs a line many families care about. A safety app's notifications should mean "pay attention." When some of them are ads, the alerts that matter get lost.
 
 ### 3. Selling or sharing location data
 

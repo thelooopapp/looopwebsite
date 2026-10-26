@@ -31,7 +31,8 @@ Family Nest used to be called Family360.
 
 If you're looking for Family360, you're in the right place. Family Nest's App Store listing says it was formerly Family360: the same app with a new name, and its Circles are now called Nests. It isn't related to "FamilyNest - Family Organizer," a different app.
 
-Family Nest is a family locator built around a shared map, with place alerts, speed alerts, and SOS for parents and kids. Looop is a safety notifications app built for checking on Mom from a distance, with one daily answer about her day.
+Family Nest is a family locator built around a shared map, with place alerts, speed alerts, and SOS for parents and kids.\
+Looop is a safety notifications app built for checking on Mom from a distance, with one daily answer about her day.
 
 Everything below compares Looop with the app as it's listed today.
 
@@ -82,11 +83,11 @@ Its policy says it doesn't sell personal data, or location data, to anyone, and 
 ## What Looop is built for
 
 **Question:** "So is Looop just another family map?"
-**Subtitle:** Five ways it works differently from a family map.
+**Subtitle:** Five things it does for families checking on Mom.
 
 ### Everything in one place
 
-Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Instead of checking the weather in five cities, families get one heads-up when it matters.
+Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. If a storm heads toward Mom's town, you hear about it without looking up her forecast. You get one heads-up when it matters.
 
 Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
@@ -96,7 +97,7 @@ Looop stays quiet when all is well. If Mom's day looks unusual, you get a nudge,
 
 ### For adult children far from Mom
 
-Family Nest is built first for parents and kids. Looop is built for adult children caring for a parent from a distance, and for siblings and friends who look out for each other. Mom joins by invitation and keeps her routine.
+Looop is built for adult children caring for a parent from a distance, and for siblings and friends who look out for each other. Mom joins by invitation and keeps her routine.
 
 ### An Austin company you can email
 
@@ -110,7 +111,7 @@ Looop isn't an emergency service. It doesn't call 911 for you, send help, or det
 
 ## Where Family Nest may fit better
 
-**Question:** "Is Looop right for us?"
+**Question:** "When does Family Nest make more sense?"
 **Subtitle:** For some families, Family Nest is the better fit.
 
 ### Android families

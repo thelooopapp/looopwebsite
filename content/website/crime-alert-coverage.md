@@ -12,7 +12,7 @@ status: draft
 coverage_source: "New crime data provider covering all 50 US states, October 2026"
 ---
 
-# Crime reported nearby? A calm heads-up
+# A heads-up when crime is nearby
 
 **Key line (green):** Nearby Crime Alerts in all 50 US states.
 

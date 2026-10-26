@@ -36,8 +36,8 @@ Plenty of parents in their seventies who live on their own are busier than their
 
 She's been running her own calendar for decades. She doesn't want her bills, her RSVPs, and her paperwork in the same place her kids look for reassurance, and she doesn't want to feel managed.
 
-What she does want is fewer "just checking on you" calls.  
-What you want is to know the one day a call really matters.
+She'd be glad to get fewer "just checking on you" calls.  
+That works when you know which day a call really matters.
 
 ## More features, more to check
 
@@ -56,7 +56,7 @@ Looop is a safety notifications app. It lets you know when it's a good time to r
 
 Day to day, it looks like this.
 
-**Most days, nothing.** If Mom's day looks like her normal day, Looop stays quiet, so a quiet phone means there's nothing you need to do.
+**Most days, Looop stays quiet.** If Mom's day looks like her normal day, a quiet phone means there's nothing you need to do.
 
 **A heads-up on what's around her.** If severe weather is heading toward her town, you'll hear about it, in more than 50 countries, including the US. If crime is reported near her, anywhere in the US, you'll get a calm note, with a distance you choose: 1, 3, 5, or 10 miles.
 
@@ -68,7 +68,7 @@ There's a family map, too, as a supporting feature for the moment after a nudge 
 
 ## Looop collects less on purpose
 
-A super app collects more so it can do more. Looop uses only what it needs to tell whether something unusual is going on.
+Looop collects only what it needs to notice when Mom's day looks unusual.
 
 That shows up in a few promises we make to every family:
 

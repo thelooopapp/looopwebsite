@@ -146,15 +146,15 @@ Not sure how to bring it up? Our [letter to Mom](letter-to-mom.html) is a starti
 
 > **Tools families use**
 >
-> If you're thinking about tools before you leave, here's a quick guide. The location sharing built into a phone shows where someone is when you need to know. Family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or a day that looks unusual might make a call worth making. Many families use more than one. For a fair look at what each kind of tool does, see [Family safety apps compared](../blog/family-safety-apps-compared.html).
+> If you're thinking about tools before you leave, here's a quick guide. The location sharing built into a phone shows where someone is when you need to know. Family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or a day that looks unusual might make a call worth making. Many families use more than one. To see what each kind does before your trip, read [Family safety apps compared](../blog/family-safety-apps-compared.html).
 
 ## Your visit, step by step
 
-- Use the holiday visit to notice things gently.
-- Look for changes from last year, and patterns over a few days.
-- Check the home, health, mood, money, driving, technology, and friendships.
-- Raise concerns privately, with care, and ask what they want.
-- Set up a few simple supports before you leave, with your parent's say-so.
+- Before you pack, save this list in your phone's notes so you can check it during quiet moments.
+- On the first night, jot down anything that looks different from last year, with the date.
+- Before you leave, text your siblings what you noticed, so the next visitor knows what to look for.
+- Book one follow-up now, like a grocery delivery or a ride to the next appointment.
+- Put a call on the calendar for the week after you get home, to ask how the new setup is going.
 
 Most of all, enjoy the visit, and save this list for a quiet moment. You'll have plenty of time to think it over on the drive home.
 

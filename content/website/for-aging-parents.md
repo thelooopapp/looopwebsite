@@ -67,17 +67,17 @@ Image: images/home/phone-hospital.webp
 **For siblings sharing the load.** You and your brother get the same heads-up, so only one of you needs to call Dad.
 
 ### "5 Loved Ones in 4 cities."
-**For the stretched-thin.** With parents in two homes and more than one kid in college, you see everyone on one calm screen and hear when someone needs a call.
+**For the stretched-thin.** With parents in two homes and more than one kid in college, you see everyone on one screen and hear when someone needs a call.
 
-## A quiet phone is only one signal
+## Looop looks at her whole day
 
 > "Mom hasn't picked up her phone all morning."
 
-**Subtitle:** Looop looks at the whole day.
+**Subtitle:** One quiet morning doesn't tell you much.
 
 A phone left on the kitchen counter can just mean a long lunch with friends. Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of her day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-Looop works alongside Find My, Check In, and Health Sharing. Apple's tools live in separate places; Looop brings it all together in one place.
+Looop works alongside Find My, Check In, and Health Sharing.
 
 Weighing your options? See [family safety apps compared](blog/family-safety-apps-compared.html), or read [the best apps to check on an aging parent](blog/best-apps-to-check-on-aging-parent.html).
 
@@ -85,7 +85,7 @@ Weighing your options? See [family safety apps compared](blog/family-safety-apps
 
 > "I'm fine. I don't need a babysitter."
 
-**Subtitle:** You're right. Looop isn't one.
+**Subtitle:** Looop isn't a babysitter.
 
 Looop sends your family an alert only when something seems off. You keep your routine and your independence. Your kids worry less, so you get fewer "just checking on you" calls.
 

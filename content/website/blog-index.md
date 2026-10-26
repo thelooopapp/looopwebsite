@@ -20,7 +20,7 @@ Guides for families who care from far away.
 
 ## Compare family safety apps
 
-**Subtitle:** Most family apps are built around a map.  
+**Subtitle:** Each app is built for a different job.  
 See how Looop compares, including where another app may fit better.
 
 ### Family Safety Apps Compared
@@ -50,7 +50,7 @@ See how Looop compares, including where another app may fit better.
 
 ### Find My and Looop: Use Both
 **Eyebrow:** Comparison
-**Teaser:** Find My shows where someone is. Looop tells you when it might be a good time to call. Here's how they work together.
+**Teaser:** Looop works alongside Find My. Here's how to use the two together.
 **Link:** blog/find-my-and-looop.html
 
 ## Caring for aging parents

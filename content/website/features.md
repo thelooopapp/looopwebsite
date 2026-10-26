@@ -17,7 +17,7 @@ status: draft
 
 One app instead of five.
 
-**Key line (orange):** The people you love live their lives.
+**Key line (orange):** You hear from us only when it matters.
 
 [Download Looop]
 
@@ -61,7 +61,7 @@ It's all in one place, so you're not checking five apps.
 
 > "Who needs a call today?"
 
-**Subtitle:** One screen showing everyone you love, okay or not. No panning around a map.
+**Subtitle:** One screen showing everyone you love, okay or not.
 
 - **Typical or "Need a Look."** See who is having a typical day and who might need a look.
 - **Plain-language summaries.** Get a short summary of what's unusual, with no charts to decode.
@@ -159,12 +159,12 @@ Every stat is marked Typical or Unusual, compared only with that person's own ro
 
 **Subtitle:** A new kind of family safety app.
 
-Most family apps are built around a map: they answer "Where is she?"  
-Looop answers "Is Mom okay today?"
+Looop tells you when Mom's day looks different.  
+Then you know it's time to call.
 
-Map-based apps put everyone's location front and center, so you check the map to see where people are. Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. It stays quiet when all is well and sends a heads-up when it's worth a call. The family map is there for when you need it.
+Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. It stays quiet when all is well and sends a heads-up when it's worth a call. The family map is there for when you need it.
 
-Already use Find My? Keep it. Looop works alongside Find My, and brings it all together in one place.
+Already use Find My? Keep it. Looop works alongside Find My.
 
 [See how family safety apps compare](blog/family-safety-apps-compared.html)
 

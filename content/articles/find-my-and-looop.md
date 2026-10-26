@@ -27,7 +27,8 @@ Find My shows where she is.
 
 ## What each one does
 
-Apple Find My shows where people, devices, and AirTags are, and it's free on every iPhone. Looop is a safety notifications app that works alongside it. It sends one daily answer about Mom's day, with nothing for her to start.
+Apple Find My shows where people, devices, and AirTags are, and it's free on every iPhone.\
+Looop is a safety notifications app that works alongside it. It sends one daily answer about Mom's day, with nothing for her to start.
 
 ## At a glance
 
@@ -37,7 +38,7 @@ Apple Find My shows where people, devices, and AirTags are, and it's free on eve
 | --- | --- | --- |
 | Built around | Safety notifications: is today a typical day, or one that might be worth a call? | Find My: people, devices, and AirTags on a map. Check In: according to [Apple's guide](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/web), a session in Messages for one trip or a set time |
 | Who starts it | Nothing for your Loved One to start. Looop works quietly in the background once they've joined | Check In: Apple says the person being checked on starts each session, with a timer or a destination |
-| Where it lives | All in one place, on one calm screen | Separate places: Find My, Messages, and the Health app |
+| Where it lives | All in one place, on one screen | Separate places: Find My, Messages, and the Health app |
 | Weather | Severe weather alerts in more than 50 countries | Apple's Weather app is separate from Find My |
 | Crime alerts | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Not listed |
 | Spending alerts | Optional: a heads-up about an unusually large charge on a linked account, through Plaid | Not listed |
@@ -88,18 +89,18 @@ Find My's App Store label has no "Data Used to Track You" section.
 ### All in one place
 
 Apple's tools live in separate places.\
-Looop brings it all together in one place: weather, crime, spending, health, fitness, activity, and the shape of her day.
+Looop puts weather, crime, spending, health, fitness, activity, and the shape of her day in one place.
 
-No more checking the weather in five cities, a map in one app, and bank alerts in another. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
+You don't have to open Find My, then Messages, then the Health app. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 ### Looop speaks up on its own
 
-Find My is there when you open it and ask "Where is she?"\
-Looop answers "Is Mom okay today?" and tells you about a storm heading her way, crime reported nearby, or a day that looks unusual.
+You don't have to open Looop to hear from it.\
+It tells you about a storm heading her way, crime reported nearby, or a day that looks unusual.
 
 ### Built for parents and the people who love them
 
-Looop is built for adult children caring from a distance, and for siblings who want the same heads-up. See everyone you care about on one calm screen, and know at a glance who's okay.
+Looop is built for adult children caring from a distance, and for siblings who want the same heads-up. See everyone you care about on one screen, and know at a glance who's okay.
 
 ### Nothing for Mom to start
 

@@ -17,7 +17,7 @@ notes: "No competitor named. Oct 26, 2026: Question 3 adds an unnamed example pa
 
 "Would we even know if Mom got scammed?"
 
-It's a question a lot of families are asking. More apps now offer to help, by watching for unusual spending on a parent's bank account and letting the family know. That can be useful. It also means handing over some of the most personal data a person has.
+More apps now offer to help, by watching for unusual spending on a parent's bank account and letting the family know. That can be useful. It also means handing over some of the most personal data a person has.
 
 So before you link Mom's bank account to any app, including ours, ask a few plain questions. Below are five, each with what a good answer sounds like.
 

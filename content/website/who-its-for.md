@@ -42,7 +42,7 @@ Families don't live on one street anymore.
 
 **Subtitle:** A heads-up when they need a call.
 
-Families don't live on one street anymore, and plenty of us are caring for kids and parents at the same time. Looop puts everyone on one calm screen, so you can tell at a glance who's okay, without panning around a map. It stays quiet while everyone's fine, and sends a nudge when it might be a good time to reach out.
+Families don't live on one street anymore, and plenty of us are caring for kids and parents at the same time. Looop puts everyone on one screen, so you can tell at a glance who's okay. It stays quiet while everyone's fine, and sends a nudge when it might be a good time to reach out.
 
 Location sharing tells you where someone is.  
 Looop tells you when it's worth a call, and it works alongside Find My. [See how family safety apps compare](blog/family-safety-apps-compared.html)

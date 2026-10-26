@@ -18,7 +18,7 @@ status: draft
 
 That's the question behind every family safety app. For years, the industry answered it the same way: with a map. Open the app, find the dots, check that each one is where it should be.
 
-That answer made sense once, and it doesn't fit most families anymore. This piece explains why, and describes another way to answer the question. We call it family safety notifications, and it's the idea Looop is built on.
+That answer works best for families with young kids at home. This piece looks at the families it fits less well, and describes another way to answer the question. We call it family safety notifications, and it's the idea Looop is built on.
 
 ## The map was built for a different family
 
@@ -45,13 +45,13 @@ An adult child might say they want "to know if something's wrong, before he has 
 
 Two friends with a get-home-safe pact will tell you, "If something seems off, I want to know."
 
-Each answer is about timing. People want to know **when to check in**.
+People want to know **when to check in**.
 
 A map is built to answer "where is everyone?" It's a surprisingly poor way to tell when to call.
 
 ## The trouble with a dot on a map
 
-A map shows you where someone is, and leaves you to guess whether they're okay. That gap creates a few problems.
+With a map, you still have to guess whether someone's okay. That creates a few problems.
 
 ### It puts the work on you
 
@@ -59,7 +59,7 @@ A map only helps if you look at it, so you keep looking. It's easy to end up ope
 
 ### It doesn't tell you what's around them
 
-A dot can sit perfectly still in the path of a severe storm. It can be in a neighborhood where something was just reported. The map shows the location and leaves out what's happening there.
+A dot can sit perfectly still in the path of a severe storm. It can be in a neighborhood where something was just reported. Nothing on the map tells you what's happening there.
 
 ### It turns care into watching
 
@@ -142,13 +142,13 @@ Safety notifications fit any group of people who care about each other from a di
 
 > **Tools families use**
 >
-> If you're comparing options, here's how the main kinds fit together. Family location apps put everyone on a shared map, and the location sharing built into a phone shows where someone is when you need to know. Medical alert services can get help in an emergency. Looop sends a heads-up when a storm, crime nearby, or an unusual day might make a call worth making. Lots of families use two or more. For a fair look at what each kind of tool does, see [Family safety apps compared](../blog/family-safety-apps-compared.html).
+> If you're comparing options, here's how the main kinds fit together. Family location apps put everyone on a shared map, and the location sharing built into a phone shows where someone is when you need to know. Medical alert services can get help in an emergency. Looop sends a heads-up when a storm, crime nearby, or an unusual day might make a call worth making. Lots of families use two or more. [Family safety apps compared](../blog/family-safety-apps-compared.html) walks through what each kind is good at.
 
 ## The question worth asking
 
-The industry spent years asking, "Where is everyone?" It's a fine question for a family with young kids.
+Families who care from a distance tend to wake up with one question on their minds.
 
-For most other families, the more useful question is, "Does anyone need a call today?"
+"Does anyone need a call today?"
 
 Most days, the answer is no, and Looop stays quiet. When someone could use a call, Looop sends a heads-up.
 

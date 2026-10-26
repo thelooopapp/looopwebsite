@@ -52,7 +52,7 @@ Bold words in the left column are bold and a darker gray (#33373D) on the page. 
 
 **Subtitle:** And you don't have to check to know it.
 
-Mom's at home, Dad's at the gym, Sis is at the campus library, and Uncle Tony is up at the lake house. Everyone is having a Typical Day, so Looop stays quiet and you get on with yours. When you do look, one screen shows everyone, okay or not, at a glance. No panning around a map.
+Mom's at home, Dad's at the gym, Sis is at the campus library, and Uncle Tony is up at the lake house. Everyone is having a Typical Day, so Looop stays quiet and you get on with yours. When you do look, one screen shows everyone, okay or not, at a glance.
 
 No news really is good news.
 
@@ -67,7 +67,7 @@ Image: images/home/phone3.webp (My Family screen, All is well, everyone on a Typ
 - **"Help isn't nearby anymore." Parents on their own.** Know when Dad's been home longer than usual for him, or when he arrives at a hospital or ER.
 - **"Aunt Ira lives alone." Someone living solo.** Nobody stops by every day. Get a nudge if her phone hasn't been picked up in hours, or if her day looks different.
 - **"Mom moved to the coast." A different forecast.** A storm on her coast won't show up in your forecast. Looop sends severe weather alerts in more than 50 countries.
-- **"Everyone counts on me." The one in the middle.** With kids in two cities and parents in two homes, you see everyone on one calm screen, and Looop speaks up when someone needs a call.
+- **"Everyone counts on me." The one in the middle.** With kids in two cities and parents in two homes, you see everyone on one screen, and Looop speaks up when someone needs a call.
 
 ## "Is Dad still getting his walks in?"
 
@@ -129,7 +129,7 @@ We never sell your data, and we don't work with advertisers.
 
 ### A word for the grown-ups you love
 
-**Subtitle:** You're right. Looop doesn't watch you.
+**Subtitle:** Looop doesn't watch you.
 
 Looop sends your family alerts, and only when something seems off. You live your day. They get fewer "where are you?" texts, and you get fewer "just checking on you" calls.
 

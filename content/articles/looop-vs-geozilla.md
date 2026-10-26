@@ -26,7 +26,8 @@ It adds driving reports and an Apple Watch app.
 
 ## A family locator and a daily heads-up
 
-GeoZilla is a family locator built around a shared map, with place alerts, location history, a help alert, driving alerts, and an Apple Watch app. Looop is a safety notifications app for families caring from a distance, and it sums up each Loved One's day as typical or worth a call.
+GeoZilla is a family locator built around a shared map, with place alerts, location history, a help alert, driving alerts, and an Apple Watch app.\
+Looop is a safety notifications app for families caring from a distance, and it sums up each Loved One's day as typical or worth a call.
 
 ## At a glance
 
@@ -106,7 +107,7 @@ Looop isn't an emergency service. It doesn't call 911 for you, send help, or det
 
 ## Where GeoZilla may fit better
 
-**Question:** "Is Looop right for us?"
+**Question:** "When is GeoZilla the better choice?"
 **Subtitle:** GeoZilla may be the better pick in these cases.
 
 ### A teen driver

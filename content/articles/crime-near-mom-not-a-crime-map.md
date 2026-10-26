@@ -33,7 +33,7 @@ For a family caring from a distance, a map often does the opposite of what you w
 - **It invites checking.** Once you open a map, it's easy to open it again tomorrow and the day after, until checking it is daily homework.
 - **It doesn't tell you what to do.** A map shows you what happened and leaves you to decide whether this is a moment to reach out.
 
-What most families actually want is narrower: tell me if something happened near Mom, and otherwise let me get on with my day.
+Most families want to hear only when something happens near Mom, so they can get on with their day.
 
 Some family apps now add crime to their map as pins. If you're comparing, see [how Looop's crime alerts compare](../looop-vs-life360.html#differences), or [how family safety apps compare](../blog/family-safety-apps-compared.html) more broadly.
 

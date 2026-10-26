@@ -50,8 +50,8 @@ Looop is made for grown kids living on their own, and it works alongside Find My
 
 > "I moved out. Please trust me."
 
-**Subtitle:** Your parents stop texting every hour.  
-You keep living your life.
+**Subtitle:** You keep your life,  
+and your parents text less.
 
 Looop only speaks up when something seems off, like a storm near campus or a day that looks really unusual for you. Your parents don't get a play-by-play of your day. It sends alerts instead of tracking you, with no ads and nothing sold.
 
