@@ -25,10 +25,10 @@ In 2026, Life360 also added [Safety Incidents](https://support.life360.com/hc/en
 
 Looop's aging-parent alerts are already here. Looop launched on the App Store in May 2026 and has shipped new features and updates steadily since.
 
-Most family apps are built around a map: they answer "Where is she?"  
-Looop answers "Is Mom okay today?"
+Looop tells families when Mom's day looks different.  
+That's when a call is worth making.
 
-Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of her day, in one place. No more checking the weather in five cities, a location app, a health app, and a banking app to piece together how Mom is doing.
+Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of her day, in one place. Families don't have to piece together how Mom is doing from a weather app, a location app, a health app, and a banking app.
 
 - **Where she is:** a heads-up when she arrives at a hospital or ER, a police station, or an airport, and a map for when you need it.
 - **What's around her:** severe weather in more than 50 countries and nearby crime in all 50 US states.

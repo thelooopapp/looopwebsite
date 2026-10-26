@@ -44,7 +44,6 @@ Looop is a safety notifications app that tells you when it might be time to chec
 
 Checked October 26, 2026, on each app's App Store listing.  
 Prices are the in-app purchases each listing shows.  
-Every one of these apps offers things Looop doesn't, from SOS to lost-phone help.  
 [See where they may fit better](#fits-better), or compare every app in [Family safety apps compared](family-safety-apps-compared.html).
 
 ## Each app, fairly
@@ -105,8 +104,8 @@ Every one of these apps offers things Looop doesn't, from SOS to lost-phone help
 ## What Looop does
 
 **Question:** "Seven map apps. What does Looop do?"
-**Subtitle:** These apps answer "Where is she?"  
-Looop answers "Is Mom okay today?"
+**Subtitle:** Looop reads the day around each Loved One.  
+If Mom's day looks unusual, you'll hear about it.
 
 ### A whole day, in one answer
 

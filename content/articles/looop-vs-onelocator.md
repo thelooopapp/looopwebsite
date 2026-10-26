@@ -44,12 +44,11 @@ Looop is a safety notifications app with no ads, free for the first two weeks.
 | App Store privacy label | No "Data Used to Track You" section | Declares "Data Used to Track You": Location, Identifiers, Usage Data |
 
 Checked October 26, 2026, on OneLocator's App Store listing.  
-OneLocator offers things Looop doesn't, like a free plan, driving reports, and SOS.  
 [See where OneLocator may fit better](#fits-better), or compare every app in [Family safety apps compared](family-safety-apps-compared.html).
 
 ## What OneLocator does well
 
-**Subtitle:** A lot of locator for no money.
+**Subtitle:** OneLocator costs nothing and covers the basics.
 
 - **It's free.** OneLocator is free to download and use. For families who want a shared map without a subscription, that's hard to beat.
 - **One family map.** Family members share their live location on one map, with location history and trip details.
@@ -59,8 +58,8 @@ OneLocator offers things Looop doesn't, like a free plan, driving reports, and S
 ## How Looop works
 
 **Question:** "How does Looop work, then?"
-**Subtitle:** OneLocator answers "Where is she?"  
-Looop answers "Is Mom okay today?"
+**Subtitle:** Looop has no ads and nothing to check each morning.  
+A nudge comes only when her day looks unusual.
 
 ### Everything in one daily answer
 
@@ -87,7 +86,7 @@ Spending alerts are optional and run through Plaid. That data is never used for 
 ## Where OneLocator may fit better
 
 **Question:** "What if we just want a free map?"
-**Subtitle:** Then OneLocator may be the one for you.
+**Subtitle:** A free map may be all some families need.
 
 - **You want it free.** OneLocator costs nothing. Looop is free for the first two weeks, then a subscription.
 - **Reports on every drive.** OneLocator offers Driving Reports. Looop only sends a nudge when a drive looks unusual.

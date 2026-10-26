@@ -41,7 +41,6 @@ Looop is a safety notifications app that works on any carrier and is built for g
 | App Store privacy label | No "Data Used to Track You" section | No "Data Used to Track You" section | No "Data Used to Track You" section | No "Data Used to Track You" section |
 
 Checked October 26, 2026, on each app's App Store listing.  
-These apps offer things Looop doesn't, like parental controls and crash alerts.  
 [See where they may fit better](#fits-better), or compare every app in [Family safety apps compared](family-safety-apps-compared.html).
 
 ## What carrier apps do well
@@ -56,8 +55,8 @@ These apps offer things Looop doesn't, like parental controls and crash alerts.
 ## What Looop does for grown-up families
 
 **Question:** "We already pay our carrier. Why add Looop?"
-**Subtitle:** Carrier apps help manage a child's phone.  
-Looop helps you know when to call Mom.
+**Subtitle:** Mom's phone plan doesn't matter.  
+Looop lets you know when it's a good day to call her.
 
 ### Mom's whole day, in one answer
 

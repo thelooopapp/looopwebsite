@@ -42,7 +42,6 @@ Looop is a safety notifications app that tells you when it might be a good time 
 | App Store privacy label | No "Data Used to Track You" section | Declares "Data Used to Track You": Purchases, Identifiers, Usage Data, and Other Data |
 
 Checked October 26, 2026, on Findo's App Store listing.  
-Findo offers things Looop doesn't, like an SOS alert and lost-phone help.  
 [See where Findo may fit better](#fits-better), or compare every app in [Family safety apps compared](family-safety-apps-compared.html).
 
 ## What Findo does well
@@ -57,10 +56,10 @@ Findo offers things Looop doesn't, like an SOS alert and lost-phone help.
 ## What Looop adds
 
 **Question:** "What would Looop add for us?"
-**Subtitle:** Findo answers "Where is she?"  
-Looop answers "Is Mom okay today?"
+**Subtitle:** Looop checks the weather, crime, and routine around each Loved One.  
+It tells you when a day looks different, so you know when to call.
 
-### One calm answer each day
+### One answer each day
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
@@ -68,7 +67,7 @@ You can get nearby crime alerts at 1, 3, 5, or 10 miles in all 50 US states, and
 
 ### A nudge, only when it's worth one
 
-Looop stays quiet when all is well and nudges you when it might be a good time to check in. If you want to see where someone is after that nudge, there's a family map.
+Looop stays quiet when all is well and nudges you when it might be a good time to check in. If you want to see where someone is after that nudge, Looop has a family map too.
 
 ### Made for families who care from a distance
 
@@ -85,7 +84,7 @@ Spending alerts go through Plaid, and that data is never used for ads or sold.
 ## Where Findo may fit better
 
 **Question:** "What if we want the map?"
-**Subtitle:** Then Findo may suit you better.
+**Subtitle:** A live map is what Findo does best.
 
 - **A live map of everyone.** If you want to see where your circle is throughout the day, with history, Findo is built for that.
 - **An SOS alert.** Findo can send an emergency alert to everyone in your circle. Looop has no SOS button.

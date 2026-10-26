@@ -21,7 +21,7 @@ placeholders:
 Most family apps are built around a map: they answer "Where is she?"  
 Looop answers "Is Mom okay today?"
 
-Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. No more checking the weather in five cities, a map in one app, and bank alerts in another. It's all in one place.
+Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Families see all of it in one app.
 
 - **Severe weather alerts** in more than 50 countries, when a storm, flood warning, or extreme heat or cold could affect a loved one.
 - **Nearby crime alerts** in all 50 US states, at the distance each family chooses: 1, 3, 5, or 10 miles.
