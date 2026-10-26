@@ -43,7 +43,7 @@ Findo is built around a live map of family and friends, with travel history, pla
 | Price | Free for the first two weeks | Free to download, with in-app subscriptions |
 | App Store privacy label | No "Data Used to Track You" section | Declares "Data Used to Track You": Purchases, Identifiers, Usage Data, and Other Data |
 
-Findo details checked October 26, 2026, on its App Store listing. Findo offers things Looop doesn't, like an SOS alert and lost-phone help. [See where Findo may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
+Checked October 26, 2026, on Findo's App Store listing. Findo offers things Looop doesn't, like an SOS alert and lost-phone help. [See where Findo may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
 
 ## What Findo does well
 

@@ -44,7 +44,7 @@ Famio, Familo, Carpin, Be Closer, Find Phone, Find my Phone, and Blink are built
 | Find my Phone – Family Locator | Families | Places, seven days of history free, check-ins, SOS calls on premium, and lost-phone help | Weekly from $7.99 to $9.99, monthly from $9.99 to $19.99, or lifetime $14.99 | Declares "Data Used to Track You": Financial Info, Contact Info, Identifiers, Usage Data |
 | Blink | Teens and friends | A friends map, chat, video calls, and steps | Coin packs from $0.99 to $79.99 | Declares "Data Used to Track You": Identifiers |
 
-Details checked October 26, 2026, on each app's App Store listing. Prices are the in-app purchases each listing shows. Every one of these apps offers things Looop doesn't, from SOS to lost-phone help. [See where they may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
+Checked October 26, 2026, on each app's App Store listing. Prices are the in-app purchases each listing shows. Every one of these apps offers things Looop doesn't, from SOS to lost-phone help. [See where they may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
 
 ## Each app, fairly
 

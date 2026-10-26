@@ -43,7 +43,7 @@ OnStar Guardian is built for emergencies on the road, with crash response, an Em
 | Price | Free for the first two weeks | $15 a month on its own, or included for OnStar members |
 | App Store privacy label | No "Data Used to Track You" section | Declares "Data Used to Track You": Usage Data, with third-party advertising among the purposes |
 
-OnStar Guardian details checked October 26, 2026, on its App Store listing. OnStar Guardian offers emergency help Looop doesn't. [See where OnStar Guardian may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
+Checked October 26, 2026, on OnStar Guardian's App Store listing. OnStar Guardian offers emergency help Looop doesn't. [See where OnStar Guardian may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
 
 ## What OnStar Guardian does well
 

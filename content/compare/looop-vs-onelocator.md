@@ -45,7 +45,7 @@ OneLocator is a free, ad-supported family locator built around one shared map, w
 | Ads | No ads, ever | Its App Store listing says "Contains Advertising" |
 | App Store privacy label | No "Data Used to Track You" section | Declares "Data Used to Track You": Location, Identifiers, Usage Data |
 
-OneLocator details checked October 26, 2026, on its App Store listing. OneLocator offers things Looop doesn't, like a free plan, driving reports, and SOS. [See where OneLocator may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
+Checked October 26, 2026, on OneLocator's App Store listing. OneLocator offers things Looop doesn't, like a free plan, driving reports, and SOS. [See where OneLocator may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
 
 ## What OneLocator does well
 

@@ -45,7 +45,7 @@ Glympse is built for temporary location sharing: you share for a set time, the p
 | Your data | Never sold, and Looop doesn't work with advertisers | Its listing says "Your data is never sold." |
 | App Store privacy label | No "Data Used to Track You" section | Declares "Data Used to Track You": Usage Data |
 
-Glympse details checked October 26, 2026, on its App Store listing. Glympse does things Looop doesn't, like sharing with people who don't have the app. [See where Glympse may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
+Checked October 26, 2026, on Glympse's App Store listing. Glympse does things Looop doesn't, like sharing with people who don't have the app. [See where Glympse may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
 
 ## What Glympse does well
 

@@ -44,7 +44,7 @@ Findmykids is built for parents of young kids, with a child's location, place al
 | Price | Free for the first two weeks | Seven-day free trial; in-app purchases from $2.99 to $63.99 |
 | App Store privacy label | No "Data Used to Track You" section | Declares "Data Used to Track You": Identifiers |
 
-Findmykids details checked October 26, 2026, on its App Store listing. Findmykids offers things Looop doesn't, like an SOS button and a loud signal for kids. [See where Findmykids may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
+Checked October 26, 2026, on Findmykids's App Store listing. Findmykids offers things Looop doesn't, like an SOS button and a loud signal for kids. [See where Findmykids may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
 
 ## What Findmykids does well
 

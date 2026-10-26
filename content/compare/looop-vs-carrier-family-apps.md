@@ -42,7 +42,7 @@ Verizon Family, AT&T Secure Family, and T-Mobile FamilyMode are built mostly for
 | Price | Free for the first two weeks | Basic location with Verizon postpaid plans; Family Plus $14.99 a month; 30-day trial | $12 a month after a 30-day trial | See T-Mobile for current pricing |
 | App Store privacy label | No "Data Used to Track You" section | No "Data Used to Track You" section | No "Data Used to Track You" section | No "Data Used to Track You" section |
 
-Carrier app details checked October 26, 2026, on each app's App Store listing. These apps offer things Looop doesn't, like parental controls and crash alerts. [See where they may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
+Checked October 26, 2026, on each app's App Store listing. These apps offer things Looop doesn't, like parental controls and crash alerts. [See where they may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
 
 ## What carrier apps do well
 
