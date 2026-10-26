@@ -153,8 +153,6 @@ Whatever you choose, set it up together. Show your parent what's shared, ask wha
 ## More comparisons
 
 - [Family safety apps compared](../compare/index.html): every app we compare, in one table
-- [Life360 vs. Find My vs. Looop](../compare/life360-vs-find-my-vs-looop.html)
-- [Life360 vs. iSharing vs. Looop](../compare/life360-vs-isharing-vs-looop.html)
 - [Find My and Looop](../compare/find-my-and-looop.html)
 - [OnStar Guardian and Looop](../compare/onstar-guardian-and-looop.html)
 - [Does Apple's Check In work for checking on a parent?](../answers/apple-check-in-for-parents.html)

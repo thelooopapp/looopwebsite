@@ -16,12 +16,13 @@ facts_checked: 2026-10-26
 notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Other locators: Famio, Familo, and Blink facts from V notes; Carpin, Be Closer, Find Phone (Webpeak), and Find my Phone (Geo Track Labs) features, prices, and labels re-checked on their App Store listings Oct 26, 2026. No ownership or nationality claims beyond App Store developer names; Famio's Belarus roots and Familo's Hamburg history (headline only) are left out. No consent claim is made for Carpin either way. Never says any of them tracks without consent, is a scam or spyware, lacks SOS or driving, or sells data. Billing complaints and review sentiment are left out. Oct 26, 2026 audit re-check on apps.apple.com: Famio's in-app purchases list weekly plans ($4.99, $9.99), several 'Famio Premium' items ($7.99 to $29.99) with no period shown, and 'Famio Lifetime Premium' $24.99; the '12 weeks for $29.99' label couldn't be confirmed on the listing, so the price cell now gives the range. Find my Phone (Geo Track Labs, id588364107) re-checked: weekly $7.99 to $9.99, monthly $9.99 to $19.99, and 'Lifetime' $14.99 are all on the listing, so that cell stands."
 ---
 
-**Eyebrow:** Comparison
-
 # Looop vs. other locator apps
 
-Famio, Familo, Carpin, Be Closer, and others put family on a live map.  
-Looop speaks up only when it might be time to call.
+**Key line (green):** Famio, Familo, Carpin, Be Closer, and others put family on a live map.
+
+Most sell weekly plans after a short trial.
+
+**Key line (orange):** Looop speaks up only when it might be time to call.
 
 [Download Looop]
 

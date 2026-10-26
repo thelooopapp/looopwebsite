@@ -87,7 +87,7 @@ Its Elderly Care feature sends an alert when an older person doesn't use their p
 
 **Who it fits.** Families who want a Life360-style map with SOS and driving reports, plus an alert if an older parent's phone goes quiet.
 
-See [Looop vs. iSharing](../compare/looop-vs-isharing.html) and [Life360 vs. iSharing vs. Looop](../compare/life360-vs-isharing-vs-looop.html).
+See [Looop vs. iSharing](../compare/looop-vs-isharing.html).
 
 ## GeoZilla
 
@@ -99,7 +99,7 @@ GeoZilla, from GZ TECH LTD, calls itself a family GPS tracker. Its [App Store li
 
 **Who it fits.** Families, especially with teens, who want a map with check-ins, driving insights, and an Apple Watch app.
 
-See [Looop vs. GeoZilla](../compare/looop-vs-geozilla.html) and [Life360 vs. GeoZilla vs. Looop](../compare/life360-vs-geozilla-vs-looop.html).
+See [Looop vs. GeoZilla](../compare/looop-vs-geozilla.html).
 
 ## Family Nest (formerly Family360)
 
@@ -113,7 +113,7 @@ If you've seen "Life360 vs. Family360," this is that app. Its store pages now re
 
 **Who it fits.** Families with kids, new drivers, couples, or a travel group who want an affordable shared map with SOS and speed alerts, across iPhone and Android.
 
-See [Looop vs. Family Nest](../compare/looop-vs-family-nest.html), [Life360 vs. Family Nest vs. Looop](../compare/life360-vs-family-nest-vs-looop.html), and [Is Family Nest the same as Family360?](../answers/is-family-nest-the-same-as-family360.html)
+See [Looop vs. Family Nest](../compare/looop-vs-family-nest.html) and [Is Family Nest the same as Family360?](../answers/is-family-nest-the-same-as-family360.html)
 
 ## Apple Find My
 
@@ -129,7 +129,7 @@ Apple's Messages app also has [Check In](https://support.apple.com/en-us/105104)
 
 **Who it fits.** All-iPhone families who want simple, free location sharing and a light check-in for trips. Looop works alongside Find My.
 
-See [Find My and Looop](../compare/find-my-and-looop.html) and [Life360 vs. Find My vs. Looop](../compare/life360-vs-find-my-vs-looop.html).
+See [Find My and Looop](../compare/find-my-and-looop.html).
 
 ## Google Maps location sharing and Find Hub
 
@@ -167,7 +167,7 @@ Glympse's family use is built around sharing for a set time. Ongoing alerts aren
 
 **Who it fits.** Anyone sharing their location for one drive, trip, or night out, without an always-on connection.
 
-See [Looop vs. Glympse](../compare/looop-vs-glympse.html) and [Life360 vs. Glympse vs. Looop](../compare/life360-vs-glympse-vs-looop.html).
+See [Looop vs. Glympse](../compare/looop-vs-glympse.html).
 
 ## OnStar Guardian
 

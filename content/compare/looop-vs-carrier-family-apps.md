@@ -14,12 +14,13 @@ facts_checked: 2026-10-26
 notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Carrier apps: facts from V notes (App Store listings). Never says these apps sold data. The FCC location-data fines and the Supreme Court ruling are headline only and are left out. T-Mobile FamilyMode price is unverified and is not stated. All three labels are described as having no Data Used to Track You section, as on their listings."
 ---
 
-**Eyebrow:** Comparison
-
 # Looop vs. carrier family apps
 
-Verizon, AT&T, and T-Mobile apps mostly help parents manage a kid's phone.  
-Looop works on any carrier, for the grown-ups you love.
+**Key line (green):** Verizon, AT&T, and T-Mobile apps mostly help parents manage a kid's phone.
+
+Each one is tied to its own carrier.
+
+**Key line (orange):** Looop works on any carrier, for the grown-ups you love.
 
 [Download Looop]
 

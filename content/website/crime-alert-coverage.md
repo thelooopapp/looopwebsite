@@ -16,6 +16,8 @@ coverage_source: "New crime data provider covering all 50 US states, October 202
 
 **Key line (green):** Nearby Crime Alerts in all 50 US states.
 
+Wherever your Loved One lives in the US.
+
 **Key line (orange):** At a distance you choose.
 
 [Download Looop]

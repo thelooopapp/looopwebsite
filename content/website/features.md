@@ -15,6 +15,8 @@ status: draft
 
 **Key line (green):** Safety notifications for families far apart.
 
+One app instead of five.
+
 **Key line (orange):** The people you love live their lives.
 
 [Download Looop]

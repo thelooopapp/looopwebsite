@@ -48,7 +48,7 @@ Looop is a safety notifications app built for adult children and the parents the
 
 Mom joins by invitation, and there's nothing for her to start or remember. Health & Fitness sharing is available if you need it. Looop has no ads, ever, and your family's data is never for sale. Looop's App Store privacy label has no "Data Used to Track You" section.
 
-Compare them in [Looop vs. iSharing](../compare/looop-vs-isharing.html) and [Life360 vs. iSharing vs. Looop](../compare/life360-vs-isharing-vs-looop.html), or browse [family safety apps compared](../compare/index.html).
+Compare them in [Looop vs. iSharing](../compare/looop-vs-isharing.html), or browse [family safety apps compared](../compare/index.html).
 
 ## Questions families ask
 

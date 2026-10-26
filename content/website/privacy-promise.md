@@ -15,6 +15,8 @@ notes: "The 'Our App Store privacy label' section says Looop's label has no 'Dat
 
 **Key line (green):** We never sell your data.
 
+Looop is a private family safety app.
+
 **Key line (orange):** We don't work with advertisers.
 
 [Download Looop]

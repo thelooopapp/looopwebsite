@@ -46,7 +46,7 @@ It takes a holistic approach to family care: weather, crime, spending, health, f
 
 Looop is made by LooopApp LLC, an Austin company you can email at support@thelooopapp.com.
 
-Compare them side by side in [Looop vs. Family Nest](../compare/looop-vs-family-nest.html) and [Life360 vs. Family Nest (Family360) vs. Looop](../compare/life360-vs-family-nest-vs-looop.html), or browse [family safety apps compared](../compare/index.html).
+Compare them side by side in [Looop vs. Family Nest](../compare/looop-vs-family-nest.html), or browse [family safety apps compared](../compare/index.html).
 
 ## Questions families ask
 

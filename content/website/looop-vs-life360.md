@@ -16,8 +16,11 @@ notes: "Names a competitor. Every Life360 claim was re-verified against its link
 
 # Looop vs. Life360
 
-**Subtitle:** Life360 is built around a live family map.\
-Looop tells you when it might be a good time to call.
+**Key line (green):** Life360 is built around a live family map.
+
+No ads, ever, and your family's data is never for sale.
+
+**Key line (orange):** Looop tells you when it might be a good time to call.
 
 [Download Looop]
 
@@ -225,8 +228,6 @@ Safety Incidents and Subscription Tracker checked October 26, 2026. Other facts 
 ## Compare more family safety apps
 
 See how Looop compares with the rest of the field in [Family safety apps compared](compare/index.html).
-
-- Three-way comparisons: [Life360 vs. iSharing vs. Looop](compare/life360-vs-isharing-vs-looop.html), [Life360 vs. GeoZilla vs. Looop](compare/life360-vs-geozilla-vs-looop.html), [Life360 vs. Family Nest vs. Looop](compare/life360-vs-family-nest-vs-looop.html), [Life360 vs. Find My vs. Looop](compare/life360-vs-find-my-vs-looop.html), [Life360 vs. Glympse vs. Looop](compare/life360-vs-glympse-vs-looop.html)
 - Other apps: [Find My and Looop](compare/find-my-and-looop.html), [Looop vs. iSharing](compare/looop-vs-isharing.html), [Looop vs. GeoZilla](compare/looop-vs-geozilla.html), [Looop vs. Family Nest](compare/looop-vs-family-nest.html), [Looop vs. Glympse](compare/looop-vs-glympse.html), [OnStar Guardian and Looop](compare/onstar-guardian-and-looop.html)
 - Roundups: [The best Life360 alternatives in 2026](blog/best-life360-alternatives.html), [The best family safety apps, by what you need](blog/best-family-safety-apps.html), [Who's paying for your family safety app?](blog/whos-paying-for-your-family-safety-app.html)
 

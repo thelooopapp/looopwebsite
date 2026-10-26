@@ -14,12 +14,13 @@ facts_checked: 2026-10-26
 notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. OneLocator: free, Contains Advertising, features, platforms, and label from its App Store listing re-checked Oct 26, 2026. Its former name is left out. Not called a tracker of anyone without consent, a scam, or a data seller. Looop's price after the trial is described only as a subscription (COMPETITORS.md)."
 ---
 
-**Eyebrow:** Comparison
-
 # Looop vs. OneLocator
 
-OneLocator is a free, ad-supported family map.  
-Looop sends a heads-up when a Loved One's day looks off.
+**Key line (green):** OneLocator is a free, ad-supported family map.
+
+It's free, and it covers the basics.
+
+**Key line (orange):** Looop sends a heads-up when a Loved One's day looks off.
 
 [Download Looop]
 

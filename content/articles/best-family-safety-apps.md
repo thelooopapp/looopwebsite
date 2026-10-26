@@ -109,8 +109,6 @@ Whatever you choose, talk with each person first, show them what's shared, and m
 - [Family safety apps compared](../compare/index.html): every app we compare, in one table
 - [The best apps to check on an aging parent](best-apps-to-check-on-aging-parent.html)
 - [The best Life360 alternatives](best-life360-alternatives.html)
-- [Life360 vs. GeoZilla vs. Looop](../compare/life360-vs-geozilla-vs-looop.html)
-- [Life360 vs. Glympse vs. Looop](../compare/life360-vs-glympse-vs-looop.html)
 - [Looop vs. Findmykids](../compare/looop-vs-findmykids.html)
 
 ## Sources

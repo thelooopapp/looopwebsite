@@ -15,6 +15,8 @@ status: draft
 
 **Key line (green):** Parents, kids at college, sisters, and best friends.
 
+Families don't live on one street anymore.
+
 **Key line (orange):** Looop tells everyone when it's time to check in.
 
 ## Find your people

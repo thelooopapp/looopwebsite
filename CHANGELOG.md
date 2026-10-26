@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-26 08:40 CT
+
+### Copy
+- Heroes restored to the site's standard layout on every page (faces row, headline with pill, green line, short middle line, orange line, App Store button). The earlier pass had replaced it with an eyebrow and a plain paragraph on the comparison pages and dropped the middle line everywhere. Text stays short.
+- Deleted the five three-product comparison pages (Life360 vs. X vs. Looop) and every link to them; removed from sitemap and llms.txt.
+
 ## 2026-10-26 08:30 CT
 
 ### Copy

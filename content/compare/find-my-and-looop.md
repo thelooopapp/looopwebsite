@@ -17,8 +17,11 @@ notes: "Names Apple. Framed as a complement, per the guide: never says Apple tra
 
 # Find My and Looop: use both
 
-**Subtitle:** Looop works alongside Find My.\
-It tells you when Mom's day might be worth a call.
+**Key line (green):** Looop works alongside Find My.
+
+Find My shows where she is.
+
+**Key line (orange):** It tells you when Mom's day might be worth a call.
 
 [Download Looop]
 
@@ -189,7 +192,6 @@ Life360, Apple, Find My, iPhone, AirTag, Apple Watch, Apple Health, Oura, Whoop,
 - [Looop vs. iSharing](looop-vs-isharing.html)
 - [Looop vs. GeoZilla](looop-vs-geozilla.html)
 - [Looop vs. Family Nest (formerly Family360)](looop-vs-family-nest.html)
-- [Life360 vs. Find My vs. Looop](life360-vs-find-my-vs-looop.html)
 - [Does Apple's Check In work for checking on a parent?](../answers/apple-check-in-for-parents.html)
 - [Best apps to check on an aging parent](../blog/best-apps-to-check-on-aging-parent.html)
 

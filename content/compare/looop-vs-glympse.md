@@ -14,12 +14,13 @@ facts_checked: 2026-10-26
 notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Glympse: its listing says 'Your data is never sold.' The page quotes that and never implies otherwise; the contrast is ads only (its listing says Contains Advertising). Glympse is not said to lack any feature; weather and crime are described as not listed on its App Store page."
 ---
 
-**Eyebrow:** Comparison
-
 # Looop vs. Glympse
 
-Glympse shares where you are for one trip.  
-Looop tells you when Mom's day looks off.
+**Key line (green):** Glympse shares where you are for one trip.
+
+Looop runs every day, with nothing to send.
+
+**Key line (orange):** You'll know when Mom's day looks off.
 
 [Download Looop]
 
@@ -128,7 +129,6 @@ Life360, Glympse, Apple Watch, Apple Health, Oura, Whoop, and Find My are tradem
 ### More comparisons
 
 - [Family safety apps compared](index.html): every app side by side
-- [Life360 vs. Glympse vs. Looop](life360-vs-glympse-vs-looop.html)
 - [Looop vs. Life360](../looop-vs-life360.html)
 - [Find My and Looop: use both](find-my-and-looop.html)
 - [The best family safety apps, by what you need](../blog/best-family-safety-apps.html)

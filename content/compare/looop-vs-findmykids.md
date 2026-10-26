@@ -14,12 +14,13 @@ facts_checked: 2026-10-26
 notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Findmykids: ownership, origin, and developer entity are deliberately not stated (COMPETITORS.md says entity unclear; do not state). Its consent language is quoted from its listing. No claim that it lacks a feature beyond what its listing shows; weather and crime are described as not listed on its App Store page."
 ---
 
-**Eyebrow:** Comparison
-
 # Looop vs. Findmykids
 
-Findmykids helps parents look after a young child's phone.  
-Looop is for the grown-ups you worry about.
+**Key line (green):** Findmykids helps parents look after a young child's phone.
+
+It works with kids' GPS watches, too.
+
+**Key line (orange):** Looop is for the grown-ups you worry about.
 
 [Download Looop]
 

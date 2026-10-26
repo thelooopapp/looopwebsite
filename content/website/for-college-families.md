@@ -15,6 +15,8 @@ status: draft
 
 **Key line (green):** Give your college kid space without losing sleep.
 
+Looop stays quiet the rest of the time.
+
 **Key line (orange):** A heads-up about crime or storms near campus.
 
 [Download Looop]

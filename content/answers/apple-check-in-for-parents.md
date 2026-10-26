@@ -41,7 +41,7 @@ When all is well, Looop stays quiet.
 
 Looop isn't an emergency service, and it doesn't call 911 or send help.
 
-See [Find My and Looop](../compare/find-my-and-looop.html) and [Life360 vs. Find My vs. Looop](../compare/life360-vs-find-my-vs-looop.html), or browse [family safety apps compared](../compare/index.html).
+See [Find My and Looop](../compare/find-my-and-looop.html), or browse [family safety apps compared](../compare/index.html).
 
 ## Questions families ask
 

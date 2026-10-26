@@ -17,8 +17,11 @@ notes: "Names a competitor. Family Nest facts from COMPETITORS.md and its App St
 
 # Looop vs. Family Nest (formerly Family360)
 
-**Subtitle:** Family Nest puts parents and kids on one map.\
-Looop is built for checking on Mom.
+**Key line (green):** Family Nest puts parents and kids on one map.
+
+Family Nest used to be called Family360.
+
+**Key line (orange):** Looop is built for checking on Mom.
 
 [Download Looop]
 
@@ -170,7 +173,6 @@ Family Nest, Family360, Life360, Apple, Apple Watch, Apple Health, Oura, Whoop, 
 - [Find My and Looop: use both](find-my-and-looop.html)
 - [Looop vs. iSharing](looop-vs-isharing.html)
 - [Looop vs. GeoZilla](looop-vs-geozilla.html)
-- [Life360 vs. Family Nest vs. Looop](life360-vs-family-nest-vs-looop.html)
 - [Is Family Nest the same as Family360?](../answers/is-family-nest-the-same-as-family360.html)
 - [The Best Life360 Alternatives](../blog/best-life360-alternatives.html)
 

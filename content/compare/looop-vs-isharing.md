@@ -17,8 +17,11 @@ notes: "Names a competitor. iSharing facts from COMPETITORS.md (Oct 26, 2026) an
 
 # Looop vs. iSharing
 
-**Subtitle:** A quiet phone is one signal.\
-Looop looks at the whole day.
+**Key line (green):** A quiet phone is one signal.
+
+iSharing pitches inactivity alerts for older parents.
+
+**Key line (orange):** Looop looks at the whole day.
 
 [Download Looop]
 
@@ -171,7 +174,6 @@ iSharing, Life360, Apple, Apple Watch, Apple Health, Oura, Whoop, Find My, GeoZi
 - [Find My and Looop: use both](find-my-and-looop.html)
 - [Looop vs. GeoZilla](looop-vs-geozilla.html)
 - [Looop vs. Family Nest (formerly Family360)](looop-vs-family-nest.html)
-- [Life360 vs. iSharing vs. Looop](life360-vs-isharing-vs-looop.html)
 - [Does iSharing work for elderly parents?](../answers/isharing-for-elderly-parents.html)
 - [Best apps to check on an aging parent](../blog/best-apps-to-check-on-aging-parent.html)
 

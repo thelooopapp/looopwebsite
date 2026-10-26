@@ -13,13 +13,16 @@ secondary_keywords:
 persona: "Searchers comparing apps; list and review writers; Marcus, the only child far away"
 status: draft
 facts_checked: 2026-10-26
-notes: "Names competitors. Every competitor cell comes from COMPETITORS.md, the V items in the research notes, or App Store listings re-checked Oct 26, 2026 (Life360, iSharing, GeoZilla, Family Nest, Find My, Findo, OneLocator). Unknowns read 'Not listed', never 'No'. Apple's weather cell says only that Apple's Weather app is separate from Find My (Weather alerts unverified; nothing said either way). Check In is marked U in COMPETITORS.md: confirm against Apple's guide. Family Nest 'No' for 'Data Used to Track You' is new from its App Store listing on Oct 26, 2026; add it to COMPETITORS.md. Life360 'Yes: identifiers' and 'contains advertising' are from its App Store listing on Oct 26, 2026. Carrier and OnStar cells use V items from research-carriers.md; T-Mobile price is unverified, so 'not listed'. Several linked pages (three-way, roundups, question pages, study, and the other comparison pages) are being written in parallel on this branch."
+notes: "Names competitors. Every competitor cell comes from COMPETITORS.md, the V items in the research notes, or App Store listings re-checked Oct 26, 2026 (Life360, iSharing, GeoZilla, Family Nest, Find My, Findo, OneLocator). Unknowns read 'Not listed', never 'No'. Apple's weather cell says only that Apple's Weather app is separate from Find My (Weather alerts unverified; nothing said either way). Check In is marked U in COMPETITORS.md: confirm against Apple's guide. Family Nest 'No' for 'Data Used to Track You' is new from its App Store listing on Oct 26, 2026; add it to COMPETITORS.md. Life360 'Yes: identifiers' and 'contains advertising' are from its App Store listing on Oct 26, 2026. Carrier and OnStar cells use V items from research-carriers.md; T-Mobile price is unverified, so 'not listed'."
 ---
 
 # Family safety apps compared
 
-**Subtitle:** Life360, Find My, iSharing, GeoZilla, Family Nest, and more.\
-See what each one alerts you to, and what it costs.
+**Key line (green):** Life360, Find My, iSharing, GeoZilla, Family Nest, and more.
+
+Fair comparisons, with sources and dates.
+
+**Key line (orange):** See what each one alerts you to, and what it costs.
 
 [Download Looop]
 
@@ -72,16 +75,6 @@ We make Looop, so we've tried to be fair. The table below sticks to what each co
 - [Looop vs. OneLocator](looop-vs-onelocator.html)
 - [Looop vs. other locator apps (Famio, Familo, Carpin, Be Closer, and more)](looop-vs-other-locator-apps.html)
 - [Looop vs. carrier family apps (Verizon, AT&T, and T-Mobile)](looop-vs-carrier-family-apps.html)
-
-## Choosing between two apps?
-
-**Subtitle:** Three-way pages for the pairs families compare most, with Looop as a different third option.
-
-- [Life360 vs. iSharing vs. Looop](life360-vs-isharing-vs-looop.html)
-- [Life360 vs. GeoZilla vs. Looop](life360-vs-geozilla-vs-looop.html)
-- [Life360 vs. Family Nest (Family360) vs. Looop](life360-vs-family-nest-vs-looop.html)
-- [Life360 vs. Find My vs. Looop](life360-vs-find-my-vs-looop.html)
-- [Life360 vs. Glympse vs. Looop](life360-vs-glympse-vs-looop.html)
 
 ## Roundups
 

@@ -16,8 +16,11 @@ notes: "Names a competitor. GeoZilla facts from COMPETITORS.md and research-fami
 
 # Looop vs. GeoZilla
 
-**Subtitle:** GeoZilla puts your family on a map.\
-Looop tells you when Mom's day looks off.
+**Key line (green):** GeoZilla puts your family on a map.
+
+It adds driving reports and an Apple Watch app.
+
+**Key line (orange):** Looop tells you when Mom's day looks off.
 
 [Download Looop]
 
@@ -163,7 +166,6 @@ GeoZilla, Life360, Apple, Apple Watch, Apple Health, Oura, Whoop, Find My, iShar
 - [Find My and Looop: use both](find-my-and-looop.html)
 - [Looop vs. iSharing](looop-vs-isharing.html)
 - [Looop vs. Family Nest (formerly Family360)](looop-vs-family-nest.html)
-- [Life360 vs. GeoZilla vs. Looop](life360-vs-geozilla-vs-looop.html)
 - [Looop vs. other locator apps](looop-vs-other-locator-apps.html)
 - [Best family safety apps, by what you need](../blog/best-family-safety-apps.html)
 

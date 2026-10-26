@@ -14,12 +14,13 @@ facts_checked: 2026-10-26
 notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. OnStar Guardian: framed as a complement. The page never implies Looop sends help, calls 911, or detects crashes, and says so plainly. The FTC order on GM and OnStar is headline only and is left out. OnStar is not called a data seller; its label is described in Apple's words."
 ---
 
-**Eyebrow:** Use both
-
 # OnStar Guardian and Looop
 
-OnStar Guardian brings help when something goes wrong on the road.  
-Looop tells you when to check in, before anything does.
+**Key line (green):** OnStar Guardian brings help when something goes wrong on the road.
+
+Many families can use both.
+
+**Key line (orange):** Looop tells you when to check in, before anything does.
 
 [Download Looop]
 

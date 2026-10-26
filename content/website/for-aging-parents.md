@@ -16,6 +16,8 @@ status: draft
 
 **Key line (green):** Check on aging parents from far away.
 
+A heads-up when a storm or crime comes near.
+
 **Key line (orange):** Safety alerts instead of tracking.
 
 [Download Looop]

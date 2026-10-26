@@ -14,6 +14,8 @@ status: draft
 
 **Key line (green):** For the people who are each other's person.
 
+Two sisters in two time zones, one heads-up.
+
 **Key line (orange):** Looop tells you both when to call.
 
 [Download Looop]
