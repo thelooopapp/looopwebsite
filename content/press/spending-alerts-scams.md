@@ -19,7 +19,7 @@ Scams that reach older adults often move fast. The FBI's Internet Crime Complain
 
 - **Optional bank linking.** Bank linking is optional and runs through Plaid. A loved one decides whether to link an account.
 - **A threshold the family sets.** Families choose what counts as unusually large, so small, everyday purchases stay quiet.
-- **A heads-up, not an alarm.** A large payment is often perfectly normal, so the alert only suggests it might be a good time to check in.
+- **A gentle heads-up.** A large payment is often perfectly normal, so the alert only suggests it might be a good time to check in.
 - **Alerts on your terms.** Families choose exactly which alerts they get about each loved one and can turn any alert off with one tap.
 - **One-tap check-in.** Call, text, or FaceTime straight from a loved one's card.
 
@@ -29,7 +29,7 @@ Looop does not detect or prevent scams, and it does not reimburse losses. If a f
 
 Some family safety plans focus on what happens after money is gone. Life360, for example, lists identity theft protection and stolen funds reimbursement of up to $25,000 on its Gold plan and up to $1 million on its Platinum plan ([Life360 on the App Store](https://apps.apple.com/us/app/life360-family-safety-gps/id384830320), as of Oct. 2026), and said in September 2026 that it is working on scam protection for aging parents ([Goldman Sachs conference coverage](https://in.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-5589446)). Looop's alert is simply a reason to call and talk the same day.
 
-Life360 also offers a free Subscription Tracker, which links checking accounts and credit cards through Plaid and watches recurring charges, price changes, and renewals ([Life360 blog](https://www.life360.com/blog/subscription-tracker), May 2026). By connecting an account, members agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere." That's from Life360's [Set Up Subscription Tracker](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) page, checked Oct. 26, 2026. Looop's spending alerts also run through Plaid but do a different job: they flag an unusually large charge, and that data is never used for ads or sold.
+Life360 also offers a free Subscription Tracker, which links checking accounts and credit cards through Plaid and watches recurring charges, price changes, and renewals ([Life360 blog](https://www.life360.com/blog/subscription-tracker), May 2026). By connecting an account, members agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere." That's from Life360's [Set Up Subscription Tracker](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) page, checked Oct. 26, 2026. Looop's spending alerts also run through Plaid. They flag an unusually large charge, and that data is never used for ads or sold.
 
 Spending alerts are one part of Looop's holistic approach to family care. Looop brings together weather, crime, spending, health, fitness, activity, and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call.
 

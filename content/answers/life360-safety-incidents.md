@@ -17,7 +17,7 @@ notes: "Names a competitor (Life360). Every Life360 fact is from COMPETITORS.md,
 
 Life360's Safety Incidents put recent, serious events near you or someone in your Circle on the Life360 map. According to Life360's help page, they cover incidents from the last six hours, within one mile, in the US, and Life360 sends a notification when an incident meets those criteria.
 
-So yes, Life360 has crime features. Here's what this one shows, and where its limits are.
+So yes, Life360 has crime features, and this one comes with limits worth knowing.
 
 ## What counts as a Safety Incident
 
@@ -37,7 +37,7 @@ Life360's older Crime Reports feature, on paid plans, still has its own help pag
 
 Safety Incidents give families a quick heads-up about something serious close by, right on the map they already use. Free Circles get it too, and the six-hour window keeps it focused on what's happening now.
 
-## How Looop handles crime near a loved one
+## Looop lets your family pick the distance
 
 Looop is a safety notifications app. It sends a heads-up when crime is reported near a Loved One, in all 50 US states, and your family picks the distance: 1, 3, 5, or 10 miles. There's no daily limit on how many alerts you can see.
 

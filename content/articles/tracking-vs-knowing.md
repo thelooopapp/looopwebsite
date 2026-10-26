@@ -55,7 +55,7 @@ A map shows you where someone is, and leaves you to guess whether they're okay. 
 
 ### It puts the work on you
 
-A map only helps if you look at it, so you keep looking. It's easy to end up opening the app out of habit, turning a moment of worry into a daily chore and one more thing to check.
+A map only helps if you look at it, so you keep looking. It's easy to end up opening the app out of habit, turning a moment of worry into a daily chore.
 
 ### It doesn't tell you what's around them
 
@@ -73,9 +73,9 @@ Older parents feel this most. A mom who has lived on her own terms for decades d
 
 The map model assumes one person in charge and everyone else being looked after. That doesn't fit sisters, friends, partners, or a parent and adult child who look out for each other.
 
-## A different answer: safety notifications
+## Safety notifications do the noticing for you
 
-A safety notifications app does the noticing for you. It stays quiet when all is well, and speaks up when something might need your attention.
+A safety notifications app stays quiet when all is well, and speaks up when something might need your attention.
 
 - **For you:** less checking and a clear moment when a call is worth making.
 - **For them:** freedom to live their day, and fewer "where are you?" texts.
@@ -98,13 +98,13 @@ If you're comparing family safety apps, these are the principles this category s
 
 The heart of the app is the heads-up: nearby crime alerts, severe weather alerts, and gentle nudges when a day looks unusual. A map can exist as a supporting tool, the place you look once something has come up.
 
-### 2. Just enough to know
+### 2. Only the data it needs
 
 A safety notifications app should use only what it needs to tell whether something unusual is going on, and it should never sell itself on precision.
 
-### 3. Independence, protected
+### 3. They keep their freedom
 
-The people you love should keep their freedom. They live their day, and the app only speaks up when something looks off.
+They live their day, and the app only speaks up when something looks off.
 
 ### 4. Check in when it counts
 
@@ -116,19 +116,19 @@ A family safety app holds some of the most personal information there is. In a s
 
 ## How Looop puts this into practice
 
-Looop is a safety notifications app, built from the ground up around these five principles.
+Looop is a safety notifications app, built around these five principles.
 
-**It tells you about what's around them.** Looop sends a heads-up when severe weather is heading toward a Loved One, in more than 50 countries, including the US, and when crime is reported near them in all 50 US states. You choose your own crime alert distance.
+Looop sends a heads-up when severe weather is heading toward a Loved One, in more than 50 countries, including the US, and when crime is reported near them in all 50 US states. You choose your own crime alert distance.
 
-**It notices when a day looks different.** When driving, walking, or phone use looks unusual for them, or their whole day looks off compared to their usual routine, you get a gentle "Unusual Day" nudge to check in.
+When driving, walking, or phone use looks unusual for them, or their whole day looks off compared to their usual routine, you get a gentle "Unusual Day" nudge to check in.
 
-**It stays quiet the rest of the time.** On a typical day, there's nothing to check. Your Looop shows who's having a normal day and who might need a look, in plain language, at a glance.
+On a typical day, there's nothing to check. Your Looop shows who's having a normal day and who might need a look, in plain language, at a glance.
 
-**It respects choice.** Loved Ones join by invitation. Health & Fitness sharing, like heart rate, sleep, and steps, is available and optional. Anyone can leave a group anytime.
+Loved Ones join by invitation. Health & Fitness sharing, like heart rate, sleep, and steps, is available and optional. Anyone can leave a group anytime.
 
-**It keeps the map in its place.** There is a family map, for the moment after a nudge when you want a little more context. It's a supporting feature.
+There is a family map, too, as a supporting feature for the moment after a nudge when you want a little more context.
 
-**It never sells your data.** Looop also doesn't work with advertisers.
+Looop never sells your data and doesn't work with advertisers.
 
 ## Who this is for
 
@@ -142,7 +142,7 @@ Safety notifications fit any group of people who care about each other from a di
 
 > **Tools families use**
 >
-> If you're comparing options, here's how the main kinds fit together. The location sharing built into a phone shows where someone is when you need to know. Family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or a day that looks unusual might make a call worth making. Many families use more than one. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+> If you're comparing options, here's how the main kinds fit together. Family location apps put everyone on a shared map, and the location sharing built into a phone shows where someone is when you need to know. Medical alert services can get help in an emergency. Looop sends a heads-up when a storm, crime nearby, or an unusual day might make a call worth making. Lots of families use two or more. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
 
 ## The question worth asking
 
@@ -152,7 +152,8 @@ For most other families, the more useful question is, "Does anyone need a call t
 
 Most days, the answer is no, and Looop stays quiet. When someone could use a call, Looop sends a heads-up.
 
-**Choose Looop if you want safety alerts instead of tracking, a nudge when a drive looks unusual, no ads ever, and your family's data never for sale. Peace of mind for you, independence for them.**
+**Choose Looop if you want safety alerts instead of tracking, a nudge when a drive looks unusual, no ads ever, and your family's data never for sale.**  
+**Peace of mind for you, independence for them.**
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

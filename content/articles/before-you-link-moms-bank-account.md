@@ -13,7 +13,7 @@ status: draft
 notes: "No competitor named. Oct 26, 2026: Question 3 adds an unnamed example paraphrasing Life360's Set Up Subscription Tracker help page ('Life360 may use your transaction data to show you relevant ads and measure ad performance'). Adds a link to the comparison hub."
 ---
 
-# Before You Link Mom's Bank Account to Any App, Ask These 5 Questions
+# 5 Questions Before You Link Mom's Bank Account
 
 "Would we even know if Mom got scammed?"
 
@@ -23,7 +23,7 @@ So before you link Mom's bank account to any app, including ours, ask a few plai
 
 ## Why families are thinking about this
 
-Scams that target older adults are a real and growing problem. The Federal Trade Commission reports that fraud losses reported by adults 60 and over rose about fourfold, from about $600 million in 2020 to [$2.4 billion in 2024](https://www.ftc.gov/news-events/news/press-releases/2025/12/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults). The FTC says the rise was driven largely by reports of losses over $100,000, often from investment scams, romance scams, and impersonators.
+Scams that target older adults are on the rise. The Federal Trade Commission reports that fraud losses reported by adults 60 and over rose about fourfold, from about $600 million in 2020 to [$2.4 billion in 2024](https://www.ftc.gov/news-events/news/press-releases/2025/12/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults). The FTC says the rise was driven largely by reports of losses over $100,000, often from investment scams, romance scams, and impersonators.
 
 Many of those losses show up first as money leaving an account. That's why a heads-up about unusual spending can help a family notice sooner, and why apps are starting to offer it.
 
@@ -69,7 +69,7 @@ Setting it up behind her back would break the trust you're trying to protect. Ou
 
 ## Question 5: How do you turn it off, and delete it?
 
-Plans change: Mom might change her mind, or you might switch apps. Before you link anything, find out how to undo it.
+Plans change. Mom might change her mind, or you might switch apps. Before you link anything, find out how to undo it.
 
 **What to look for:** a simple way to unlink each account inside the app, a way to delete your account and data, and the option to stop access from the connection service too, such as through Plaid Portal.
 
@@ -86,7 +86,7 @@ An app can be one helpful piece. These steps work on their own, too.
 
 Looop is a safety notifications app. Spending alerts are one optional piece of it. These are our answers to each question.
 
-1. **Data and advertisers:** Looop never sells your data and doesn't work with advertisers. That covers bank data, location data, and everything else. Spending data is used only for your family's alerts, never for ads.
+1. **Data and advertisers:** Looop never sells your data and doesn't work with advertisers. That covers bank data, location data, and everything else. Spending data is used only for your family's alerts.
 2. **The connection:** Bank linking runs through Plaid. Looop never sees bank passwords.
 3. **What it does:** Looop reads transactions on a linked account and sends a heads-up when one goes over an amount you set. An unusually large payment can be an early sign of a scam, so you can call Mom that same day. Looop can't tell whether a payment is a scam, and it doesn't stop or reverse payments. It tells you when a call might be worth making.
 4. **Consent:** Loved Ones join Looop by invitation. We encourage families to set up spending alerts together, with the account holder's OK.

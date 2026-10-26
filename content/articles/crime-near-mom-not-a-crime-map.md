@@ -31,7 +31,7 @@ For a family caring from a distance, a map often does the opposite of what you w
 - **It shows everything, everywhere.** A city map fills up with incidents that have nothing to do with the person you love. Every dot asks for your attention.
 - **It turns you into the analyst.** You end up working out distances, reading report codes, and guessing what "disturbance" means.
 - **It invites checking.** Once you open a map, it's easy to open it again tomorrow and the day after, until checking it is daily homework.
-- **It doesn't tell you what to do.** A map shows you what happened. It doesn't say whether this is a moment to reach out.
+- **It doesn't tell you what to do.** A map shows you what happened and leaves you to decide whether this is a moment to reach out.
 
 What most families actually want is narrower: tell me if something happened near Mom, and otherwise let me get on with my day.
 
@@ -39,11 +39,11 @@ Some family apps now add crime to their map as pins. If you're comparing, see [h
 
 ## How a heads-up works
 
-With Looop's Nearby Crime Alerts, you don't search a city for trouble. Looop speaks up only when crime is reported near a Loved One, within the distance you chose.
+With Nearby Crime Alerts, Looop speaks up only when crime is reported near a Loved One, within the distance you chose.
 
 - **Quiet by default.** If nothing is reported nearby, you won't hear from Looop.
 - **Tied to one person.** Each alert is tied to someone you care about.
-- **A gentle nudge.** An alert doesn't mean your Loved One is involved or in danger. It means something happened nearby, and it might be a good time to check in.
+- **A gentle nudge.** An alert means something was reported nearby, and it might be a good time to check in. Your Loved One may have nothing to do with it.
 - **Their day stays theirs.** Mom doesn't have to report in or open an app, and you hear from Looop only when it's worth a call.
 
 Looop also has a family map for the moment after an alert, if you want more context. It's there to back up the heads-up.
@@ -73,7 +73,7 @@ Start with a guess and adjust after a couple of weeks. You can change it anytime
 
 A crime alert can make your heart jump, especially when it's about a parent or a kid. These steps can help you handle it calmly.
 
-**1. Take a breath.** Most alerts don't involve your Loved One at all. They're about something that happened nearby. Reported crime in a neighborhood is common. Treat the alert as information.
+**1. Take a breath.** Most alerts are about something that happened nearby and don't involve your Loved One at all. Reported crime in a neighborhood is common. Treat the alert as information.
 
 **2. Reach out simply.** Call, or send a short text. Keep it light: "Saw there was something going on near you. Everything okay over there?" In Looop, you can call, text, or FaceTime straight from their card, or send a one-tap "Are you ok?"
 

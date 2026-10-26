@@ -17,7 +17,7 @@ notes: "Names a competitor (Life360). The transaction-data sentence is quoted ex
 
 Life360's Subscription Tracker connects your checking accounts and credit cards through Plaid and finds the recurring charges on them. Life360's own setup page also says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere."
 
-Here's what the feature does, and what to ask before you link an account to any family app.
+If someone in your family is about to link a card, read on for what the feature does and what to ask any family app that wants bank data.
 
 ## What Subscription Tracker does
 
@@ -41,9 +41,9 @@ That's worth reading before anyone in the family links a card. Our guide [before
 
 Subscription Tracker puts every recurring charge in one list, flags price hikes and renewals, and costs nothing extra. For a household juggling streaming services and memberships, that's genuinely useful.
 
-## How Looop handles spending
+## Looop's spending alerts are optional
 
-Looop is a safety notifications app. Its spending alerts are optional: if a Loved One chooses to link an account, Looop can send the family a heads-up about an unusually large charge, which can be an early sign of a scam. The family sets the threshold.
+Looop is a safety notifications app. If a Loved One chooses to link an account, Looop can send the family a heads-up about an unusually large charge, which can be an early sign of a scam. The family sets the threshold.
 
 Bank linking in Looop runs through Plaid, and that data is never used for ads or sold. Looop doesn't work with advertisers.
 

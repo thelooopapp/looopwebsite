@@ -12,11 +12,11 @@ persona: "Priya, the sibling coordinator (also Marcus, the only child far away; 
 status: draft
 ---
 
-# The Holiday Visit Checklist: What to Notice When You See Your Parents
+# The Holiday Visit Checklist: What to Notice
 
 "Mom sounds fine on the phone. But is she really?"
 
-For a lot of families, the holidays are the one time of year everyone is under the same roof. You'll eat too much pie, argue about the thermostat, and laugh at the same old stories. You'll also get something a phone call can't give you: a real look at how your parents are doing.
+For a lot of families, the holidays are the one time of year everyone is under the same roof. You'll eat too much pie and argue about the thermostat. You'll also get something a phone call can't give you: a real look at how your parents are doing.
 
 The National Institute on Aging says the best way to know what someone needs is to [ask them directly](https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help). But a phone call or text isn't always enough to tell, and some parents don't want to cause worry.
 
@@ -100,7 +100,7 @@ This is a great time to help with small tech chores they've been meaning to get 
 - They have regular plans that get them out of the house
 - Someone nearby could stop by if needed, and you have that person's number
 
-Staying connected matters. The NIA notes that loneliness and social isolation are associated with higher risks for health problems such as heart disease, depression, and cognitive decline. ([NIA](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected)) The NIA also points out that you can live alone without feeling lonely. Plenty of parents living on their own have the fullest calendars in the family.
+The NIA notes that loneliness and social isolation are associated with higher risks for health problems such as heart disease, depression, and cognitive decline. ([NIA](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected)) The NIA also points out that you can live alone without feeling lonely. Plenty of parents living on their own have the fullest calendars in the family.
 
 ## How to raise a concern, kindly
 
@@ -114,7 +114,7 @@ If you noticed something, wait for a good moment to bring it up.
 
 **Ask what they want.** AARP's caregiving advice is to remember your parent is still in charge, and to ask, "Would you like my help?" ([AARP](https://www.aarp.org/caregiving/basics/caring-for-parent-things-to-consider/))
 
-**Offer something specific.** Groceries delivered, a ride to an appointment, a new night-light. Practical help is easier to say yes to.
+**Offer something specific,** like groceries delivered, a ride to an appointment, or a new night-light. Practical help is easier to say yes to.
 
 **Bring in siblings, gently.** If you share the load, talk with your brother or sister before you leave so nobody is caught off guard and your calls to Dad don't overlap.
 

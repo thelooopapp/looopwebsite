@@ -1,7 +1,7 @@
 ---
 title: "Mom Needs a Call When It Counts"
 slug: mom-doesnt-need-a-super-app
-meta_description: "Family apps are racing to become super apps. A parent living on her own needs something simpler: one quiet signal that says it's time to call."
+meta_description: "Family apps are racing to become super apps. A parent living on her own needs something simpler, a heads-up when it's a good time to call."
 primary_keyword: app to check on aging parents
 secondary_keywords:
   - check in app for family
@@ -34,9 +34,10 @@ Before you hand any app to your mom, ask whether it was built around her day.
 
 Plenty of parents in their seventies who live on their own are busier than their kids. A mom like that might have water aerobics on Tuesdays, church on Sundays, and a standing lunch with the same three friends since 1994.
 
-She doesn't need an app to run her calendar. She's been running it for decades. She doesn't want her bills, her RSVPs, and her paperwork in the same place her kids look for reassurance. And she definitely doesn't want to feel like she's being managed.
+She's been running her own calendar for decades. She doesn't want her bills, her RSVPs, and her paperwork in the same place her kids look for reassurance, and she doesn't want to feel managed.
 
-What she does want is fewer "just checking on you" calls. What you want is to know the one day a call really matters.
+What she does want is fewer "just checking on you" calls.  
+What you want is to know the one day a call really matters.
 
 ## More features, more to check
 
@@ -49,7 +50,7 @@ Every feature an app adds is something else to open, scroll, and think about. Fo
 
 For a parent who lives on her own and wants to keep it that way, a tool built around her independence is a better fit.
 
-## One job: tell you when to check in
+## Looop tells you when to check in
 
 Looop is a safety notifications app. It lets you know when it's a good time to reach out.
 
@@ -65,7 +66,7 @@ Day to day, it looks like this.
 
 There's a family map, too, as a supporting feature for the moment after a nudge when you want a bit more context.
 
-## Just enough to know
+## Looop collects less on purpose
 
 A super app collects more so it can do more. Looop uses only what it needs to tell whether something unusual is going on.
 
@@ -102,7 +103,7 @@ If the answers fit on an index card, you're probably in good shape.
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, Health & Fitness sharing is available and optional, and Looop never sells your data. It uses just enough to know when to call, and your family's data is never for sale.
+Looop is a safety notifications app for families who care from a distance. It gives you a heads-up about severe weather heading toward a Loved One and crime reported nearby in all 50 US states, plus a gentle nudge when someone's day looks different from their usual routine. Loved Ones join by invitation, Health & Fitness sharing is available and optional, and Looop never sells your data.
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

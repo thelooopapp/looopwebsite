@@ -16,7 +16,7 @@ status: draft
 
 "How do I ask Mom to join without making her feel watched?"
 
-Sending a parent an app invite can feel strangely hard. You know why you're asking. You love them, you live far away, and you worry. But a link with no context can land the wrong way. It can sound like "I don't trust you," when what you mean is "I miss you, and I want to know when to call."
+Sending a parent an app invite can feel strangely hard. You know why you're asking. You live far away, and you worry. But a link with no context can land the wrong way. It can sound like "I don't trust you," when what you mean is "I miss you, and I want to know when to call."
 
 So we wrote a letter. It's the note we'd want to send our own parents before an invite ever arrives. Copy it, change every word that doesn't sound like you, and send it by email, text, or even on paper.
 
@@ -83,7 +83,7 @@ They might have questions. Common ones:
 
 **"Who else sees it?"** Only the family members in your Looop group, the people they agree to.
 
-If they say yes, set it up side by side, ideally in person. Let them tap the buttons. If they say not yet, thank them for thinking about it. You've still told them something that matters: that you love them, and you trust them to run their own life.
+If they say yes, set it up side by side, ideally in person. Let them tap the buttons. If they say not yet, thank them for thinking about it. You've still told them you love them and trust them to run their own life.
 
 For a deeper guide to that conversation, see [How to Check On Aging Parents Without Making Them Feel Watched](how-to-check-on-aging-parents.html).
 
@@ -99,7 +99,7 @@ Whoever it's for, keep the part where you say you trust them, and explain that y
 
 > **Tools families use**
 >
-> If your parent asks what else is out there, here's the short version. The location sharing built into a phone shows where someone is when you need to know. Family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or a day that looks unusual might make a call worth making. Many families use more than one. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+> If your parent asks what else is out there, here's the short version. Medical alert services get help in an emergency. Family location apps put everyone on a shared map, and the location sharing built into a phone shows where someone is right now. Looop sends a heads-up about severe weather, crime nearby, or a day that looks unusual, when a call might be worth making. Plenty of families use two or three. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
 
 ## About Looop
 

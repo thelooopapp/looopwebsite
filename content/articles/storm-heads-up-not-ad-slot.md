@@ -18,7 +18,7 @@ status: draft
 
 If your parent lives hours away, you know the feeling. You see the forecast, or a news alert, and suddenly you're refreshing a radar map for a place you can't drive to tonight.
 
-A weather alert about someone you love has one job: to tell you it might be a good time to call. This guide covers what to do when a storm is headed toward a parent who lives far away, and why we think that alert should never be anything else.
+A weather alert about someone you love should tell you it might be a good time to call. This guide covers what to do when a storm is headed toward a parent who lives far away, and why we think that's all the alert should do.
 
 ## Watch, warning, or advisory: what the words mean
 
@@ -42,7 +42,7 @@ You can't board up their windows from 800 miles away, but you can still help in 
 
 ### 1. Call during the watch
 
-The best time to talk is before the weather arrives. Phones work, power is on, and nobody is rushed. Keep it calm and practical: "I saw the forecast for your area. Want to walk through the plan together?"
+The best time to talk is before the weather arrives. Phones work and the power is still on. Keep it calm and practical: "I saw the forecast for your area. Want to walk through the plan together?"
 
 Respect that they've likely seen storms before. You're offering a second set of eyes, and they stay in charge.
 
@@ -63,7 +63,7 @@ A plan like this means less worrying for you and fewer calls for them. If you do
 
 ### 4. Share the load with family
 
-If you have siblings or other relatives, split the job. One person calls Mom. Another checks with a neighbor. Someone else watches for updates from local officials. Agree on who does what, so Mom gets one call.
+If you have siblings or other relatives, split the job. One person can call Mom while another checks with a neighbor and someone else watches for updates from local officials. Agree on who does what, so Mom gets one call.
 
 ### 5. Know who's close by
 
@@ -112,7 +112,7 @@ In practice, that means:
 
 And on the days when the sky is clear and nothing looks unusual, Looop stays quiet.
 
-No ads ever, and your family's data is never for sale. You can read our full [privacy promise](../privacy-promise.html), or learn more about [how location apps make money](how-location-apps-make-money.html). For a side-by-side look, see [Looop vs. Life360](../looop-vs-life360.html) and [Family safety apps compared](../compare/index.html).
+No ads, ever, and your family's data is never for sale. You can read our full [privacy promise](../privacy-promise.html), or learn more about [how location apps make money](how-location-apps-make-money.html). For a side-by-side look, see [Looop vs. Life360](../looop-vs-life360.html) and [Family safety apps compared](../compare/index.html).
 
 **[Download Looop](https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111)**
 

@@ -75,7 +75,7 @@ When Mom says yes to a Looop invite, each of you gets something out of it.
 
 **She gets** to keep her routine, her calendar, and her independence, with fewer "just checking on you" calls. She won't feel managed, and she won't show up next to the dog's collar.
 
-**You get** peace of mind, and a quiet signal on the day a call really matters.
+**You get** peace of mind, and a nudge on the day a call really matters.
 
 ## How to invite a parent with respect
 

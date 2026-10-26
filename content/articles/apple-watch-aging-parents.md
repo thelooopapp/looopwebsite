@@ -12,7 +12,7 @@ persona: "Priya, the sibling coordinator (also Linda, the independent parent, as
 status: draft
 ---
 
-# Using Apple Watch to Stay Close to Aging Parents, No Extra App Needed
+# Apple Watch and Aging Parents, No Extra App Needed
 
 "Dad wears his Apple Watch every day. Can that help me know when to call?"
 
@@ -20,12 +20,12 @@ Maybe. If your parent already wears an Apple Watch and carries an iPhone, a lot 
 
 This guide explains how that works with Looop, what stays in your parent's hands, and how to set it up together on your next visit or call.
 
-## Key points
+## Five things to know before you set it up
 
 - Looop doesn't need its own Apple Watch app. It reads Health & Fitness data through Apple Health on your parent's iPhone.
 - Sharing is always optional and always your parent's choice, one category at a time.
 - Looop compares each day to your parent's own normal, never to anyone else.
-- It's a nudge to check in. It isn't a medical tool, and it doesn't diagnose anything or detect medical events.
+- A nudge is a reminder to check in. Looop isn't a medical tool, and it doesn't diagnose anything or detect medical events.
 - Set it up together, side by side, so nothing is a surprise.
 
 ## How it works: watch to iPhone to Looop
@@ -59,13 +59,13 @@ A note on loud places: Apple's guide to the [Noise app](https://support.apple.co
 
 ## What Looop can't do
 
-Looop isn't a medical device. It doesn't diagnose anything, and it doesn't detect medical events or emergencies. A nudge about an unusual heart rate or a short night's sleep means one thing: today looks different from their usual, so a call might be nice.
+Looop isn't a medical device. It doesn't diagnose anything, and it doesn't detect medical events or emergencies. A nudge about an unusual heart rate or a short night's sleep only means today looks different from their usual, so a call might be nice.
 
 Lots of ordinary things can change a day's numbers, like a brisk walk, a late movie, a cold, or a long flight. Often the best response is a simple "Hey, just thinking of you." If you have real concerns about a parent's health, talk with them about seeing their doctor. And if you ever believe someone is in immediate danger, call 911.
 
 ## Talk it over first
 
-Health details are personal, often more personal than location, so the order of operations matters.
+Health details are personal, often more personal than location, so have the conversation before anyone opens the app.
 
 **Talk before you tap.** Explain what you're hoping for: fewer worried calls, and a way to know when a call actually matters. Start with your own feelings. Something like "I worry when I can't reach you" opens the door gently.
 
@@ -97,7 +97,7 @@ The goal is to bother your parent less.
 
 **They get** their routine and their privacy, with control over every category, and fewer "just checking on you" calls. Their watch does a little more for the people who love them.
 
-**You get** a quiet signal on the day a call might matter, and no alerts on the ordinary days.
+**You get** a nudge on the day a call might matter, and nothing on ordinary days.
 
 If Health & Fitness sharing isn't needed, Looop still works. You'll still get a heads-up about severe weather heading their way, crime reported nearby in all 50 US states, and a gentle nudge when their day looks different from their usual routine.
 

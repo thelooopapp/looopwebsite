@@ -9,7 +9,7 @@ placeholders:
 
 # 14 of 15 Family Location Apps Declare "Data Used to Track You," Looop Study of App Store Privacy Labels Finds
 
-## A review of 25 family safety apps also finds clean labels from Apple, Google, Verizon, AT&T, and T-Mobile, and from two parental control apps
+## Apps from Apple, Google, and the three largest US carriers declare no tracking data
 
 
 **AUSTIN, Texas, [DATE]:** Fourteen of 15 family location apps declare "Data Used to Track You" on their App Store privacy labels, according to a review of 25 family safety apps published today by Looop, the safety notifications app for families who care from a distance. Seven of the 15 also list "Contains: Advertising" on their App Store pages.

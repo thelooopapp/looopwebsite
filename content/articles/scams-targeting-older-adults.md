@@ -18,7 +18,7 @@ status: draft
 
 Most families never expect to ask that question with real worry. Then a parent mentions a call from "the bank," or a new online friend, or a computer warning that wouldn't go away, and you start to wonder.
 
-Scams targeting older adults are run by organized groups who are good at pressure, fear, and urgency, and they fool sharp, careful people every day. Often the best defense is family members who talk to each other early.
+Scams targeting older adults are run by organized groups who are good at frightening and rushing people, and they fool sharp, careful people every day. Often the best defense is family members who talk to each other early.
 
 This guide covers what the latest federal data shows, the most common scam types, warning signs families can notice, how to bring up the topic without talking down to a parent, and what to do if a scam has already happened.
 
@@ -131,7 +131,7 @@ Talk about it together first, and only set it up if your parent wants it. Learn 
 
 > **Tools families use**
 >
-> Spending alerts are one kind of tool. Here's how the others fit. The location sharing built into a phone shows where someone is when you need to know. Family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or a day that looks unusual might make a call worth making. Many families use more than one. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+> Spending alerts are one kind of tool. A phone's built-in location sharing shows where someone is when you need to know, and family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop's other alerts cover severe weather, crime nearby, and a day that looks unusual. Many families use more than one tool. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
 
 ## Keep talking
 

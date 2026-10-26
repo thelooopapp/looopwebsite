@@ -35,7 +35,7 @@ So it's worth knowing who else might be paying for the app, and what they're get
 
 ## Three common ways location-sharing apps make money
 
-Not every app does all of these. Many do at least one. Each one is explained in plain terms below.
+Not every app does all of these, but many do at least one.
 
 ### 1. Advertising inside the app
 
@@ -85,7 +85,7 @@ Life360 then [stopped most of those sales](https://appleinsider.com/articles/22/
 
 In May 2026, Life360 added a free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) that links checking accounts and credit cards through Plaid and watches for recurring charges, price changes, and renewals. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting an account, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere."
 
-### What to take from this
+### Weigh the business model with the features
 
 None of this is hidden. Life360 describes much of it publicly, and many families use the app knowing how it works.
 
@@ -107,7 +107,7 @@ Before you invite your family, take ten minutes with the app's privacy policy an
 
 If the answers are vague, ask the company directly before you invite anyone.
 
-## What to look for: a checklist
+## A checklist for any family safety app
 
 A family safety app worth trusting should be able to check every box.
 
@@ -133,12 +133,10 @@ How Looop handles your family's information:
 - **Looop doesn't work with advertisers.** There's no ad platform, and no sponsored offers or ads in your notifications.
 - **Spending data is only for your family.** If someone links a bank account for spending alerts, it runs through Plaid and is never used for ads or sold.
 - **A clean privacy label.** Looop's App Store privacy label has no "Data Used to Track You" section.
-- **Just enough to know.** Looop uses only what it needs to tell whether something unusual is going on.
+- **Only what it needs.** Looop uses only what it needs to tell whether something unusual is going on.
 - **Invitation only.** Loved Ones join by invitation and choose to be part of your Looop.
 - **Health & Fitness sharing, available and optional.** Heart rate, sleep, and steps are there if you need them.
 - **Your control.** Leave a group, remove a member, or delete your account and data whenever you choose.
-
-Looop is built on one rule: families aren't the product.
 
 ## Side by side
 

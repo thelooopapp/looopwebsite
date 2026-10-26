@@ -5,12 +5,12 @@ status: draft
 
 # Looop Now Sends Severe Weather Alerts in More Than 50 Countries
 
-## As winter storm season begins, families with loved ones across the country or around the world hear about severe weather before anyone has to call
+## As winter storm season begins, families hear about severe weather before anyone has to call
 
 
 **AUSTIN, Texas, Oct. 30, 2026:** As winter storm season arrives, Looop, the safety notifications app for families who care from a distance, is helping families hear about storms before anyone has to call. Its severe weather alerts work in more than 50 countries, including the US, Canada, Mexico, most of Europe, Israel, Australia, New Zealand, Japan, South Korea, India, China, the Philippines, Brazil, South Africa, the UAE, and Singapore. When severe weather is heading toward a loved one, Looop sends the family a heads-up.
 
-Families don't stay put. Mom spends the winter at her place in Arizona. Dad takes a wine tour through Tuscany. Grandma's river cruise stops in Germany. A daughter spends a semester in Japan. Looop's severe weather alerts work wherever they go, in every one of those places. Instead of checking the weather in five cities, families get one heads-up when it matters.
+Families don't stay put. Mom might spend the winter at her place in Arizona while Dad takes a wine tour through Tuscany and a daughter spends a semester in Japan. Looop's severe weather alerts work in all of those places. Instead of checking the weather in five cities, families get one heads-up when it matters.
 
 For many families, the first sign of a storm near Mom's house is a news report after it has already passed. A college student may not mention an incident near campus until days later. Looop puts both kinds of news in a notification on the family's phone, so nobody has to remember to check.
 

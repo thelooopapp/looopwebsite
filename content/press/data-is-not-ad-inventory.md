@@ -6,7 +6,7 @@ status: draft
 
 # Looop Pledges Families' Data Will Never Be Ad Inventory
 
-## The safety notifications app commits to no advertisers, no sponsored offers in notifications, and no data sales, as family location apps build fast-growing ad businesses
+## The safety notifications app commits to no advertisers, no sponsored offers, and no data sales
 
 
 **AUSTIN, Texas, Oct. 26, 2026:** Looop, the safety notifications app for families who care from a distance, today pledged that the people who use it will never become ad inventory. Looop never sells your data and doesn't work with advertisers. There are no ads in the app, no sponsored offers in its notifications, and no audience lists built from the places families go.
@@ -31,7 +31,7 @@ Life360, a family location app, reported that its advertising revenue grew 315% 
 
 Life360 also has a history of selling location data to a dozen data brokers, [reported by The Markup](https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user) in 2021. After that reporting, the company [said it would stop](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users) most precise location sales while continuing to work with Allstate's Arity and selling aggregated data to Placer.ai, a data business it [said had returned to growth](https://www.sec.gov/Archives/edgar/data/1581760/000158176024000105/life360incq324mediarelea.htm) in 2024.
 
-Looop's pledge covers every alert it sends: none of them will ever carry an ad.
+No Looop alert will ever carry an ad.
 
 **Availability**
 

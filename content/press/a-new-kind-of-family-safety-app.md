@@ -14,11 +14,12 @@ placeholders:
 
 # Looop Is a New Kind of Family Safety App, Not Another Map
 
-## An independent Austin startup brings weather, crime, spending, health, fitness, activity, and the shape of each day together in one daily answer for families who care from a distance
+## An independent Austin startup gives families one daily answer about the people they love
 
-**AUSTIN, Texas, [DATE]:** Looop, a safety notifications app from LooopApp LLC, is a new kind of family safety app: instead of a map to keep checking, it tells families when it might be a good time to check in on a loved one. Looop launched on the App Store in May 2026 for iPhone.
+**AUSTIN, Texas, [DATE]:** Looop, a safety notifications app from LooopApp LLC, is a new kind of family safety app that tells families when it might be a good time to check in on a loved one. Looop launched on the App Store in May 2026 for iPhone.
 
-Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?"
+Most family apps are built around a map: they answer "Where is she?"  
+Looop answers "Is Mom okay today?"
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. No more checking the weather in five cities, a map in one app, and bank alerts in another. It's all in one place.
 
@@ -36,7 +37,7 @@ Each day, all of it comes together in one answer: a Typical Day, or an Unusual D
 
 Looop is built for adult children caring for a parent who lives far away, and for families, siblings, and friends spread across states and borders. Every loved one joins by invitation and keeps their routine and their independence. Looop works alongside Find My and the other tools already on a parent's iPhone.
 
-Looop isn't an emergency service. It doesn't call 911 or send help. It helps families know when to check in.
+Looop isn't an emergency service, and it doesn't call 911 or send help. It helps families know when to check in.
 
 **Private by design**
 

@@ -12,13 +12,11 @@ persona: "Dana, Marcus, Priya (buyers); Linda (invitee)"
 status: draft
 ---
 
-# Mom keeps her routine, you get peace of mind.
+# Mom keeps her routine, you stop wondering
 
 **Key line (green):** Check on aging parents from far away.
 
-A heads-up when a storm heads their way, something is reported nearby, or their day looks different. All in one app. Otherwise, quiet.
-
-**Key line (orange):** Alerts instead of tracking.
+**Key line (orange):** Safety alerts instead of tracking.
 
 [Download Looop]
 
@@ -28,14 +26,17 @@ Image: transparent_map.png
 
 **Subtitle:** You'll know when a call is worth making.
 
+Every heads-up comes to one app, and it stays quiet the rest of the time.
+
 - **Severe weather near them.** Storms, flood warnings, extreme heat or cold heading toward their town.
-- **Wherever they go.** Wintering at the vacation home in Arizona, a wine tour in Napa or Tuscany, a river cruise through Europe: severe weather alerts work in more than 50 countries, and crime alerts anywhere in the US.
+- **Wherever they go.** If they're wintering in Arizona or on a river cruise through Europe, you'll still hear about severe weather near them, in more than 50 countries. Crime alerts work anywhere in the US.
 - **Nearby crime.** A heads-up when something is reported near them, in all 50 US states.
 - **Unusual Day.** A gentle nudge when something is off compared to their own normal routine.
 - **Phone untouched for hours.** A heads-up if their phone hasn't been picked up in a long while.
 - **Arrivals that matter.** Know when they arrive at a hospital or ER.
 
-No alert usually means all is well. When a nudge comes, maybe give her a call.
+No alert usually means all is well.  
+When a nudge comes, maybe give her a call.
 
 ## "Is Mom getting out like she usually does?"
 
@@ -47,7 +48,7 @@ Image: images/home/phone-home72.webp
 
 ## "Did Dad tell you he's at the hospital?"
 
-**Headline:** At the hospital? You'll know.
+**Headline:** You'll hear about a hospital visit
 
 Some parents don't want to worry anyone. If Dad arrives at a hospital or ER, you get a heads-up, so you can call and ask how he's doing.
 
@@ -64,7 +65,7 @@ Image: images/home/phone-hospital.webp
 **For siblings sharing the load.** You and your brother get the same heads-up, so only one of you needs to call Dad.
 
 ### "5 Loved Ones in 4 cities."
-**For the stretched-thin.** Parents in two homes, multiple kids in college. One calm screen, and one heads-up when someone needs a call.
+**For the stretched-thin.** With parents in two homes and more than one kid in college, you see everyone on one calm screen and hear when someone needs a call.
 
 ## A quiet phone is only one signal
 
@@ -84,7 +85,7 @@ Weighing your options? See [family safety apps compared](compare/index.html), or
 
 **Subtitle:** You're right. Looop isn't one.
 
-Looop sends your family alerts instead of tracking you, and only when something seems off. You keep your routine and your independence. Your kids worry less. You get fewer "just checking on you" calls.
+Looop sends your family an alert only when something seems off. You keep your routine and your independence. Your kids worry less, so you get fewer "just checking on you" calls.
 
 - **You decide whether to join.** Looop works by invitation, so nobody signs you up without your knowing.
 - **Health & Fitness sharing is available.** It's optional, so add it if it helps your family.
@@ -106,6 +107,6 @@ Looop helps you know when to check in. If you think someone is in danger, call 9
 
 ## CTA
 
-**Headline:** Their routine. Your reassurance.
-**Body:** Invite your parents, and know when it's worth a call.
+**Headline:** Invite Mom and Dad to your Looop
+**Body:** You'll know when it's worth a call.
 [Download Looop]

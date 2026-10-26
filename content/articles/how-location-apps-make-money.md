@@ -19,7 +19,7 @@ notes: "No competitor named. Oct 26, 2026: added the field-wide label point in g
 
 Sometimes your location goes much further than you'd guess. This guide explains how location apps make money from the places people go, using what US regulators and investigative reporters have found. It covers how the system works, what families give up, and what you can do about it.
 
-## Key points
+## Your location can travel a long way
 
 - **Location data can leave an app in more than one way:** through code from other companies built into the app, through direct deals between the app maker and a buyer, and through the ad auctions that fill ad space.
 - **A whole industry buys and resells it.** In 2021, The Markup identified 47 companies in the location data business, in a market estimated at about $12 billion. ([The Markup](https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data))
@@ -38,7 +38,7 @@ When you give an app permission to use your location, code built into that app c
 
 ### 2. Direct deals between the app maker and a buyer
 
-Apple and Google have pushed back on data-collecting SDKs. So some data now moves another way: straight from the app company's own computers to the buyer's.
+Apple and Google have pushed back on data-collecting SDKs. So some data now moves straight from the app company's own computers to the buyer's.
 
 The Markup [reported in 2022](https://themarkup.org/the-breakdown/2022/02/24/who-is-policing-the-location-data-industry) that these server-to-server transfers happen after an app is approved, out of view of the app stores. Researchers can't see them by inspecting the app. Whether they happen comes down to the company's own policy.
 
@@ -58,7 +58,7 @@ The buyers vary. The FTC said X-Mode sold location data to [hundreds of clients]
 
 ## How the places you go become ad targets
 
-A broker draws a virtual boundary around a place: a store, a stadium, a clinic, a church. Then it looks for phones that showed up there. Those phones go on a list. Advertisers pay to reach the list.
+A broker draws a virtual boundary around a place: a store, a stadium, a clinic, a church. Then it looks for phones that showed up there and puts them on a list that advertisers pay to reach.
 
 The FTC's cases show how detailed these lists get:
 
@@ -105,7 +105,7 @@ You don't have to delete every app. These steps limit how far your location trav
 3. **Read the App Store privacy label.** Apple asks apps to disclose data used to track you. Apple's definition of tracking [includes sharing data](https://developer.apple.com/app-store/app-privacy-details/) with a data broker. Most of the family locator apps we reviewed declare "Data Used to Track You" on their labels. Our [privacy label study](../research/family-safety-app-privacy-labels.html) shows what each one says.
 4. **Ask the business model question.** If the app is free, how does it pay its bills? Our guide [Who's Really Paying for Your Free Family Safety App?](whos-paying-for-your-family-safety-app.html) walks through the questions to ask.
 
-## How Looop is different
+## Looop doesn't sell data or show ads
 
 Looop is a safety notifications app. It tells you when it might be a good time to check in on someone you love: a storm heading their way, crime reported nearby in all 50 US states, or a day that looks unusual for them. When all is well, it stays quiet.
 

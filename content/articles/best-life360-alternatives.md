@@ -19,7 +19,7 @@ status: draft
 notes: "Names competitors. Oct 26, 2026 revision (Phase 1 rollout): added iSharing, GeoZilla, Family Nest (formerly Family360), and OnStar Guardian using only COMPETITORS.md facts (checked Oct 26, 2026), cross-checked against their US App Store listings the same day. iSharing and Family Nest policy lines are quoted exactly; save dated copies. Life360 crime (Safety Incidents) and money (Subscription Tracker) statements added; the Subscription Tracker sentence is quoted exactly from Life360's setup page. Never say Life360 sells or shares transaction data. Not used, per COMPETITORS.md: iSharing's 2024 security flaw, Family Nest's owner or location, review-site complaints, and any claim that a competitor lacks a feature. 'Works on' lists only platforms confirmed on the App Store or in COMPETITORS.md (Android not confirmed for iSharing, GeoZilla, or OnStar Guardian). Retitled for searches beyond Life360; dateModified 2026-10-26."
 ---
 
-# The Best Life360 Alternatives in 2026, Including iSharing, GeoZilla, and Family Nest
+# The Best Life360 Alternatives in 2026
 
 "Is there a way to know they're okay without watching their every move?"
 
@@ -59,9 +59,9 @@ We looked at the same four things for every app:
 
 ## Life360: the baseline
 
-**What it is.** Life360 is one of the best-known family apps. It's a GPS location tracking app built around a live family map and location history. Its [location sharing page](https://www.life360.com/location-sharing) highlights Place Alerts for arrivals and departures, and alerts when someone doesn't show up where they're expected.
+Life360 is one of the best-known family apps. It's a GPS location tracking app built around a live family map and location history. Its [location sharing page](https://www.life360.com/location-sharing) highlights Place Alerts for arrivals and departures, and alerts when someone doesn't show up where they're expected.
 
-**Notifications.** Life360 also sends [severe weather alerts](https://investors.life360.com/news-releases/news-release-details/life360-partners-accuweather-deliver-real-time-severe-weather) through AccuWeather, and it shows crime. Its [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) put recent, high-severity events, like fires, thefts, and weapon-related crimes, on the map as pins, with a notification. They cover the last six hours, within one mile of you or a Circle member, in the US. Free Circles can see details for up to three incidents in 24 hours.
+Life360 also sends [severe weather alerts](https://investors.life360.com/news-releases/news-release-details/life360-partners-accuweather-deliver-real-time-severe-weather) through AccuWeather, and it shows crime. Its [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) put recent, high-severity events, like fires, thefts, and weapon-related crimes, on the map as pins, with a notification. They cover the last six hours, within one mile of you or a Circle member, in the US. Free Circles can see details for up to three incidents in 24 hours.
 
 **Who it fits.** Families with younger kids who want a shared map and detailed arrival and departure alerts, on both iPhone and Android.
 
@@ -77,9 +77,9 @@ Compare them side by side in [Looop vs. Life360](../looop-vs-life360.html).
 
 ## iSharing
 
-**What it is.** iSharing, from iSharingSoft in Irvine, California, is one of the apps closest to Life360. Its [App Store listing](https://apps.apple.com/us/app/id416436167) describes a live map with Street View, place alerts for home, work, and school, location history from 7 days to a year depending on plan, a panic alert that records sound, messaging, and Meetups for temporary group sharing.
+iSharing, from iSharingSoft in Irvine, California, is one of the apps closest to Life360. Its [App Store listing](https://apps.apple.com/us/app/id416436167) describes a live map with Street View, place alerts for home, work, and school, location history from 7 days to a year depending on plan, a panic alert that records sound, messaging, and Meetups for temporary group sharing.
 
-**Notifications.** Its Elderly Care feature sends an alert when an older person doesn't use their phone. Battery and inactivity alerts come with Silver and up, and driving reports for speeding, sudden braking, and phone use come with Gold and up.
+Its Elderly Care feature sends an alert when an older person doesn't use their phone. Battery and inactivity alerts come with Silver and up, and driving reports for speeding, sudden braking, and phone use come with Gold and up.
 
 **Privacy and ads.** iSharing's [privacy policy](https://isharingsoft.com/privacy_policy), last revised May 21, 2026, says: "We may also share location information with third parties for advertising, research, and analytic purposes." Its App Store privacy label declares "Data Used to Track You," including location, identifiers, and usage data.
 
@@ -91,7 +91,7 @@ See [Looop vs. iSharing](../compare/looop-vs-isharing.html) and [Life360 vs. iSh
 
 ## GeoZilla
 
-**What it is.** GeoZilla, from GZ TECH LTD, calls itself a family GPS tracker. Its [App Store listing](https://apps.apple.com/us/app/-/id981856216) describes place arrival alerts, location history, check-ins, chat, battery levels, a help alert, driving insights for speeding and phone use, and an Apple Watch app. Its description says it suits families with older relatives as well as teens.
+GeoZilla, from GZ TECH LTD, calls itself a family GPS tracker. Its [App Store listing](https://apps.apple.com/us/app/-/id981856216) describes place arrival alerts, location history, check-ins, chat, battery levels, a help alert, driving insights for speeding and phone use, and an Apple Watch app. Its description says it suits families with older relatives as well as teens.
 
 **Privacy and ads.** Its App Store privacy label declares "Data Used to Track You" for identifiers.
 
@@ -103,7 +103,7 @@ See [Looop vs. GeoZilla](../compare/looop-vs-geozilla.html) and [Life360 vs. Geo
 
 ## Family Nest (formerly Family360)
 
-**What it is.** If you've seen "Life360 vs. Family360," this is that app. Its store pages now read "Family Nest (ex Family360)." Families join private "Nests" with chat, a live map, place alerts for home, school, and work, over-speed alerts, a phone locator, and SOS, all free, according to its [App Store listing](https://apps.apple.com/us/app/-/id1537446782). Premium adds real-time tracking with ETA, 365 days of history, and travel statistics. It also has a weekly Nest Drive driving score and shows the weather through OpenWeatherMap.
+If you've seen "Life360 vs. Family360," this is that app. Its store pages now read "Family Nest (ex Family360)." Families join private "Nests" with chat, a live map, place alerts for home, school, and work, over-speed alerts, a phone locator, and SOS, all free, according to its [App Store listing](https://apps.apple.com/us/app/-/id1537446782). Premium adds real-time tracking with ETA, 365 days of history, and travel statistics. It also has a weekly Nest Drive driving score and shows the weather through OpenWeatherMap.
 
 **Privacy and ads.** Family Nest's [privacy policy](https://www.familynestapp.com/privacy-policy), effective September 23, 2026, says: "We do not sell personal data to third parties." Its App Store listing notes that the app contains advertising.
 
@@ -117,9 +117,9 @@ See [Looop vs. Family Nest](../compare/looop-vs-family-nest.html), [Life360 vs. 
 
 ## Apple Find My
 
-**What it is.** If everyone in your family uses an iPhone, you already have Find My. You can [share your location](https://support.apple.com/en-us/105104) with family and friends for an hour, until the end of the day, indefinitely, or for a custom time.
+If everyone in your family uses an iPhone, you already have Find My. You can [share your location](https://support.apple.com/en-us/105104) with family and friends for an hour, until the end of the day, indefinitely, or for a custom time.
 
-**Notifications.** Find My can [notify you](https://support.apple.com/guide/iphone/get-notified-when-a-friends-location-changes-iph843dd79b6/ios) when someone arrives at a place, leaves it, or isn't there during a set schedule. Apple handles consent well here. Your friend gets an alert when you set a notification, and they must approve recurring ones.
+Find My can [notify you](https://support.apple.com/guide/iphone/get-notified-when-a-friends-location-changes-iph843dd79b6/ios) when someone arrives at a place, leaves it, or isn't there during a set schedule. Apple handles consent well here. Your friend gets an alert when you set a notification, and they must approve recurring ones.
 
 Apple's Messages app also has [Check In](https://support.apple.com/en-us/105104), which tells a trusted contact when you've arrived. Apple says Check In shares your location only if there's an unexpected delay and you don't respond.
 
@@ -133,9 +133,9 @@ See [Find My and Looop](../compare/find-my-and-looop.html) and [Life360 vs. Find
 
 ## Google Maps location sharing and Find Hub
 
-**What it is.** Google lets you share your real-time location through [several of its apps](https://support.google.com/accounts/answer/9363497), including Maps and Find Hub. The people you share with can see your name, photo, real-time location, and battery status, and sometimes where you've recently been.
+Google lets you share your real-time location through [several of its apps](https://support.google.com/accounts/answer/9363497), including Maps and Find Hub. The people you share with can see your name, photo, real-time location, and battery status, and sometimes where you've recently been.
 
-**Notifications.** In Google Maps, you can [add notifications](https://support.google.com/maps/answer/11966807) for when someone who shares with you arrives at or leaves a place, up to five per person. The person gets an email letting them know, and they can turn these notifications off. [Find Hub](https://support.google.com/android/answer/16984593) offers the same arrive and leave alerts, and lets you [share](https://support.google.com/android/answer/15992026) for an hour, until the end of the day, until you stop, or for a custom time.
+In Google Maps, you can [add notifications](https://support.google.com/maps/answer/11966807) for when someone who shares with you arrives at or leaves a place, up to five per person. The person gets an email letting them know, and they can turn these notifications off. [Find Hub](https://support.google.com/android/answer/16984593) offers the same arrive and leave alerts, and lets you [share](https://support.google.com/android/answer/15992026) for an hour, until the end of the day, until you stop, or for a custom time.
 
 **Privacy and ads.** Google says it [never sells your personal information](https://safety.google/privacy/ads-and-data/) to anyone. Its [privacy policy](https://policies.google.com/privacy) also says it collects location information to offer features including ads based on your location, depending on your settings.
 
@@ -145,9 +145,9 @@ See [Find My and Looop](../compare/find-my-and-looop.html) and [Life360 vs. Find
 
 ## Google Family Link
 
-**What it is.** Family Link is Google's [parental controls app](https://families.google/familylink/). Location is one part of it, alongside screen time limits, app approvals, and content filters. It's built for kids and teens.
+Family Link is Google's [parental controls app](https://families.google/familylink/). Location is one part of it, alongside screen time limits, app approvals, and content filters. It's built for kids and teens.
 
-**Notifications.** Parents can see a child's device on a map and get alerts when the child arrives at or leaves a place, according to [Google](https://families.google/familylink/).
+Parents can see a child's device on a map and get alerts when the child arrives at or leaves a place, according to [Google](https://families.google/familylink/).
 
 **Privacy and ads.** Google's [Family Link FAQ](https://families.google/familylink/faq/) says kids may see ads in Google services, but not personalized ones. The same FAQ says teens need a parent's approval to stop supervision.
 
@@ -157,9 +157,9 @@ See [Find My and Looop](../compare/find-my-and-looop.html) and [Life360 vs. Find
 
 ## Glympse
 
-**What it is.** Glympse focuses on [temporary location sharing](https://www.glympse.com/get-glympse-app). You set a timer, send a link, and your location stops sharing when the time runs out. Viewers don't need the app. Today much of [Glympse's business](https://www.glympse.com/) serves companies, for things like delivery and technician arrival updates.
+Glympse focuses on [temporary location sharing](https://www.glympse.com/get-glympse-app). You set a timer, send a link, and your location stops sharing when the time runs out. Viewers don't need the app. Today much of [Glympse's business](https://www.glympse.com/) serves companies, for things like delivery and technician arrival updates.
 
-**Notifications.** Glympse's family use is built around sharing for a set time. Ongoing alerts aren't its focus.
+Glympse's family use is built around sharing for a set time. Ongoing alerts aren't its focus.
 
 **Privacy and ads.** Glympse's [privacy policy](https://www.glympse.com/privacy) says it may work with a third party to show ads in its apps. Its [App Store listing](https://apps.apple.com/us/app/glympse-share-your-location/id330316698) lists usage data used for third-party advertising. The same policy says Glympse has not sold personal information under California's legal definition, though it may share aggregate information.
 
@@ -171,29 +171,29 @@ See [Looop vs. Glympse](../compare/looop-vs-glympse.html) and [Life360 vs. Glymp
 
 ## OnStar Guardian
 
-**What it is.** OnStar Guardian is emergency and roadside help for drivers, and it works in any vehicle, in the US and Canada. Its [App Store listing](https://apps.apple.com/us/app/-/id1480411487) describes Mobile Crash Response that connects to an OnStar advisor, an Emergency button with 24/7 advisors who can send first responders, roadside help, and location sharing with arrival alerts.
+OnStar Guardian is emergency and roadside help for drivers, and it works in any vehicle, in the US and Canada. Its [App Store listing](https://apps.apple.com/us/app/-/id1480411487) describes Mobile Crash Response that connects to an OnStar advisor, an Emergency button with 24/7 advisors who can send first responders, roadside help, and location sharing with arrival alerts.
 
 **Privacy and ads.** Its App Store privacy label declares "Data Used to Track You" for usage data.
 
 **Price.** $15 a month as a standalone plan, or included for OnStar members. It can be shared with up to seven people.
 
-**Who it fits.** A parent who still drives, when you want crash response and someone who can send help. It isn't a replacement for a daily heads-up, and Looop isn't a replacement for it. Help in an emergency is one thing. Knowing when to call, before there is one, is another. Many families could use both.
+**Who it fits.** A parent who still drives, when you want crash response and someone who can send help. Looop does a different job, a heads-up when it might be worth a call, so many families could use both.
 
 See [OnStar Guardian and Looop](../compare/onstar-guardian-and-looop.html).
 
 ## Looop
 
-**What it is.** Looop is our app, so read this section with that in mind. Looop is a safety notifications app from an independent Austin startup that launched in May 2026. It tells you when it might be worth checking in, so you don't have to keep looking at a map.
+Looop is our app, so read this section with that in mind. Looop is a safety notifications app from an independent Austin startup that launched in May 2026. It tells you when it might be worth checking in, so you don't have to keep looking at a map.
 
-**Notifications.** Looop gives you a heads-up when severe weather is heading toward a Loved One, when crime is reported near them in all 50 US states at the distance you choose (1, 3, 5, or 10 miles), and when their day looks unusual compared to their own routine. When all is well, it stays quiet. You choose which alerts you get for each person.
+Looop gives you a heads-up when severe weather is heading toward a Loved One, when crime is reported near them in all 50 US states at the distance you choose (1, 3, 5, or 10 miles), and when their day looks unusual compared to their own routine. When all is well, it stays quiet. You choose which alerts you get for each person.
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-**Independence.** Loved Ones join by invitation. Health & Fitness sharing, like heart rate, sleep, and steps, is available and optional. So is a heads-up about an unusually large charge, if a Loved One links an account through Plaid. There's a family map for when you need it, for example after a nudge to check in.
+Loved Ones join by invitation. Health & Fitness sharing, like heart rate, sleep, and steps, is available and optional. So is a heads-up about an unusually large charge, if a Loved One links an account through Plaid. There's a family map for when you need it, for example after a nudge to check in.
 
 **Privacy and ads.** Looop never sells your data and doesn't work with advertisers. Linked bank data is used only for your family's alerts, never for ads.
 
-**Emergencies.** Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect crashes. You can call 911 or a Loved One's emergency contacts in one tap.
+Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect crashes. You can call 911 or a Loved One's emergency contacts in one tap.
 
 **Price.** Free for the first two weeks.
 
@@ -203,7 +203,8 @@ Looop takes a holistic approach to family care: weather, crime, spending, health
 
 **Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data being shared with its partners.
 
-**Choose Looop if you want safety alerts instead of tracking, a nudge when a drive looks unusual, no ads ever, and your family's data never for sale. Peace of mind for you, independence for them.**
+**Choose Looop if you want safety alerts instead of tracking, a nudge when a drive looks unusual, no ads ever, and your family's data never for sale.\
+Peace of mind for you, independence for them.**
 
 ## Which one is right for you?
 
@@ -227,8 +228,6 @@ See every app side by side in [Family safety apps compared](../compare/index.htm
 ## About Looop
 
 Looop is a safety notifications app for families who care from a distance. It sends a heads-up about severe weather and nearby crime, plus a gentle nudge when someone's day looks different from usual. Looop never sells your data and doesn't work with advertisers.
-
-Looop stays quiet when all is well and nudges you when it's worth a call.
 
 **Try Looop with your family.** Free for the first two weeks.
 

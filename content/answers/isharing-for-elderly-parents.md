@@ -17,7 +17,7 @@ notes: "Names a competitor (iSharing). Facts from COMPETITORS.md and iSharing's 
 
 It can. iSharing is a location sharing app, and it does pitch adult children who live far from a parent. Its "Elderly Care" feature sends an alert when an older person doesn't use their phone, and it adds SOS, place alerts, and driving reports.
 
-Here's what it offers, and what to weigh before you invite Mom.
+Before you invite Mom, it helps to know what each plan includes and what iSharing's privacy policy says.
 
 ## What iSharing offers for aging parents
 
@@ -37,11 +37,12 @@ iSharing's privacy policy, last revised May 21, 2026, says: "We may also share l
 
 ## What it does well
 
-An inactivity alert is a real signal: if Mom's phone has gone quiet, that's worth a call. iSharing also has SOS, driving reports, and a free tier, which some families want.
+If Mom's phone has gone quiet, that's worth a call, and an inactivity alert will tell you. iSharing also has SOS, driving reports, and a free tier, which some families want.
 
 ## How Looop helps with aging parents
 
-A quiet phone is one signal. Looop looks at the whole day.
+A quiet phone is one signal.  
+Looop looks at the whole day.
 
 Looop is a safety notifications app built for adult children and the parents they love. It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of her day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
@@ -57,7 +58,7 @@ Yes. iSharing's "Elderly Care" feature sends an alert when an older person doesn
 
 ### Can my parent use iSharing and Looop together?
 
-Yes. They do different jobs. iSharing is built around location sharing; Looop sends a heads-up when her day looks unusual, or when weather or crime is nearby.
+Yes. iSharing is built around location sharing. Looop sends a heads-up when her day looks unusual, or when weather or crime is nearby.
 
 ### Does Looop work for aging parents?
 
@@ -74,4 +75,4 @@ Yes. Looop is built for adult children caring for a parent from a distance. She 
 
 Sources checked: October 26, 2026
 
-Life360, Apple, and iSharing are trademarks of its owner. Looop is not affiliated with iSharing.
+Life360, Apple, and iSharing are trademarks of their respective owners. Looop is not affiliated with iSharing.

@@ -11,13 +11,11 @@ persona: "Dana, the stretched-thin middle (also Marcus, Priya, Linda as invitee)
 status: draft
 ---
 
-# Quiet when all is well, a nudge when it's not.
+# Looop stays quiet until it's worth a call
 
-**Key line (green):** That's how Looop works.
+**Key line (green):** Safety notifications for families far apart.
 
-A safety notifications app for families who care from a distance. Alerts instead of tracking, all in one app instead of five.
-
-**Key line (orange):** The people you love live their lives. You know when to call.
+**Key line (orange):** The people you love live their lives.
 
 [Download Looop]
 
@@ -29,7 +27,8 @@ Image: lockscreen-phones.png
 
 > "Is everyone okay today?"
 
-**Subtitle:** You hear from Looop when it might be time to make a call.
+**Subtitle:** You hear from Looop when it might be time to make a call.  
+It's all in one place, so you're not checking five apps.
 
 ### What's happening around them
 
@@ -156,9 +155,10 @@ Every stat is marked Typical or Unusual, compared only with that person's own ro
 
 > "Don't we already share locations?"
 
-**Subtitle:** Safety alerts instead of tracking.
+**Subtitle:** A new kind of family safety app.
 
-Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?"
+Most family apps are built around a map: they answer "Where is she?"  
+Looop answers "Is Mom okay today?"
 
 Map-based apps put everyone's location front and center, so you check the map to see where people are. Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. It stays quiet when all is well and sends a heads-up when it's worth a call. The family map is there for when you need it.
 
@@ -171,7 +171,7 @@ Already use Find My? Keep it. Looop works alongside Find My, and brings it all t
 ## Questions, answered
 
 **Does Looop track my family?**
-No. Looop sends safety alerts instead of tracking. It uses the low-power location services built into iPhone, which wake the app when someone arrives somewhere important or moves, instead of keeping GPS on all day. There's a family map for when you need it, and you won't need to keep checking it.
+No. Looop sends a heads-up when something seems off. It uses the low-power location services built into iPhone, which wake the app when someone arrives somewhere important or moves, instead of keeping GPS on all day. There's a family map for when you need it, and you won't need to keep checking it.
 
 **What does my Loved One share?**
 What Looop needs to tell whether their day looks typical: things like whether they're driving, walking, or staying put, their phone battery, and the weather where they are. Family members in their Looop can also see where they are on the family map. Health & Fitness sharing is available if you need it. Before you invite anyone, walk through it together so there are no surprises.

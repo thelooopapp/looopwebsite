@@ -14,19 +14,19 @@ facts_checked: 2026-10-26
 notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Findmykids: ownership, origin, and developer entity are deliberately not stated (COMPETITORS.md says entity unclear; do not state). Its consent language is quoted from its listing. No claim that it lacks a feature beyond what its listing shows; weather and crime are described as not listed on its App Store page."
 ---
 
-# Looop vs. Findmykids: built for different families
+**Eyebrow:** Comparison
 
-**Question:** A child's first phone, or a parent far away?
+# Looop vs. Findmykids
 
-Findmykids is built for parents of young kids, with a child's location, place alerts, an SOS button, and a loud signal that can be heard even when the phone is on silent. Looop is a safety notifications app built for grown-up families, bringing weather, crime, spending, health, fitness, activity, and the shape of each day together in one answer about whether a Loved One's day looks typical.
-
-**Subtitle:** A sourced comparison, including where Findmykids may fit better.
+Findmykids helps parents look after a young child's phone.  
+Looop is for the grown-ups you worry about.
 
 [Download Looop]
 
-## At a glance
+## Findmykids and Looop, compared
 
-**Subtitle:** One is made for little kids. One is made for the rest of the family.
+Findmykids is built for parents of young kids, with a child's location, place alerts, an SOS button, and a loud signal that can be heard even when the phone is on silent.  
+Looop is a safety notifications app built for grown-up families who care from a distance.
 
 | | Looop | Findmykids |
 | --- | --- | --- |
@@ -41,7 +41,9 @@ Findmykids is built for parents of young kids, with a child's location, place al
 | Price | Free for the first two weeks | Seven-day free trial; in-app purchases from $2.99 to $63.99 |
 | App Store privacy label | No "Data Used to Track You" section | Declares "Data Used to Track You": Identifiers |
 
-Checked October 26, 2026, on Findmykids's App Store listing. Findmykids offers things Looop doesn't, like an SOS button and a loud signal for kids. [See where Findmykids may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
+Checked October 26, 2026, on Findmykids's App Store listing.  
+Findmykids offers things Looop doesn't, like an SOS button and a loud signal for kids.  
+[See where Findmykids may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
 
 ## What Findmykids does well
 
@@ -52,47 +54,48 @@ Checked October 26, 2026, on Findmykids's App Store listing. Findmykids offers t
 - **A signal they can't miss.** A loud signal can be heard even when the phone is on silent or at the bottom of a backpack.
 - **Consent in writing.** Its listing says the app "cannot be installed secretly" and "should only be used with your kid's consent."
 
-## Where Looop is different
+## Built for the years after the first phone
 
-**Question:** "So what's actually different?"
-**Subtitle:** Findmykids answers "Where is my kid?" Looop answers "Is Mom okay today?"
+**Question:** "Our kids are grown. What do we use now?"
+**Subtitle:** Findmykids answers "Where is my kid?"  
+Looop answers "Is Mom okay today?"
 
-### All in one place
+### Everything about Mom's day, in one answer
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 Severe weather alerts work in more than 50 countries, and nearby crime alerts work in all 50 US states, at 1, 3, 5, or 10 miles. Health & Fitness sharing through Apple Health (Apple Watch, Oura, or Whoop) is available if you need it, and so is an optional heads-up about an unusually large charge on a linked account.
 
-### Alerts instead of a map
+### A nudge when it might be time to call
 
-Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It stays quiet when all is well and sends a nudge when it might be a good time to check in. A family map is there for when you need it, but watching a dot is never the point.
+Looop stays quiet when all is well and sends a nudge when it might be a good time to check in. A family map is there for when you need it, for example after a nudge to check in.
 
-### Built for parents and the people who love them
+### Made for grown kids and aging parents
 
-Looop is made for families who care from a distance: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Every Loved One joins by invitation and keeps their routine, and there's nothing for anyone to start or remember each day.
+Looop is made for families who care from a distance: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Every Loved One joins by invitation and keeps their own routine.
 
-Looop isn't a kids' app. It's for life after the school years, when the people you worry about are grown and living on their own.
+Looop is for life after the school years, when the people you worry about are grown and living on their own.
 
-### Your family's data isn't for sale
+### No ads, ever, and your family's data is never for sale
 
-Looop never sells your data and doesn't work with advertisers. There are no ads, ever. Looop's App Store privacy label has no "Data Used to Track You" section and doesn't say the app contains advertising.
+Looop doesn't work with advertisers and never sells your data. Its App Store privacy label has no "Data Used to Track You" section and doesn't say the app contains advertising.
 
-Spending alerts run through Plaid, and that data is never used for ads or sold.
+Spending alerts, if you use them, run through Plaid. That data is never used for ads or sold.
 
 ## Where Findmykids may fit better
 
-**Question:** "Is Looop right for us?"
-**Subtitle:** We want you to pick the app that fits your family.
+**Question:** "What if our youngest is still in grade school?"
+**Subtitle:** Then Findmykids may be the better fit for now.
 
 - **Young kids and first phones.** If your child is getting a first phone or a GPS watch, Findmykids is built for that. Looop is made for grown-up families.
 - **An SOS button and a loud signal.** Findmykids gives kids an SOS button and a signal that rings through silent mode. Looop has neither and isn't an emergency service.
 - **Screen time at school.** Findmykids shows how much time a child spends in apps and games during the school day. Looop doesn't.
 
-Some families use both: Findmykids for the youngest, and Looop for Grandma and the kids who've moved away.
+Some families use both.  
+Findmykids looks after the youngest.  
+Looop covers Grandma and the kids who've moved away.
 
-**Peace of mind for you, independence for them.**
-
-## Questions families ask
+## Questions about Findmykids and Looop
 
 **Is Looop like Findmykids?**
 No. Findmykids is built for parents of young kids. Looop is built for grown-up families who care from a distance, and it tells you when it might be a good time to check in.
@@ -101,10 +104,10 @@ No. Findmykids is built for parents of young kids. Looop is built for grown-up f
 Looop is made for grown-up families: aging parents, kids at college or in a big city, and siblings and friends. For a young child's first phone, an app built for kids, like Findmykids, may fit better.
 
 **Can I use Findmykids and Looop together?**
-Yes. They do different jobs. Findmykids can help with a young child's phone, and Looop can let you know when it might be time to call Mom.
+Yes. Findmykids can help with a young child's phone, and Looop can let you know when it might be time to call Mom.
 
 **Does Looop work for aging parents?**
-Yes. Looop is built for adult children caring for a parent from a distance, and for siblings and friends who look out for each other. Your parent joins by invitation and keeps their routine. You get a heads-up when it might be a good time to call, and they get fewer "just checking" calls.
+Yes. Aging parents are one of the families Looop is made for, along with kids at college and siblings who live apart. Your parent joins by invitation and keeps their routine, and you get a heads-up when it might be a good time to call.
 
 **How much does Looop cost?**
 Looop is free for the first two weeks. It's available for iPhone on the App Store.
@@ -130,6 +133,7 @@ Findmykids, Apple Watch, Apple Health, Oura, Whoop, GeoZilla, Family Nest, Famil
 
 ## CTA
 
-**Headline:** Safety alerts instead of tracking.
-**Subtitle:** Free for the first two weeks. Peace of mind for you, independence for them.
+**Headline:** Know when to call Grandma.
+**Subtitle:** Free for the first two weeks.  
+Peace of mind for you, independence for them.
 [Download Looop]

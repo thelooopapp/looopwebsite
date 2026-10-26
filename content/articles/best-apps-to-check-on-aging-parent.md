@@ -21,7 +21,7 @@ notes: "Names competitors. Every competitor fact comes from COMPETITORS.md, the 
 
 Maybe she lives a few states away and still drives to church on Sundays. Maybe Dad lives alone in the house you grew up in. You don't want to call every morning, and they don't want you to. You just want to know when a call is worth making.
 
-Plenty of apps say they can help, and they do different jobs. Some show where a parent is. Some get help in an emergency. One, our own app, Looop, tells you when it might be time to check in. Many families end up using two. We'll tell you who each one fits, including when the answer isn't Looop.
+Plenty of apps say they can help, and they do different jobs. Some show where a parent is, and others get help in an emergency. Our own app, Looop, tells you when it might be time to check in. Many families end up using two. We'll tell you who each one fits, including when the answer isn't Looop.
 
 *Facts about each app come from its App Store listing, help pages, and policies, linked in the sources below. Checked October 26, 2026. Prices and features change, so check each one before you decide.*
 
@@ -96,7 +96,10 @@ If Dad still drives to golf every Tuesday, [OnStar Guardian](https://apps.apple.
 
 Its App Store label declares "Data Used to Track You" for usage data.
 
-Help in an emergency is one thing. Knowing when to call, before there is one, is another. OnStar Guardian and Looop fit together.
+Help in an emergency is one thing.  
+Knowing when to call, before there is one, is another.
+
+OnStar Guardian and Looop fit together.
 
 **Best for:** a parent who drives, whose family wants someone who can send help after a crash.
 
@@ -110,9 +113,10 @@ Looop isn't an emergency service, and it doesn't replace one.
 
 ## Looop
 
-Looop is our app, so read this section with that in mind. It's a safety notifications app for families who care from a distance. Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?"
+Looop is our app, so read this section with that in mind. It's a safety notifications app for families who care from a distance. Most family apps are built around a map: they answer "Where is she?"  
+Looop answers "Is Mom okay today?"
 
-Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of her day. You get a heads-up when severe weather heads toward Mom, in more than 50 countries, and when crime is reported near her, in all 50 US states, at 1, 3, 5, or 10 miles. A quiet phone is one signal. Looop looks at the whole day, and nudges you when driving, walking, or phone activity looks unusual.
+Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of her day. You get a heads-up when severe weather heads toward Mom, in more than 50 countries, and when crime is reported near her, in all 50 US states, at 1, 3, 5, or 10 miles. If driving, walking, or phone activity looks unusual, Looop sends you a nudge.
 
 Spending alerts are optional: a heads-up about an unusually large charge on a linked account, which can be an early sign of a scam. Health & Fitness sharing through Apple Health is available if you need it.
 
@@ -134,11 +138,13 @@ Looop has no ads, ever, and your family's data is never for sale. Looop's App St
 - **Your parent wants a direct way to reach help:** a medical alert service.
 - **You want to know when to call, with weather, crime, and the shape of her day in one place:** Looop, alongside any of the above.
 
-Many families combine two: Find My for where she is, and Looop for when to call. Or OnStar Guardian for the drive, and Looop for the rest of the day.
+Many families combine two.  
+Find My shows where she is, and Looop tells you when to call.  
+OnStar Guardian covers the drive, and Looop covers the rest of the day.
 
 ## Have the talk first
 
-Whatever you choose, set it up together. Show your parent what's shared, ask what she's comfortable with, and make it easy to say no. A tool she agreed to is one she'll keep. Our guide on [how to check on aging parents](how-to-check-on-aging-parents.html) has more ideas.
+Whatever you choose, set it up together. Show your parent what's shared, ask what she's comfortable with, and make it easy to say no. She's more likely to keep using an app she agreed to. Our guide on [how to check on aging parents](how-to-check-on-aging-parents.html) has more ideas.
 
 **Try Looop with your family.** Free for the first two weeks.
 

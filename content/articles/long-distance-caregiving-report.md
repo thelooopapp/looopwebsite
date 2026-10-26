@@ -21,7 +21,7 @@ If you care for someone from another city or state, you already know that questi
 
 Looop hasn't run its own survey yet (more on that at the end). So this is a research roundup: what existing, reputable studies say about the people who care from a distance, and what families can take from it.
 
-## Key numbers
+## Five numbers worth knowing
 
 - **63 million** American adults were family caregivers in 2025, roughly one in four adults. ([AARP and NAC, 2025](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf))
 - **11%** of caregivers of adults live an hour or more away from the person they care for. ([AARP and NAC, 2025](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf))
@@ -41,7 +41,7 @@ The [U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/ted/2025/38-2-mil
 
 [Pew Research Center](https://www.pewresearch.org/social-trends/2026/02/26/family-caregiving-in-an-aging-america/) asked people directly in a September 2025 survey. Ten percent of all U.S. adults said they are a caregiver for a parent age 65 or older. Among adults who have a parent that age, the share rises to 24 percent.
 
-The studies measure it differently, and they agree: caring for a parent is an ordinary part of adult life for tens of millions of people.
+The studies measure it differently, but all of them show that caring for a parent is an ordinary part of adult life for tens of millions of people.
 
 ## What counts as long-distance caregiving?
 
@@ -92,7 +92,7 @@ And among care recipients in *Caregiving in the US 2025* who live apart from the
 
 ## Time, money, and work
 
-Caregiving takes real hours and real dollars, near or far.
+Caregiving costs time and money, near or far.
 
 **Time.** Caregivers in *Caregiving in the US 2025* spend an average of [27 hours per week](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf) providing care. Thirty percent have been caregiving for five years or more.
 
@@ -115,7 +115,7 @@ There's a brighter side, too. In that same Pew survey, 56% of these caregivers s
 
 ## How caregivers use technology
 
-Caregivers are leaning on technology more than ever, especially to stay connected across distance.
+More caregivers are using technology to stay connected across the miles.
 
 According to [*Caregiving in the US 2025*](https://www.aarp.org/content/dam/aarp/ppi/topics/ltss/family-caregiving/caregiving-in-us-2025.doi.10.26419-2fppi.00373.001.pdf):
 
@@ -133,9 +133,9 @@ AARP's [2024 Home and Community Preferences Survey](https://www.aarp.org/press/r
 
 For most families, then, the goal is to help Mom and Dad keep living their way, with the right support around them.
 
-## What this means for families
+## Seven things families can do
 
-Every family is different, but a few practical takeaways stand out.
+Every family is different. These seven steps come straight from the research above.
 
 **1. You're not alone in this.** Millions of people care for someone they don't live with. If you feel stretched, that's a common and reasonable response to a real load.
 
@@ -153,7 +153,7 @@ Every family is different, but a few practical takeaways stand out.
 
 > **Tools families use**
 >
-> If you're choosing technology, here's the short version. The location sharing built into a phone shows where someone is when you need to know. Family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or a day that looks unusual might make a call worth making. Many families use more than one. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+> If you're choosing technology, these are the main kinds. Medical alert services can get help in an emergency. A phone's built-in location sharing shows where someone is when you need to know, and family location apps put everyone on a shared map. Looop sends a heads-up when severe weather, crime nearby, or an unusual day might make a call worth making. Many families combine a few. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
 
 ## Help us write the next report
 

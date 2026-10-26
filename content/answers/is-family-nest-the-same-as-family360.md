@@ -18,7 +18,7 @@ notes: "Names a competitor (Family Nest, formerly Family360). Facts from COMPETI
 
 Yes. Family Nest is the app that used to be called Family360. Its App Store description says it's the "same app, new name, and Circles are now called Nests." Its version notes say "Family360 is now Family Nest."
 
-One thing to watch for: Family Nest isn't related to "FamilyNest - Family Organizer," which is a different app.
+Don't confuse it with "FamilyNest - Family Organizer," which is a different app.
 
 ## What Family Nest does today
 
@@ -34,11 +34,13 @@ The listing notes that the app contains advertising. Its privacy policy, effecti
 
 Family Nest gives families a lot for free, including SOS and place alerts. It runs on iPhone and Android, and its driving score is handy for a household with a new driver.
 
-## How Looop takes a different approach
+## Looop is built for checking on Mom
 
-Family Nest leads with a map for the kids. Looop is built for checking on Mom, and on the other people you love from a distance.
+Family Nest leads with a map for the kids.  
+Looop is for checking on Mom, and on the other people you love from a distance.
 
-Looop is a safety notifications app. Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?"
+Looop is a safety notifications app. Most family apps are built around a map: they answer "Where is she?"  
+Looop answers "Is Mom okay today?"
 
 It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call. There's a map, too, for the moment after a nudge.
 

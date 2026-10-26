@@ -12,7 +12,7 @@ persona: "Marcus, the only child far away (also Priya, the sibling coordinator; 
 status: draft
 ---
 
-# How to Check On Aging Parents Without Making Them Feel Watched
+# Checking On Aging Parents Without Making Them Feel Watched
 
 "Is Mom doing okay today?"
 
@@ -24,9 +24,9 @@ This guide covers how to tell when it might be time to do more, how to have the 
 
 Before any plan, name the goal. For most families, it's knowing enough to tell when a call might help.
 
-Your parent wants independence, privacy, and a life that isn't organized around your worry. You want to worry less and to show up when it counts. A good setup gives each of you what you need.
+Your parent wants to keep their independence, and a life that isn't organized around your worry. You want to worry less and to show up when it counts. A good setup gives each of you what you need.
 
-It also runs both ways. Your parent worries about you, too: the late drive home, the storm in your city. The best setups are shared, so they get the same quiet signal about you that you get about them. You're each sharing just enough to know when something is off.
+It also runs both ways. Your parent worries about you, too: the late drive home, the storm in your city. The best setups are shared, so they get the same heads-up about you that you get about them. You're each sharing just enough to know when something is off.
 
 Keep that in mind as you read. Every step below should pass one test: would your parent be glad you did it this way?
 
@@ -77,9 +77,9 @@ Use this as a starting point, and change the words so they sound like you.
 
 In that last line, you're making an offer and leaving the choice with them.
 
-## Consent first, always
+## Get a yes before you set anything up
 
-Never set anything up on a parent's phone without them knowing, even if you mean well. It breaks trust, and this whole plan depends on trust.
+Never set anything up on a parent's phone without them knowing, even if you mean well. It breaks the trust this whole plan depends on.
 
 Consent first looks like this:
 
@@ -106,7 +106,7 @@ If you share the load with a brother, sister, or friend, agree on who calls when
 
 Most of us learn about a storm near Mom's house after it's already passed. Severe weather alerts and nearby crime alerts for your parent's area mean you hear about it in time to call, if a call feels right.
 
-### 4. A gentle signal when a day looks different
+### 4. A gentle nudge when a day looks different
 
 Knowing when today looks very different from your parent's usual tells you when a call is worth making.
 
@@ -143,7 +143,7 @@ And if you ever believe your parent is in immediate danger, call 911 or their lo
 
 > **Tools families use**
 >
-> Most families end up with a mix of tools, and each does a different job. The location sharing built into a phone shows where someone is when you need to know. Family location apps put everyone on a shared map. Medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or a day that looks unusual might make a call worth making. Many families use more than one. For a fair look at what each kind of tool does, see [Family safety apps compared](../compare/index.html).
+> Most families end up with a mix of tools, and each does a different job. Phones have location sharing built in for when you need to know where someone is. Family location apps put everyone on a shared map, and medical alert services can get help in an emergency. Looop sends a heads-up when severe weather, crime nearby, or an unusual day might make a call worth making. For a fair look at each kind of tool, see [Family safety apps compared](../compare/index.html).
 
 ## A tool that fits this approach
 

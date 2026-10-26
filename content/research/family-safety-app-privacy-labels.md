@@ -21,7 +21,7 @@ What does a family safety app say it does with your family's data? Apple asks ev
 
 This is a review of what the developers themselves declare. We use Apple's terms throughout, and we report every app the same way, including our own app, Looop, which is one of the 25.
 
-## Key numbers
+## Most family location apps declare "Data Used to Track You"
 
 - **14 of 15** family location apps we reviewed declare "Data Used to Track You" on their App Store privacy labels.
 - **7 of 15** family location apps list "Contains: Advertising" on their App Store pages.
@@ -51,7 +51,7 @@ A label sorts data into up to three sections:
 
 **When and where.** The public US App Store listing for each app at apps.apple.com, checked October 26, 2026. We loaded each listing at least twice. Labels and listings can change at any time, so this is a snapshot of that day.
 
-**What we didn't do.** We didn't test the apps, inspect their code, or watch their network traffic. We didn't rate or rank them. This study reports what each listing says, and nothing more.
+**What we didn't do.** We didn't test the apps, inspect their code, or watch their network traffic. We didn't rate or rank them. This study reports only what each listing says.
 
 ## The full results
 
@@ -133,10 +133,10 @@ Eight of the 16 list a single data type: six list only Identifiers (Life360, Geo
 
 ## Notes and limits
 
-- **Labels are self-reported.** Every label is the developer's own account, and each one says it "has not been verified by Apple." We report what the labels say, not what the apps do.
+- **Labels are self-reported.** Every label is the developer's own account, and each one says it "has not been verified by Apple." We checked the labels only, and didn't test what the apps do.
 - **A declaration isn't proof of selling data.** A "Data Used to Track You" section means the developer says that data may be used for tracking in Apple's sense: linked with other companies' data for ads or ad measurement, or shared with a data broker. The label doesn't say which. This study makes no claim that any app sells data.
-- **No section isn't a guarantee either.** An app without the section is, by its own label, not using data for tracking. That's still the developer's statement.
-- **Categories aren't amounts.** Two apps can list the same data type and handle very different amounts of it. Labels list types, not volumes.
+- **A missing section is also the developer's word.** An app without the section is, by its own label, not using data for tracking. That still rests on the developer's statement.
+- **Labels list types of data, with no amounts.** Two apps can list the same data type and handle very different amounts of it.
 - **Labels change.** Developers can update a label at any time. This is what each listing showed on October 26, 2026.
 - **Price models.** All 25 apps are free to download. Six of the 15 family location apps list in-app purchases named as weekly plans.
 

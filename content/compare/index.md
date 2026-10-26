@@ -18,11 +18,8 @@ notes: "Names competitors. Every competitor cell comes from COMPETITORS.md, the 
 
 # Family safety apps compared
 
-**Key line:** Life360, Find My, iSharing, GeoZilla, Family Nest, and more.
-
-One sourced table of what each app is built around, what it alerts you to, how it handles ads, and what it costs.
-
-**Subtitle:** Last checked October 26, 2026.
+**Subtitle:** Life360, Find My, iSharing, GeoZilla, Family Nest, and more.\
+See what each one alerts you to, and what it costs.
 
 [Download Looop]
 
@@ -30,7 +27,8 @@ One sourced table of what each app is built around, what it alerts you to, how i
 
 **Question:** "Which one is right for us?"
 
-Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?"
+Most family apps are built around a map: they answer "Where is she?"\
+Looop answers "Is Mom okay today?"
 
 Looop is a new kind of family safety app, made by an independent Austin startup that launched in May 2026. It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
@@ -38,7 +36,7 @@ We make Looop, so we've tried to be fair. The table below sticks to what each co
 
 ## Every app, side by side
 
-**Subtitle:** Last checked October 26, 2026. Includes the rows where other apps come out ahead.
+**Subtitle:** Last checked October 26, 2026. Tap an app's name for its full comparison.
 
 | App | Built around | Who it's for | Weather alerts | Crime alerts | Spending alerts | Health | A daily answer | SOS and emergency help | Driving and crashes | Ads | "Data Used to Track You" on its label | Price model |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -108,7 +106,7 @@ We make Looop, so we've tried to be fair. The table below sticks to what each co
 ## Questions families ask
 
 **What's the difference between a family locator and a safety notifications app?**
-A family locator is built around a map: it answers "Where is she?" with live location, place alerts, and history. A safety notifications app like Looop answers "Is Mom okay today?" It sends a heads-up about weather, crime, or a day that looks unusual, and stays quiet when all is well.
+A family locator is built around a map, with live location, place alerts, and history. A safety notifications app like Looop sends a heads-up about weather, crime, or a day that looks unusual, and stays quiet when all is well.
 
 **Which family safety app is best for checking on an aging parent?**
 It depends on what you need. Apple Find My is free and already on her iPhone if you just want to see where she is. OnStar Guardian connects her to emergency help on the road. Looop is built for knowing when to call: weather, crime, spending, health, fitness, activity, and the shape of her day, in one daily answer. [See our picks](../blog/best-apps-to-check-on-aging-parent.html).
@@ -143,6 +141,6 @@ Life360, Apple, Apple Health, Find My, AirTag, iSharing, GeoZilla, Family Nest, 
 
 ## CTA
 
-**Headline:** Safety alerts instead of tracking.
+**Headline:** Try Looop with your family.
 **Subtitle:** Free for the first two weeks. Peace of mind for you, independence for them.
 [Download Looop]

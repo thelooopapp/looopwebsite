@@ -17,7 +17,7 @@ notes: "Names Apple (Check In, Find My). Stance: complement, never opponent. Nev
 
 It can, for a specific moment. Apple's Check In is built for a single stretch of time, like Mom's drive home after dinner. Your parent starts each session herself. If she doesn't respond, Check In shares her location, battery, and signal with the person she's checking in with.
 
-So it works well when she thinks to use it. It isn't built for the ordinary days in between.
+So it works well when she thinks to use it, and less well on the ordinary days when nobody starts one.
 
 ## What Check In does well
 
@@ -25,19 +25,19 @@ Check In is free and already on her iPhone. She decides when it runs, which keep
 
 If your parent uses an iPhone, Check In is worth showing her.
 
-## Where it fits, and where it doesn't
+## Most days, nobody starts a check-in
 
 Because she starts each session, Check In covers the moments she plans for. Most days aren't like that. A storm rolls toward her town, crime is reported nearby, or her day just looks different from her usual one, and nobody started anything.
 
-That's not a flaw in Check In. It's a different job.
-
 ## How Looop works alongside Check In
 
-Looop works alongside Find My and Check In. Apple's tools live in separate places; Looop brings it all together in one place, with nothing for Mom to start.
+Looop works alongside Find My and Check In. Apple's tools live in separate places.  
+Looop brings it all together in one place, with nothing for Mom to start.
 
 Looop is a safety notifications app. It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of her day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-Mom joins by invitation and keeps her routine. You get a nudge when it's worth reaching out, and quiet when all is well.
+Mom joins by invitation and keeps her routine. You get a nudge when it's worth reaching out.  
+When all is well, Looop stays quiet.
 
 Looop isn't an emergency service, and it doesn't call 911 or send help.
 
@@ -51,7 +51,7 @@ Yes, for a specific trip or stretch of time. Your parent starts each session. If
 
 ### Can we use Check In and Looop together?
 
-Yes. Check In covers the moments she plans for. Looop covers everyday days, with nothing for her to start. They work well side by side.
+Yes. Use Check In for the trips she plans. Looop covers the rest of her days, with nothing for her to start.
 
 ### Does Looop send help in an emergency?
 
