@@ -27,7 +27,7 @@ Many families can use both.
 ## What each one covers
 
 OnStar Guardian is built for emergencies on the road, with crash response, an Emergency button that reaches a 24/7 OnStar Advisor who can send first responders, and roadside help in any vehicle.  
-Looop is a safety notifications app for ordinary days, so you know when it might be time to call.
+Looop is a safety notifications app that tells you when Dad's day might be worth a call.
 
 | | Looop | OnStar Guardian |
 | --- | --- | --- |
@@ -42,7 +42,6 @@ Looop is a safety notifications app for ordinary days, so you know when it might
 | App Store privacy label | No "Data Used to Track You" section | Declares "Data Used to Track You": Usage Data, with third-party advertising among the purposes |
 
 Checked October 26, 2026, on OnStar Guardian's App Store listing.  
-OnStar Guardian offers emergency help Looop doesn't.  
 [See where OnStar Guardian may fit better](#fits-better), or compare every app in [Family safety apps compared](family-safety-apps-compared.html).
 
 ## What OnStar Guardian does well
@@ -98,7 +97,6 @@ Looop doesn't call 911, send help, or detect crashes. If you think someone is in
 - **One button to a person.** If you want a parent to reach a live person in an emergency, OnStar Guardian's Emergency button is built for that.
 
 Many families can use both.  
-OnStar Guardian brings help on the road.  
 Looop tells you when to call.
 
 ## Questions about OnStar Guardian and Looop
