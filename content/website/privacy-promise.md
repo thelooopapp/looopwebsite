@@ -13,17 +13,17 @@ notes: "The 'Our App Store privacy label' section says Looop's label has no 'Dat
 
 # Your family's data isn't for sale
 
-**Key line (green):** We never sell your data. We don't work with advertisers.
+**Key line (green):** We never sell your data.
 
-Looop is a private family safety app. Its job is to tell you when to check in, never to collect your life and sell it.
-
-**Key line (orange):** Our privacy promise, in plain words.
+**Key line (orange):** We don't work with advertisers.
 
 [Download Looop]
 
 ## Seven promises, in plain language
 
-1. **We never sell your data.** We don't sell it to data brokers or anyone else. Some family apps have. We never will.
+**Subtitle:** Looop is a private family safety app. Its job is to tell you when to check in.
+
+1. **We never sell your data.** We don't sell it to data brokers or anyone else, and we never will.
 2. **We don't work with advertisers.** You won't see ads in your notifications, and we have no ad partners. Families aren't the product.
 3. **Health & Fitness sharing is optional.** It's available if your family needs it, for health details like heart rate and sleep and fitness details like steps and workouts. It can be turned off anytime.
 4. **Bank linking is optional, and secured through Plaid.** Spending alerts only work if someone chooses to link an account. Skip it and everything else still works.

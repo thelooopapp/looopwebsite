@@ -16,19 +16,19 @@ facts_checked: 2026-10-26
 notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Other locators: Famio, Familo, and Blink facts from V notes; Carpin, Be Closer, Find Phone (Webpeak), and Find my Phone (Geo Track Labs) features, prices, and labels re-checked on their App Store listings Oct 26, 2026. No ownership or nationality claims beyond App Store developer names; Famio's Belarus roots and Familo's Hamburg history (headline only) are left out. No consent claim is made for Carpin either way. Never says any of them tracks without consent, is a scam or spyware, lacks SOS or driving, or sells data. Billing complaints and review sentiment are left out. Oct 26, 2026 audit re-check on apps.apple.com: Famio's in-app purchases list weekly plans ($4.99, $9.99), several 'Famio Premium' items ($7.99 to $29.99) with no period shown, and 'Famio Lifetime Premium' $24.99; the '12 weeks for $29.99' label couldn't be confirmed on the listing, so the price cell now gives the range. Find my Phone (Geo Track Labs, id588364107) re-checked: weekly $7.99 to $9.99, monthly $9.99 to $19.99, and 'Lifetime' $14.99 are all on the listing, so that cell stands."
 ---
 
-# Looop vs. other locator apps: a different kind of app
+**Eyebrow:** Comparison
 
-**Question:** So many map apps. Which one fits your family?
+# Looop vs. other locator apps
 
-Famio, Familo, Carpin, Be Closer, Find Phone, Find my Phone, and Blink are built around a live map of family or friends, most with place alerts, location history, and an SOS or help alert. Looop is a safety notifications app that brings weather, crime, spending, health, fitness, activity, and the shape of each day together in one answer about whether a Loved One's day looks typical.
-
-**Subtitle:** A sourced look at seven apps, including where each may fit better.
+Famio, Familo, Carpin, Be Closer, and others put family on a live map.  
+Looop speaks up only when it might be time to call.
 
 [Download Looop]
 
-## At a glance
+## Seven locator apps and Looop, side by side
 
-**Subtitle:** Seven locator apps and Looop, side by side.
+Famio, Familo, Carpin, Be Closer, Find Phone, Find my Phone, and Blink are built around a live map of family or friends, most with place alerts, location history, and an SOS or help alert.  
+Looop is a safety notifications app that tells you when it might be time to check in.
 
 | App | Built for | Highlights | Price model | App Store privacy label |
 | --- | --- | --- | --- | --- |
@@ -41,7 +41,10 @@ Famio, Familo, Carpin, Be Closer, Find Phone, Find my Phone, and Blink are built
 | Find my Phone – Family Locator | Families | Places, seven days of history free, check-ins, SOS calls on premium, and lost-phone help | Weekly from $7.99 to $9.99, monthly from $9.99 to $19.99, or lifetime $14.99 | Declares "Data Used to Track You": Financial Info, Contact Info, Identifiers, Usage Data |
 | Blink | Teens and friends | A friends map, chat, video calls, and steps | Coin packs from $0.99 to $79.99 | Declares "Data Used to Track You": Identifiers |
 
-Checked October 26, 2026, on each app's App Store listing. Prices are the in-app purchases each listing shows. Every one of these apps offers things Looop doesn't, from SOS to lost-phone help. [See where they may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
+Checked October 26, 2026, on each app's App Store listing.  
+Prices are the in-app purchases each listing shows.  
+Every one of these apps offers things Looop doesn't, from SOS to lost-phone help.  
+[See where they may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
 
 ## Each app, fairly
 
@@ -98,46 +101,45 @@ Checked October 26, 2026, on each app's App Store listing. Prices are the in-app
 - **Places and history.** Arrival and departure alerts at places you save, and a record of where someone has been.
 - **Consent, stated up front.** Most of these listings say both people must agree before anything is shared, several in plain words.
 
-## Where Looop is different
+## What Looop does
 
-**Question:** "So what's actually different?"
-**Subtitle:** These apps answer "Where is she?" Looop answers "Is Mom okay today?"
+**Question:** "Seven map apps. What does Looop do?"
+**Subtitle:** These apps answer "Where is she?"  
+Looop answers "Is Mom okay today?"
 
-### All in one place
+### A whole day, in one answer
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 Severe weather alerts work in more than 50 countries, and nearby crime alerts work in all 50 US states, at 1, 3, 5, or 10 miles. Health & Fitness sharing through Apple Health (Apple Watch, Oura, or Whoop) is available if you need it, and so is an optional heads-up about an unusually large charge on a linked account.
 
-### Alerts instead of a map
+### A heads-up when something looks off
 
-Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It stays quiet when all is well and sends a nudge when it might be a good time to check in. A family map is there for when you need it, but watching a dot is never the point.
+Looop stays quiet when all is well and sends a nudge when it might be a good time to check in. There's a family map for when you need it.
 
-### Built for parents and the people who love them
+### Made for families spread across the country
 
-Looop is made for families who care from a distance: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Every Loved One joins by invitation and keeps their routine, and there's nothing for anyone to start or remember each day.
+Looop is made for families who care from a distance: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Loved Ones join by invitation and keep their routine.
 
-### Your family's data isn't for sale
+### What each label declares
 
-Looop never sells your data and doesn't work with advertisers. There are no ads, ever. Looop's App Store privacy label has no "Data Used to Track You" section and doesn't say the app contains advertising.
+Looop never sells your data, doesn't work with advertisers, and has no ads. Its App Store privacy label has no "Data Used to Track You" section and doesn't say the app contains advertising.
 
-Each app on this page declares "Data Used to Track You" on its App Store label, in Apple's words, and most sell weekly plans. Looop has one simple trial: free for the first two weeks.
+Each of the seven other apps declares "Data Used to Track You" on its App Store label, in Apple's words, and most sell weekly plans. Looop is free for the first two weeks.
 
-Spending alerts run through Plaid, and that data is never used for ads or sold.
+Optional spending alerts go through Plaid, and that data is never used for ads or sold.
 
 ## Where these apps may fit better
 
-**Question:** "Is Looop right for us?"
-**Subtitle:** We want you to pick the app that fits your family.
+**Question:** "What if one of these fits us better?"
+**Subtitle:** Here's when one of them may be the better pick.
 
 - **Kids and new drivers.** Famio's Child Mode and Driving Mode, and Be Closer's focus on young drivers, are built for that stage. Looop is made for grown-up families.
 - **An SOS button.** Six of these apps list an SOS, panic, or help alert. Looop has no SOS button and isn't an emergency service.
 - **Finding a lost phone.** Find Phone and Find my Phone help locate a lost phone. Looop doesn't.
 - **Friends hanging out.** Blink is a social map with chat and video calls. Looop is quieter on purpose.
 
-**Peace of mind for you, independence for them.**
-
-## Questions families ask
+## Questions about these locator apps
 
 **Are these apps like Looop?**
 They're built differently. These apps put family or friends on a live map, usually with place alerts, history, and an SOS alert. Looop is a safety notifications app that tells you when it might be a good time to check in.
@@ -149,7 +151,7 @@ Most of these apps are built for kids, teens, couples, or friends. Looop is buil
 It's a section of an app's App Store privacy label. The developer lists data that may be used to track you across apps and websites owned by other companies. Read [what "Data Used to Track You" means](../answers/data-used-to-track-you.html).
 
 **Does Looop work for aging parents?**
-Yes. Looop is built for adult children caring for a parent from a distance, and for siblings and friends who look out for each other. Your parent joins by invitation and keeps their routine. You get a heads-up when it might be a good time to call, and they get fewer "just checking" calls.
+Yes. Looop is made for checking on a parent from a distance, and for siblings and friends who look out for each other. Your parent joins by invitation and keeps their routine, and you get a heads-up when it might be a good time to call.
 
 **How much does Looop cost?**
 Looop is free for the first two weeks. It's available for iPhone on the App Store.
@@ -183,6 +185,7 @@ Apple, Apple Watch, Apple Health, Oura, Whoop, Famio, Familo, Carpin, Be Closer,
 
 ## CTA
 
-**Headline:** Safety alerts instead of tracking.
-**Subtitle:** Free for the first two weeks. Peace of mind for you, independence for them.
+**Headline:** A nudge when it's worth a call.
+**Subtitle:** Free for the first two weeks.  
+Peace of mind for you, independence for them.
 [Download Looop]

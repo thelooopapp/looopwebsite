@@ -17,11 +17,8 @@ notes: "Names a competitor. Family Nest facts from COMPETITORS.md and its App St
 
 # Looop vs. Family Nest (formerly Family360)
 
-**Key line:** A different kind of family safety app.
-
-**Subtitle:** Built for checking on Mom, not a map for the kids.
-
-Family Nest, the app formerly called Family360, is a family locator built around a shared map, with place alerts, speed alerts, and SOS for parents and kids. Looop is a safety notifications app built for checking on Mom from a distance, with weather, crime, spending, health, fitness, activity, and the shape of each day in one daily answer.
+**Subtitle:** Family Nest puts parents and kids on one map.\
+Looop is built for checking on Mom.
 
 [Download Looop]
 
@@ -31,11 +28,13 @@ Family Nest, the app formerly called Family360, is a family locator built around
 
 If you're looking for Family360, you're in the right place. Family Nest's App Store listing says it was formerly Family360: the same app with a new name, and its Circles are now called Nests. It isn't related to "FamilyNest - Family Organizer," a different app.
 
+Family Nest is a family locator built around a shared map, with place alerts, speed alerts, and SOS for parents and kids. Looop is a safety notifications app built for checking on Mom from a distance, with one daily answer about her day.
+
 Everything below compares Looop with the app as it's listed today.
 
 ## At a glance
 
-**Subtitle:** Checked October 26, 2026, including the rows where Family Nest comes out ahead.
+**Subtitle:** Checked October 26, 2026. Family Nest leads on SOS, driving alerts, Android, and price.
 
 | | Looop | Family Nest |
 | --- | --- | --- |
@@ -77,22 +76,22 @@ Family Nest works on both, so a mixed-phone family can all join.
 
 Its policy says it doesn't sell personal data, or location data, to anyone, and its App Store label has no "Data Used to Track You" section.
 
-## Where Looop is different
+## What Looop is built for
 
-**Question:** "So what's actually different?"
-**Subtitle:** Both apps start from the same worry and answer it differently.
+**Question:** "So is Looop just another family map?"
+**Subtitle:** Five ways it works differently from a family map.
 
-### The whole day, all in one place
+### Everything in one place
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Instead of checking the weather in five cities, families get one heads-up when it matters.
 
 Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-### Alerts instead of a map
+### Quiet days stay quiet
 
-Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It stays quiet when all is well. The family map is there for after a nudge.
+Looop stays quiet when all is well. If Mom's day looks unusual, you get a nudge, and the family map is there if you want it.
 
-### Built for checking on Mom
+### For adult children far from Mom
 
 Family Nest is built first for parents and kids. Looop is built for adult children caring for a parent from a distance, and for siblings and friends who look out for each other. Mom joins by invitation and keeps her routine.
 
@@ -100,16 +99,16 @@ Family Nest is built first for parents and kids. Looop is built for adult childr
 
 Looop is made by LooopApp LLC, an independent startup in Austin, Texas, that launched in May 2026. You can reach us at support@thelooopapp.com.
 
-### No ads, ever
+### No ads in Looop
 
-Neither app's App Store label has a "Data Used to Track You" section. The difference is ads: Family Nest's listing notes advertising, and Looop has none. We never sell your data and don't work with advertisers.
+Neither app's App Store label has a "Data Used to Track You" section. Family Nest's listing notes advertising, and Looop has none. We never sell your data and don't work with advertisers.
 
 Looop isn't an emergency service. It doesn't call 911 for you, send help, or detect emergencies. If you think someone is in danger, call 911 first.
 
 ## Where Family Nest may fit better
 
 **Question:** "Is Looop right for us?"
-**Subtitle:** We want you to pick the app that fits your family.
+**Subtitle:** For some families, Family Nest is the better fit.
 
 ### Android families
 
@@ -139,17 +138,17 @@ We never sell your data, and we don't work with advertisers. [Read our privacy p
 Yes. Family Nest's App Store listing says it was formerly Family360: the same app with a new name, and its Circles are now called Nests. It's a different app from "FamilyNest - Family Organizer." [Read the full answer](../answers/is-family-nest-the-same-as-family360.html).
 
 **Is Looop like Family Nest or Family360?**
-Not really. Family Nest is a family locator built around a map, with place alerts, speed alerts, and SOS. Looop is a safety notifications app that brings weather, crime, spending, health, fitness, activity, and the shape of each day together, and stays quiet when all is well.
+No. Family Nest is a family locator built around a map, with place alerts, speed alerts, and SOS. Looop is a safety notifications app that brings weather, crime, spending, health, fitness, activity, and the shape of each day together, and stays quiet when all is well.
 
 **Does Family Nest sell my data?**
 
 Its privacy policy, effective September 23, 2026, says: "We do not sell personal data to third parties." Looop never sells your data either, and it doesn't work with advertisers.
 
 **Can I use Family Nest and Looop together?**
-Yes. Looop works on its own. Some families keep a map app for the kids and use Looop for a parent who lives far away.
+Yes. Looop works on its own, so a family might keep Family Nest for the kids' phones and add Looop for a parent in another state.
 
 **Does Looop work for aging parents?**
-Yes. That's who it's built for. Looop tells you when Mom's day looks unusual, when a storm heads her way, or when crime is reported nearby, so you know when to call. And we're an Austin company you can email at support@thelooopapp.com.
+Yes, it's built for checking on a parent from a distance. You'll hear about a storm heading her way, crime reported nearby, or a day that looks unusual, so you know when to call. And we're an Austin company you can email at support@thelooopapp.com.
 
 ## Sources
 
@@ -177,6 +176,7 @@ Family Nest, Family360, Life360, Apple, Apple Watch, Apple Health, Oura, Whoop, 
 
 ## CTA
 
-**Headline:** Built for checking on Mom.
-**Subtitle:** Free for the first two weeks. Peace of mind for you, independence for them.
+**Headline:** Know when to call Mom.
+**Subtitle:** Free for the first two weeks.\
+Peace of mind for you, independence for them.
 [Download Looop]

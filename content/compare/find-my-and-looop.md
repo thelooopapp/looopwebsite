@@ -17,17 +17,18 @@ notes: "Names Apple. Framed as a complement, per the guide: never says Apple tra
 
 # Find My and Looop: use both
 
-**Key line:** Looop works alongside Find My.
-
-**Subtitle:** Apple's tools live in separate places. Looop brings it all together in one place.
-
-Apple Find My shows where people, devices, and AirTags are, and it's free on every iPhone. Looop is a safety notifications app that works alongside it, bringing weather, crime, spending, health, fitness, activity, and the shape of each day together in one daily answer, with nothing for Mom to start.
+**Subtitle:** Looop works alongside Find My.\
+It tells you when Mom's day might be worth a call.
 
 [Download Looop]
 
+## What each one does
+
+Apple Find My shows where people, devices, and AirTags are, and it's free on every iPhone. Looop is a safety notifications app that works alongside it. It sends one daily answer about Mom's day, with nothing for her to start.
+
 ## At a glance
 
-**Subtitle:** Checked October 26, 2026, including the rows where Apple's tools come out ahead.
+**Subtitle:** Checked October 26, 2026. Apple's tools lead on lost devices, satellite sharing, and price.
 
 | | Looop | Apple (Find My, Check In, Health Sharing) |
 | --- | --- | --- |
@@ -50,7 +51,7 @@ Sources are listed below. "Not listed" means we didn't find it on Find My's App 
 
 ## What Apple's tools do well
 
-**Subtitle:** They're free, they're built in, and millions of families already use them.
+**Subtitle:** Apple's tools are free and come built into every iPhone.
 
 ### Free and already there
 
@@ -76,20 +77,22 @@ Apple says a person can share Health data with family in the Health app.
 
 Find My's App Store label has no "Data Used to Track You" section.
 
-## Where Looop is different
+## What Looop adds to Apple's tools
 
 **Question:** "So what does Looop add?"
-**Subtitle:** Looop works alongside Find My. Here's what it adds.
+**Subtitle:** Five things, all aimed at knowing when to call.
 
 ### All in one place
 
-Apple's tools live in separate places. Looop brings it all together in one place: weather, crime, spending, health, fitness, activity, and the shape of her day.
+Apple's tools live in separate places.\
+Looop brings it all together in one place: weather, crime, spending, health, fitness, activity, and the shape of her day.
 
 No more checking the weather in five cities, a map in one app, and bank alerts in another. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-### Alerts instead of a map
+### Looop speaks up on its own
 
-Find My is there when you open it and ask "Where is she?" Looop answers "Is Mom okay today?" and speaks up on its own: a storm heading her way, crime reported nearby, or a day that looks unusual.
+Find My is there when you open it and ask "Where is she?"\
+Looop answers "Is Mom okay today?" and tells you about a storm heading her way, crime reported nearby, or a day that looks unusual.
 
 ### Built for parents and the people who love them
 
@@ -97,9 +100,9 @@ Looop is built for adult children caring from a distance, and for siblings who w
 
 ### Nothing for Mom to start
 
-Apple says Check In works when the person starts a session. Looop works quietly in the background once she's joined, so there are no sessions, timers, or check-ins for her to remember. She lives her day.
+Apple says Check In works when the person starts a session. Looop works quietly in the background once she's joined, so there are no sessions, timers, or check-ins for her to remember.
 
-### Your family's data isn't for sale
+### No advertisers, and nothing for sale
 
 Like Find My, Looop's App Store privacy label has no "Data Used to Track You" section. Looop never sells your data and doesn't work with advertisers.
 
@@ -108,7 +111,8 @@ Looop isn't an emergency service. It doesn't call 911 for you, send help, or det
 ## How families use both
 
 **Question:** "How would we use both?"
-**Subtitle:** Keep what works. Add the heads-up.
+**Subtitle:** Mom keeps the Apple tools she already uses.\
+Looop adds a heads-up about her day.
 
 ### Keep Find My for things and trips
 
@@ -125,7 +129,7 @@ When Looop nudges you, call her. If you want to see where she is, open Find My o
 ## Where Find My may be enough
 
 **Question:** "Do we need Looop at all?"
-**Subtitle:** We want you to pick what fits your family.
+**Subtitle:** Sometimes the free option already covers it.
 
 ### You just want to see where she is
 
@@ -152,7 +156,7 @@ We never sell your data, and we don't work with advertisers. [Read our privacy p
 ## Questions families ask
 
 **Do I need Looop if Mom already shares her location in Find My?**
-Find My answers "Where is she?" Looop answers "Is Mom okay today?" It tells you when a storm heads her way, when crime is reported nearby, or when her day looks unusual, so you know when to call. Many families use both.
+Find My shows where she is when you look. Looop tells you when a storm heads her way, when crime is reported nearby, or when her day looks unusual, so you know when to call. Many families use both.
 
 **Can I use Find My and Looop together?**
 Yes. Looop works alongside Find My. Keep Find My for her phone, her AirTags, and sharing location. Looop runs on its own and adds the heads-up about her day.
@@ -191,6 +195,7 @@ Life360, Apple, Find My, iPhone, AirTag, Apple Watch, Apple Health, Oura, Whoop,
 
 ## CTA
 
-**Headline:** Keep Find My. Add Looop.
-**Subtitle:** Free for the first two weeks. Peace of mind for you, independence for them.
+**Headline:** Add Looop alongside Find My.
+**Subtitle:** Free for the first two weeks.\
+Peace of mind for you, independence for them.
 [Download Looop]

@@ -14,19 +14,19 @@ facts_checked: 2026-10-26
 notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. OnStar Guardian: framed as a complement. The page never implies Looop sends help, calls 911, or detects crashes, and says so plainly. The FTC order on GM and OnStar is headline only and is left out. OnStar is not called a data seller; its label is described in Apple's words."
 ---
 
-# OnStar Guardian and Looop: before the emergency
+**Eyebrow:** Use both
 
-**Question:** Help in an emergency is one thing. Knowing when to call, before there is one, is another.
+# OnStar Guardian and Looop
 
-OnStar Guardian is built for emergencies on the road, with crash response, an Emergency button that reaches a 24/7 OnStar Advisor who can send first responders, and roadside help in any vehicle. Looop is a safety notifications app built for everyday peace of mind, bringing weather, crime, spending, health, fitness, activity, and the shape of each day together in one answer, so you know when it might be time to call.
-
-**Subtitle:** They do different jobs, and many families can use both.
+OnStar Guardian brings help when something goes wrong on the road.  
+Looop tells you when to check in, before anything does.
 
 [Download Looop]
 
-## At a glance
+## What each one covers
 
-**Subtitle:** Help when something happens, and a heads-up before it does.
+OnStar Guardian is built for emergencies on the road, with crash response, an Emergency button that reaches a 24/7 OnStar Advisor who can send first responders, and roadside help in any vehicle.  
+Looop is a safety notifications app for ordinary days, so you know when it might be time to call.
 
 | | Looop | OnStar Guardian |
 | --- | --- | --- |
@@ -40,7 +40,9 @@ OnStar Guardian is built for emergencies on the road, with crash response, an Em
 | Price | Free for the first two weeks | $15 a month on its own, or included for OnStar members |
 | App Store privacy label | No "Data Used to Track You" section | Declares "Data Used to Track You": Usage Data, with third-party advertising among the purposes |
 
-Checked October 26, 2026, on OnStar Guardian's App Store listing. OnStar Guardian offers emergency help Looop doesn't. [See where OnStar Guardian may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
+Checked October 26, 2026, on OnStar Guardian's App Store listing.  
+OnStar Guardian offers emergency help Looop doesn't.  
+[See where OnStar Guardian may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
 
 ## What OnStar Guardian does well
 
@@ -51,56 +53,57 @@ Checked October 26, 2026, on OnStar Guardian's App Store listing. OnStar Guardia
 - **Roadside help in any car.** It works in any vehicle in the US and Canada, with roadside assistance that includes up to four tows a year.
 - **Arrival alerts for family.** Location sharing with arrival alerts, for up to seven people.
 
-## Where Looop is different
+## What Looop does on ordinary days
 
-**Question:** "So what's actually different?"
-**Subtitle:** Looop is for the ordinary days, before anything goes wrong.
+**Question:** "What about the days when nothing goes wrong?"
+**Subtitle:** Most days, everything's fine.  
+Looop lets you know when a day looks different.
 
-### All in one place
+### One answer about Dad's whole day
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 Severe weather alerts work in more than 50 countries, and nearby crime alerts work in all 50 US states, at 1, 3, 5, or 10 miles. Health & Fitness sharing through Apple Health (Apple Watch, Oura, or Whoop) is available if you need it, and so is an optional heads-up about an unusually large charge on a linked account.
 
-### Alerts instead of a map
+### Quiet until something looks off
 
-Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It stays quiet when all is well and sends a nudge when it might be a good time to check in. A family map is there for when you need it, but watching a dot is never the point.
+Looop stays quiet when all is well and sends a nudge when it might be a good time to check in. There's a family map, too, for when you need it.
 
-A storm heading toward Dad's town, crime reported near Mom's neighborhood, or a day that doesn't look like their usual: that's when Looop speaks up.
+Looop speaks up about a storm heading toward Dad's town, crime reported near Mom's neighborhood, or a day that doesn't look like their usual.
 
-### Built for parents and the people who love them
+### Made for parents who live on their own
 
-Looop is made for families who care from a distance: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Every Loved One joins by invitation and keeps their routine, and there's nothing for anyone to start or remember each day.
+Looop is made for families who care from a distance: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other.
 
 Dad joins by invitation, keeps his routine, and gets fewer "just checking" calls. There's no button for him to press and nothing for him to remember.
 
-### Your family's data isn't for sale
+### Looop doesn't work with advertisers
 
-Looop never sells your data and doesn't work with advertisers. There are no ads, ever. Looop's App Store privacy label has no "Data Used to Track You" section and doesn't say the app contains advertising.
+Looop never sells your data, and there are no ads in the app. Its App Store privacy label has no "Data Used to Track You" section and doesn't say the app contains advertising.
 
-Spending alerts run through Plaid, and that data is never used for ads or sold.
+Spending alerts are optional. They run through Plaid, and that data is never used for ads or sold.
 
-### Not an emergency service, and we say so
+### Looop doesn't call 911 or send help
 
 Looop doesn't call 911, send help, or detect crashes. If you think someone is in danger, call 911. For help on the road, a service like OnStar Guardian is built for that.
 
 ## Where OnStar Guardian may fit better
 
-**Question:** "Is Looop right for us?"
+**Question:** "Dad still drives. What does he need?"
 **Subtitle:** If help on the road is what you need, OnStar Guardian is built for it.
 
 - **A parent who still drives.** If Dad drives on his own, crash response and a 24/7 Advisor who can send help are things Looop doesn't offer.
-- **Trouble on the road.** Flat tires, dead batteries, and tows are OnStar Guardian's job, not Looop's.
+- **Trouble on the road.** OnStar Guardian handles flat tires, dead batteries, and tows. Looop doesn't.
 - **One button to a person.** If you want a parent to reach a live person in an emergency, OnStar Guardian's Emergency button is built for that.
 
-Many families can use both: OnStar Guardian for help on the road, and Looop for knowing when to call.
+Many families can use both.  
+OnStar Guardian brings help on the road.  
+Looop tells you when to call.
 
-**Peace of mind for you, independence for them.**
-
-## Questions families ask
+## Questions about OnStar Guardian and Looop
 
 **Does Looop replace OnStar Guardian?**
-No. They do different jobs. OnStar Guardian brings help in an emergency on the road. Looop tells you when it might be a good time to check in, and it isn't an emergency service.
+No. OnStar Guardian brings help in an emergency on the road. Looop tells you when it might be a good time to check in, and it isn't an emergency service.
 
 **Can I use OnStar Guardian and Looop together?**
 Yes. OnStar Guardian covers help on the road. Looop covers the everyday question of whether Mom or Dad is okay.
@@ -109,7 +112,7 @@ Yes. OnStar Guardian covers help on the road. Looop covers the everyday question
 No. Looop doesn't detect crashes, call 911, or send help. If you think someone is in danger, call 911.
 
 **Does Looop work for aging parents?**
-Yes. Looop is built for adult children caring for a parent from a distance, and for siblings and friends who look out for each other. Your parent joins by invitation and keeps their routine. You get a heads-up when it might be a good time to call, and they get fewer "just checking" calls.
+Yes. Looop is made for adult children looking out for a parent from far away. Your parent joins by invitation and keeps their routine, with nothing to press or remember. You get a heads-up when it might be a good time to call.
 
 **How much does Looop cost?**
 Looop is free for the first two weeks. OnStar Guardian's App Store listing shows $15 a month on its own, or included for OnStar members, as of October 26, 2026.
@@ -136,5 +139,6 @@ Life360, OnStar, OnStar Guardian, Apple Watch, Apple Health, Oura, Whoop, and Fi
 ## CTA
 
 **Headline:** Know when to call.
-**Subtitle:** Free for the first two weeks. Peace of mind for you, independence for them.
+**Subtitle:** Free for the first two weeks.  
+Peace of mind for you, independence for them.
 [Download Looop]

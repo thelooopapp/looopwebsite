@@ -20,8 +20,6 @@ Hero lockup: "Like360" (purple), "but for" (white), "Adults" (purple) on lavende
 Your kids grew up.  
 (orange) Your family app should grow up too.
 
-Looop sends a heads-up when a Loved One's day looks unusual, so you can trust them more and still know when to call.
-
 [Download Looop]
 
 ## "Do I really need to see every turn?"
@@ -32,7 +30,7 @@ Looop sends a heads-up when a Loved One's day looks unusual, so you can trust th
 
 When the kids got their licenses, you wanted to see every drive. Now they're in college or out on their own. Maybe your parents live separately or a few states away. Maybe your aunt lives alone, and nobody stops by every day.
 
-You don't need to follow their every move. You want them to have their independence, and you want to know when their day looks unusual.
+You want them to have their independence. Looop sends a heads-up when a Loved One's day looks unusual, so you can trust them more and still know when to call.
 
 Images over the two columns: `images/home/then-keys.webp` (black and white, a parent drops a car key into a teen girl's hand) and `images/home/now-college.webp` (color, the same young woman hugging her mom goodbye on college move-in day).
 
@@ -54,7 +52,7 @@ Bold words in the left column are bold and a darker gray (#33373D) on the page. 
 
 **Subtitle:** And you don't have to check to know it.
 
-Mom's at home. Dad's at the gym. Sis is at the campus library. Uncle Tony is up at the lake house. Everyone is having a Typical Day, so Looop stays quiet and you get on with yours. When you do look, it's one screen: everyone, okay or not, at a glance. No panning around a map.
+Mom's at home, Dad's at the gym, Sis is at the campus library, and Uncle Tony is up at the lake house. Everyone is having a Typical Day, so Looop stays quiet and you get on with yours. When you do look, one screen shows everyone, okay or not, at a glance. No panning around a map.
 
 No news really is good news.
 
@@ -69,7 +67,7 @@ Image: images/home/phone3.webp (My Family screen, All is well, everyone on a Typ
 - **"Help isn't nearby anymore." Parents on their own.** Know when Dad's been home longer than usual for him, or when he arrives at a hospital or ER.
 - **"Aunt Ira lives alone." Someone living solo.** Nobody stops by every day. Get a nudge if her phone hasn't been picked up in hours, or if her day looks different.
 - **"Mom moved to the coast." A different forecast.** A storm on her coast won't show up in your forecast. Looop sends severe weather alerts in more than 50 countries.
-- **"Everyone counts on me." The one in the middle.** Kids in two cities, parents in two homes. One calm screen, and one heads-up when someone needs a call.
+- **"Everyone counts on me." The one in the middle.** With kids in two cities and parents in two homes, you see everyone on one calm screen, and Looop speaks up when someone needs a call.
 
 ## "Is Dad still getting his walks in?"
 
@@ -88,7 +86,7 @@ Wide link card to apple-health.html, with Apple Watch, Oura Ring, and Whoop pict
 
 ### The whole shape of their day
 
-Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day.
+Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day.
 
 - **What's around them.** Severe weather heading their way, in more than 50 countries, and crime reported nearby, in all 50 US states.
 - **Arrivals that matter.** Know when they arrive at a hospital or ER, a police station, or an airport.
@@ -98,7 +96,7 @@ Most family apps are built around a map: they answer "Where is she?" Looop answe
 
 Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-Already share locations as a family? A shared map shows where everyone is. Looop tells you when it's worth a call, and works alongside Find My. [See how family safety apps compare](compare/index.html)
+Already share locations as a family? Keep doing it. Looop works alongside Find My and tells you when it's worth a call. [See how family safety apps compare](compare/index.html)
 
 ## "Did Dad make it to the cabin?"
 
@@ -124,7 +122,7 @@ We never sell your data, and we don't work with advertisers.
 
 - Never for Sale
 - No Ads, Ever
-- Alerts, Not Tracking
+- No Tracking
 - Leave Anytime
 
 ## "I'm an adult. I don't need to be watched."
@@ -146,7 +144,7 @@ Looop helps you know when to check in. It doesn't detect emergencies. If you thi
 Closing band styled like the home page hero: a row of faces, the headline with "independence for them" in the white pill, then three lines.
 
 - (green) Made for the grown-ups you love.
-- Invite them, let them live their lives, and know when it's worth a call.
+- Invite them, and know when it's worth a call.
 - (orange) Know they're safe, across any distance.
 
 [Download Looop]

@@ -14,19 +14,19 @@ facts_checked: 2026-10-26
 notes: "Names competitors; Competitor facts come only from COMPETITORS.md (Oct 26, 2026), V items in the research notes, and the competitors' US App Store listings re-checked on Oct 26, 2026; no star ratings or rating counts. Carrier apps: facts from V notes (App Store listings). Never says these apps sold data. The FCC location-data fines and the Supreme Court ruling are headline only and are left out. T-Mobile FamilyMode price is unverified and is not stated. All three labels are described as having no Data Used to Track You section, as on their listings."
 ---
 
-# Looop vs. carrier family apps: works on any carrier
+**Eyebrow:** Comparison
 
-**Question:** Already have a family app from your phone company?
+# Looop vs. carrier family apps
 
-Verizon Family, AT&T Secure Family, and T-Mobile FamilyMode are built mostly for parents of kids, with parental controls, screen time, content filters, and location. Looop is a safety notifications app that works on any carrier and is built for grown-up families, bringing weather, crime, spending, health, fitness, activity, and the shape of each day together in one answer.
-
-**Subtitle:** A sourced comparison, including where each carrier app may fit better.
+Verizon, AT&T, and T-Mobile apps mostly help parents manage a kid's phone.  
+Looop works on any carrier, for the grown-ups you love.
 
 [Download Looop]
 
-## At a glance
+## Three carrier apps and Looop
 
-**Subtitle:** Parental controls for kids, or a heads-up about the grown-ups you love.
+Verizon Family, AT&T Secure Family, and T-Mobile FamilyMode are built mostly for parents of kids, with parental controls, screen time, content filters, and location.  
+Looop is a safety notifications app that works on any carrier and is built for grown-up families.
 
 | | Looop | Verizon Family | AT&T Secure Family | T-Mobile FamilyMode |
 | --- | --- | --- | --- | --- |
@@ -39,7 +39,9 @@ Verizon Family, AT&T Secure Family, and T-Mobile FamilyMode are built mostly for
 | Price | Free for the first two weeks | Basic location with Verizon postpaid plans; Family Plus $14.99 a month; 30-day trial | $12 a month after a 30-day trial | See T-Mobile for current pricing |
 | App Store privacy label | No "Data Used to Track You" section | No "Data Used to Track You" section | No "Data Used to Track You" section | No "Data Used to Track You" section |
 
-Checked October 26, 2026, on each app's App Store listing. These apps offer things Looop doesn't, like parental controls and crash alerts. [See where they may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
+Checked October 26, 2026, on each app's App Store listing.  
+These apps offer things Looop doesn't, like parental controls and crash alerts.  
+[See where they may fit better](#fits-better), or compare every app in [Family safety apps compared](index.html).
 
 ## What carrier apps do well
 
@@ -50,46 +52,45 @@ Checked October 26, 2026, on each app's App Store listing. These apps offer thin
 - **T-Mobile FamilyMode.** Screen time, content filters, check-in, location, and SOS, built to help parents look after a child's phone.
 - **Clean privacy labels.** None of the three declares "Data Used to Track You" on its App Store privacy label.
 
-## Where Looop is different
+## What Looop does for grown-up families
 
-**Question:** "So what's actually different?"
-**Subtitle:** Carrier apps help manage a child's phone. Looop helps you know when to call Mom.
+**Question:** "We already pay our carrier. Why add Looop?"
+**Subtitle:** Carrier apps help manage a child's phone.  
+Looop helps you know when to call Mom.
 
-### All in one place
+### Mom's whole day, in one answer
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 Severe weather alerts work in more than 50 countries, and nearby crime alerts work in all 50 US states, at 1, 3, 5, or 10 miles. Health & Fitness sharing through Apple Health (Apple Watch, Oura, or Whoop) is available if you need it, and so is an optional heads-up about an unusually large charge on a linked account.
 
-### Alerts instead of a map
+### Nothing to check until it matters
 
-Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It stays quiet when all is well and sends a nudge when it might be a good time to check in. A family map is there for when you need it, but watching a dot is never the point.
+Looop stays quiet when all is well and sends a nudge when it might be a good time to check in. You can open the family map whenever you need it.
 
 ### Built for grown-up families, on any carrier
 
-Looop is made for families who care from a distance: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Every Loved One joins by invitation and keeps their routine, and there's nothing for anyone to start or remember each day.
+Looop is made for families who care from a distance: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Every Loved One joins by invitation and keeps their routine.
 
 Looop works on any carrier, so a parent on one phone plan and a sibling on another can be in the same Looop.
 
-### Your family's data isn't for sale
+### Clean labels, and no ads
 
-Like the three carrier apps, Looop's App Store privacy label has no "Data Used to Track You" section. Looop also never sells your data and doesn't work with advertisers. There are no ads, ever.
+Like the three carrier apps, Looop's App Store privacy label has no "Data Used to Track You" section. Looop also never sells your data, doesn't work with advertisers, and has no ads.
 
-Spending alerts run through Plaid, and that data is never used for ads or sold.
+Spending alerts run through Plaid if you turn them on, and that data is never used for ads or sold.
 
 ## Where carrier apps may fit better
 
-**Question:** "Is Looop right for us?"
-**Subtitle:** We want you to pick the app that fits your family.
+**Question:** "Our youngest just got a phone. Which app?"
+**Subtitle:** For a child's phone, a carrier app may fit better.
 
 - **A young child's phone.** If you want to set screen time and filter content on a child's phone, these apps are built for that. Looop doesn't do parental controls.
 - **Crash alerts and roadside help.** Verizon Family lists crash detection alerts and roadside help, and AT&T Secure Family lists crash alerts. Looop doesn't detect crashes.
 - **Already in your plan.** If your Verizon postpaid plan includes basic location, there's nothing extra to pay for it.
 - **A kid's smartwatch.** Verizon Family supports Gizmo watches.
 
-**Peace of mind for you, independence for them.**
-
-## Questions families ask
+## Questions about carrier apps and Looop
 
 **Does Looop work on any carrier?**
 Yes. Looop works on iPhone with any carrier, so everyone in your Looop can be on a different phone plan.
@@ -98,10 +99,10 @@ Yes. Looop works on iPhone with any carrier, so everyone in your Looop can be on
 No. Looop doesn't set screen time or filter content. It's built for grown-up families and tells you when it might be a good time to check in.
 
 **Can I use Looop with Verizon Family, AT&T Secure Family, or T-Mobile FamilyMode?**
-Yes. They do different jobs. A carrier app can help with a young child's phone, and Looop can let you know when it might be time to call Mom.
+Yes. A carrier app can help with a young child's phone, and Looop can let you know when it might be time to call Mom.
 
 **Does Looop work for aging parents?**
-Yes. Looop is built for adult children caring for a parent from a distance, and for siblings and friends who look out for each other. Your parent joins by invitation and keeps their routine. You get a heads-up when it might be a good time to call, and they get fewer "just checking" calls.
+Yes. Looop was made for adult children who live far from a parent, and for siblings and friends who look out for each other. Your parent can be on any carrier. They join by invitation and keep their routine, and you get a heads-up when it might be a good time to call.
 
 **How much does Looop cost?**
 Looop is free for the first two weeks. It's available for iPhone on the App Store.
@@ -130,5 +131,6 @@ Life360, Verizon, Verizon Family, AT&T, AT&T Secure Family, T-Mobile, T-Mobile F
 ## CTA
 
 **Headline:** Works on any carrier.
-**Subtitle:** Free for the first two weeks. Peace of mind for you, independence for them.
+**Subtitle:** Free for the first two weeks.  
+Peace of mind for you, independence for them.
 [Download Looop]

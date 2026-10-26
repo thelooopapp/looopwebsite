@@ -10,15 +10,16 @@ persona: "Dana, the stretched-thin middle"
 status: draft
 ---
 
-# Resources
+# Resources for caring from a distance
 
-**Subtitle:** Ideas and guides for caring from a distance.
+**Key line (green):** When should I call?
 
-Caring for people you love from far away comes with real questions. When should I call? How do I bring this up with Mom? We share what we've learned, in plain language.
+**Key line (orange):** How do I bring this up with Mom?
 
 ## Compare family safety apps
 
-**Subtitle:** Most family apps are built around a map. Here's how Looop compares, including where another app may fit better.
+**Subtitle:** Most family apps are built around a map.  
+See how Looop compares, including where another app may fit better.
 
 ### Family Safety Apps Compared
 **Eyebrow:** Comparison
@@ -74,7 +75,7 @@ Caring for people you love from far away comes with real questions. When should 
 
 ### Mom Needs a Call When It Counts
 **Eyebrow:** Aging Parents
-**Teaser:** Family apps are racing to do everything. A parent living on her own needs something simpler: one quiet signal that says it's time to call.
+**Teaser:** Family apps are racing to do everything. A parent living on her own needs something simpler, like a heads-up when it's time to call.
 **Link:** blog/mom-doesnt-need-a-super-app.html
 
 ### Mom Isn't a Pet (or Your Keys)
@@ -135,6 +136,6 @@ Caring for people you love from far away comes with real questions. When should 
 
 ## CTA
 
-**Headline:** Know when to check in.
+**Headline:** Try Looop with your family
 **Subtitle:** Looop stays quiet when all is well and sends a heads-up when it's worth a call.
 [Download Looop]

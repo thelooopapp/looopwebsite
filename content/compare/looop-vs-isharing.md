@@ -17,17 +17,18 @@ notes: "Names a competitor. iSharing facts from COMPETITORS.md (Oct 26, 2026) an
 
 # Looop vs. iSharing
 
-**Key line:** A different kind of family safety app.
-
-**Subtitle:** A quiet phone is one signal. Looop looks at the whole day.
-
-iSharing is a location sharing app built around a live map, with place alerts, location history, driving reports, and an inactivity alert it pitches for older parents. Looop is a safety notifications app for families caring from a distance, with weather, crime, spending, health, fitness, activity, and the shape of each day in one daily answer.
+**Subtitle:** A quiet phone is one signal.\
+Looop looks at the whole day.
 
 [Download Looop]
 
+## What iSharing is built around
+
+iSharing is a location sharing app built around a live map, with place alerts, location history, driving reports, and an inactivity alert it pitches for older parents. Looop is a safety notifications app for families caring from a distance, built around one daily answer about each Loved One's day.
+
 ## At a glance
 
-**Subtitle:** Checked October 26, 2026, including the rows where iSharing comes out ahead.
+**Subtitle:** Checked October 26, 2026. iSharing comes out ahead on SOS, driving reports, a free plan, and finding a lost phone.
 
 | | Looop | iSharing |
 | --- | --- | --- |
@@ -51,7 +52,7 @@ Sources are listed below. "Not listed" means we didn't find it on iSharing's App
 
 ## What iSharing does well
 
-**Subtitle:** It's a capable location app, and it's been around a long time.
+**Subtitle:** Its free plan covers the basics, and paid plans add driving reports.
 
 ### A free plan
 
@@ -77,26 +78,26 @@ Its inactivity alert speaks to a real worry for adult children: a parent who has
 
 iSharing says it has been around for more than 15 years.
 
-## Where Looop is different
+## What Looop looks at
 
-**Question:** "So what's actually different?"
-**Subtitle:** Both apps start from the same worry and answer it differently.
+**Question:** "How is Looop different from iSharing?"
+**Subtitle:** A daily answer, made for checking on a parent from afar.
 
-### The whole day, all in one place
+### Her whole day, in one place
 
-A quiet phone is one signal. Looop looks at the whole day. It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day.
+Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day.
 
 No more checking the weather in five cities, a map in one app, and bank alerts in another. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-### Alerts instead of a map
+### Quiet until it matters
 
-Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It stays quiet when all is well, and the family map is there for after a nudge, when you need it.
+Looop stays quiet when all is well and speaks up when Mom's day looks unusual. The family map is there for after a nudge, when you need it.
 
-### Built for parents and the people who love them
+### Made for grown families
 
 Looop is built for adult children caring from a distance, and for siblings and friends who look out for each other. Every Loved One joins by invitation and keeps their routine. Spending alerts and Health & Fitness sharing are available if your family needs them.
 
-### Privacy you can check
+### What the privacy policies say
 
 Looop never sells your data and doesn't work with advertisers. Looop's App Store privacy label has no "Data Used to Track You" section.
 
@@ -107,7 +108,7 @@ Looop isn't an emergency service. It doesn't call 911 for you, send help, or det
 ## Where iSharing may fit better
 
 **Question:** "Is Looop right for us?"
-**Subtitle:** We want you to pick the app that fits your family.
+**Subtitle:** If one of these sounds like you, iSharing may be the better pick.
 
 ### A live map of the kids
 
@@ -134,7 +135,7 @@ We never sell your data, and we don't work with advertisers. [Read our privacy p
 ## Questions families ask
 
 **Is Looop like iSharing?**
-Not really. iSharing is built around a live map, with place alerts, location history, and driving reports. Looop is a safety notifications app. It brings weather, crime, spending, health, fitness, activity, and the shape of each day together, and stays quiet when all is well.
+They do different jobs. iSharing is built around a live map, with place alerts, location history, and driving reports. Looop is a safety notifications app. It brings weather, crime, spending, health, fitness, activity, and the shape of each day together, and stays quiet when all is well.
 
 **Can I use iSharing and Looop together?**
 Yes. Some families keep a map app for the kids and use Looop for a parent who lives far away. Looop works on its own, and nothing in it depends on iSharing.
@@ -176,6 +177,7 @@ iSharing, Life360, Apple, Apple Watch, Apple Health, Oura, Whoop, Find My, GeoZi
 
 ## CTA
 
-**Headline:** Safety alerts instead of tracking.
-**Subtitle:** Free for the first two weeks. Peace of mind for you, independence for them.
+**Headline:** Get one answer about Mom's day.
+**Subtitle:** Free for the first two weeks.\
+Peace of mind for you, independence for them.
 [Download Looop]

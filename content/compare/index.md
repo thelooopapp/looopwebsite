@@ -142,5 +142,6 @@ Life360, Apple, Apple Health, Find My, AirTag, iSharing, GeoZilla, Family Nest, 
 ## CTA
 
 **Headline:** Try Looop with your family.
-**Subtitle:** Free for the first two weeks. Peace of mind for you, independence for them.
+**Subtitle:** Free for the first two weeks.\
+Peace of mind for you, independence for them.
 [Download Looop]

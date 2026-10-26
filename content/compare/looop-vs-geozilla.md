@@ -16,17 +16,18 @@ notes: "Names a competitor. GeoZilla facts from COMPETITORS.md and research-fami
 
 # Looop vs. GeoZilla
 
-**Key line:** A different kind of family safety app.
-
-**Subtitle:** Safety alerts instead of tracking.
-
-GeoZilla is a family locator built around a shared map, with place alerts, location history, a help alert, driving alerts, and an Apple Watch app. Looop is a safety notifications app for families caring from a distance, with weather, crime, spending, health, fitness, activity, and the shape of each day in one daily answer.
+**Subtitle:** GeoZilla puts your family on a map.\
+Looop tells you when Mom's day looks off.
 
 [Download Looop]
 
+## A family locator and a daily heads-up
+
+GeoZilla is a family locator built around a shared map, with place alerts, location history, a help alert, driving alerts, and an Apple Watch app. Looop is a safety notifications app for families caring from a distance, and it sums up each Loved One's day as typical or worth a call.
+
 ## At a glance
 
-**Subtitle:** Checked October 26, 2026, including the rows where GeoZilla comes out ahead.
+**Subtitle:** Checked October 26, 2026. GeoZilla leads on its help alert, driving alerts, and Apple Watch app.
 
 | | Looop | GeoZilla |
 | --- | --- | --- |
@@ -75,26 +76,26 @@ Its listing says location sharing requires explicit consent from every circle me
 
 Members can leave check-ins and comments for each other in the app.
 
-## Where Looop is different
+## Where Looop goes its own way
 
-**Question:** "So what's actually different?"
-**Subtitle:** Both apps start from the same worry and answer it differently.
+**Question:** "How is Looop different from GeoZilla?"
+**Subtitle:** Looop is built for checking on a parent who lives far away.
 
-### The whole day, all in one place
+### One answer about everyone's day
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. It's all in one place, so you're not checking five apps to piece together how everyone's doing.
 
 Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-### Alerts instead of a map
+### The map comes second
 
-Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?" It stays quiet when all is well. The family map is there for after a nudge, when you need it.
+Looop is built to answer "Is Mom okay today?" It stays quiet when all is well. The family map is there for after a nudge, when you need it.
 
-### Built for parents and the people who love them
+### For a parent who wants her independence
 
 GeoZilla's description says it suits an elderly loved one or a teenager. Looop is built around adult children caring from a distance, and around a parent who wants to keep her independence. She joins by invitation, and nothing changes about her day.
 
-### Privacy you can check
+### What the App Store labels show
 
 Looop never sells your data and doesn't work with advertisers. Looop's App Store privacy label has no "Data Used to Track You" section. GeoZilla's label lists identifiers under "Data Used to Track You."
 
@@ -103,7 +104,7 @@ Looop isn't an emergency service. It doesn't call 911 for you, send help, or det
 ## Where GeoZilla may fit better
 
 **Question:** "Is Looop right for us?"
-**Subtitle:** We want you to pick the app that fits your family.
+**Subtitle:** GeoZilla may be the better pick in these cases.
 
 ### A teen driver
 
@@ -130,7 +131,7 @@ We never sell your data, and we don't work with advertisers. [Read our privacy p
 ## Questions families ask
 
 **Is Looop like GeoZilla?**
-Not really. GeoZilla is a family locator built around a map, with place alerts, history, and driving alerts. Looop is a safety notifications app that brings weather, crime, spending, health, fitness, activity, and the shape of each day together, and stays quiet when all is well.
+Not in how it works. GeoZilla is a family locator built around a map, with place alerts, history, and driving alerts. Looop is a safety notifications app that brings weather, crime, spending, health, fitness, activity, and the shape of each day together, and stays quiet when all is well.
 
 **Can I use GeoZilla and Looop together?**
 Yes. Looop works on its own. Some families keep a map app for a teen driver and use Looop for a parent who lives a few states away.
@@ -169,5 +170,6 @@ GeoZilla, Life360, Apple, Apple Watch, Apple Health, Oura, Whoop, Find My, iShar
 ## CTA
 
 **Headline:** Safety alerts instead of tracking.
-**Subtitle:** Free for the first two weeks. Peace of mind for you, independence for them.
+**Subtitle:** Free for the first two weeks.\
+Peace of mind for you, independence for them.
 [Download Looop]

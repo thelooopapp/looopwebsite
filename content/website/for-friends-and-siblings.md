@@ -10,11 +10,11 @@ persona: "Erin and Kate; Maya and Aunt Ruth; Tasha and Sam; Alex and Jamie; the 
 status: draft
 ---
 
-# Look out for each other, wherever you are.
+# Look out for each other, wherever you are
 
-**Subtitle:** For the people who are each other's person.
+**Key line (green):** For the people who are each other's person.
 
-Plenty of Looops are peers: two sisters in two time zones, or best friends with a "text me when you're home" rule. Nobody is the caregiver here. You have each other's backs, and Looop lets you both know when it's worth a call.
+**Key line (orange):** Looop tells you both when to call.
 
 [Download Looop]
 
@@ -24,11 +24,11 @@ Image: map.png
 
 **Subtitle:** You would. And they'd know about you.
 
-Looop works both ways. Each of you gets a heads-up about the other, so looking out for each other never feels one-sided.
+Maybe you're two sisters in two time zones, or best friends with a "text me when you're home" rule. Looop works both ways. Each of you gets a heads-up about the other, so looking out for each other never feels one-sided.
 
 ## "When did Aunt Ira last pick up her phone?"
 
-**Headline:** Phone quiet too long? You'll know.
+**Headline:** A heads-up when her phone goes quiet
 
 Everyone has a rhythm. If Aunt Ira's phone has sat untouched far longer than usual, you get a heads-up, so one of you can check in.
 
@@ -40,16 +40,16 @@ Image: images/home/phone-untouched.webp
 Denver and Atlanta, two time zones apart. A tornado warning near one sister's neighborhood, or a nudge that the other's day looks unusual, and a call happens. Living alone, you still have someone looking out for you.
 
 ### You and your favorite aunt
-Three states apart and still each other's first call. One sees a crime alert near a late-night train stop. The other sees a heat alert for a small town. Stay close without the daily phone tag.
+Three states apart and still each other's first call. You might see a crime alert near her late-night train stop, and she might see a heat alert for your small town. Stay close without the daily phone tag.
 
 ### The get-home-safe pact
 Enjoy the date. If something seems off, your best friend will know. A gentle nudge if her night looks unusual means one quick text, so nobody has to wait up.
 
 ### Long-distance partners
-Three hours behind and always guessing? Get a heads-up about severe weather on their drive home. Miles apart, still the first to know when to call. Looop sends alerts instead of tracking, because trust is the point.
+Three hours behind and always guessing? Get a heads-up about severe weather on their drive home. You'll be the first to know when to call. Looop sends alerts instead of tracking, because trust is the point.
 
 ### The group chat
-Five friends, five cities. A hurricane warning near one city, and the whole chat is checking in. Your group chat, with a little more looking out.
+Five friends in five cities. When a hurricane warning hits one of them, the whole chat knows to check in.
 
 ## What you'll get a heads-up about
 
@@ -60,7 +60,7 @@ Five friends, five cities. A hurricane warning near one city, and the whole chat
 
 The whole group is on one screen, so you can see at a glance who's okay. Each of you chooses which alerts you get, and Health & Fitness sharing is available if you need it.
 
-Already share locations with each other? That shows where your people are. Looop tells you when it's worth a call, and works alongside Find My. [See how family safety apps compare](compare/index.html)
+Already share locations with each other? Keep doing it. Looop works alongside Find My and tells you when it's worth a call. [See how family safety apps compare](compare/index.html)
 
 ## Check in, your way
 
