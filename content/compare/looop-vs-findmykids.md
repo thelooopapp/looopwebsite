@@ -62,17 +62,17 @@ Looop answers "Is Mom okay today?"
 
 ### Everything about Mom's day, in one answer
 
-Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
+Looop's approach to family care is holistic: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 Severe weather alerts work in more than 50 countries, and nearby crime alerts work in all 50 US states, at 1, 3, 5, or 10 miles. Health & Fitness sharing through Apple Health (Apple Watch, Oura, or Whoop) is available if you need it, and so is an optional heads-up about an unusually large charge on a linked account.
 
 ### A nudge when it might be time to call
 
-Looop stays quiet when all is well and sends a nudge when it might be a good time to check in. A family map is there for when you need it, for example after a nudge to check in.
+On a typical day, Looop stays quiet. When it might be a good time to check in, it sends a nudge. A family map is there for when you need it.
 
 ### Made for grown kids and aging parents
 
-Looop is made for families who care from a distance: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Every Loved One joins by invitation and keeps their own routine.
+Looop is for grown-up families: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Every Loved One joins by invitation and keeps their own routine.
 
 Looop is for life after the school years, when the people you worry about are grown and living on their own.
 

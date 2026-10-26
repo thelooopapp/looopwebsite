@@ -63,17 +63,17 @@ Looop lets you know when a day looks different.
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-Severe weather alerts work in more than 50 countries, and nearby crime alerts work in all 50 US states, at 1, 3, 5, or 10 miles. Health & Fitness sharing through Apple Health (Apple Watch, Oura, or Whoop) is available if you need it, and so is an optional heads-up about an unusually large charge on a linked account.
+Severe weather alerts cover more than 50 countries, and nearby crime alerts cover all 50 US states, at 1, 3, 5, or 10 miles. If you need them, Health & Fitness sharing through Apple Health (Apple Watch, Oura, or Whoop) and an optional heads-up about an unusually large charge on a linked account are available too.
 
 ### Quiet until something looks off
 
-Looop stays quiet when all is well and sends a nudge when it might be a good time to check in. There's a family map, too, for when you need it.
+Most days, Looop stays quiet. It sends a nudge when it might be a good time to check in. There's a family map, too, for when you need it.
 
 Looop speaks up about a storm heading toward Dad's town, crime reported near Mom's neighborhood, or a day that doesn't look like their usual.
 
 ### Made for parents who live on their own
 
-Looop is made for families who care from a distance: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other.
+Looop is made for adult kids with a parent a few states away, and for siblings and friends who look out for each other.
 
 Dad joins by invitation, keeps his routine, and gets fewer "just checking" calls. There's no button for him to press and nothing for him to remember.
 

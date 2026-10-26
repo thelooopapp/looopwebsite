@@ -121,7 +121,7 @@ Looop stays quiet when all is well and sends a heads-up when something looks off
 
 ### For life after the driving years
 
-Think of a parent a few states away, kids at college, or a sibling or friend who lives alone. Loved Ones join by invitation and keep their routine. There are no sessions or timers for them to start.
+Think of a parent a few states away, kids at college, or a sibling or friend who lives alone. Loved Ones join by invitation and keep their routine.
 
 ### No ads, and your family's data is never for sale
 
@@ -177,7 +177,7 @@ Life360, iSharing, Apple Watch, Apple Health, Oura, Whoop, GeoZilla, and Android
 **Subtitle:** Every comparison is sourced and says what the other app does well.
 
 - [Looop vs. Life360](../looop-vs-life360.html): Life360 and Looop, row by row, with sources.
-- [Looop vs. iSharing](looop-vs-isharing.html): Inactivity alerts and Looop, compared in full.
+- [Looop vs. iSharing](looop-vs-isharing.html): iSharing's inactivity alerts and Looop, compared in full.
 - [Life360 vs. GeoZilla vs. Looop](life360-vs-geozilla-vs-looop.html): Two family maps with driving features, plus Looop.
 - [Family safety apps compared](index.html): Every app we compare, in one table with sources.
 

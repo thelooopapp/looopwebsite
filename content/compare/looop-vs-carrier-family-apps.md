@@ -62,15 +62,15 @@ Looop helps you know when to call Mom.
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-Severe weather alerts work in more than 50 countries, and nearby crime alerts work in all 50 US states, at 1, 3, 5, or 10 miles. Health & Fitness sharing through Apple Health (Apple Watch, Oura, or Whoop) is available if you need it, and so is an optional heads-up about an unusually large charge on a linked account.
+Severe weather alerts reach more than 50 countries, and nearby crime alerts cover all 50 US states, at 1, 3, 5, or 10 miles. Health & Fitness sharing is available through Apple Health (Apple Watch, Oura, or Whoop), and so is an optional heads-up about an unusually large charge on a linked account.
 
 ### Nothing to check until it matters
 
-Looop stays quiet when all is well and sends a nudge when it might be a good time to check in. You can open the family map whenever you need it.
+When all is well, you won't hear from Looop. When it might be a good time to check in, you get a nudge. You can open the family map whenever you need it.
 
 ### Built for grown-up families, on any carrier
 
-Looop is made for families who care from a distance: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Every Loved One joins by invitation and keeps their routine.
+Maybe it's a parent a few states away, kids at college or in a big city, or siblings and friends who look out for each other. Every Loved One joins by invitation and keeps their routine.
 
 Looop works on any carrier, so a parent on one phone plan and a sibling on another can be in the same Looop.
 

@@ -50,7 +50,7 @@ Glympse does things Looop doesn't, like sharing with people who don't have the a
 
 **Subtitle:** Glympse is very good at a job Looop doesn't try to do.
 
-- **Location sharing that stops after a set time.** You share your live location for a set time, and the share expires automatically. That's a tidy way to share one drive or one evening.
+- **Location sharing that stops after a set time.** You choose how long to share your live location, and the share expires automatically. That's a tidy way to share one drive or one evening.
 - **No app needed to view.** People you send a Glympse to don't need to sign up. Viewer links open in any browser, on any device.
 - **Groups and ETAs.** Invite-only Groups let trusted members share locations with each other, and live ETAs help when someone's on the way.
 - **A clear line on data.** Its App Store listing says it plainly: "Your data is never sold."

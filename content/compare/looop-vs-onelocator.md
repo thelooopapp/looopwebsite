@@ -25,7 +25,7 @@ Looop sends a heads-up when a Loved One's day looks off.
 
 ## What OneLocator and Looop each offer
 
-OneLocator is a free, ad-supported family locator built around one shared map, with Safe Zone alerts, location history, driving reports, battery alerts, and SOS.  
+OneLocator is built around one shared map, with Safe Zone alerts, location history, driving reports, battery alerts, and SOS.  
 Looop is a safety notifications app with no ads, free for the first two weeks.
 
 | | Looop | OneLocator |
@@ -63,7 +63,7 @@ Looop answers "Is Mom okay today?"
 
 ### Everything in one daily answer
 
-Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
+Looop offers holistic family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 Severe weather alerts work in more than 50 countries, and nearby crime alerts work in all 50 US states, at 1, 3, 5, or 10 miles. Health & Fitness sharing through Apple Health (Apple Watch, Oura, or Whoop) is available if you need it, and so is an optional heads-up about an unusually large charge on a linked account.
 
@@ -73,7 +73,7 @@ Looop stays quiet when all is well. When it might be a good time to check in, it
 
 ### Made for checking on grown-up family
 
-Looop is made for families who care from a distance: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Each Loved One joins by invitation and goes about their day.
+Looop is made for the people you can't just drive over to see: a parent a few states away, kids at college or in a big city, or a sibling across the country. Each Loved One joins by invitation and goes about their day.
 
 ### No ads in Looop
 

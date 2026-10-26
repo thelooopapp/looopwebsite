@@ -115,11 +115,11 @@ Severe weather alerts work in more than 50 countries, and nearby crime alerts wo
 
 ### A heads-up when something looks off
 
-Looop stays quiet when all is well and sends a nudge when it might be a good time to check in. There's a family map for when you need it.
+Looop doesn't ping you all day. It sends a nudge when it might be a good time to check in. There's a family map for when you need it.
 
 ### Made for families spread across the country
 
-Looop is made for families who care from a distance: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Loved Ones join by invitation and keep their routine.
+Looop is made for families who live far apart, with a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Everyone joins by invitation and keeps their routine.
 
 ### What each label declares
 
