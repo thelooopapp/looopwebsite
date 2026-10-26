@@ -12,14 +12,14 @@ persona: "Dana, the stretched-thin middle; Ray, the new empty-nester"
 status: draft
 facts_checked: 2026-10-26
 legal_review: true
-legal_notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; save a dated screenshot or Wayback copy before use. Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. CONFIRM WITH ENGINEERING: every sentence and table cell about Looop's App Store privacy label (no 'Data Used to Track You', no 'contains advertising'); the app includes Meta's app events SDK. 'Not found' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. GeoZilla facts from its App Store listing (re-checked Oct 26, 2026). Billing complaints and the 2017 funding/origin headline are deliberately left out. Never call GeoZilla a scam or spyware, or say it sells data."
+legal_notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; save a dated screenshot or Wayback copy before use. Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. CONFIRM WITH ENGINEERING: every sentence and table cell about Looop's App Store privacy label (no 'Data Used to Track You', no 'contains advertising'); the app includes Meta's app events SDK. 'Not listed' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. GeoZilla facts from its App Store listing (re-checked Oct 26, 2026). Billing complaints and the 2017 funding/origin headline are deliberately left out. Never call GeoZilla a scam or spyware, or say it sells data."
 ---
 
 > LEGAL REVIEW REQUIRED before publishing: this page names competitors.
 
 # Life360 vs. GeoZilla vs. Looop
 
-**Pill:** and a different third option
+**Pill:** plus a third option
 
 **Question:** Comparing Life360 and GeoZilla?
 
@@ -56,10 +56,10 @@ you want a family map with place alerts, an emergency alert, driving insights, a
 | Built for | Adults caring from a distance: parents, kids at college, siblings, and friends | Families of every stage, plus pets and items, with a page for aging parents | Families with kids and teens. Its description also mentions older loved ones |
 | Place alerts | Arrivals and departures at places you save | Arrivals, departures, and no-shows at saved places | Arrivals and departures, with unlimited alerts on Premium |
 | The map | A family map, as a supporting feature for when you need it | A live family map with location history | A family map with daily history, and two weeks of history on Premium |
-| Severe weather | Severe weather alerts in more than 50 countries | Severe weather alerts, through AccuWeather | Not found |
-| Nearby crime | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Safety Incidents: recent, high-severity events within one mile, US only. Free Circles see details for three in 24 hours | Not found |
-| Spending | Optional alerts for an unusually large charge on a linked account, through Plaid | Subscription Tracker for recurring charges, through Plaid. ID theft protection on paid plans | Not found |
-| Health & Fitness | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not offered | Not found |
+| Severe weather | Severe weather alerts in more than 50 countries | Severe weather alerts, through AccuWeather | Not listed |
+| Nearby crime | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Safety Incidents: recent, high-severity events within one mile, US only. Free Circles see details for three in 24 hours | Not listed |
+| Spending | Optional alerts for an unusually large charge on a linked account, through Plaid | Subscription Tracker for recurring charges, through Plaid. ID theft protection on paid plans | Not listed |
+| Health & Fitness | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not offered | Not listed |
 | Driving | A nudge when a drive looks unusual, and a heads-up when a drive ends | Driving summaries and driver reports. Crash detection on paid plans | Speeding and phone use while driving. Driver Protection on Premium |
 | Emergency help | 911 and up to three emergency contacts, one tap away. No dispatch or crash detection | SOS alerts. 24/7 emergency dispatch and roadside help on Gold and Platinum | An Emergency Alert that tells family a member needs help |
 | Apple Watch | Reads Apple Watch data through Apple Health, with nothing extra to install | A separate Life360 for Watch app, released June 2026 | An Apple Watch app |
@@ -67,7 +67,7 @@ you want a family map with place alerts, an emergency alert, driving insights, a
 | "Data Used to Track You" on its App Store label | None | Identifiers | Identifiers |
 | Price | Free for the first two weeks | Free. Paid plans listed from $9.99 to $24.99 on the App Store | Weekly plans from $5.99, monthly $19.99, quarterly $39.99, yearly $49.99 or $69.99 |
 
-Checked October 26, 2026, from the sources below. "Not found" means we didn't see it on the app's App Store listing or website that day; features change. Life360 and GeoZilla offer things Looop doesn't, like an emergency alert, driving insights, and an Apple Watch app. [See who each app is best for](#best-for).
+Checked October 26, 2026, from the sources below. "Not listed" means we didn't see it on the app's App Store listing or website that day; features change. Life360 and GeoZilla offer things Looop doesn't, like an emergency alert, driving insights, and an Apple Watch app. [See who each app is best for](#best-for).
 
 ## Who each app is best for
 

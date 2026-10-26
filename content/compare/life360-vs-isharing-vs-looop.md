@@ -13,14 +13,14 @@ persona: "Marcus, the only child far away; Priya, the sibling coordinator"
 status: draft
 facts_checked: 2026-10-26
 legal_review: true
-legal_notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; save a dated screenshot or Wayback copy before use. Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. CONFIRM WITH ENGINEERING: every sentence and table cell about Looop's App Store privacy label (no 'Data Used to Track You', no 'contains advertising'); the app includes Meta's app events SDK. 'Not found' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. iSharing privacy policy quoted exactly (revised May 21, 2026); save a dated copy. Its 2024 security flaw is deliberately not mentioned. 'Elderly Care' appears only as iSharing's feature name."
+legal_notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; save a dated screenshot or Wayback copy before use. Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. CONFIRM WITH ENGINEERING: every sentence and table cell about Looop's App Store privacy label (no 'Data Used to Track You', no 'contains advertising'); the app includes Meta's app events SDK. 'Not listed' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. iSharing privacy policy quoted exactly (revised May 21, 2026); save a dated copy. Its 2024 security flaw is deliberately not mentioned. 'Elderly Care' appears only as iSharing's feature name."
 ---
 
 > LEGAL REVIEW REQUIRED before publishing: this page names competitors.
 
 # Life360 vs. iSharing vs. Looop
 
-**Pill:** and a different third option
+**Pill:** plus a third option
 
 **Question:** Comparing Life360 and iSharing?
 
@@ -57,17 +57,17 @@ you want a family map with place alerts, a panic alert, and inactivity alerts, w
 | Built for | Adults caring from a distance: parents, kids at college, siblings, and friends | Families of every stage, plus pets and items, with a page for aging parents | Parents of kids and couples, plus an "Elderly Care" pitch for older parents |
 | Place alerts | Arrivals and departures at places you save | Arrivals, departures, and no-shows at saved places | Arrivals and departures at home, work, and school |
 | A quiet phone | A heads-up when a phone hasn't been touched for hours, as one part of the day | No-show alerts when someone doesn't arrive where expected | Inactivity alerts when a phone isn't used, on Silver and up |
-| Severe weather | Severe weather alerts in more than 50 countries | Severe weather alerts, through AccuWeather | Not found |
-| Nearby crime | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Safety Incidents: recent, high-severity events within one mile, US only. Free Circles see details for three in 24 hours | Not found |
-| Spending | Optional alerts for an unusually large charge on a linked account, through Plaid | Subscription Tracker for recurring charges, through Plaid. ID theft protection on paid plans | Not found |
-| Health & Fitness | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not offered | Not found |
+| Severe weather | Severe weather alerts in more than 50 countries | Severe weather alerts, through AccuWeather | Not listed |
+| Nearby crime | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Safety Incidents: recent, high-severity events within one mile, US only. Free Circles see details for three in 24 hours | Not listed |
+| Spending | Optional alerts for an unusually large charge on a linked account, through Plaid | Subscription Tracker for recurring charges, through Plaid. ID theft protection on paid plans | Not listed |
+| Health & Fitness | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not offered | Not listed |
 | Driving | A nudge when a drive looks unusual, and a heads-up when a drive ends | Driving summaries and driver reports. Crash detection on paid plans | Driving reports on speeding, sudden braking, and phone use, on Gold and up |
 | Emergency help | 911 and up to three emergency contacts, one tap away. No dispatch or crash detection | SOS alerts. 24/7 emergency dispatch and roadside help on Gold and Platinum | A panic or SOS alert with recorded sound |
 | Ads and data | No ads, ever. Your family's data is never for sale | Runs an ad business. Its terms say Subscription Tracker transaction data may be used for ads | Its policy says it may share location with third parties for advertising |
 | "Data Used to Track You" on its App Store label | None | Identifiers | Purchases, location, contact info, identifiers, usage data, diagnostics, and other data |
 | Price | Free for the first two weeks | Free. Paid plans listed from $9.99 to $24.99 on the App Store | Free. Premium from $7.99 a month or $69.99 a year, with a seven-day trial |
 
-Checked October 26, 2026, from the sources below. "Not found" means we didn't see it on the app's App Store listing or website that day; features change. Life360 and iSharing offer things Looop doesn't, like SOS alerts, driving reports, and Android support. [See who each app is best for](#best-for).
+Checked October 26, 2026, from the sources below. "Not listed" means we didn't see it on the app's App Store listing or website that day; features change. Life360 and iSharing offer things Looop doesn't, like SOS alerts, driving reports, and Android support. [See who each app is best for](#best-for).
 
 ## Who each app is best for
 

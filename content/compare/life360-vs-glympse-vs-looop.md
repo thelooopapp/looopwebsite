@@ -12,14 +12,14 @@ persona: "Tasha and Sam, the get-home-safe pact; Alex and Jamie, long-distance p
 status: draft
 facts_checked: 2026-10-26
 legal_review: true
-legal_notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; save a dated screenshot or Wayback copy before use. Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. CONFIRM WITH ENGINEERING: every sentence and table cell about Looop's App Store privacy label (no 'Data Used to Track You', no 'contains advertising'); the app includes Meta's app events SDK. 'Not found' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. Glympse facts from its App Store listing (re-checked Oct 26, 2026): expiring shares, viewer links without logins, Private Groups, premium prices, 'Contains Advertising', 'Your data is never sold.' (quoted exactly), and Usage Data under 'Data Used to Track You'. Company location and funding left out (unverified)."
+legal_notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; save a dated screenshot or Wayback copy before use. Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. CONFIRM WITH ENGINEERING: every sentence and table cell about Looop's App Store privacy label (no 'Data Used to Track You', no 'contains advertising'); the app includes Meta's app events SDK. 'Not listed' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. Glympse facts from its App Store listing (re-checked Oct 26, 2026): expiring shares, viewer links without logins, Private Groups, premium prices, 'Contains Advertising', 'Your data is never sold.' (quoted exactly), and Usage Data under 'Data Used to Track You'. Company location and funding left out (unverified)."
 ---
 
 > LEGAL REVIEW REQUIRED before publishing: this page names competitors.
 
 # Life360 vs. Glympse vs. Looop
 
-**Pill:** and a different third option
+**Pill:** plus a third option
 
 **Question:** Comparing Life360 and Glympse?
 
@@ -55,15 +55,15 @@ you want to share your location for one drive, trip, or meetup, with a link that
 | Built around | Safety notifications: one answer each day, a Typical Day or an Unusual Day that might be worth a call | A live family map plus location history | Temporary location shares that expire on their own |
 | Built for | Adults caring from a distance: parents, kids at college, siblings, and friends | Families of every stage, plus pets and items, with a page for aging parents | Anyone sharing a drive, trip, or meetup, plus invite-only groups |
 | How sharing works | Loved Ones join by invitation and can leave a group anytime | Ongoing sharing in a Circle, with location history | You set a timer and send a link. Viewers don't need a login |
-| Severe weather | Severe weather alerts in more than 50 countries | Severe weather alerts, through AccuWeather | Not found |
-| Nearby crime | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Safety Incidents: recent, high-severity events within one mile, US only. Free Circles see details for three in 24 hours | Not found |
-| Spending | Optional alerts for an unusually large charge on a linked account, through Plaid | Subscription Tracker for recurring charges, through Plaid. ID theft protection on paid plans | Not found |
-| Health & Fitness | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not offered | Not found |
+| Severe weather | Severe weather alerts in more than 50 countries | Severe weather alerts, through AccuWeather | Not listed |
+| Nearby crime | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Safety Incidents: recent, high-severity events within one mile, US only. Free Circles see details for three in 24 hours | Not listed |
+| Spending | Optional alerts for an unusually large charge on a linked account, through Plaid | Subscription Tracker for recurring charges, through Plaid. ID theft protection on paid plans | Not listed |
+| Health & Fitness | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not offered | Not listed |
 | Ads and data | No ads, ever. Your family's data is never for sale | Runs an ad business. Its terms say Subscription Tracker transaction data may be used for ads | Listing says "Contains Advertising" and "Your data is never sold." |
 | "Data Used to Track You" on its App Store label | None | Identifiers | Usage data |
 | Price | Free for the first two weeks | Free. Paid plans listed from $9.99 to $24.99 on the App Store | Free. Premium $9.99 a month or $99.99 a year |
 
-Checked October 26, 2026, from the sources below. "Not found" means we didn't see it on the app's App Store listing or website that day; features change. Life360 and Glympse offer things Looop doesn't, like location sharing that ends on its own, links anyone can open, and Android support (Life360). [See who each app is best for](#best-for).
+Checked October 26, 2026, from the sources below. "Not listed" means we didn't see it on the app's App Store listing or website that day; features change. Life360 and Glympse offer things Looop doesn't, like location sharing that ends on its own, links anyone can open, and Android support (Life360). [See who each app is best for](#best-for).
 
 ## Who each app is best for
 

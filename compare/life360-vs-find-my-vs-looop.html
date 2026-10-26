@@ -26,8 +26,10 @@
     /* Three-way tables: labels and Looop header blue, competitor headers gray; Looop is always the first product column */
     .inner-page .compare-table.three-way thead th:nth-child(n+3) { background: #E9ECF1; color: #6B7280; }
     .inner-page .compare-table.three-way thead th { height: 60px; padding-top: 0; padding-bottom: 0; vertical-align: middle; }
-    .inner-page .compare-table.three-way tbody th { width: 19%; }
-    .inner-page .compare-table.three-way td { width: 27%; vertical-align: top; }
+    @media (min-width: 601px) {
+      .inner-page .compare-table.three-way tbody th { width: 19%; }
+      .inner-page .compare-table.three-way td { width: 27%; vertical-align: top; }
+    }
     .inner-page .compare-table.three-way td.looop-col { background: #fff; color: #1E2126; font-weight: 500; }
     .inner-page .compare-table.three-way td.rival-col { background: #F6F7F9; }
     .th-logo { display: inline-block; height: 26px; width: auto; vertical-align: middle; }
@@ -61,7 +63,7 @@
 <main class="inner-page">
   <section class="page-hero hero-home">
     <div class="hero-faces" aria-hidden="true"><img src="../images/home/tony.jpg" alt=""><img src="../images/home/sis.jpg" alt=""><img class="lead" src="../images/home/mom.jpg" alt=""><img src="../images/home/bro.jpg" alt=""><img src="../images/home/june.jpg" alt=""></div>
-    <h1>Life360 vs. Find My vs. Looop<br><span class="pill">and why many families use&nbsp;two</span></h1>
+    <h1>Life360 vs. Find My vs.&nbsp;Looop<br><span class="pill">where, and when to&nbsp;call</span></h1>
     <p class="hero-key g">Comparing Life360 and Apple's Find&nbsp;My?</p>
     <p class="lead">Looop is a new kind of family safety app, and it works alongside Find My. Life360 and Find My both show where people are on a map. Looop tells you when it might be time to check&nbsp;in.</p>
     <p class="hero-key o">A fair, sourced look at all three, including where each one fits&nbsp;best.</p>

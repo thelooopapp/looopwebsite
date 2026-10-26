@@ -13,14 +13,14 @@ persona: "Marcus, the only child far away; Linda, 76, as invitee"
 status: draft
 facts_checked: 2026-10-26
 legal_review: true
-legal_notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; save a dated screenshot or Wayback copy before use. Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. CONFIRM WITH ENGINEERING: every sentence and table cell about Looop's App Store privacy label (no 'Data Used to Track You', no 'contains advertising'); the app includes Meta's app events SDK. 'Not found' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. Family Nest facts from COMPETITORS.md and its App Store listing (re-checked Oct 26, 2026: no 'Data Used to Track You' section; age rating lists advertising). Policy quoted exactly (effective Sept 23, 2026). Nothing about its owner or where it is based, per the copywriter guide. Apple Watch app left out: COMPETITORS.md lists one, but the Oct 26 App Store page didn't show watchOS. Never say Family Nest sells data."
+legal_notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; save a dated screenshot or Wayback copy before use. Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. CONFIRM WITH ENGINEERING: every sentence and table cell about Looop's App Store privacy label (no 'Data Used to Track You', no 'contains advertising'); the app includes Meta's app events SDK. 'Not listed' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. Family Nest facts from COMPETITORS.md and its App Store listing (re-checked Oct 26, 2026: no 'Data Used to Track You' section; age rating lists advertising). Policy quoted exactly (effective Sept 23, 2026). Nothing about its owner or where it is based, per the copywriter guide. Apple Watch app left out: COMPETITORS.md lists one, but the Oct 26 App Store page didn't show watchOS. Never say Family Nest sells data."
 ---
 
 > LEGAL REVIEW REQUIRED before publishing: this page names competitors.
 
 # Life360 vs. Family Nest vs. Looop
 
-**Pill:** Family360 is now Family Nest
+**Pill:** formerly Family360
 
 **Question:** Comparing Life360 and Family360?
 
@@ -58,9 +58,9 @@ you want a low-cost family map for parents and kids on iPhone and Android, with 
 | Place alerts | Arrivals and departures at places you save | Arrivals, departures, and no-shows at saved places | Arrivals and departures at home, school, and work. Unlimited places on Premium |
 | The map | A family map, as a supporting feature for when you need it | A live family map with location history | A live map, with 365 days of history and ETAs on Premium |
 | Weather | Severe weather alerts in more than 50 countries | Severe weather alerts, through AccuWeather | Weather shown in the app, through OpenWeatherMap |
-| Nearby crime | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Safety Incidents: recent, high-severity events within one mile, US only. Free Circles see details for three in 24 hours | Not found |
-| Spending | Optional alerts for an unusually large charge on a linked account, through Plaid | Subscription Tracker for recurring charges, through Plaid. ID theft protection on paid plans | Not found |
-| Health & Fitness | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not offered | Not found |
+| Nearby crime | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Safety Incidents: recent, high-severity events within one mile, US only. Free Circles see details for three in 24 hours | Not listed |
+| Spending | Optional alerts for an unusually large charge on a linked account, through Plaid | Subscription Tracker for recurring charges, through Plaid. ID theft protection on paid plans | Not listed |
+| Health & Fitness | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not offered | Not listed |
 | Driving | A nudge when a drive looks unusual, and a heads-up when a drive ends | Driving summaries and driver reports. Crash detection on paid plans | Over-speed alerts and a weekly driving score |
 | Emergency help | 911 and up to three emergency contacts, one tap away. No dispatch or crash detection | SOS alerts. 24/7 emergency dispatch and roadside help on Gold and Platinum | SOS alerts |
 | Ads and data | No ads, ever. Your family's data is never for sale | Runs an ad business. Its terms say Subscription Tracker transaction data may be used for ads | The App Store lists it as containing advertising. Its policy says it doesn't sell personal or location data |
@@ -68,7 +68,7 @@ you want a low-cost family map for parents and kids on iPhone and Android, with 
 | Works on | iPhone | iPhone and Android | iPhone and Android |
 | Price | Free for the first two weeks | Free. Paid plans listed from $9.99 to $24.99 on the App Store | Free. Premium $5.99 a month or $39.99 a year |
 
-Checked October 26, 2026, from the sources below. "Not found" means we didn't see it on the app's App Store listing or website that day; features change. Life360 and Family Nest offer things Looop doesn't, like SOS alerts, speed alerts, and Android support. [See who each app is best for](#best-for).
+Checked October 26, 2026, from the sources below. "Not listed" means we didn't see it on the app's App Store listing or website that day; features change. Life360 and Family Nest offer things Looop doesn't, like SOS alerts, speed alerts, and Android support. [See who each app is best for](#best-for).
 
 ## Who each app is best for
 

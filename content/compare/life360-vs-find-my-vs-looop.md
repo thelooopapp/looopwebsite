@@ -13,14 +13,14 @@ persona: "Marcus, the only child far away; Linda, 76, as invitee"
 status: draft
 facts_checked: 2026-10-26
 legal_review: true
-legal_notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; save a dated screenshot or Wayback copy before use. Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. CONFIRM WITH ENGINEERING: every sentence and table cell about Looop's App Store privacy label (no 'Data Used to Track You', no 'contains advertising'); the app includes Meta's app events SDK. 'Not found' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. Apple stance is complement, never opponent. Find My facts re-checked on its App Store listing Oct 26, 2026 (free; no 'Data Used to Track You'; set-duration sharing; AirTag item sharing with up to five; satellite on iPhone 14 and later). Find My place notifications are carried from blog/best-life360-alternatives.html (Apple support link). CONFIRM: Check In and Health Sharing descriptions are marked (U) in COMPETITORS.md; confirm against Apple's guides before publishing. Nothing said about Apple Weather (U). 'Not part of Find My' describes the Find My app only, not Apple as a whole."
+legal_notes: "Names competitors. Every competitor fact comes from COMPETITORS.md (checked Oct 26, 2026) or an apps.apple.com re-check on Oct 26, 2026. Life360 ad, data-broker, AccuWeather, dispatch, and plan facts are carried from MARKET_POSITIONING.md and the Looop vs. Life360 page; re-check before publishing. Life360's Subscription Tracker sentence is quoted exactly; save a dated screenshot or Wayback copy before use. Life360 App Store re-check Oct 26, 2026: 'Data Used to Track You' lists Identifiers; in-app purchases list Silver $9.99, Gold $16.99, Platinum $24.99. CONFIRM WITH ENGINEERING: every sentence and table cell about Looop's App Store privacy label (no 'Data Used to Track You', no 'contains advertising'); the app includes Meta's app events SDK. 'Not listed' cells mean not seen on the app's App Store listing or website on Oct 26, 2026, per COMPETITORS.md. Apple stance is complement, never opponent. Find My facts re-checked on its App Store listing Oct 26, 2026 (free; no 'Data Used to Track You'; set-duration sharing; AirTag item sharing with up to five; satellite on iPhone 14 and later). Find My place notifications are carried from blog/best-life360-alternatives.html (Apple support link). CONFIRM: Check In and Health Sharing descriptions are marked (U) in COMPETITORS.md; confirm against Apple's guides before publishing. Nothing said about Apple Weather (U). 'Not part of Find My' describes the Find My app only, not Apple as a whole."
 ---
 
 > LEGAL REVIEW REQUIRED before publishing: this page names competitors.
 
 # Life360 vs. Find My vs. Looop
 
-**Pill:** and why many families use two
+**Pill:** where, and when to call
 
 **Question:** Comparing Life360 and Apple's Find My?
 
