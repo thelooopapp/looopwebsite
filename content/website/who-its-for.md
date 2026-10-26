@@ -43,6 +43,8 @@ Families don't live on one street anymore. Parents live alone in the house you g
 
 Plenty of us are caring for kids and parents at the same time. Looop puts everyone on one calm screen, so you can tell at a glance who's okay, without panning around a map. It stays quiet while everyone's fine, and sends a nudge when it might be a good time to reach out.
 
+Location sharing tells you where someone is. Looop tells you when it's worth a call, and it works alongside Find My. [See how family safety apps compare](compare/index.html)
+
 ## CTA
 
 **Headline:** Bring your people together.

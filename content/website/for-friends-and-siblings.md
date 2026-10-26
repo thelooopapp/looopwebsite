@@ -61,6 +61,8 @@ Five friends, five cities. A hurricane warning near one city, and the whole chat
 
 The whole group is on one screen, so you can see at a glance who's okay. Each of you chooses which alerts you get, and Health & Fitness sharing is available if you need it.
 
+Already share locations with each other? That shows where your people are. Looop tells you when it's worth a call, and works alongside Find My. [See how family safety apps compare](compare/index.html)
+
 ## Check in, your way
 
 Call, text, or FaceTime in one tap. Send a quick "Love you!" or "Are you ok?". Start a group chat with your whole Looop, or jump over to WhatsApp.

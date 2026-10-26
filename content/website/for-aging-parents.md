@@ -67,6 +67,18 @@ Image: images/home/phone-hospital.webp
 ### "5 Loved Ones in 4 cities."
 **For the stretched-thin.** Parents in two homes, multiple kids in college. One calm screen, and one heads-up when someone needs a call.
 
+## A quiet phone is only one signal
+
+> "Mom hasn't picked up her phone all morning."
+
+**Subtitle:** Looop looks at the whole day.
+
+A phone left on the kitchen counter can just mean a long lunch with friends. Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of her day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
+
+Looop works alongside Find My, Check In, and Health Sharing. Apple's tools live in separate places; Looop brings it all together in one place.
+
+Weighing your options? See [family safety apps compared](compare/index.html), or read [the best apps to check on an aging parent](blog/best-apps-to-check-on-aging-parent.html).
+
 ## A word for your parents
 
 > "I'm fine. I don't need a babysitter."

@@ -99,6 +99,8 @@ Most family apps are built around a map: they answer "Where is she?" Looop answe
 
 Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
+Already share locations as a family? A shared map shows where everyone is. Looop tells you when it's worth a call, and works alongside Find My. [See how family safety apps compare](compare/index.html)
+
 ## "Did Dad make it to the cabin?"
 
 ### Know they got there, without asking

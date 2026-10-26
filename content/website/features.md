@@ -153,6 +153,22 @@ Every stat is marked Typical or Unusual, based only on that person's own pattern
 
 ---
 
+## Looop and other family apps
+
+> "Don't we already share locations?"
+
+**Subtitle:** Safety alerts instead of tracking.
+
+Most family apps are built around a map: they answer "Where is she?" Looop answers "Is Mom okay today?"
+
+Map-based apps put everyone's location front and center, so you check the map to see where people are. Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. It stays quiet when all is well and sends a heads-up when it's worth a call. The family map is there for when you need it.
+
+Already use Find My? Keep it. Looop works alongside Find My, and brings it all together in one place.
+
+[See how family safety apps compare](compare/index.html)
+
+---
+
 ## Questions, answered
 
 **Does Looop track my family?**

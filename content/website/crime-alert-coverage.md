@@ -36,6 +36,8 @@ Looop's Nearby Crime Alerts work in all 50 US states. Wherever your Loved One li
 
 **Note:** An alert means crime was reported nearby. It doesn't mean your Loved One is involved. It's a nudge that it might be a good time to check in. Looop isn't an emergency service. If you think someone is in danger, call 911.
 
+Looop lets each family choose the distance, 1, 3, 5, or 10 miles, and crime is one part of a holistic daily answer about how a Loved One is doing. [See how family safety apps compare](compare/index.html)
+
 ---
 
 ## Know when to check in.

@@ -9,6 +9,7 @@ secondary_keywords:
 persona: "Linda, the independent parent (invitee); Jordan, the college student (invitee)"
 status: draft
 legal_review: false
+legal_notes: "CONFIRM WITH ENGINEERING: privacy label. The 'Our App Store privacy label' section says Looop's label has no 'Data Used to Track You' section and the listing doesn't say 'contains advertising' (checked Oct 26, 2026). Engineering must confirm the label before publishing, and re-confirm at each refresh."
 ---
 
 # Your family's data isn't for sale
@@ -38,6 +39,16 @@ Looop is a private family safety app. Its job is to tell you when to check in, n
 **Subtitle:** No. Looop isn't built for that.
 
 Looop uses only what it needs to tell whether a day looks typical or unusual. It stays quiet when all is well, and speaks up when something seems off. Nothing about your family's movements is ever for sale. Your Loved Ones keep their independence. You keep your peace of mind.
+
+## Our App Store privacy label
+
+> "What does the App Store say about Looop?"
+
+**Subtitle:** Apple's label, in Apple's words.
+
+Every app on the App Store has a privacy label that says what data it collects and how it's used. Looop's App Store privacy label has no "Data Used to Track You" section, and the listing doesn't say "contains advertising." Checked October 26, 2026.
+
+Curious how other family safety apps compare? Read our study of [family safety app privacy labels](research/family-safety-app-privacy-labels.html).
 
 ## Everyone joins by invitation
 

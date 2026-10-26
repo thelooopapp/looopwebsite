@@ -41,6 +41,8 @@ An alert leads to one calm text, so you can skip the ten anxious ones.
 
 Plenty of parents are worried about college kids and their own parents at the same time. Add everyone to one Looop. You'll see who is having a typical day at a glance, and get one heads-up when someone needs a call.
 
+Looop isn't a tracking app for young kids. It's made for grown kids on their own, with alerts instead of tracking, and it works alongside Find My if you already share locations. [See how family safety apps compare](compare/index.html)
+
 ## A word for your student
 
 > "I moved out. Please trust me."
