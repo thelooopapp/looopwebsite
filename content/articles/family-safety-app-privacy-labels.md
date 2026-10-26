@@ -169,7 +169,7 @@ We plan to check these labels again each year and publish what changes.
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day, in one calm answer. Loved Ones join by invitation, Health & Fitness sharing is available and optional, and Looop never sells your data.
+Looop is a safety notifications app for families who care from a distance. It takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day, in one answer. Loved Ones join by invitation, Health & Fitness sharing is available and optional, and Looop never sells your data.
 
 **Your family's data isn't for sale.** No ads, ever. Free for the first two weeks.
 

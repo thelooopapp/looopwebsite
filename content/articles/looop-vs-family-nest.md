@@ -1,7 +1,7 @@
 ---
 title: "Looop vs. Family Nest (Formerly Family360)"
 slug: looop-vs-family-nest
-meta_description: "Looop vs. Family Nest, the app formerly called Family360. Family Nest is a family locator map. Looop sends safety alerts and one calm answer about each day."
+meta_description: "Looop vs. Family Nest, the app formerly called Family360. Family Nest is a family locator map. Looop sends safety alerts and one answer about each day."
 primary_keyword: Family Nest alternative
 secondary_keywords:
   - Family360 alternative

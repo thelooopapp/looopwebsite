@@ -33,7 +33,7 @@ We sorted the apps below by what you need. We recommend other apps where they fi
 | Young kids | Findmykids, Google Family Link | Built for children, with SOS and a loud alarm, or with parental controls |
 | Teen drivers | Life360, GeoZilla | A shared map, driving reports, and crash detection or an emergency alert |
 | Friends and meetups | Glympse | Share a drive or a night out for a set time, with a link that expires |
-| Parents far away | Looop | Weather, crime, and unusual activity in one calm answer each day |
+| Parents far away | Looop | Weather, crime, and unusual activity in one answer each day |
 | Everyone with an iPhone | Apple Find My | Free, and already on your iPhone |
 
 ## For young kids: Findmykids and Google Family Link
@@ -72,8 +72,8 @@ It also offers severe weather alerts, [Safety Incidents](https://support.life360
 
 ## For parents far away: Looop
 
-This one is ours, so weigh what we say here accordingly. Looop is a safety notifications app for families who care from a distance: a parent a few states away, kids at college, a sister who lives alone. Most family apps are built around a map: they answer "Where is she?"  
-Looop answers "Is Mom okay today?"
+This one is ours, so weigh what we say here accordingly. Looop is a safety notifications app for families who care from a distance: a parent a few states away, kids at college, a sister who lives alone.  
+Looop sends a heads-up when a Loved One's day looks different, so you can call.
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. You get a heads-up when severe weather heads toward a Loved One, in more than 50 countries, and when crime is reported nearby, in all 50 US states, at 1, 3, 5, or 10 miles. If driving, walking, or phone activity looks unusual, you get a gentle nudge. Spending alerts and Health & Fitness sharing through Apple Health are available if you need them.
 
@@ -87,9 +87,8 @@ Looop has no ads, ever, and your family's data is never for sale. Looop's App St
 
 If your family uses iPhones, [Find My](https://apps.apple.com/us/app/find-my/id1514844621) is already there, and it's free. Share your location for a set time or until you stop, get [notified](https://support.apple.com/guide/iphone/get-notified-when-a-friends-location-changes-iph843dd79b6/ios) when someone arrives or leaves, and find lost devices and AirTags. On iPhone 14 and later it can share location over satellite. Its App Store label has no "Data Used to Track You" section.
 
-Find My pairs well with almost anything on this list, and Looop works alongside Find My.  
-Find My shows where someone is.  
-Looop tells you when to call.
+Find My pairs well with almost anything on this list.  
+Looop works alongside Find My.
 
 ## Where Looop fits, and where it doesn't
 

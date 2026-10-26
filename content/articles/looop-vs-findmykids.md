@@ -74,7 +74,7 @@ On a typical day, Looop stays quiet. When it might be a good time to check in, i
 
 Looop is for grown-up families: a parent a few states away, kids at college or in a big city, and siblings and friends who look out for each other. Every Loved One joins by invitation and keeps their own routine.
 
-There's nothing new for them to carry. Looop runs on the iPhone they already have.
+There's no GPS watch to buy or charge. Looop runs on the iPhone they already have.
 
 ### No ads, ever, and your family's data is never for sale
 

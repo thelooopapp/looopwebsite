@@ -1,7 +1,7 @@
 ---
 title: "Looop vs. GeoZilla: A Different Kind of Family Safety App"
 slug: looop-vs-geozilla
-meta_description: "Looop vs. GeoZilla, side by side. GeoZilla is a family GPS tracker built around a map. Looop sends safety alerts and one calm answer about each day, no ads."
+meta_description: "Looop vs. GeoZilla, side by side. GeoZilla is a family GPS tracker built around a map. Looop sends safety alerts and one answer about each day, no ads."
 primary_keyword: GeoZilla alternative
 secondary_keywords:
   - Looop vs GeoZilla

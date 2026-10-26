@@ -1,7 +1,7 @@
 ---
 title: "Looop vs. iSharing: A Different Kind of Family Safety App"
 slug: looop-vs-isharing
-meta_description: "Looop vs. iSharing, side by side. iSharing is a GPS location tracker with inactivity alerts. Looop sends safety alerts and one calm answer about each day."
+meta_description: "Looop vs. iSharing, side by side. iSharing is a GPS location tracker with inactivity alerts. Looop sends safety alerts and one answer about each day."
 primary_keyword: iSharing alternative
 secondary_keywords:
   - Looop vs iSharing

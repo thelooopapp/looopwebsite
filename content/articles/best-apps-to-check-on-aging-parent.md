@@ -96,10 +96,7 @@ If Dad still drives to golf every Tuesday, [OnStar Guardian](https://apps.apple.
 
 Its App Store label declares "Data Used to Track You" for usage data.
 
-Help in an emergency is one thing.  
-Knowing when to call, before there is one, is another.
-
-OnStar Guardian and Looop fit together.
+OnStar Guardian and Looop do different jobs, so many families use both.
 
 **Best for:** a parent who drives, whose family wants someone who can send help after a crash.
 
@@ -113,8 +110,8 @@ Looop isn't an emergency service, and it doesn't replace one.
 
 ## Looop
 
-Looop is our app, so read this section with that in mind. It's a safety notifications app for families who care from a distance. Most family apps are built around a map: they answer "Where is she?"  
-Looop answers "Is Mom okay today?"
+Looop is our app, so read this section with that in mind. It's a safety notifications app for families who care from a distance.  
+Looop tells you when Mom's day looks different, so you know when to call.
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of her day. You get a heads-up when severe weather heads toward Mom, in more than 50 countries, and when crime is reported near her, in all 50 US states, at 1, 3, 5, or 10 miles. If driving, walking, or phone activity looks unusual, Looop sends you a nudge.
 
@@ -139,8 +136,10 @@ Looop has no ads, ever, and your family's data is never for sale. Looop's App St
 - **You want to know when to call, with weather, crime, and the shape of her day in one place:** Looop, alongside any of the above.
 
 Many families combine two.  
-Find My shows where she is, and Looop tells you when to call.  
-OnStar Guardian covers the drive, and Looop covers the rest of the day.
+Find My shows where she is.  
+Looop tells you when to call.  
+OnStar Guardian covers the drive.  
+Looop covers the rest of the day.
 
 ## Have the talk first
 
