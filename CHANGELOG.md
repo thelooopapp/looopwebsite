@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-26 09:00 CT
+
+### Copy
+- Fixed the remaining AI-writing tells found by an independent audit, changing words only: the "Where is she? / Is Mom okay today?" pair now appears only on the home page, the comparison hub, and the new-entrant release; repeated sentences across pages reworded; extra contrasts, colon reveals, stacked closers, and recap bullets rewritten; bold label lead-ins in Best Life360 Alternatives turned into sentences; "Data sales" row renamed "Never sells your data."
+
 ## 2026-10-26 08:55 CT
 
 ### Copy
