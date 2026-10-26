@@ -95,16 +95,6 @@ Caring for people you love from far away comes with real questions. When should 
 **Teaser:** The most reliable research on long-distance caregiving in one place, plus practical takeaways for families.
 **Link:** blog/long-distance-caregiving-report.html
 
-### The Best Life360 Alternatives in 2026
-**Eyebrow:** Comparison
-**Teaser:** We compare Apple Find My, Google, Family Link, Glympse, and Looop: what each shares, how it notifies you, and who it fits best.
-**Link:** blog/best-life360-alternatives.html
-
-### Looop vs. Life360
-**Eyebrow:** Comparison
-**Teaser:** How Looop and Life360 differ on alerts, privacy, and ads, with sources, including where Life360 may fit better.
-**Link:** looop-vs-life360.html
-
 ## CTA
 
 **Headline:** Know when to check in.

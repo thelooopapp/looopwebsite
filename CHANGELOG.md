@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-26 22:15 CT
+
+### Copy
+- Hid Looop vs. Life360 and The Best Life360 Alternatives while they're rewritten for Life360's Safety Incidents and Subscription Tracker and the wider competitor set. Both are excluded from the build in `_config.yml` and removed from the Resources index, sitemap, and `llms.txt`. Sources stay in `content/`.
+
 ## 2026-10-23 13:15 CT
 
 ### SEO

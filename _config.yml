@@ -5,3 +5,6 @@ exclude:
   - readme.txt
   - CHANGELOG.md
   - SEO_STRATEGY.md
+  # Hidden for revision (Oct 26, 2026); not published until reviewed.
+  - looop-vs-life360.html
+  - blog/best-life360-alternatives.html
