@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-27 14:05 CT
+
+### New Pages
+- **Add the Looop Home Screen Widget** (`add-widget.html`, image `images/widget-home-screen.jpg`): phone-first how-to with illustrated steps to add the widget, move it to another Home Screen page, and add it to Today View. Unlisted on purpose: not in the nav, footer, sitemap or llms.txt, and `noindex`. The only way in is the app's 4.4 What's New sheet ("Show me how").
+
 ## 2026-10-26 07:30 CT
 
 ### Copy

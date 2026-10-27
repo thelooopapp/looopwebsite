@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <title>Add the Looop Home Screen Widget | Looop</title>
+  <meta name="description" content="How to add the Looop Home Screen Widget on iPhone, and move it to another Home Screen page.">
+  <link rel="stylesheet" href="styles.css?v=1020f">
+  <link rel="icon" type="image/png" href="images/logo_small.png">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    /* Page-only styles for the widget how-to. Reuses the site palette from styles.css. */
+    .widget-page .page-hero { padding-bottom: 0; overflow: hidden; }
+    .widget-page .page-hero h1 { margin-bottom: 14px; }
+    .widget-page .page-hero .lead { margin: 0 auto; }
+    .widget-page .hero-shot { max-width: 400px; margin: 30px auto 0; }
+    .widget-page .hero-shot img {
+      display: block; width: 100%; height: auto;
+      -webkit-mask-image: linear-gradient(to bottom, #000 62%, transparent 100%);
+      mask-image: linear-gradient(to bottom, #000 62%, transparent 100%);
+    }
+    .widget-page .page-hero + .page-section { padding-top: 48px; }
+
+    .widget-page .section-inner > h2 { text-align: center; }
+    .widget-page .section-inner > .section-subtitle { text-align: center; }
+    .widget-page .tip { max-width: 640px; margin: 0 auto 28px; }
+    .widget-page .tip p strong { color: #1E2126; }
+
+    .widget-page .steps { list-style: none; display: grid; grid-template-columns: 1fr; gap: 20px; margin: 0; padding: 0; }
+    .widget-page .step { background: #fff; border-radius: 28px; padding: 14px 14px 22px; box-shadow: 0 2px 10px rgba(20, 30, 50, 0.07); display: flex; flex-direction: column; }
+    .widget-page .step .art { background: #E8EEFB; border-radius: 20px; overflow: hidden; line-height: 0; }
+    .widget-page .step .art svg { display: block; width: 100%; max-width: 300px; height: auto; margin: 0 auto; }
+    .widget-page .step-body { display: flex; gap: 14px; align-items: flex-start; padding: 18px 8px 0; }
+    .widget-page .num { flex: none; width: 34px; height: 34px; border-radius: 50%; background: #1B73C6; color: #fff; font-weight: 800; font-size: 17px; line-height: 34px; text-align: center; }
+    .widget-page .step-body p { margin: 0; color: #1E2126; font-weight: 600; line-height: 1.45; }
+    .widget-page .step-body p.aside { margin-top: 6px; color: #5B626C; font-weight: 500; font-size: 15px; }
+    .widget-page .step-body strong { color: #1B73C6; font-weight: 800; }
+
+    .widget-page .facts { max-width: 760px; margin: 32px auto 0; }
+    .widget-page .facts h3 { margin-bottom: 10px; }
+
+    .widget-page .today { display: grid; grid-template-columns: 1fr; gap: 20px; align-items: center; background: #fff; border-radius: 28px; padding: 14px 14px 24px; box-shadow: 0 2px 10px rgba(20, 30, 50, 0.07); }
+    .widget-page .today .art { background: #E8EEFB; border-radius: 20px; overflow: hidden; line-height: 0; }
+    .widget-page .today .art svg { display: block; width: 100%; max-width: 300px; height: auto; margin: 0 auto; }
+    .widget-page .today-text { padding: 0 8px; }
+    .widget-page .today-text h2 { text-align: left; font-size: clamp(26px, 3.4vw, 36px); }
+    .widget-page .today-text ol { margin: 12px 0 0; padding-left: 22px; }
+    .widget-page .today-text li { margin-bottom: 6px; color: #1E2126; font-weight: 600; }
+    .widget-page #today { padding-top: 16px; }
+    .widget-page .help { text-align: center; margin-top: 32px; }
+
+    @media (min-width: 640px) {
+      .widget-page .steps { grid-template-columns: 1fr 1fr; }
+      .widget-page .today { grid-template-columns: 1fr 1.2fr; padding: 14px 28px 14px 14px; }
+    }
+    @media (min-width: 960px) {
+      .widget-page .steps { grid-template-columns: repeat(3, 1fr); }
+    }
+    @media (max-width: 768px) {
+      .widget-page .page-section { padding-left: 16px; padding-right: 16px; }
+    }
+
+    /* Illustrations */
+    .ill text { font-family: 'Plus Jakarta Sans', -apple-system, system-ui, sans-serif; }
+    .ill .ring { fill: none; stroke: #FF9800; stroke-width: 2.5; }
+    .ill .halo { fill: none; stroke: #FF9800; stroke-opacity: 0.28; stroke-width: 7; }
+    .ill .tap-dot { fill: #FF9800; stroke: #fff; stroke-width: 1.6; }
+    .ill .tap-pulse { fill: #FF9800; fill-opacity: 0.3; transform-box: fill-box; transform-origin: center; animation: tap-pulse 1.6s ease-out infinite; }
+    .ill .jig { transform-box: fill-box; transform-origin: center; animation: jig 0.34s ease-in-out infinite alternate; }
+    .ill .jig.b { animation-delay: -0.17s; animation-direction: alternate-reverse; }
+    @keyframes jig { from { transform: rotate(-2.2deg); } to { transform: rotate(2.2deg); } }
+    @keyframes tap-pulse { 0% { transform: scale(0.6); opacity: 0.9; } 100% { transform: scale(1.5); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .ill .jig, .ill .tap-pulse { animation: none; }
+    }
+  </style>
+</head>
+<body>
+
+<nav class="navbar">
+  <a href="index.html" class="logo"><img src="images/logo_small.png" alt="Looop"><img class="wordmark" src="images/looop-wordmark.png?v=2" alt="" width="301" height="132"></a>
+    <a class="nav-cta" href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111" aria-label="Download Looop on the App Store"><img src="images/appstore-wordmark-white.png" alt="" width="124" height="31"></a>
+  <button class="hamburger" onclick="document.querySelector('.nav-links').classList.toggle('active')" aria-label="Menu"><span></span><span></span><span></span></button>
+  <ul class="nav-links">
+    <li><a href="features.html">How It Works</a></li>
+    <li><a href="who-its-for.html">Who It's For</a></li>
+    <li><a href="privacy-promise.html">Privacy</a></li>
+    <li><a href="blog/index.html">Resources</a></li>
+    <li><a href="index.html#contact">Get in Touch</a></li>
+  </ul>
+</nav>
+
+<!-- Shared drawing parts for the step illustrations -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0.45" y2="1">
+      <stop offset="0" stop-color="#5B86D8"/>
+      <stop offset="0.55" stop-color="#6E73C8"/>
+      <stop offset="1" stop-color="#8E6CB8"/>
+    </linearGradient>
+    <linearGradient id="todaywall" x1="0" y1="0" x2="0.45" y2="1">
+      <stop offset="0" stop-color="#3E5E9E"/>
+      <stop offset="1" stop-color="#5A4C8C"/>
+    </linearGradient>
+    <clipPath id="scr" clipPathUnits="userSpaceOnUse"><rect x="36" y="20" width="148" height="320" rx="24"/></clipPath>
+    <filter id="lift" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#141E32" flood-opacity="0.28"/></filter>
+    <symbol id="phone" viewBox="0 0 220 240">
+      <rect x="30" y="14" width="160" height="330" rx="30" fill="#1E2126"/>
+      <rect x="36" y="20" width="148" height="320" rx="24" fill="url(#wall)"/>
+    </symbol>
+    <symbol id="island" viewBox="0 0 220 240">
+      <rect x="90" y="26" width="40" height="11" rx="5.5" fill="#1E2126"/>
+    </symbol>
+    <symbol id="status" viewBox="0 0 220 240">
+      <text x="54" y="35" font-size="9" font-weight="800" fill="#fff">9:41</text>
+      <path d="M145 35 l7 -7 v7 z" fill="#fff"/>
+      <rect x="156" y="28.5" width="13" height="6.5" rx="2" fill="none" stroke="#fff" stroke-width="1.2"/>
+      <rect x="158" y="30.3" width="9" height="3" rx="0.8" fill="#fff"/>
+    </symbol>
+    <symbol id="tile" viewBox="0 0 26 32">
+      <rect width="26" height="26" rx="7" fill="currentColor"/>
+      <rect x="5" y="29" width="16" height="3" rx="1.5" fill="#fff" fill-opacity="0.55"/>
+    </symbol>
+    <!-- The Looop Medium widget: four Loved Ones, photo ring, weather badge, Safe / Check in pill -->
+    <symbol id="wd" viewBox="0 0 128 66">
+      <rect width="128" height="66" rx="14" fill="#fff"/>
+      <path d="M0 32 H128 V52 a14 14 0 0 1 -14 14 H14 a14 14 0 0 1 -14 -14 Z" fill="#ECECEE"/>
+      <g>
+        <circle cx="19" cy="22" r="12" fill="#fff" stroke="#4CAF50" stroke-width="2.2"/>
+        <circle cx="19" cy="22" r="9.5" fill="#DCE6F5"/><circle cx="19" cy="19.5" r="3.6" fill="#93A3BE"/><path d="M13.5 29.5 a5.5 5 0 0 1 11 0 Z" fill="#93A3BE"/>
+        <circle cx="28" cy="31" r="4.2" fill="#4CAF50" stroke="#fff" stroke-width="1.2"/>
+        <rect x="7" y="41" width="24" height="12" rx="6" fill="#4CAF50"/><text x="19" y="49.4" font-size="6.6" font-weight="800" fill="#fff" text-anchor="middle">Safe</text>
+      </g>
+      <g>
+        <circle cx="49" cy="22" r="12" fill="#fff" stroke="#F57C00" stroke-width="2.2"/>
+        <circle cx="49" cy="22" r="9.5" fill="#F6E3D2"/><circle cx="49" cy="19.5" r="3.6" fill="#C8A58A"/><path d="M43.5 29.5 a5.5 5 0 0 1 11 0 Z" fill="#C8A58A"/>
+        <circle cx="58" cy="31" r="4.2" fill="#F57C00" stroke="#fff" stroke-width="1.2"/>
+        <rect x="33" y="41" width="32" height="12" rx="6" fill="#F57C00"/><text x="49" y="49.4" font-size="6.6" font-weight="800" fill="#fff" text-anchor="middle">Check in</text>
+      </g>
+      <g>
+        <circle cx="79" cy="22" r="12" fill="#fff" stroke="#4CAF50" stroke-width="2.2"/>
+        <circle cx="79" cy="22" r="9.5" fill="#FBE7EA"/><circle cx="79" cy="19.5" r="3.6" fill="#D2A2AA"/><path d="M73.5 29.5 a5.5 5 0 0 1 11 0 Z" fill="#D2A2AA"/>
+        <circle cx="88" cy="31" r="4.2" fill="#4CAF50" stroke="#fff" stroke-width="1.2"/>
+        <rect x="67" y="41" width="24" height="12" rx="6" fill="#4CAF50"/><text x="79" y="49.4" font-size="6.6" font-weight="800" fill="#fff" text-anchor="middle">Safe</text>
+      </g>
+      <g>
+        <circle cx="109" cy="22" r="12" fill="#fff" stroke="#4CAF50" stroke-width="2.2"/>
+        <circle cx="109" cy="22" r="9.5" fill="#E2EEDF"/><circle cx="109" cy="19.5" r="3.6" fill="#8FAF8A"/><path d="M103.5 29.5 a5.5 5 0 0 1 11 0 Z" fill="#8FAF8A"/>
+        <circle cx="118" cy="31" r="4.2" fill="#4CAF50" stroke="#fff" stroke-width="1.2"/>
+        <rect x="97" y="41" width="24" height="12" rx="6" fill="#4CAF50"/><text x="109" y="49.4" font-size="6.6" font-weight="800" fill="#fff" text-anchor="middle">Safe</text>
+      </g>
+    </symbol>
+  </defs>
+</svg>
+
+<main class="inner-page widget-page">
+  <section class="page-hero">
+    <h1>Add the Looop Home Screen&nbsp;Widget</h1>
+    <p class="lead">See every Loved One at a glance without opening the&nbsp;app.</p>
+    <div class="hero-shot">
+      <img src="images/widget-home-screen.jpg" width="990" height="1060" alt="An iPhone Home Screen with the Looop widget at the top, showing Dad, Mom, Sis and Uncle Tony. Mom has an orange Check in pill and the others have a green Safe pill.">
+    </div>
+  </section>
+
+  <section class="page-section" id="add">
+    <div class="section-inner">
+      <h2>Add the widget to your Home&nbsp;Screen</h2>
+      <p class="section-subtitle">Five quick steps. It takes about a&nbsp;minute.</p>
+
+      <div class="note tip">
+        <p><strong>Before you start:</strong> open the Looop app once and make sure you're signed in. That way the widget has your Loved Ones to&nbsp;show.</p>
+      </div>
+
+      <ol class="steps">
+        <!-- Step 1: touch and hold until the apps jiggle -->
+        <li class="step">
+          <div class="art">
+            <svg class="ill" viewBox="0 0 220 240" role="img" aria-label="A Home Screen with jiggling app icons and a finger holding an empty spot">
+              <use href="#phone" width="220" height="240"/>
+              <g clip-path="url(#scr)">
+                <use href="#status" width="220" height="240"/>
+                <use class="jig" href="#tile" x="47" y="60" width="26" height="32" style="color:#F6B26B"/>
+                <use class="jig b" href="#tile" x="81" y="60" width="26" height="32" style="color:#8FD19E"/>
+                <use class="jig" href="#tile" x="115" y="60" width="26" height="32" style="color:#7FB3E8"/>
+                <use class="jig b" href="#tile" x="149" y="60" width="26" height="32" style="color:#F28B82"/>
+                <use class="jig b" href="#tile" x="47" y="100" width="26" height="32" style="color:#FDD663"/>
+                <use class="jig" href="#tile" x="81" y="100" width="26" height="32" style="color:#C3A6E8"/>
+                <use class="jig b" href="#tile" x="115" y="100" width="26" height="32" style="color:#F0F2F7"/>
+                <use class="jig" href="#tile" x="149" y="100" width="26" height="32" style="color:#80CBC4"/>
+                <use class="jig" href="#tile" x="47" y="140" width="26" height="32" style="color:#F28B82"/>
+                <use class="jig b" href="#tile" x="81" y="140" width="26" height="32" style="color:#7FB3E8"/>
+                <g transform="translate(140 198)">
+                  <circle class="tap-pulse" r="13"/>
+                  <circle class="tap-dot" r="6.5"/>
+                </g>
+                <text x="140" y="226" font-size="8.5" font-weight="800" fill="#fff" text-anchor="middle">Hold</text>
+              </g>
+              <use href="#island" width="220" height="240"/>
+            </svg>
+          </div>
+          <div class="step-body"><span class="num">1</span><div><p>Touch and hold an empty spot on your Home Screen until the apps&nbsp;jiggle.</p></div></div>
+        </li>
+
+        <!-- Step 2: Edit, then Add Widget -->
+        <li class="step">
+          <div class="art">
+            <svg class="ill" viewBox="0 0 220 240" role="img" aria-label="The Edit button in the top-left corner is open, with Add Widget highlighted in its menu">
+              <use href="#phone" width="220" height="240"/>
+              <g clip-path="url(#scr)">
+                <use class="jig" href="#tile" x="47" y="60" width="26" height="32" style="color:#F6B26B"/>
+                <use class="jig b" href="#tile" x="81" y="60" width="26" height="32" style="color:#8FD19E"/>
+                <use class="jig" href="#tile" x="115" y="60" width="26" height="32" style="color:#7FB3E8"/>
+                <use class="jig b" href="#tile" x="149" y="60" width="26" height="32" style="color:#F28B82"/>
+                <use class="jig b" href="#tile" x="47" y="100" width="26" height="32" style="color:#FDD663"/>
+                <use class="jig" href="#tile" x="81" y="100" width="26" height="32" style="color:#C3A6E8"/>
+                <use class="jig b" href="#tile" x="115" y="100" width="26" height="32" style="color:#F0F2F7"/>
+                <use class="jig" href="#tile" x="149" y="100" width="26" height="32" style="color:#80CBC4"/>
+                <use class="jig" href="#tile" x="47" y="140" width="26" height="32" style="color:#F28B82"/>
+                <use class="jig b" href="#tile" x="81" y="140" width="26" height="32" style="color:#7FB3E8"/>
+                <rect x="36" y="20" width="148" height="320" fill="#141E32" fill-opacity="0.32"/>
+                <!-- Edit and Done -->
+                <rect x="46" y="30" width="34" height="16" rx="8" fill="#fff" fill-opacity="0.92"/>
+                <text x="63" y="41" font-size="8.5" font-weight="800" fill="#1E2126" text-anchor="middle">Edit</text>
+                <rect x="43" y="27" width="40" height="22" rx="11" class="ring"/>
+                <rect x="140" y="30" width="36" height="16" rx="8" fill="#fff" fill-opacity="0.6"/>
+                <text x="158" y="41" font-size="8.5" font-weight="800" fill="#1E2126" fill-opacity="0.7" text-anchor="middle">Done</text>
+                <!-- Menu -->
+                <g filter="url(#lift)">
+                  <rect x="46" y="54" width="104" height="72" rx="12" fill="#fff"/>
+                </g>
+                <rect x="46" y="77.5" width="104" height="0.8" fill="#E1E4EA"/>
+                <rect x="46" y="101.5" width="104" height="0.8" fill="#E1E4EA"/>
+                <text x="56" y="69.5" font-size="8.5" font-weight="800" fill="#1E2126">Add Widget</text>
+                <rect x="130" y="60" width="11" height="11" rx="3" fill="none" stroke="#1E2126" stroke-width="1.2"/><path d="M135.5 63 v5 M133 65.5 h5" stroke="#1E2126" stroke-width="1.2" stroke-linecap="round"/>
+                <text x="56" y="93.5" font-size="8.5" font-weight="600" fill="#5B626C">Customize</text>
+                <text x="56" y="117.5" font-size="8.5" font-weight="600" fill="#5B626C">Edit Pages</text>
+                <rect x="43" y="51" width="110" height="29.5" rx="12" class="halo"/>
+                <rect x="43" y="51" width="110" height="29.5" rx="12" class="ring"/>
+                <g transform="translate(120 74)">
+                  <circle class="tap-pulse" r="11"/>
+                  <circle class="tap-dot" r="5.5"/>
+                </g>
+              </g>
+              <use href="#island" width="220" height="240"/>
+            </svg>
+          </div>
+          <div class="step-body"><span class="num">2</span><div>
+            <p>Tap <strong>Edit</strong> in the top-left corner, then <strong>Add&nbsp;Widget</strong>.</p>
+            <p class="aside">On iOS 17, tap the <strong>+</strong> button in the top-left corner&nbsp;instead.</p>
+          </div></div>
+        </li>
+
+        <!-- Step 3: search for Looop -->
+        <li class="step">
+          <div class="art">
+            <svg class="ill" viewBox="0 0 220 240" role="img" aria-label="The widget gallery with Looop typed in the search field and the Looop result highlighted">
+              <use href="#phone" width="220" height="240"/>
+              <g clip-path="url(#scr)">
+                <rect x="36" y="20" width="148" height="320" fill="#141E32" fill-opacity="0.32"/>
+                <rect x="36" y="44" width="148" height="300" rx="18" fill="#F7F8FA"/>
+                <rect x="98" y="49" width="24" height="3" rx="1.5" fill="#C9CED6"/>
+                <rect x="47" y="60" width="126" height="22" rx="11" fill="#E6E9EF"/>
+                <circle cx="59" cy="70.5" r="3.6" fill="none" stroke="#6B7280" stroke-width="1.3"/><path d="M61.6 73.1 l2.6 2.6" stroke="#6B7280" stroke-width="1.3" stroke-linecap="round"/>
+                <text x="70" y="74.5" font-size="9.5" font-weight="700" fill="#1E2126">Looop</text>
+                <rect x="100.5" y="65" width="1.2" height="12" fill="#1B73C6"/>
+                <rect x="47" y="92" width="126" height="34" rx="10" fill="#fff"/>
+                <rect x="53" y="97" width="24" height="24" rx="6.5" fill="#fff" stroke="#E1E4EA" stroke-width="0.8"/>
+                <image href="images/logo_small.png" x="56" y="100" width="18" height="18"/>
+                <text x="84" y="112.5" font-size="10" font-weight="800" fill="#1E2126">Looop</text>
+                <path d="M160 105 l4 4 -4 4" fill="none" stroke="#9AA1AC" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+                <rect x="44" y="89" width="132" height="40" rx="12" class="halo"/>
+                <rect x="44" y="89" width="132" height="40" rx="12" class="ring"/>
+                <g transform="translate(140 110)">
+                  <circle class="tap-pulse" r="11"/>
+                  <circle class="tap-dot" r="5.5"/>
+                </g>
+                <!-- Keyboard -->
+                <rect x="36" y="166" width="148" height="90" fill="#D3D7DE"/>
+                <g fill="#fff">
+                  <rect x="40" y="172" width="11" height="15" rx="2.5"/><rect x="54" y="172" width="11" height="15" rx="2.5"/><rect x="68" y="172" width="11" height="15" rx="2.5"/><rect x="82" y="172" width="11" height="15" rx="2.5"/><rect x="96" y="172" width="11" height="15" rx="2.5"/><rect x="110" y="172" width="11" height="15" rx="2.5"/><rect x="124" y="172" width="11" height="15" rx="2.5"/><rect x="138" y="172" width="11" height="15" rx="2.5"/><rect x="152" y="172" width="11" height="15" rx="2.5"/><rect x="166" y="172" width="11" height="15" rx="2.5"/>
+                  <rect x="47" y="192" width="11" height="15" rx="2.5"/><rect x="61" y="192" width="11" height="15" rx="2.5"/><rect x="75" y="192" width="11" height="15" rx="2.5"/><rect x="89" y="192" width="11" height="15" rx="2.5"/><rect x="103" y="192" width="11" height="15" rx="2.5"/><rect x="117" y="192" width="11" height="15" rx="2.5"/><rect x="131" y="192" width="11" height="15" rx="2.5"/><rect x="145" y="192" width="11" height="15" rx="2.5"/><rect x="159" y="192" width="11" height="15" rx="2.5"/>
+                  <rect x="61" y="212" width="11" height="15" rx="2.5"/><rect x="75" y="212" width="11" height="15" rx="2.5"/><rect x="89" y="212" width="11" height="15" rx="2.5"/><rect x="103" y="212" width="11" height="15" rx="2.5"/><rect x="117" y="212" width="11" height="15" rx="2.5"/><rect x="131" y="212" width="11" height="15" rx="2.5"/><rect x="145" y="212" width="11" height="15" rx="2.5"/>
+                  <rect x="68" y="232" width="84" height="15" rx="2.5"/>
+                </g>
+              </g>
+              <use href="#island" width="220" height="240"/>
+            </svg>
+          </div>
+          <div class="step-body"><span class="num">3</span><div><p>Search for <strong>Looop</strong> (or scroll to it) and tap&nbsp;it.</p></div></div>
+        </li>
+
+        <!-- Step 4: Add Widget -->
+        <li class="step">
+          <div class="art">
+            <svg class="ill" viewBox="0 0 220 240" role="img" aria-label="The Loved Ones at a Glance widget preview with the Add Widget button highlighted">
+              <use href="#phone" width="220" height="240"/>
+              <g clip-path="url(#scr)">
+                <rect x="36" y="20" width="148" height="320" fill="#141E32" fill-opacity="0.32"/>
+                <rect x="36" y="44" width="148" height="300" rx="18" fill="#F7F8FA"/>
+                <rect x="98" y="49" width="24" height="3" rx="1.5" fill="#C9CED6"/>
+                <text x="110" y="68" font-size="10" font-weight="800" fill="#1E2126" text-anchor="middle">Loved Ones at a Glance</text>
+                <text x="110" y="80" font-size="6.6" font-weight="500" fill="#5B626C" text-anchor="middle">See your Loved Ones at a glance,</text>
+                <text x="110" y="89" font-size="6.6" font-weight="500" fill="#5B626C" text-anchor="middle">right from your Home Screen.</text>
+                <g filter="url(#lift)"><use href="#wd" x="46" y="100" width="128" height="66"/></g>
+                <circle cx="110" cy="178" r="2.2" fill="#1E2126"/>
+                <rect x="60" y="192" width="100" height="26" rx="13" fill="#1B73C6"/>
+                <path d="M70 205 h7 M73.5 201.5 v7" stroke="#fff" stroke-width="1.6" stroke-linecap="round"/>
+                <text x="106" y="208.5" font-size="9" font-weight="800" fill="#fff" text-anchor="middle">Add Widget</text>
+                <rect x="56" y="188" width="108" height="34" rx="17" class="halo"/>
+                <rect x="56" y="188" width="108" height="34" rx="17" class="ring"/>
+                <g transform="translate(148 211)">
+                  <circle class="tap-pulse" r="11"/>
+                  <circle class="tap-dot" r="5.5"/>
+                </g>
+              </g>
+              <use href="#island" width="220" height="240"/>
+            </svg>
+          </div>
+          <div class="step-body"><span class="num">4</span><div>
+            <p>Tap <strong>Add&nbsp;Widget</strong>.</p>
+            <p class="aside">Looop has one size, Medium. In the gallery it's called Loved Ones at a&nbsp;Glance.</p>
+          </div></div>
+        </li>
+
+        <!-- Step 5: place it, then Done -->
+        <li class="step">
+          <div class="art">
+            <svg class="ill" viewBox="0 0 220 240" role="img" aria-label="The Looop widget placed at the top of the Home Screen, with the Done button highlighted">
+              <use href="#phone" width="220" height="240"/>
+              <g clip-path="url(#scr)">
+                <rect x="140" y="30" width="36" height="16" rx="8" fill="#fff" fill-opacity="0.92"/>
+                <text x="158" y="41" font-size="8.5" font-weight="800" fill="#1E2126" text-anchor="middle">Done</text>
+                <rect x="46" y="30" width="34" height="16" rx="8" fill="#fff" fill-opacity="0.6"/>
+                <text x="63" y="41" font-size="8.5" font-weight="800" fill="#1E2126" fill-opacity="0.7" text-anchor="middle">Edit</text>
+                <g class="jig b"><g filter="url(#lift)"><use href="#wd" x="47" y="58" width="128" height="66"/></g></g>
+                <use class="jig" href="#tile" x="47" y="136" width="26" height="32" style="color:#F6B26B"/>
+                <use class="jig b" href="#tile" x="81" y="136" width="26" height="32" style="color:#8FD19E"/>
+                <use class="jig" href="#tile" x="115" y="136" width="26" height="32" style="color:#7FB3E8"/>
+                <use class="jig b" href="#tile" x="149" y="136" width="26" height="32" style="color:#F28B82"/>
+                <use class="jig b" href="#tile" x="47" y="176" width="26" height="32" style="color:#FDD663"/>
+                <use class="jig" href="#tile" x="81" y="176" width="26" height="32" style="color:#C3A6E8"/>
+                <use class="jig b" href="#tile" x="115" y="176" width="26" height="32" style="color:#F0F2F7"/>
+                <use class="jig" href="#tile" x="149" y="176" width="26" height="32" style="color:#80CBC4"/>
+                <rect x="137" y="27" width="42" height="22" rx="11" class="halo"/>
+                <rect x="137" y="27" width="42" height="22" rx="11" class="ring"/>
+                <g transform="translate(176 49)">
+                  <circle class="tap-pulse" r="11"/>
+                  <circle class="tap-dot" r="5.5"/>
+                </g>
+              </g>
+              <use href="#island" width="220" height="240"/>
+            </svg>
+          </div>
+          <div class="step-body"><span class="num">5</span><div><p>Drag it where you want it, then tap <strong>Done</strong>.</p></div></div>
+        </li>
+      </ol>
+
+      <div class="facts">
+        <h3>What you'll see</h3>
+        <ul class="check-list">
+          <li>Up to four Loved Ones, each with their photo and the weather where they&nbsp;are.</li>
+          <li>A green <strong>Safe</strong> or an orange <strong>Check in</strong> under each&nbsp;one.</li>
+          <li>The widget follows whichever group you have open in the Looop&nbsp;app.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-section" id="move">
+    <div class="section-inner">
+      <h2>Move it to another Home Screen&nbsp;page</h2>
+      <p class="section-subtitle">Want it on a different page? Drag it&nbsp;across.</p>
+
+      <ol class="steps">
+        <!-- Move 1: hold the widget, Edit Home Screen -->
+        <li class="step">
+          <div class="art">
+            <svg class="ill" viewBox="0 0 220 240" role="img" aria-label="A finger holding the Looop widget, with Edit Home Screen highlighted in the menu below it">
+              <use href="#phone" width="220" height="240"/>
+              <g clip-path="url(#scr)">
+                <use href="#status" width="220" height="240"/>
+                <use href="#tile" x="47" y="136" width="26" height="32" style="color:#F6B26B"/>
+                <use href="#tile" x="81" y="136" width="26" height="32" style="color:#8FD19E"/>
+                <use href="#tile" x="115" y="136" width="26" height="32" style="color:#7FB3E8"/>
+                <use href="#tile" x="149" y="136" width="26" height="32" style="color:#F28B82"/>
+                <use href="#tile" x="47" y="176" width="26" height="32" style="color:#FDD663"/>
+                <use href="#tile" x="81" y="176" width="26" height="32" style="color:#C3A6E8"/>
+                <use href="#tile" x="115" y="176" width="26" height="32" style="color:#F0F2F7"/>
+                <use href="#tile" x="149" y="176" width="26" height="32" style="color:#80CBC4"/>
+                <rect x="36" y="20" width="148" height="320" fill="#141E32" fill-opacity="0.38"/>
+                <g filter="url(#lift)"><use href="#wd" x="47" y="58" width="128" height="66"/></g>
+                <g filter="url(#lift)"><rect x="47" y="132" width="116" height="50" rx="12" fill="#fff"/></g>
+                <rect x="47" y="156.6" width="116" height="0.8" fill="#E1E4EA"/>
+                <text x="56" y="148.5" font-size="8.5" font-weight="800" fill="#1E2126">Edit Home Screen</text>
+                <rect x="142" y="138.5" width="10" height="14" rx="2.5" fill="none" stroke="#1E2126" stroke-width="1.2"/>
+                <text x="56" y="173" font-size="8.5" font-weight="600" fill="#D93025">Remove Widget</text>
+                <circle cx="147" cy="170" r="5" fill="none" stroke="#D93025" stroke-width="1.2"/><path d="M144.5 170 h5" stroke="#D93025" stroke-width="1.2" stroke-linecap="round"/>
+                <rect x="44" y="129" width="122" height="30" rx="12" class="halo"/>
+                <rect x="44" y="129" width="122" height="30" rx="12" class="ring"/>
+                <g transform="translate(134 151)">
+                  <circle class="tap-pulse" r="11"/>
+                  <circle class="tap-dot" r="5.5"/>
+                </g>
+                <circle cx="80" cy="96" r="7" fill="#fff" fill-opacity="0.55" stroke="#fff" stroke-width="1.5"/>
+              </g>
+              <use href="#island" width="220" height="240"/>
+            </svg>
+          </div>
+          <div class="step-body"><span class="num">1</span><div><p>Touch and hold the widget, then tap <strong>Edit Home Screen</strong>.</p>
+            <p class="aside">Or just keep holding until everything&nbsp;jiggles.</p></div></div>
+        </li>
+
+        <!-- Move 2: drag to the edge -->
+        <li class="step">
+          <div class="art">
+            <svg class="ill" viewBox="0 0 220 240" role="img" aria-label="The Looop widget being dragged to the right edge of the screen, with an arrow pointing to the next page">
+              <use href="#phone" width="220" height="240"/>
+              <g clip-path="url(#scr)">
+                <rect x="140" y="30" width="36" height="16" rx="8" fill="#fff" fill-opacity="0.6"/>
+                <text x="158" y="41" font-size="8.5" font-weight="800" fill="#1E2126" fill-opacity="0.7" text-anchor="middle">Done</text>
+                <rect x="47" y="58" width="128" height="66" rx="14" fill="#fff" fill-opacity="0.12" stroke="#fff" stroke-opacity="0.7" stroke-width="1.4" stroke-dasharray="5 4"/>
+                <use class="jig" href="#tile" x="47" y="136" width="26" height="32" style="color:#F6B26B"/>
+                <use class="jig b" href="#tile" x="81" y="136" width="26" height="32" style="color:#8FD19E"/>
+                <use class="jig" href="#tile" x="115" y="136" width="26" height="32" style="color:#7FB3E8"/>
+                <use class="jig b" href="#tile" x="149" y="136" width="26" height="32" style="color:#F28B82"/>
+                <rect x="172" y="20" width="12" height="320" fill="#fff" fill-opacity="0.22"/>
+                <g filter="url(#lift)"><use href="#wd" x="112" y="80" width="128" height="66" transform="rotate(-3 176 113)"/></g>
+                <g transform="translate(140 118)">
+                  <circle class="tap-pulse" r="11"/>
+                  <circle class="tap-dot" r="5.5"/>
+                </g>
+                <path d="M66 196 H164" stroke="#FF9800" stroke-width="4" stroke-linecap="round"/>
+                <path d="M154 186 L166 196 L154 206" fill="none" stroke="#FF9800" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+                <circle cx="104" cy="226" r="2.4" fill="#fff"/>
+                <circle cx="116" cy="226" r="2.4" fill="#fff" fill-opacity="0.45"/>
+              </g>
+              <use href="#island" width="220" height="240"/>
+            </svg>
+          </div>
+          <div class="step-body"><span class="num">2</span><div><p>Drag the widget to the right or left edge of the screen. Wait for the next page to slide&nbsp;in.</p></div></div>
+        </li>
+
+        <!-- Move 3: let go, Done -->
+        <li class="step">
+          <div class="art">
+            <svg class="ill" viewBox="0 0 220 240" role="img" aria-label="The Looop widget on the next Home Screen page, with the Done button highlighted">
+              <use href="#phone" width="220" height="240"/>
+              <g clip-path="url(#scr)">
+                <rect x="140" y="30" width="36" height="16" rx="8" fill="#fff" fill-opacity="0.92"/>
+                <text x="158" y="41" font-size="8.5" font-weight="800" fill="#1E2126" text-anchor="middle">Done</text>
+                <g class="jig"><g filter="url(#lift)"><use href="#wd" x="47" y="58" width="128" height="66"/></g></g>
+                <use class="jig b" href="#tile" x="47" y="136" width="26" height="32" style="color:#80CBC4"/>
+                <use class="jig" href="#tile" x="81" y="136" width="26" height="32" style="color:#FDD663"/>
+                <circle cx="104" cy="226" r="2.4" fill="#fff" fill-opacity="0.45"/>
+                <circle cx="116" cy="226" r="2.4" fill="#fff"/>
+                <rect x="137" y="27" width="42" height="22" rx="11" class="halo"/>
+                <rect x="137" y="27" width="42" height="22" rx="11" class="ring"/>
+                <g transform="translate(176 49)">
+                  <circle class="tap-pulse" r="11"/>
+                  <circle class="tap-dot" r="5.5"/>
+                </g>
+              </g>
+              <use href="#island" width="220" height="240"/>
+            </svg>
+          </div>
+          <div class="step-body"><span class="num">3</span><div><p>Let go where you want it, then tap <strong>Done</strong>.</p></div></div>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="page-section" id="today">
+    <div class="section-inner narrow">
+      <div class="today">
+        <div class="art">
+          <svg class="ill" viewBox="0 0 220 240" role="img" aria-label="Today View with widgets stacked and the Edit button at the bottom highlighted">
+            <use href="#phone" width="220" height="240"/>
+            <g clip-path="url(#scr)">
+              <rect x="36" y="20" width="148" height="320" fill="url(#todaywall)"/>
+              <use href="#status" width="220" height="240"/>
+              <rect x="47" y="52" width="126" height="20" rx="10" fill="#fff" fill-opacity="0.25"/>
+              <circle cx="59" cy="62" r="3.4" fill="none" stroke="#fff" stroke-width="1.2"/><path d="M61.5 64.5 l2.4 2.4" stroke="#fff" stroke-width="1.2" stroke-linecap="round"/>
+              <rect x="47" y="80" width="60" height="60" rx="14" fill="#fff" fill-opacity="0.3"/>
+              <rect x="113" y="80" width="60" height="60" rx="14" fill="#fff" fill-opacity="0.3"/>
+              <g filter="url(#lift)"><use href="#wd" x="46" y="144" width="128" height="66"/></g>
+              <rect x="92" y="216" width="36" height="16" rx="8" fill="#fff" fill-opacity="0.92"/>
+              <text x="110" y="227" font-size="8.5" font-weight="800" fill="#1E2126" text-anchor="middle">Edit</text>
+              <rect x="89" y="213" width="42" height="22" rx="11" class="halo"/>
+              <rect x="89" y="213" width="42" height="22" rx="11" class="ring"/>
+              <g transform="translate(128 232)">
+                <circle class="tap-pulse" r="11"/>
+                <circle class="tap-dot" r="5.5"/>
+              </g>
+            </g>
+            <use href="#island" width="220" height="240"/>
+          </svg>
+        </div>
+        <div class="today-text">
+          <h2>Want it in Today View&nbsp;too?</h2>
+          <ol>
+            <li>Swipe right on your first Home Screen&nbsp;page.</li>
+            <li>Scroll to the bottom and tap <strong>Edit</strong>.</li>
+            <li>Add the Looop widget the same way as&nbsp;above.</li>
+          </ol>
+        </div>
+      </div>
+      <p class="help">Still stuck? Send us a note through our <a href="index.html#contact" class="text-link">Get in Touch</a> form. We read&nbsp;everything.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="footer-content">
+    <div class="footer-col footer-brand">
+      <a href="index.html" class="footer-home" aria-label="Looop home"><img src="images/looop-wordmark-white.png" alt="Looop" class="footer-logo" width="300" height="131" loading="lazy"></a>
+      <p class="footer-tagline">Know they're safe, across any distance.</p>
+    </div>
+    <nav class="footer-col" aria-label="Product">
+      <h4>Product</h4>
+      <ul>
+        <li><a href="features.html">How It Works</a></li>
+        <li><a href="privacy-promise.html">Our Privacy Promise</a></li>
+        <li><a href="who-its-for.html">Who It's For</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-col" aria-label="Who it's for">
+      <h4>Who It's For</h4>
+      <ul>
+        <li><a href="for-aging-parents.html">Aging Parents</a></li>
+        <li><a href="for-college-families.html">College Families</a></li>
+        <li><a href="for-friends-and-siblings.html">Friends and Siblings</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-col" aria-label="Company">
+      <h4>Company</h4>
+      <ul>
+        <li><a href="press/index.html">Newsroom</a></li>
+        <li><a href="blog/index.html">Resources</a></li>
+        <li><a href="index.html#contact">Get in Touch</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-col" aria-label="Legal">
+      <h4>Legal</h4>
+      <ul>
+        <li><a href="privacy.html">Privacy Policy</a></li>
+        <li><a href="useragreement.html">User Agreement</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="footer-bottom">&copy; 2026 LooopApp LLC</div>
+</footer>
+
+</body>
+</html>
