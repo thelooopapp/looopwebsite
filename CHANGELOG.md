@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-27 14:20 CT
+
+### Home page
+- **New Home Screen Widget banner** in the blue animated banner's old spot, right above "Is everyone okay today?": "Loved Ones safe? At a glance." / "New Home Screen Widget. A nudge when it's time to call." It's an exact copy of the Weather Grid banner (same liquid fill, tilted phone, "Try it free" to the App Store). New image `images/home/phone-widget.webp` (660 × 1276, same size and shadow as the Weather Grid phone): a Home Screen with the Looop widget on top, Dad, Sis and Uncle Tony Safe in green, Mom Check in in orange, and the other widgets and icons as faint shapes.
+- **Weather Grid banner moved down** to sit after "Storm near Mom? You'll know.", next to the other weather content.
+
 ## 2026-10-27 14:05 CT
 
 ### New Pages

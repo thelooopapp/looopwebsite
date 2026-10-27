@@ -99,10 +99,10 @@
     <div class="wrap">
       <a class="grown-banner grown-banner--weather" href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111">
         <div>
-          <p class="gb-title">Weather, all together, at a&nbsp;glance.</p>
-          <p class="gb-sub"><span>Every Loved One's</span> <span>5-day forecast, side by&nbsp;side.</span></p>
+          <p class="gb-title">Loved Ones safe? At a&nbsp;glance.</p>
+          <p class="gb-sub"><span>New Home Screen Widget.</span> <span>A nudge when it's time to&nbsp;call.</span></p>
         </div>
-        <img class="gb-phone" loading="lazy" src="images/home/phone-weather-grid.webp" width="660" height="1276" alt="Looop Weather Grid showing the 5-day forecast for Tony in San Diego, Bud in Austin, Mom in Chicago, and Sis in Madrid, side by side">
+        <img class="gb-phone" loading="lazy" src="images/home/phone-widget.webp" width="660" height="1276" alt="iPhone Home Screen with the Looop widget at the top: Dad, Sis and Uncle Tony marked Safe in green, and Mom marked Check in in orange">
         <span class="gb-cta">Try it free &rarr;</span>
       </a>
 
@@ -146,6 +146,15 @@
           <p>Hear about severe weather heading their way, in more than 50 countries, including the US, and crime reported nearby in all 50 US states. At the lake house, on a wine tour, or studying abroad, you'll know before they have to&nbsp;call.</p>
         </div>
       </div>
+
+      <a class="grown-banner grown-banner--weather" href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111">
+        <div>
+          <p class="gb-title">Weather, all together, at a&nbsp;glance.</p>
+          <p class="gb-sub"><span>Every Loved One's</span> <span>5-day forecast, side by&nbsp;side.</span></p>
+        </div>
+        <img class="gb-phone" loading="lazy" src="images/home/phone-weather-grid.webp" width="660" height="1276" alt="Looop Weather Grid showing the 5-day forecast for Tony in San Diego, Bud in Austin, Mom in Chicago, and Sis in Madrid, side by side">
+        <span class="gb-cta">Try it free &rarr;</span>
+      </a>
 
       <div class="trio">
         <article>
@@ -298,7 +307,7 @@
         btn.setAttribute('aria-expanded', open ? 'true' : 'false');
       });
     })();
-    // Banners (purple to the Like360 page, blue Weather Grid to the App Store): pale base, then a liquid fill
+    // Banners (purple to the Like360 page, blue Home Screen Widget and Weather Grid to the App Store): pale base, then a liquid fill
     // from the left once each is in view. Without IntersectionObserver, or with reduced motion, they stay finished.
     (function () {
       if (!('IntersectionObserver' in window) || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
