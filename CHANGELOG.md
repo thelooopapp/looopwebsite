@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-27 14:30 CT
+
+### Copy
+- **Widget how-to drawings** (`add-widget.html`): calmer jiggle (about half the wobble, a touch slower, and less again on big pieces), and the Home Screens now mix single small icons, a wide row widget and a large square widget instead of all small icons.
+
 ## 2026-10-27 14:20 CT
 
 ### Home page

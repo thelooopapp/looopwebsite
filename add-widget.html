@@ -67,9 +67,13 @@
     .ill .halo { fill: none; stroke: #FF9800; stroke-opacity: 0.28; stroke-width: 7; }
     .ill .tap-dot { fill: #FF9800; stroke: #fff; stroke-width: 1.6; }
     .ill .tap-pulse { fill: #FF9800; fill-opacity: 0.3; transform-box: fill-box; transform-origin: center; animation: tap-pulse 1.6s ease-out infinite; }
-    .ill .jig { transform-box: fill-box; transform-origin: center; animation: jig 0.34s ease-in-out infinite alternate; }
-    .ill .jig.b { animation-delay: -0.17s; animation-direction: alternate-reverse; }
-    @keyframes jig { from { transform: rotate(-2.2deg); } to { transform: rotate(2.2deg); } }
+    .ill .jig { transform-box: fill-box; transform-origin: center; animation: jig 0.42s ease-in-out infinite alternate; }
+    .ill .jig.lg { animation-name: jig-lg; }
+    .ill .jig.row { animation-name: jig-row; }
+    .ill .jig.b { animation-delay: -0.21s; animation-direction: alternate-reverse; }
+    @keyframes jig { from { transform: rotate(-1.1deg); } to { transform: rotate(1.1deg); } }
+    @keyframes jig-lg { from { transform: rotate(-0.6deg); } to { transform: rotate(0.6deg); } }
+    @keyframes jig-row { from { transform: rotate(-0.35deg); } to { transform: rotate(0.35deg); } }
     @keyframes tap-pulse { 0% { transform: scale(0.6); opacity: 0.9; } 100% { transform: scale(1.5); opacity: 0; } }
     @media (prefers-reduced-motion: reduce) {
       .ill .jig, .ill .tap-pulse { animation: none; }
@@ -117,6 +121,14 @@
       <path d="M145 35 l7 -7 v7 z" fill="#fff"/>
       <rect x="156" y="28.5" width="13" height="6.5" rx="2" fill="none" stroke="#fff" stroke-width="1.2"/>
       <rect x="158" y="30.3" width="9" height="3" rx="0.8" fill="#fff"/>
+    </symbol>
+    <symbol id="tile-row" viewBox="0 0 128 32">
+      <rect width="128" height="26" rx="8" fill="currentColor"/>
+      <rect x="49" y="29" width="30" height="3" rx="1.5" fill="#fff" fill-opacity="0.55"/>
+    </symbol>
+    <symbol id="tile-big" viewBox="0 0 60 66">
+      <rect width="60" height="60" rx="12" fill="currentColor"/>
+      <rect x="18" y="63" width="24" height="3" rx="1.5" fill="#fff" fill-opacity="0.55"/>
     </symbol>
     <symbol id="tile" viewBox="0 0 26 32">
       <rect width="26" height="26" rx="7" fill="currentColor"/>
@@ -180,16 +192,12 @@
               <use href="#phone" width="220" height="240"/>
               <g clip-path="url(#scr)">
                 <use href="#status" width="220" height="240"/>
-                <use class="jig" href="#tile" x="47" y="60" width="26" height="32" style="color:#F6B26B"/>
-                <use class="jig b" href="#tile" x="81" y="60" width="26" height="32" style="color:#8FD19E"/>
-                <use class="jig" href="#tile" x="115" y="60" width="26" height="32" style="color:#7FB3E8"/>
-                <use class="jig b" href="#tile" x="149" y="60" width="26" height="32" style="color:#F28B82"/>
-                <use class="jig b" href="#tile" x="47" y="100" width="26" height="32" style="color:#FDD663"/>
-                <use class="jig" href="#tile" x="81" y="100" width="26" height="32" style="color:#C3A6E8"/>
-                <use class="jig b" href="#tile" x="115" y="100" width="26" height="32" style="color:#F0F2F7"/>
-                <use class="jig" href="#tile" x="149" y="100" width="26" height="32" style="color:#80CBC4"/>
-                <use class="jig" href="#tile" x="47" y="140" width="26" height="32" style="color:#F28B82"/>
-                <use class="jig b" href="#tile" x="81" y="140" width="26" height="32" style="color:#7FB3E8"/>
+                <use class="jig lg" href="#tile-big" x="47" y="60" width="60" height="66" style="color:#7FB3E8"/>
+                <use class="jig" href="#tile" x="115" y="60" width="26" height="32" style="color:#F6B26B"/>
+                <use class="jig b" href="#tile" x="149" y="60" width="26" height="32" style="color:#8FD19E"/>
+                <use class="jig b" href="#tile" x="115" y="100" width="26" height="32" style="color:#F28B82"/>
+                <use class="jig" href="#tile" x="149" y="100" width="26" height="32" style="color:#C3A6E8"/>
+                <use class="jig row b" href="#tile-row" x="47" y="140" width="128" height="32" style="color:#FDD663"/>
                 <g transform="translate(140 198)">
                   <circle class="tap-pulse" r="13"/>
                   <circle class="tap-dot" r="6.5"/>
@@ -208,16 +216,12 @@
             <svg class="ill" viewBox="0 0 220 240" role="img" aria-label="The Edit button in the top-left corner is open, with Add Widget highlighted in its menu">
               <use href="#phone" width="220" height="240"/>
               <g clip-path="url(#scr)">
-                <use class="jig" href="#tile" x="47" y="60" width="26" height="32" style="color:#F6B26B"/>
-                <use class="jig b" href="#tile" x="81" y="60" width="26" height="32" style="color:#8FD19E"/>
-                <use class="jig" href="#tile" x="115" y="60" width="26" height="32" style="color:#7FB3E8"/>
-                <use class="jig b" href="#tile" x="149" y="60" width="26" height="32" style="color:#F28B82"/>
-                <use class="jig b" href="#tile" x="47" y="100" width="26" height="32" style="color:#FDD663"/>
-                <use class="jig" href="#tile" x="81" y="100" width="26" height="32" style="color:#C3A6E8"/>
-                <use class="jig b" href="#tile" x="115" y="100" width="26" height="32" style="color:#F0F2F7"/>
-                <use class="jig" href="#tile" x="149" y="100" width="26" height="32" style="color:#80CBC4"/>
-                <use class="jig" href="#tile" x="47" y="140" width="26" height="32" style="color:#F28B82"/>
-                <use class="jig b" href="#tile" x="81" y="140" width="26" height="32" style="color:#7FB3E8"/>
+                <use class="jig lg" href="#tile-big" x="47" y="60" width="60" height="66" style="color:#7FB3E8"/>
+                <use class="jig" href="#tile" x="115" y="60" width="26" height="32" style="color:#F6B26B"/>
+                <use class="jig b" href="#tile" x="149" y="60" width="26" height="32" style="color:#8FD19E"/>
+                <use class="jig b" href="#tile" x="115" y="100" width="26" height="32" style="color:#F28B82"/>
+                <use class="jig" href="#tile" x="149" y="100" width="26" height="32" style="color:#C3A6E8"/>
+                <use class="jig row b" href="#tile-row" x="47" y="140" width="128" height="32" style="color:#FDD663"/>
                 <rect x="36" y="20" width="148" height="320" fill="#141E32" fill-opacity="0.32"/>
                 <!-- Edit and Done -->
                 <rect x="46" y="30" width="34" height="16" rx="8" fill="#fff" fill-opacity="0.92"/>
@@ -336,12 +340,9 @@
                 <g class="jig b"><g filter="url(#lift)"><use href="#wd" x="47" y="58" width="128" height="66"/></g></g>
                 <use class="jig" href="#tile" x="47" y="136" width="26" height="32" style="color:#F6B26B"/>
                 <use class="jig b" href="#tile" x="81" y="136" width="26" height="32" style="color:#8FD19E"/>
-                <use class="jig" href="#tile" x="115" y="136" width="26" height="32" style="color:#7FB3E8"/>
-                <use class="jig b" href="#tile" x="149" y="136" width="26" height="32" style="color:#F28B82"/>
+                <use class="jig lg b" href="#tile-big" x="115" y="136" width="60" height="66" style="color:#80CBC4"/>
                 <use class="jig b" href="#tile" x="47" y="176" width="26" height="32" style="color:#FDD663"/>
                 <use class="jig" href="#tile" x="81" y="176" width="26" height="32" style="color:#C3A6E8"/>
-                <use class="jig b" href="#tile" x="115" y="176" width="26" height="32" style="color:#F0F2F7"/>
-                <use class="jig" href="#tile" x="149" y="176" width="26" height="32" style="color:#80CBC4"/>
                 <rect x="137" y="27" width="42" height="22" rx="11" class="halo"/>
                 <rect x="137" y="27" width="42" height="22" rx="11" class="ring"/>
                 <g transform="translate(176 49)">
@@ -382,12 +383,9 @@
                 <use href="#status" width="220" height="240"/>
                 <use href="#tile" x="47" y="136" width="26" height="32" style="color:#F6B26B"/>
                 <use href="#tile" x="81" y="136" width="26" height="32" style="color:#8FD19E"/>
-                <use href="#tile" x="115" y="136" width="26" height="32" style="color:#7FB3E8"/>
-                <use href="#tile" x="149" y="136" width="26" height="32" style="color:#F28B82"/>
+                <use href="#tile-big" x="115" y="136" width="60" height="66" style="color:#80CBC4"/>
                 <use href="#tile" x="47" y="176" width="26" height="32" style="color:#FDD663"/>
                 <use href="#tile" x="81" y="176" width="26" height="32" style="color:#C3A6E8"/>
-                <use href="#tile" x="115" y="176" width="26" height="32" style="color:#F0F2F7"/>
-                <use href="#tile" x="149" y="176" width="26" height="32" style="color:#80CBC4"/>
                 <rect x="36" y="20" width="148" height="320" fill="#141E32" fill-opacity="0.38"/>
                 <g filter="url(#lift)"><use href="#wd" x="47" y="58" width="128" height="66"/></g>
                 <g filter="url(#lift)"><rect x="47" y="132" width="116" height="50" rx="12" fill="#fff"/></g>
@@ -420,10 +418,7 @@
                 <rect x="140" y="30" width="36" height="16" rx="8" fill="#fff" fill-opacity="0.6"/>
                 <text x="158" y="41" font-size="8.5" font-weight="800" fill="#1E2126" fill-opacity="0.7" text-anchor="middle">Done</text>
                 <rect x="47" y="58" width="128" height="66" rx="14" fill="#fff" fill-opacity="0.12" stroke="#fff" stroke-opacity="0.7" stroke-width="1.4" stroke-dasharray="5 4"/>
-                <use class="jig" href="#tile" x="47" y="136" width="26" height="32" style="color:#F6B26B"/>
-                <use class="jig b" href="#tile" x="81" y="136" width="26" height="32" style="color:#8FD19E"/>
-                <use class="jig" href="#tile" x="115" y="136" width="26" height="32" style="color:#7FB3E8"/>
-                <use class="jig b" href="#tile" x="149" y="136" width="26" height="32" style="color:#F28B82"/>
+                <use class="jig row" href="#tile-row" x="47" y="136" width="128" height="32" style="color:#C3A6E8"/>
                 <rect x="172" y="20" width="12" height="320" fill="#fff" fill-opacity="0.22"/>
                 <g filter="url(#lift)"><use href="#wd" x="112" y="80" width="128" height="66" transform="rotate(-3 176 113)"/></g>
                 <g transform="translate(140 118)">
