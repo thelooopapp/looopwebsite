@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-29 11:30 CT
+
+### Copy
+- Published the rewritten Looop vs. Life360 page and made it indexable: Life360's Safety Incidents described as a map layer members can turn on or off, health and spending ahead of crime where crime was the difference, the Subscription Tracker transaction-data quote, and a "What Life360 does well" section. Back on the Resources page, in the sitemap, and in llms.txt. Links to comparison pages that aren't published yet are left out of this copy.
+
 ## 2026-10-27 14:30 CT
 
 ### Copy
