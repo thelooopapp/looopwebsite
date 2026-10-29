@@ -38,12 +38,12 @@ Looop is a safety notifications app for families caring from a distance, built a
 | --- | --- | --- |
 | Built around | Safety notifications: is today a typical day, or one that might be worth a call? | A live map. Its App Store name is "iSharing: GPS Location Tracker" |
 | Who it's for | Adult children caring for a parent from a distance, and families spread across cities, states, and countries | Parents of kids, couples, and an "Elderly Care" pitch for older parents |
-| For an older parent | An Unusual Day, a phone untouched for hours, weather, and crime. Spending alerts and Health & Fitness sharing are available | Inactivity alerts when an older person doesn't use their phone ("Elderly Care") |
+| For an older parent | Health, fitness, and spending alerts if she chooses to share, an Unusual Day, a phone untouched for hours, weather, and crime | Inactivity alerts when an older person doesn't use their phone ("Elderly Care") |
+| Health | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not listed |
+| Spending alerts | Optional: a heads-up about an unusually large charge on a linked account, through Plaid | Not listed |
+| A daily answer | Each day, one answer: a Typical Day, or an Unusual Day that might be worth a call | Not listed |
 | Weather alerts | Severe weather alerts in more than 50 countries | Not listed |
 | Crime alerts | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Not listed |
-| Spending alerts | Optional: a heads-up about an unusually large charge on a linked account, through Plaid | Not listed |
-| Health | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not listed |
-| A daily answer | Each day, one answer: a Typical Day, or an Unusual Day that might be worth a call | Not listed |
 | SOS | No SOS service or dispatch. 911 and up to three emergency contacts are one tap away | A panic or SOS alert with recorded sound |
 | Driving | A nudge when a drive looks unusual. No crash detection | Driving reports on speeding, sudden braking, and phone use (Gold and up) |
 | Map and history | A family map, as a supporting feature, for after a nudge | Real-time location with Street View, place alerts, and location history from 7 days to 1 year, by plan |

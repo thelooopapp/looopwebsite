@@ -39,11 +39,11 @@ Looop is a safety notifications app that works alongside it. It sends one daily 
 | Built around | Safety notifications: is today a typical day, or one that might be worth a call? | Find My: people, devices, and AirTags on a map. Check In: according to [Apple's guide](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/web), a session in Messages for one trip or a set time |
 | Who starts it | Nothing for your Loved One to start. Looop works quietly in the background once they've joined | Check In: Apple says the person being checked on starts each session, with a timer or a destination |
 | Where it lives | All in one place, on one screen | Separate places: Find My, Messages, and the Health app |
+| Health | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Apple says Health Sharing, in the Health app, lets a person share Health data with family |
+| Spending alerts | Optional: a heads-up about an unusually large charge on a linked account, through Plaid | Not listed |
+| A daily answer | Each day, one answer: a Typical Day, or an Unusual Day that might be worth a call | Not listed |
 | Weather | Severe weather alerts in more than 50 countries | Apple's Weather app is separate from Find My |
 | Crime alerts | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Not listed |
-| Spending alerts | Optional: a heads-up about an unusually large charge on a linked account, through Plaid | Not listed |
-| Health | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Apple says Health Sharing, in the Health app, lets a person share Health data with family |
-| A daily answer | Each day, one answer: a Typical Day, or an Unusual Day that might be worth a call | Not listed |
 | Location | A family map, as a supporting feature, for after a nudge | Share location with friends and family for a set time or until you stop, and know when a family member arrives home |
 | Lost devices and items | Not offered | Find a lost iPhone, iPad, Mac, AirPods, or AirTag, and share an AirTag with up to five people |
 | No cell service | Not offered | Share location over satellite on iPhone 14 and later |
@@ -96,7 +96,7 @@ You don't have to open Find My, then Messages, then the Health app. Each day, al
 ### Looop speaks up on its own
 
 You don't have to open Looop to hear from it.\
-It tells you about a storm heading her way, crime reported nearby, or a day that looks unusual.
+It tells you when her health, spending, or day looks unusual, when a storm heads her way, or when crime is reported nearby.
 
 ### Built for parents and the people who love them
 
@@ -124,7 +124,7 @@ Mom keeps sharing her location in Find My, finding her phone, and using Check In
 
 ### Add Looop for the day
 
-Looop sends you one heads-up when a storm heads toward her, when crime is reported near her, or when her day looks unusual. Quiet means all is well.
+Looop sends you one heads-up when her health, spending, or day looks unusual, when a storm heads toward her, or when crime is reported near her. Quiet means all is well.
 
 ### Then reach out
 
@@ -160,7 +160,7 @@ We never sell your data, and we don't work with advertisers. [Read our privacy p
 ## Questions families ask
 
 **Do I need Looop if Mom already shares her location in Find My?**
-Find My shows where she is when you look. Looop tells you when a storm heads her way, when crime is reported nearby, or when her day looks unusual, so you know when to call. Many families use both.
+Find My shows where she is when you look. Looop tells you when her health, spending, or day looks unusual, when a storm heads her way, or when crime is reported nearby, so you know when to call. Many families use both.
 
 **Can I use Find My and Looop together?**
 Yes. Looop works alongside Find My. Keep Find My for her phone, her AirTags, and sharing location. Looop runs on its own and adds the heads-up about her day.

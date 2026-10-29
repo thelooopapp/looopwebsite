@@ -37,11 +37,11 @@ Looop is a safety notifications app for families caring from a distance, and it 
 | --- | --- | --- |
 | Built around | Safety notifications: is today a typical day, or one that might be worth a call? | A family map, with location sharing in circles. Its App Store subtitle is "Family GPS tracker" |
 | Who it's for | Adult children caring for a parent from a distance, and families spread across cities, states, and countries | Families. Its description says it suits "an elderly loved one or teenager" |
+| Health | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not listed |
+| Spending alerts | Optional: a heads-up about an unusually large charge on a linked account, through Plaid | Not listed |
+| A daily answer | Each day, one answer: a Typical Day, or an Unusual Day that might be worth a call | Not listed |
 | Weather alerts | Severe weather alerts in more than 50 countries | Not listed |
 | Crime alerts | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Not listed |
-| Spending alerts | Optional: a heads-up about an unusually large charge on a linked account, through Plaid | Not listed |
-| Health | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not listed |
-| A daily answer | Each day, one answer: a Typical Day, or an Unusual Day that might be worth a call | Not listed |
 | SOS | No SOS service or dispatch. 911 and up to three emergency contacts are one tap away | A help alert that tells family when a member "is in danger and requires help" |
 | Driving | A nudge when a drive looks unusual. No crash detection | Alerts for speeding and phone use while driving (Premium) |
 | Map and history | A family map, as a supporting feature, for after a nudge | Place alerts, daily location history, check-ins, and chat |

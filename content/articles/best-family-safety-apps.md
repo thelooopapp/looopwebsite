@@ -33,7 +33,7 @@ We sorted the apps below by what you need. We recommend other apps where they fi
 | Young kids | Findmykids, Google Family Link | Built for children, with SOS and a loud alarm, or with parental controls |
 | Teen drivers | Life360, GeoZilla | A shared map, driving reports, and crash detection or an emergency alert |
 | Friends and meetups | Glympse | Share a drive or a night out for a set time, with a link that expires |
-| Parents far away | Looop | Weather, crime, and unusual activity in one answer each day |
+| Parents far away | Looop | Health, spending, and unusual activity in one answer each day |
 | Everyone with an iPhone | Apple Find My | Free, and already on your iPhone |
 
 ## For young kids: Findmykids and Google Family Link

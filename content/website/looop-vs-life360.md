@@ -52,12 +52,12 @@ Below, we compare the two with sources, including where Life360 may be the bette
 | No advertisers, no ads in your alerts | Yes. No advertisers | No. Ad business, including Uber offers in notifications |
 | Built to tell you when to check in | Yes. Quiet until it matters | No. Built around a live map and location history |
 | Unusual Day alerts, based on their own routine | Yes. Included | No. Wellness checks described to investors as in development |
-| Nearby crime alerts, at a distance you choose | Yes. All 50 US states, 1 to 10 miles | Partly. Safety Incidents on its map, within one mile, from the last six hours |
-| Severe weather heads-up with no ads attached | Yes. Included | Partly. Weather alerts, with weather-based ad targeting announced |
+| Apple Watch health and fitness alerts, no extra app | Yes. Through Apple Health | Partly. A separate watch app |
 | A heads-up about an unusually large charge | Yes. Optional, via Plaid | Partly. Subscription Tracker for recurring charges; reimbursement after a loss on paid plans |
 | Bank data never used for ads | Yes. Never used for ads or sold | No. Its terms say transaction data may be used for ads |
+| Nearby crime alerts, at a distance you choose | Yes. All 50 US states, 1 to 10 miles | Partly. Safety Incidents on its map, within one mile, from the last six hours |
+| Severe weather heads-up with no ads attached | Yes. Included | Partly. Weather alerts, with weather-based ad targeting announced |
 | Hospital, police, and airport arrival alerts, automatically | Yes. Included | Partly. Alerts for places you save, plus flight landings |
-| Apple Watch health and fitness alerts, no extra app | Yes. Through Apple Health | Partly. A separate watch app |
 | Built only for people | Yes. Just your people | No. Shares the app with pets and item trackers |
 
 Life360 details as checked October 6, 2026, from the sources listed below. Safety Incidents and Subscription Tracker checked October 26, 2026. [See where Life360 may fit better](#where-life360-fits).
@@ -70,7 +70,7 @@ Life360 details as checked October 6, 2026, from the sources listed below. Safet
 | --- | --- | --- |
 | What it is | A safety notifications app: alerts that tell you when to check in | A GPS location tracking app: a live family map plus location history |
 | Built for | People caring from a distance: aging parents, kids at college, siblings, and friends who look out for each other | Families of every stage on one map, plus pets and Tile item trackers in the same app. |
-| What you're notified about | Nearby crime (all 50 US states), severe weather, unusual activity, an Unusual Day, arrivals and departures at saved places, arrivals at a hospital, police station, or airport, a phone untouched for hours, and low battery. Health & Fitness sharing and spending alerts are available if you need them. | Arrivals and departures at saved places, no-shows, flight landings, severe weather, and recent high-severity incidents within one mile in the US (Safety Incidents). Paid plans add crash detection. |
+| What you're notified about | Health, fitness, and spending alerts if a Loved One chooses to share, unusual activity, an Unusual Day, nearby crime (all 50 US states), severe weather, arrivals and departures at saved places, arrivals at a hospital, police station, or airport, a phone untouched for hours, and low battery. Health & Fitness sharing and spending alerts are available if you need them. | Arrivals and departures at saved places, no-shows, flight landings, severe weather, and recent high-severity incidents within one mile in the US (Safety Incidents). Paid plans add crash detection. |
 | Approach to location | Just enough to know if something unusual is going on. A family map is there for when you need it. | Precision GPS tracking: continuous location, with your movements recorded and stored for 2 to 30 days depending on plan |
 | Driving | A nudge when a drive looks unusual, and a heads-up when they finish a drive | Driving details recorded and stored |
 | Independence | Loved Ones live their day. Looop only speaks up when something looks off. | Records and stores everywhere you go, so family can see where you are now and up to 30 days of where you've been |
@@ -109,6 +109,24 @@ Looop never sells your data and doesn't work with advertisers. There are no ads 
 
 Life360's ad business is growing fast. It reported [$22 million in ad revenue in Q2 2026](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517), up 315% from a year earlier. Members who land at an airport can get an [Uber ride offer](https://www.life360.com/en-us/press/life360-unveils-advertising-platform-to-connect-brands-with-its-engaged-community-of-40-million-u-s-monthly-active-users) in their landing notification, and its [Place Ads](https://www.life360.com/press/life360-enhances-ad-platform-launch-place-ads-and-uplift) reach families based on the places they visit. Life360 also has a history of selling location data to a dozen data brokers.
 
+### No extra watch app needed
+
+If your Loved One wears an Apple Watch and adds Health & Fitness sharing, Looop reads that data through Apple Health on their iPhone. Nothing new to install on the watch.
+
+Life360 solves a different problem. It released a separate [Life360 for Watch](https://appgoblin.info/apps/6748967349) app in June 2026 for people who wear a watch without carrying a phone, and described it as in beta on its Q2 2026 call.
+
+### A heads-up about an unusually large charge
+
+If you link a bank account, Looop can let you know about unusually large spending, with a threshold you set. A sudden large payment can be an early sign of a scam, so you can call Mom that same day. Bank linking is optional, runs through Plaid, and is never used for ads or sold.
+
+Life360's free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker), launched in May 2026, does a different job: it pulls in recurring charges across your Circle and alerts you to price changes, new subscriptions, and renewals. Its [premium plans](https://www.life360.com/en-ca/plans-pricing-ap) include identity theft protection and stolen-funds reimbursement, which help after a loss. At a [Goldman Sachs conference](https://in.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-5589446) in September 2026, it said it is working on scam protection for aging parents.
+
+### Your bank data stays out of ads
+
+Both apps can link a bank account through Plaid. In Looop, it's optional, used only for your family's spending alerts, and never used for ads or sold. Your family's data isn't for sale.
+
+Life360's Subscription Tracker connects checking accounts and credit cards through Plaid, for members 18 and older in the US. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere." [What does Life360's Subscription Tracker do with bank data?](looop-vs-life360.html#faq)
+
 ### Weather alerts with no ads attached
 
 When severe weather heads toward a Loved One, Looop tells you, in more than 50 countries, including the US. The alert is about the storm and nothing else. It might be a good time to call.
@@ -123,18 +141,6 @@ Life360 shows crime too. Its [Safety Incidents](https://support.life360.com/hc/e
 
 In Looop, crime is one part of a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call. [What do Life360's Safety Incidents show?](looop-vs-life360.html#faq)
 
-### A heads-up about an unusually large charge
-
-If you link a bank account, Looop can let you know about unusually large spending, with a threshold you set. A sudden large payment can be an early sign of a scam, so you can call Mom that same day. Bank linking is optional, runs through Plaid, and is never used for ads or sold.
-
-Life360's free [Subscription Tracker](https://www.life360.com/blog/subscription-tracker), launched in May 2026, does a different job: it pulls in recurring charges across your Circle and alerts you to price changes, new subscriptions, and renewals. Its [premium plans](https://www.life360.com/en-ca/plans-pricing-ap) include identity theft protection and stolen-funds reimbursement, which help after a loss. At a [Goldman Sachs conference](https://in.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-5589446) in September 2026, it said it is working on scam protection for aging parents.
-
-### Your bank data stays out of ads
-
-Both apps can link a bank account through Plaid. In Looop, it's optional, used only for your family's spending alerts, and never used for ads or sold. Your family's data isn't for sale.
-
-Life360's Subscription Tracker connects checking accounts and credit cards through Plaid, for members 18 and older in the US. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere." [What does Life360's Subscription Tracker do with bank data?](looop-vs-life360.html#faq)
-
 ### Looop sticks to one job
 
 Looop is built to tell you when to check in, and it uses only what it needs to tell whether something unusual is going on.
@@ -146,12 +152,6 @@ Life360 is aiming wider. In a [May 2026 post](https://chrishulls.medium.com/life
 Looop is built around people and their routines. Mom keeps her day, and you get a heads-up when it's worth a call.
 
 Life360 brings people, pets, and things into one app. Its [App Store listing](https://apps.apple.com/us/app/life360-family-safety-gps/id384830320) includes Tile trackers for items and a Pet GPS, and in [August 2026](https://investors.life360.com/news-releases/news-release-details/life360-announces-new-pet-care-products-so-no-one-forgets-fido) it added new pet products, including a Pet Tag and activity alerts for dogs. That's handy for a busy household.
-
-### No extra watch app needed
-
-If your Loved One wears an Apple Watch and adds Health & Fitness sharing, Looop reads that data through Apple Health on their iPhone. Nothing new to install on the watch.
-
-Life360 solves a different problem. It released a separate [Life360 for Watch](https://appgoblin.info/apps/6748967349) app in June 2026 for people who wear a watch without carrying a phone, and described it as in beta on its Q2 2026 call.
 
 ## Where Life360 may fit better
 

@@ -46,7 +46,7 @@ Each kind of app answers a different worry:
 | GeoZilla | A family map with location history | Arrivals and departures, an Emergency Alert, and driving | Weekly, monthly, or yearly plans, from $5.99 a week |
 | OnStar Guardian | Emergency help for drivers, in any vehicle | Crash response to an OnStar advisor, and arrival alerts | $15 a month, or included for OnStar members |
 | Medical alert services | Emergency response for older adults | Varies by service. Some add daily check-ins | Varies |
-| Looop | Safety notifications: one answer each day | Severe weather, nearby crime, unusual activity, and a Typical or Unusual Day. Spending alerts and Health & Fitness sharing if you need them | Free for the first two weeks |
+| Looop | Safety notifications: one answer each day | Health, fitness, and spending alerts if she chooses to share, unusual activity, severe weather, nearby crime, and a Typical or Unusual Day | Free for the first two weeks |
 
 ## Apple's built-in tools: Find My, Check In, and Health Sharing
 
@@ -133,7 +133,7 @@ Looop has no ads, ever, and your family's data is never for sale. Looop's App St
 - **One map for teens and grandparents, with a watch app:** GeoZilla.
 - **Your parent still drives, and you want help after a crash:** OnStar Guardian.
 - **Your parent wants a direct way to reach help:** a medical alert service.
-- **You want to know when to call, with weather, crime, and the shape of her day in one place:** Looop, alongside any of the above.
+- **You want to know when to call, with her health, spending, and the shape of her day in one place:** Looop, alongside any of the above.
 
 Many families combine two.  
 Find My shows where she is.  

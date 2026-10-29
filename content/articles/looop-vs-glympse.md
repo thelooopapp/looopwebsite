@@ -35,7 +35,7 @@ Looop is a safety notifications app that runs every day and tells you when it mi
 | Built for | Families who care from a distance: a parent far away, kids at college, siblings, and friends | Sharing with friends, family, coworkers, or clients while you're on the way |
 | How sharing works | Loved Ones join your Looop by invitation, and it works quietly in the background | You start a share for a set time, and "location sharing expires automatically" |
 | Who can view | Everyone joins Looop on iPhone | Anyone you send a link to, in any browser, with no sign-up |
-| What you hear about | Severe weather, nearby crime, unusual activity, and a daily Typical Day or Unusual Day. Health & Fitness sharing and spending alerts are available if you need them. | Live shares, private Groups, and ETAs |
+| What you hear about | Health, fitness, and spending alerts if a Loved One chooses to share, unusual activity, severe weather, nearby crime, and a daily Typical Day or Unusual Day. | Live shares, private Groups, and ETAs |
 | Weather and crime alerts | Severe weather in more than 50 countries, and nearby crime in all 50 US states, at 1, 3, 5, or 10 miles | Not listed on its App Store page |
 | Platforms | iPhone | iPhone and iPad; viewers on any device or browser |
 | Price | Free for the first two weeks | Free to share; Premium Share $9.99 a month or $99.99 a year |

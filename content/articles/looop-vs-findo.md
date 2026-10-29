@@ -56,7 +56,7 @@ Checked October 26, 2026, on Findo's App Store listing.
 ## What Looop adds
 
 **Question:** "What would Looop add for us?"
-**Subtitle:** Looop checks the weather, crime, and routine around each Loved One.  
+**Subtitle:** Looop looks at each Loved One's health, spending, and routine, plus the weather and crime nearby.  
 It tells you when a day looks different, so you know when to call.
 
 ### One answer each day

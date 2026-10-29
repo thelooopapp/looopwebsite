@@ -36,7 +36,7 @@ Looop is a safety notifications app that tells you when Dad's day might be worth
 | In an emergency | Looop isn't an emergency service. It doesn't call 911, send help, or detect crashes. | An Emergency button reaches a 24/7 OnStar Advisor who can send first responders |
 | After a crash | Not offered | Mobile Crash Response connects to an OnStar Advisor |
 | Roadside help | Not offered | Roadside assistance, including up to four tows a year |
-| Every day | Severe weather, nearby crime, unusual activity, and a daily Typical Day or Unusual Day. Health & Fitness sharing and spending alerts are available if you need them. | Location sharing with arrival alerts |
+| Every day | Health, fitness, and spending alerts if a Loved One chooses to share, unusual activity, severe weather, nearby crime, and a daily Typical Day or Unusual Day. | Location sharing with arrival alerts |
 | Sharing | Invite the Loved Ones you choose | Share with up to seven people |
 | Price | Free for the first two weeks | $15 a month on its own, or included for OnStar members |
 | App Store privacy label | No "Data Used to Track You" section | Declares "Data Used to Track You": Usage Data, with third-party advertising among the purposes |
@@ -69,7 +69,7 @@ Severe weather alerts cover more than 50 countries, and nearby crime alerts cove
 
 Most days, Looop stays quiet. It sends a nudge when it might be a good time to check in. There's a family map, too, for when you need it.
 
-Looop speaks up about a storm heading toward Dad's town, crime reported near Mom's neighborhood, or a day that doesn't look like their usual.
+Looop speaks up when their health, spending, or day doesn't look like their usual, when a storm heads toward Dad's town, or when crime is reported near Mom's neighborhood.
 
 ### Made for parents who live on their own
 

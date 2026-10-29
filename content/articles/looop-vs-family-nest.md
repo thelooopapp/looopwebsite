@@ -44,11 +44,11 @@ Everything below compares Looop with the app as it's listed today.
 | --- | --- | --- |
 | Built around | Safety notifications: is today a typical day, or one that might be worth a call? | A shared family map, with live location sharing in private groups it calls Nests |
 | Who it's for | Adult children caring for a parent from a distance, and families spread across cities, states, and countries | Parents and kids, new drivers, couples, and travel groups. Its description lists "Elderly care: gentle arrival and departure alerts" as one use |
+| Health | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not listed |
+| Spending alerts | Optional: a heads-up about an unusually large charge on a linked account, through Plaid | Not listed |
+| A daily answer | Each day, one answer: a Typical Day, or an Unusual Day that might be worth a call | Not listed |
 | Weather alerts | Severe weather alerts in more than 50 countries | Weather is shown in the app. Alerts are not listed |
 | Crime alerts | Nearby crime alerts in all 50 US states, at 1, 3, 5, or 10 miles | Not listed |
-| Spending alerts | Optional: a heads-up about an unusually large charge on a linked account, through Plaid | Not listed |
-| Health | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not listed |
-| A daily answer | Each day, one answer: a Typical Day, or an Unusual Day that might be worth a call | Not listed |
 | SOS | No SOS service or dispatch. 911 and up to three emergency contacts are one tap away | SOS, on the free plan |
 | Driving | A nudge when a drive looks unusual. No crash detection | Over-speed alerts, plus a weekly Nest Drive driving score |
 | Map and history | A family map, as a supporting feature, for after a nudge | Live map, place alerts, and trip sharing. Premium adds up to 365 days of history |
@@ -152,7 +152,7 @@ Its privacy policy, effective September 23, 2026, says: "We do not sell personal
 Yes. Looop works on its own, so a family might keep Family Nest for the kids' phones and add Looop for a parent in another state.
 
 **Does Looop work for aging parents?**
-Yes, it's built for checking on a parent from a distance. You'll hear about a storm heading her way, crime reported nearby, or a day that looks unusual, so you know when to call. And we're an Austin company you can email at support@thelooopapp.com.
+Yes, it's built for checking on a parent from a distance. You'll hear when her health, spending, or day looks unusual, when a storm heads her way, or when crime is reported nearby, so you know when to call. And we're an Austin company you can email at support@thelooopapp.com.
 
 ## Sources
 

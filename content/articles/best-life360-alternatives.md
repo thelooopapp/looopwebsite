@@ -53,7 +53,7 @@ We looked at the same four things for every app:
 | Google Family Link | Parental controls for kids and teens, with location | A child's arrivals and departures | Kids may see ads, but not personalized ones | Parent: iPhone or Android. Child: Android or Chromebook |
 | Glympse | Temporary, link-based location sharing | Not built around ongoing alerts | Policy allows an ad partner in its apps; says it hasn't sold personal information | iPhone and Android |
 | OnStar Guardian | Emergency and roadside help for drivers, in any vehicle | Crash response to an OnStar advisor, an Emergency button, and arrival alerts | App Store label declares "Data Used to Track You" (usage data) | iPhone; US and Canada |
-| Looop | A safety notifications app | Severe weather, nearby crime at the distance you choose, unusual activity, and a daily Typical or Unusual Day | Never sells your data; doesn't work with advertisers | iPhone |
+| Looop | A safety notifications app | Health, fitness, and spending alerts if a Loved One chooses to share, unusual activity, severe weather, nearby crime at the distance you choose, and a daily Typical or Unusual Day | Never sells your data; doesn't work with advertisers | iPhone |
 
 *"Works on" lists what we confirmed on each app's App Store listing or website. Some apps may also run on other platforms.*
 
@@ -185,7 +185,7 @@ See [OnStar Guardian and Looop](../blog/onstar-guardian-and-looop.html).
 
 Looop is our app, so read this section with that in mind. Looop is a safety notifications app from an independent Austin startup that launched in May 2026. It tells you when it might be worth checking in, so you don't have to keep looking at a map.
 
-Looop gives you a heads-up when severe weather is heading toward a Loved One, when crime is reported near them in all 50 US states at the distance you choose (1, 3, 5, or 10 miles), and when their day looks unusual compared to their own routine. When all is well, it stays quiet. You choose which alerts you get for each person.
+Looop gives you a heads-up when a Loved One's health, spending, or day looks unusual compared to their own routine, when severe weather is heading toward them, and when crime is reported near them in all 50 US states at the distance you choose (1, 3, 5, or 10 miles). When all is well, it stays quiet. You choose which alerts you get for each person.
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
@@ -227,7 +227,7 @@ See every app side by side in [Family safety apps compared](../blog/family-safet
 
 ## About Looop
 
-Looop is a safety notifications app for families who care from a distance. It sends a heads-up about severe weather and nearby crime, plus a gentle nudge when someone's day looks different from usual. Looop never sells your data and doesn't work with advertisers.
+Looop is a safety notifications app for families who care from a distance. It sends a heads-up when someone's health, spending, or day looks different from usual, plus severe weather and nearby crime. Looop never sells your data and doesn't work with advertisers.
 
 **Try Looop with your family.** Free for the first two weeks.
 
