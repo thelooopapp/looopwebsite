@@ -34,7 +34,7 @@ Apple's App Store privacy labels are filled in by each app's developer, and each
 
 Looop is one of the 25 apps in the study. Its App Store privacy label has no "Data Used to Track You" section, and its listing doesn't show "Contains: Advertising." Looop never sells your data and doesn't work with advertisers.
 
-Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day come together to tell families when it might be a good time to check in on a loved one.
+Looop takes a holistic approach to family care: health, fitness, spending, activity, weather, crime, and the shape of each day come together to tell families when it might be a good time to check in on a loved one.
 
 **Availability**
 

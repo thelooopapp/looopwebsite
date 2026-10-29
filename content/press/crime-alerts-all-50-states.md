@@ -1,6 +1,6 @@
 ---
 title: "Looop Expands Crime Alerts to All 50 US States, Adding to Its Alerts for Aging Parents"
-slug: crime-alerts-200-cities
+slug: crime-alerts-all-50-states
 status: draft
 ---
 

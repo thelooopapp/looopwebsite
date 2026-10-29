@@ -31,7 +31,7 @@ Some family safety plans focus on what happens after money is gone. Life360, for
 
 Life360 also offers a free Subscription Tracker, which links checking accounts and credit cards through Plaid and watches recurring charges, price changes, and renewals ([Life360 blog](https://www.life360.com/blog/subscription-tracker), May 2026). By connecting an account, members agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere." That's from Life360's [Set Up Subscription Tracker](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) page, checked Oct. 26, 2026. Looop's spending alerts also run through Plaid. They flag an unusually large charge, and that data is never used for ads or sold.
 
-Spending alerts are one part of Looop's holistic approach to family care. Looop brings together weather, crime, spending, health, fitness, activity, and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call.
+Spending alerts are one part of Looop's holistic approach to family care. Looop brings together health, fitness, spending, activity, weather, crime, and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 **Private by design**
 

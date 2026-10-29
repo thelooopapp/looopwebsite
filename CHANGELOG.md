@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-29: Crime release gets its final URL; press list order in three releases
+
+- Renamed `press/crime-alerts-200-cities.html` to `press/crime-alerts-all-50-states.html` (and its source) so the URL matches the headline. The old page was not linked or in the sitemap; remove it from main when this branch is merged.
+- Spending, weather, and privacy-label releases list alerts in the press order: health, fitness, spending, activity, weather, crime, and the shape of each day.
+
 ## 2026-10-29 11:05 CT
 
 ### Copy

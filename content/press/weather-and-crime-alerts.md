@@ -26,7 +26,7 @@ Families invite the people they care about to join their Looop. Each loved one j
 - **Alerts on your terms:** Families choose exactly which alerts they receive about each person.
 - **One-tap check-in:** Call, text, or FaceTime straight from a loved one's card, or send a quick "Are you ok?"
 
-Weather is one part of Looop's holistic approach to family care. Looop brings together weather, crime, spending, health, fitness, activity, and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call.
+Weather is one part of Looop's holistic approach to family care. Looop brings together health, fitness, spending, activity, weather, crime, and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
 **Who it helps**
 
