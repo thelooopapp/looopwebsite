@@ -1,14 +1,14 @@
 ---
-title: "Looop Brings Crime Alerts Near Loved Ones to All 50 US States"
+title: "Looop Expands Crime Alerts to All 50 US States, Adding to Its Alerts for Aging Parents"
 slug: crime-alerts-200-cities
 status: draft
 ---
 
-# Looop Brings Crime Alerts Near Loved Ones to All 50 US States
+# Looop Expands Crime Alerts to All 50 US States, Adding to Its Alerts for Aging Parents
 
-## The safety notifications app gives families a heads-up when crime is reported near someone they love, in every US state
+## Families who already get alerts about a parent's health, fitness, and spending will now also hear when crime is reported near her, anywhere in the US
 
-**AUSTIN, Texas, Oct. 28, 2026:** Looop, the safety notifications app for families who care from a distance, today announced that its Nearby Crime Alerts now work in all 50 US states. When crime is reported near a loved one in a supported area, Looop sends the family a heads-up, so they know it might be a good time to check in.
+**AUSTIN, Texas, Oct. 28, 2026:** Looop, the safety notifications app for families who care from a distance, today expanded its crime alerts to all 50 US states. Families already get alerts about a parent's health, fitness, and spending, along with severe weather and changes in her routine. Now they also hear when crime is reported near her, at a distance they choose: 1, 3, 5, or 10 miles.
 
 Crime alerts work wherever a loved one goes in the US: a winter at the vacation home in Florida, a wine weekend in Napa, a college road trip, or a cruise that leaves from Galveston.
 
@@ -25,9 +25,9 @@ For a family spread across several states, local news rarely travels. An adult c
 
 Looop is not an emergency service and does not prevent crime. In an emergency, families should call 911.
 
-**Part of a calmer approach to family safety**
+**One answer about each loved one**
 
-Nearby Crime Alerts are one part of Looop's holistic approach to family care. Looop brings together weather, crime, spending, health, fitness, activity, and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call. Every loved one joins by invitation and keeps their independence. Looop never sells your data and doesn't work with advertisers.
+Looop expanded its crime alerts as one part of a holistic approach to family care. It brings together health, fitness, spending, activity, weather, crime, and the shape of each day, and turns it into one answer: a Typical Day, or an Unusual Day that might be worth a call. Every loved one joins by invitation and keeps their independence. Looop never sells your data and doesn't work with advertisers.
 
 Some family apps now show crime as pins on a map. With Looop, families choose the distance (1, 3, 5, or 10 miles) and crime is one part of a daily answer about each loved one.
 
@@ -37,7 +37,7 @@ Nearby Crime Alerts are available now in Looop for iPhone on the App Store at ht
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, fitness, activity, and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where health, fitness, spending, activity, weather, crime, and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 **Media Contact**
 

@@ -42,7 +42,7 @@ The study, "What Family Safety Apps' App Store Privacy Labels Say (2026)," is at
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, fitness, activity, and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where health, fitness, spending, activity, weather, crime, and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 Life360, iSharing, GeoZilla, Glympse, Findmykids, Family Nest, Apple, App Store, Find My, Google, Family Link, Verizon, AT&T, Secure Family, T-Mobile, FamilyMode, Kidslox, and OurPact are trademarks of their respective owners. Looop is not affiliated with any of them.
 

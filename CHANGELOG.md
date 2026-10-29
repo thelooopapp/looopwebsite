@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-10-29 11:05 CT
+
+### Copy
+- Austin startup release: leads with alerts about a parent's health, fitness, spending, and more in one daily answer; crime and weather are part of the list; feature list now starts with health, movement, and spending.
+- Crime release: "Looop Expands Crime Alerts to All 50 US States, Adding to Its Alerts for Aging Parents"; opens on what the company added to its existing health, fitness, and spending alerts.
+- Press boilerplate: holistic list in press order (health, fitness, spending, activity, weather, crime, and the shape of each day).
+- Comparison pages: where crime was used as a difference, health, fitness, and spending alerts now come first (Looop vs. Life360 table rows and difference cards, comparison guide columns, competitor tables, and Looop summaries). Heroes and the "no ads, data never for sale" lead are unchanged.
+
 ## 2026-10-26 09:00 CT
 
 ### Copy
