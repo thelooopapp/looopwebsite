@@ -38,7 +38,7 @@ Looop is a safety notifications app for families caring from a distance, built a
 | --- | --- | --- |
 | Built around | Safety notifications: is today a typical day, or one that might be worth a call? | A live map. Its App Store name is "iSharing: GPS Location Tracker" |
 | Who it's for | Adult children caring for a parent from a distance, and families spread across cities, states, and countries | Parents of kids, couples, and an "Elderly Care" pitch for older parents |
-| For an older parent | Health, fitness, and spending alerts if she chooses to share, an Unusual Day, a phone untouched for hours, weather, and crime | Inactivity alerts when an older person doesn't use their phone ("Elderly Care") |
+| For an older parent | Health, fitness, and unusual spending alerts if she chooses to share, an Unusual Day, a phone untouched for hours, weather, and crime | Inactivity alerts when an older person doesn't use their phone ("Elderly Care") |
 | Health | Health & Fitness sharing through Apple Health (Apple Watch, Oura, Whoop) is available | Not listed |
 | Spending alerts | Optional: a heads-up about an unusually large charge on a linked account, through Plaid | Not listed |
 | A daily answer | Each day, one answer: a Typical Day, or an Unusual Day that might be worth a call | Not listed |

@@ -46,7 +46,7 @@ Each kind of app answers a different worry:
 | GeoZilla | A family map with location history | Arrivals and departures, an Emergency Alert, and driving | Weekly, monthly, or yearly plans, from $5.99 a week |
 | OnStar Guardian | Emergency help for drivers, in any vehicle | Crash response to an OnStar advisor, and arrival alerts | $15 a month, or included for OnStar members |
 | Medical alert services | Emergency response for older adults | Varies by service. Some add daily check-ins | Varies |
-| Looop | Safety notifications: one answer each day | Health, fitness, and spending alerts if she chooses to share, unusual activity, severe weather, nearby crime, and a Typical or Unusual Day | Free for the first two weeks |
+| Looop | Safety notifications: one answer each day | Health, fitness, and unusual spending alerts if she chooses to share, unusual activity, severe weather, nearby crime, and a Typical or Unusual Day | Free for the first two weeks |
 
 ## Apple's built-in tools: Find My, Check In, and Health Sharing
 
@@ -70,7 +70,7 @@ Apple says a parent can share Health data, and notifications about trends, with 
 
 Life360 is one of the best-known family apps, and it now has a [page for aging parents](https://www.life360.com/aging-parents). It offers location sharing, place alerts, no-show alerts, severe weather alerts, crash detection, emergency dispatch, driving summaries, credit monitoring, and identity theft reimbursement. Many of those features need paid plans, listed from $9.99 to $24.99 on the App Store. It works on iPhone and Android.
 
-It keeps adding more. Its 2026 [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) feature puts recent, high-severity events within one mile on the map. Its [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) links bank accounts through Plaid to show recurring charges. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere." Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517) and has a history of selling location data to a dozen data brokers.
+It keeps adding more. Its 2026 [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) layer, which members can turn on or off, shows recent, high-severity events within one mile as pins on the map. Its [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) links bank accounts through Plaid to show recurring charges. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere." Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517) and has a history of selling location data to a dozen data brokers.
 
 **Best for:** a parent and family who want a live map and 24/7 emergency dispatch, especially if some of you use Android phones.
 
@@ -133,7 +133,7 @@ Looop has no ads, ever, and your family's data is never for sale. Looop's App St
 - **One map for teens and grandparents, with a watch app:** GeoZilla.
 - **Your parent still drives, and you want help after a crash:** OnStar Guardian.
 - **Your parent wants a direct way to reach help:** a medical alert service.
-- **You want to know when to call, with her health, spending, and the shape of her day in one place:** Looop, alongside any of the above.
+- **You want to know when to call, with her health, unusual spending, and the shape of her day in one place:** Looop, alongside any of the above.
 
 Many families combine two.  
 Find My shows where she is.  

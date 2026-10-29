@@ -13,15 +13,15 @@ placeholders: []
 
 # Austin Startup Already Ships Aging-Parent Alerts While a Public Company Is Still Promising Them
 
-## Looop sends alerts about a parent's health, fitness, spending, and more, brought together in one daily answer for the family
+## Looop sends alerts about a parent's health, fitness, spending, and nearby crime, brought together in one daily answer for the family
 
-**AUSTIN, Texas, Oct. 27, 2026:** LooopApp LLC, an Austin startup, today announced that Looop already sends the kind of aging-parent alerts a public company is still promising. Families get alerts about a parent's health, fitness, and spending, along with severe weather, nearby crime, and changes in her routine, brought together in one daily answer. Looop is a safety notifications app for families who care from a distance, built by an independent startup that doesn't work with advertisers.
+**AUSTIN, Texas, Oct. 27, 2026:** LooopApp LLC, an Austin startup, today announced that Looop sends the kind of aging-parent alerts a public company is still promising. Families get alerts about a parent's health, fitness, and unusual spending, along with severe weather, nearby crime, and changes in her routine, brought together in one daily answer. Looop is a safety notifications app for families who care from a distance, built by an independent startup that doesn't work with advertisers.
 
-If Mom's sleep looks off for a few nights, a large charge hits a linked account, or her phone sits untouched for hours, the family gets a heads-up that day, so someone can call.
+If Mom's sleep looks off, a large charge hits her account, or her phone sits untouched for hours, the family gets a heads-up, so someone can call.
 
 In October 2025, Life360 CEO Lauren Antonoff [discussed on Fox Business](https://www.fox.com/watch/clip/fmc-2k7cu0b1c58nunwm/life360-explores-features-to-support-aging-parents-safety) how the company is exploring features for aging parents. On its [Q4 2025 earnings call](https://www.fool.com/earnings/call-transcripts/2026/03/02/life360-lif-q4-2025-earnings-call-transcript/) in March 2026, the company said it was working on devices for aging parents but did not expect to launch them that year. On its [Q2 2026 call](https://www.fool.com/earnings/call-transcripts/2026/08/17/life360-lif-q2-2026-earnings-call-transcript/) in August, it named aging parents as a next line of business. And at a [Goldman Sachs conference](https://in.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-5589446) in September, it said it is working on services for aging parents, including wellness features, scam protection, and emergency response.
 
-In 2026, Life360 also added [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents), which show recent, high-severity incidents within one mile of a member as pins on its map.
+In 2026, Life360 also added [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents), a layer on its map that members can turn on or off. It shows recent, high-severity incidents within one mile as pins and sends a notification.
 
 Looop's aging-parent alerts are already here. Looop launched on the App Store in May 2026 and has shipped new features and updates steadily since.
 
@@ -32,7 +32,7 @@ Looop takes a holistic approach to family care: health, fitness, spending, activ
 
 - **Her health:** heart rate, breathing, and sleep, through Apple Health and devices like Apple Watch, Oura, and Whoop.
 - **How she's moving:** steps, walks, and workouts, from the same devices.
-- **Her spending:** a heads-up about an unusually large charge on a linked account, which can be an early sign of a scam.
+- **Any unusual spending:** a heads-up about an unusually large charge on a linked account, which can be an early sign of a scam.
 - **What's changed:** walking, driving, time spent in one place, phone use that's higher or lower than usual, and a phone left untouched for hours.
 - **What's around her:** severe weather in more than 50 countries and nearby crime in all 50 US states.
 - **Where she is:** a heads-up when she arrives at a hospital or ER, a police station, or an airport, and a map for when you need it.

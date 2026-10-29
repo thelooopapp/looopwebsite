@@ -33,7 +33,7 @@ We sorted the apps below by what you need. We recommend other apps where they fi
 | Young kids | Findmykids, Google Family Link | Built for children, with SOS and a loud alarm, or with parental controls |
 | Teen drivers | Life360, GeoZilla | A shared map, driving reports, and crash detection or an emergency alert |
 | Friends and meetups | Glympse | Share a drive or a night out for a set time, with a link that expires |
-| Parents far away | Looop | Health, spending, and unusual activity in one answer each day |
+| Parents far away | Looop | Health, unusual spending, and activity in one answer each day |
 | Everyone with an iPhone | Apple Find My | Free, and already on your iPhone |
 
 ## For young kids: Findmykids and Google Family Link
@@ -54,7 +54,7 @@ We sorted the apps below by what you need. We recommend other apps where they fi
 
 New drivers are a big part of Life360's appeal. It offers driving summaries and individual driver reports, crash detection on paid plans, and SOS with 24/7 emergency dispatch and roadside help on Gold and Platinum. It works on iPhone and Android, and paid plans are listed from $9.99 to $24.99 on the App Store.
 
-It also offers severe weather alerts, [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) on the map, and a [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) that links bank accounts through Plaid. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting one, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere." Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517) and has a history of selling location data to a dozen data brokers.
+It also offers severe weather alerts, a [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) layer on its map, and a [Subscription Tracker](https://www.life360.com/blog/subscription-tracker) that links bank accounts through Plaid. Its [setup page](https://support.life360.com/hc/en-us/articles/39739802477591-Set-Up-Subscription-Tracker) says that by connecting one, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere." Life360 runs a [growing ad business](https://investors.life360.com/static-files/e6bd1845-9bc7-429b-aada-fd260b7fc517) and has a history of selling location data to a dozen data brokers.
 
 **Choose Life360 if** you want to pay more for precision GPS tracking, driving details recorded and stored, call center support, targeted ads, and your family's data being shared with its partners.
 

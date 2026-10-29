@@ -61,7 +61,7 @@ Life360 is one of the best-known family location-sharing apps, and it's a useful
 
 ### What it is
 
-Life360 is a GPS location tracking app built around a live family map and location history. Its notifications cover arrivals, departures, and missed arrivals at set places, plus severe weather alerts and, new in 2026, [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents): recent, high-severity incidents within one mile, shown as pins on its map. Its own setup guide cites location accuracy to about 50 feet.
+Life360 is a GPS location tracking app built around a live family map and location history. Its notifications cover arrivals, departures, and missed arrivals at set places, plus severe weather alerts and, new in 2026, [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents), a map layer members can turn on or off that shows recent, high-severity incidents within one mile as pins. Its own setup guide cites location accuracy to about 50 feet.
 
 ### An advertising platform
 

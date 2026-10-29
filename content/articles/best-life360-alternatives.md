@@ -53,7 +53,7 @@ We looked at the same four things for every app:
 | Google Family Link | Parental controls for kids and teens, with location | A child's arrivals and departures | Kids may see ads, but not personalized ones | Parent: iPhone or Android. Child: Android or Chromebook |
 | Glympse | Temporary, link-based location sharing | Not built around ongoing alerts | Policy allows an ad partner in its apps; says it hasn't sold personal information | iPhone and Android |
 | OnStar Guardian | Emergency and roadside help for drivers, in any vehicle | Crash response to an OnStar advisor, an Emergency button, and arrival alerts | App Store label declares "Data Used to Track You" (usage data) | iPhone; US and Canada |
-| Looop | A safety notifications app | Health, fitness, and spending alerts if a Loved One chooses to share, unusual activity, severe weather, nearby crime at the distance you choose, and a daily Typical or Unusual Day | Never sells your data; doesn't work with advertisers | iPhone |
+| Looop | A safety notifications app | Health, fitness, and unusual spending alerts if a Loved One chooses to share, unusual activity, severe weather, nearby crime at the distance you choose, and a daily Typical or Unusual Day | Never sells your data; doesn't work with advertisers | iPhone |
 
 *"Works on" lists what we confirmed on each app's App Store listing or website. Some apps may also run on other platforms.*
 
@@ -61,7 +61,7 @@ We looked at the same four things for every app:
 
 Life360 is one of the best-known family apps. It's a GPS location tracking app built around a live family map and location history. Its [location sharing page](https://www.life360.com/location-sharing) highlights Place Alerts for arrivals and departures, and alerts when someone doesn't show up where they're expected.
 
-Life360 also sends [severe weather alerts](https://investors.life360.com/news-releases/news-release-details/life360-partners-accuweather-deliver-real-time-severe-weather) through AccuWeather, and it shows crime. Its [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents) put recent, high-severity events, like fires, thefts, and weapon-related crimes, on the map as pins, with a notification. They cover the last six hours, within one mile of you or a Circle member, in the US. Free Circles can see details for up to three incidents in 24 hours.
+Life360 also sends [severe weather alerts](https://investors.life360.com/news-releases/news-release-details/life360-partners-accuweather-deliver-real-time-severe-weather) through AccuWeather, and it shows crime. Its [Safety Incidents](https://support.life360.com/hc/en-us/articles/38226266501911-Safety-Incidents), a map layer members can turn on or off, show recent, high-severity events, like fires, thefts, and weapon-related crimes, as pins, with a notification. They cover the last six hours, within one mile of you or a Circle member, in the US. Free Circles can see details for up to three incidents in 24 hours.
 
 Life360 fits families with younger kids who want a shared map and detailed arrival and departure alerts, on both iPhone and Android.
 

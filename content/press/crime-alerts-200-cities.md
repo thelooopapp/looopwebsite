@@ -6,9 +6,9 @@ status: draft
 
 # Looop Expands Crime Alerts to All 50 US States, Adding to Its Alerts for Aging Parents
 
-## Families who already get alerts about a parent's health, fitness, and spending will now also hear when crime is reported near her, anywhere in the US
+## Families who already get alerts about a parent's health, fitness, and spending will now also hear when crime is reported near them, anywhere in the US
 
-**AUSTIN, Texas, Oct. 28, 2026:** Looop, the safety notifications app for families who care from a distance, today expanded its crime alerts to all 50 US states. Families already get alerts about a parent's health, fitness, and spending, along with severe weather and changes in her routine. Now they also hear when crime is reported near her, at a distance they choose: 1, 3, 5, or 10 miles.
+**AUSTIN, Texas, Oct. 28, 2026:** Looop, the safety notifications app for families who care from a distance, today expanded its crime alerts to all 50 US states. Families already get alerts about a parent's health, fitness, and unusual spending, along with severe weather and changes in her routine. Now they also hear when crime is reported nearby, wherever they go, at a distance they choose: 1, 3, 5, or 10 miles.
 
 Crime alerts work wherever a loved one goes in the US: a winter at the vacation home in Florida, a wine weekend in Napa, a college road trip, or a cruise that leaves from Galveston.
 
