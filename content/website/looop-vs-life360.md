@@ -18,7 +18,7 @@ notes: "Names a competitor. Every Life360 claim was re-verified against its link
 
 **Key line (green):** Life360 is built around a live family map.
 
-No ads, ever, and your family's data is never for sale.
+Looop has no ads, and your family's data is never for sale.
 
 **Key line (orange):** Looop tells you when it might be a good time to call.
 
@@ -49,7 +49,7 @@ Below, we compare the two with sources, including where Life360 may be the bette
 | | Looop | Life360 |
 | --- | --- | --- |
 | Never sells your data | Yes. Never sold | No. Has a history of selling location data to a dozen data brokers |
-| No advertisers, no ads in your alerts | Yes. No advertisers | No. Ad business, including Uber offers in notifications |
+| No advertisers, no ads in your alerts | Yes. Doesn't work with advertisers | No. Ad business, including Uber offers in notifications |
 | Built to tell you when to check in | Yes. Quiet until it matters | No. Built around a live map and location history |
 | Unusual Day alerts, based on their own routine | Yes. Included | No. Wellness checks described to investors as in development |
 | Apple Watch health and fitness alerts, no extra app | Yes. Through Apple Health | Partly. A separate watch app |
@@ -58,7 +58,7 @@ Below, we compare the two with sources, including where Life360 may be the bette
 | Nearby crime alerts, at a distance you choose | Yes. All 50 US states, 1 to 10 miles | Partly. A Safety Incidents layer on its map, which members can turn on or off: incidents within one mile, from the last six hours |
 | Severe weather heads-up with no ads attached | Yes. Included | Partly. Weather alerts, with weather-based ad targeting announced |
 | Hospital, police, and airport arrival alerts, automatically | Yes. Included | Partly. Alerts for places you save, plus flight landings |
-| Built only for people | Yes. Just your people | No. Shares the app with pets and item trackers |
+| Built only for people | Yes. Only people | No. Shares the app with pets and item trackers |
 
 Life360 details as checked October 6, 2026, from the sources listed below. Safety Incidents and Subscription Tracker checked October 26, 2026. [See where Life360 may fit better](#where-life360-fits).
 
@@ -78,7 +78,7 @@ Life360 details as checked October 6, 2026, from the sources listed below. Safet
 | Your data | Never sold. Bank linking is optional and runs through Plaid. | Has a history of selling location data to a dozen data brokers, including Cuebiq, X-Mode, SafeGraph, and Allstate's Arity |
 | Bank data | Optional spending alerts through Plaid. Used only for your family's alerts, never for ads, and never sold. | Subscription Tracker links checking accounts and credit cards through Plaid. By connecting, you agree that "Life360 may use your transaction data to show you relevant ads and measure ad performance in the Life360 app and elsewhere." |
 | Apple Watch | Works with the Apple Watch, Oura Ring, or Whoop they already own, through Apple Health. Nothing new to install. | A separate watch app for people who wear an Apple Watch without carrying a phone |
-| Emergency services | Call 911 in one tap, plus up to three emergency contacts for each Loved One. No dispatch service, crash detection, or roadside help. | Paid plans include crash detection. Gold and Platinum add SOS with 24/7 emergency dispatch and 24/7 roadside assistance. |
+| Emergency services | Call 911 in one tap, plus up to three emergency contacts for each Loved One. Looop doesn't offer dispatch, crash detection, or roadside help. | Paid plans include crash detection. Gold and Platinum add SOS with 24/7 emergency dispatch and 24/7 roadside assistance. |
 | Platforms | iPhone | iPhone and Android |
 
 ## What Life360 does well
