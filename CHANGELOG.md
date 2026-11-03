@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-03 12:00 CT
+
+### Copy
+- **Austin startup and data pledge press releases ready to go live Wed Nov. 4** (`press/austin-startup-aging-parent-alerts.html`, `press/data-is-not-ad-inventory.html` and their `content/press/` sources): removed noindex, the draft byline and the draft and legal comments (legal sign-off and quote approval confirmed); dateline, `datePublished` and byline set to Nov. 4, 2026; meta and social descriptions rewritten without "Press release draft". The Austin opening paragraph now leads with the aging-parent alerts (sleep, heart rate, activity, phone use, spending) instead of weather and crime coverage, to match the headline and the reporter emails. Both cards added to the top of the Newsroom (dated Nov. 4), both pages added to `sitemap.xml` and `llms.txt`.
+
 ## 2026-10-29 11:30 CT
 
 ### Copy

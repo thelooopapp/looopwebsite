@@ -1,7 +1,7 @@
 ---
 title: "Looop Pledges Families' Data Will Never Be Ad Inventory"
 slug: data-is-not-ad-inventory
-status: draft
+status: published
 legal_review: true
 ---
 
@@ -10,7 +10,7 @@ legal_review: true
 ## The safety notifications app commits to no advertisers, no sponsored offers in notifications, and no data sales, as family location apps build fast-growing ad businesses
 
 
-**AUSTIN, Texas, Oct. 26, 2026:** Looop, the safety notifications app for families who care from a distance, today pledged that the people who use it will never become ad inventory. Looop never sells your data and doesn't work with advertisers. There are no ads in the app, no sponsored offers in its notifications, and no audience lists built from the places families go.
+**AUSTIN, Texas, Nov. 4, 2026:** Looop, the safety notifications app for families who care from a distance, today pledged that the people who use it will never become ad inventory. Looop never sells your data and doesn't work with advertisers. There are no ads in the app, no sponsored offers in its notifications, and no audience lists built from the places families go.
 
 Looop takes a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day come together to tell families when it might be a good time to check in on a loved one. When all is well, it stays quiet.
 

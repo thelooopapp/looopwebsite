@@ -1,22 +1,18 @@
 ---
 title: "Austin Startup Already Ships Aging-Parent Alerts While a Public Company Is Still Promising Them"
 slug: austin-startup-aging-parent-alerts
-status: draft
+status: published
 legal_review: true
 legal_notes: "Names a competitor (Life360). Every Life360 statement was verified against its linked source on Oct 6, 2026. Does not claim Life360 lacks any feature; says what Life360 has publicly said it is working on. Press release: noindex until placeholders are filled and legal signs off."
 placeholders: []
 ---
 
-<!-- DRAFT FOR REVIEW: contains placeholders. noindex until final. -->
-<!-- LEGAL REVIEW REQUIRED: names a competitor. Remove noindex after approval. -->
-
-> Editor's note (remove before release): The team quote needs the team's approval, and legal must sign off before noindex is removed (names Life360).
 
 # Austin Startup Already Ships Aging-Parent Alerts While a Public Company Is Still Promising Them
 
 ## Life360 has spent a year promising new aging-parent features. Looop launched in May 2026 and keeps shipping more.
 
-**AUSTIN, Texas, Oct. 27, 2026:** LooopApp LLC, an Austin startup, today announced that Looop now provides safety alerts about severe weather in more than 50 countries and nearby crime alerts in all 50 US states to keep your loved ones safe, wherever they go. Looop is a safety notifications app for families who care from a distance, built by an independent startup that answers to families, not advertisers. It sends a heads-up when a loved one's day looks different from their own routine, so families know when a call is worth making.
+**AUSTIN, Texas, Nov. 4, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app already sends the kind of aging-parent alerts a public company is still promising: families hear when a parent's sleep, heart rate, activity, phone use, or spending looks different from their usual routine, along with severe weather alerts in more than 50 countries and nearby crime alerts in all 50 US states. Looop is a safety notifications app for families who care from a distance, built by an independent startup that answers to families, not advertisers. It sends a heads-up when a loved one's day looks different from their own routine, so families know when a call is worth making.
 
 Mom's winter at her place in Florida, Dad's wine tour in Italy, a semester abroad in Spain: Looop's alerts work wherever they go.
 
