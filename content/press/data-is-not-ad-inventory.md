@@ -1,11 +1,11 @@
 ---
-title: "Looop Pledges Families' Data Will Never Be Ad Inventory"
+title: "Looop Promises Never to Sell Families' Data or Show Them Ads"
 slug: data-is-not-ad-inventory
 status: published
 legal_review: true
 ---
 
-# Looop Pledges Families' Data Will Never Be Ad Inventory
+# Looop Promises Never to Sell Families' Data or Show Them Ads
 
 ## The safety notifications app commits to no advertisers, no sponsored offers in notifications, and no data sales, as family location apps build fast-growing ad businesses
 

@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-03 15:08 CT
+
+### Copy
+- **Data pledge headline in plain English** (`press/data-is-not-ad-inventory.html`, its `content/press/` source and the Newsroom card): "Looop Pledges Families' Data Will Never Be Ad Inventory" is now "Looop Promises Never to Sell Families' Data or Show Them Ads" in the title, social title, structured data and H1. The page address stays the same, since emails already link to it.
+
 ## 2026-11-03 12:00 CT
 
 ### Copy
