@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-03 12:15 CT
+
+### Assets
+- **Email signature wordmark** (`images/email/looop-wordmark.png`): the blue Looop wordmark trimmed and sized for email signatures (270 px wide, shown at 135). Not linked from any page.
+
 ## 2026-10-29 11:30 CT
 
 ### Copy
