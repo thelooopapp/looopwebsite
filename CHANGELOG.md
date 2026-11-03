@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-03: Data pledge release lists alerts in press order
+
+- The data pledge release (never published; still a draft) now lists health, fitness, spending, activity, weather, crime, and the shape of each day, like the other releases.
+
 ## 2026-10-29: Crime release gets its final URL; press list order in three releases
 
 - Renamed `press/crime-alerts-200-cities.html` to `press/crime-alerts-all-50-states.html` (and its source) so the URL matches the headline. The old page was not linked or in the sitemap; remove it from main when this branch is merged.
