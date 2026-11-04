@@ -7,6 +7,16 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 ### Assets
 - **Email signature wordmark** (`images/email/looop-wordmark.png`): the blue Looop wordmark trimmed and sized for email signatures (270 px wide, shown at 135). Not linked from any page.
 
+## 2026-11-03 15:08 CT
+
+### Copy
+- **Data pledge headline in plain English** (`press/data-is-not-ad-inventory.html`, its `content/press/` source and the Newsroom card): "Looop Pledges Families' Data Will Never Be Ad Inventory" is now "Looop Promises Never to Sell Families' Data or Show Them Ads" in the title, social title, structured data and H1. The page address stays the same, since emails already link to it.
+
+## 2026-11-03 12:00 CT
+
+### Copy
+- **Austin startup and data pledge press releases ready to go live Wed Nov. 4** (`press/austin-startup-aging-parent-alerts.html`, `press/data-is-not-ad-inventory.html` and their `content/press/` sources): removed noindex, the draft byline and the draft and legal comments (legal sign-off and quote approval confirmed); dateline, `datePublished` and byline set to Nov. 4, 2026; meta and social descriptions rewritten without "Press release draft". The Austin opening paragraph now leads with the aging-parent alerts (sleep, heart rate, activity, phone use, spending) instead of weather and crime coverage, to match the headline and the reporter emails. Both cards added to the top of the Newsroom (dated Nov. 4), both pages added to `sitemap.xml` and `llms.txt`.
+
 ## 2026-10-29 11:30 CT
 
 ### Copy
