@@ -1,5 +1,5 @@
 ---
-title: "Austin Startup Already Ships Aging-Parent Alerts While a Public Company Is Still Promising Them"
+title: "Looop is a safety notifications app for families who care from a distance, built by an independent startup that answers to families"
 slug: austin-startup-aging-parent-alerts
 status: published
 legal_review: true
@@ -8,7 +8,7 @@ placeholders: []
 ---
 
 
-# Austin Startup Already Ships Aging-Parent Alerts While a Public Company Is Still Promising Them
+# Looop is a safety notifications app for families who care from a distance, built by an independent startup that answers to families
 
 ## Life360 has spent a year promising new aging-parent features. Looop launched in May 2026 and keeps shipping more.
 

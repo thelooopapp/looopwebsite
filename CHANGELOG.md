@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-04 13:39 CT
+
+### Copy
+- **Austin release headline matches its Aging and Health Technology Watch listing** (`press/austin-startup-aging-parent-alerts.html`, its `content/press/` source and the Newsroom card): "Austin Startup Already Ships Aging-Parent Alerts While a Public Company Is Still Promising Them" is now "Looop is a safety notifications app for families who care from a distance, built by an independent startup that answers to families" in the title, social title, structured data, H1 and card. The page address is unchanged, so links in sent emails still work.
+
 ## 2026-11-03 12:15 CT
 
 ### Assets
