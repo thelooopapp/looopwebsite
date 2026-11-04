@@ -12,7 +12,7 @@ placeholders: []
 
 ## Life360 has spent a year promising new aging-parent features. Looop launched in May 2026 and keeps shipping more.
 
-**AUSTIN, Texas, Nov. 4, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app already sends the kind of aging-parent alerts a public company is still promising: families hear when a parent's sleep, heart rate, activity, phone use, or spending looks different from their usual routine, along with severe weather alerts in more than 50 countries and nearby crime alerts in all 50 US states. Looop is a safety notifications app for families who care from a distance, built by an independent startup that answers to families, not advertisers. It sends a heads-up when a loved one's day looks different from their own routine, so families know when a call is worth making.
+**AUSTIN, Texas, Nov. 4, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app already sends the kind of aging-parent alerts a public company is still promising: families hear when a parent's sleep, heart rate, activity, phone use, or spending looks different from their usual routine, along with severe weather alerts in more than 50 countries and nearby crime alerts in all 50 US states. Looop answers to families, not advertisers. It sends a heads-up when a loved one's day looks different from their own routine, so families know when a call is worth making.
 
 Mom's winter at her place in Florida, Dad's wine tour in Italy, a semester abroad in Spain: Looop's alerts work wherever they go.
 

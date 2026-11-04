@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-04 13:54 CT
+
+### Copy
+- **Austin release: no repeat of the headline in the opening paragraph** (`press/austin-startup-aging-parent-alerts.html` and its `content/press/` source): the sentence that restated the new headline now reads "Looop answers to families, not advertisers."
+
 ## 2026-11-04 13:39 CT
 
 ### Copy
