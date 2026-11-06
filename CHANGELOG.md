@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 18:32 CT
+
+### Changed
+- Investor and pitch pages: each bullet in "The Product" now has the matching alert icon from the Features page in place of a bullet point.
+
 ## 2026-11-06 18:28 CT
 
 ### Removed

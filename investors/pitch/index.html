@@ -28,6 +28,10 @@
     .article-body th { color: #1B73C6; font-weight: 700; }
     .hero-shot { margin: 8px 0 32px; text-align: center; }
     .hero-shot img { max-width: 100%; height: auto; }
+    .article-body ul.icon-list { list-style: none; padding-left: 0; margin-left: 0; }
+    .article-body ul.icon-list li { display: flex; align-items: flex-start; gap: 14px; padding-left: 0; margin-bottom: 14px; }
+    .article-body ul.icon-list li::before, .article-body ul.icon-list li::marker { content: none; display: none; }
+    .article-body ul.icon-list .icon-badge { flex: 0 0 auto; margin-top: 2px; }
     .equation { display: flex; flex-wrap: nowrap; align-items: flex-start; justify-content: center; gap: 6px; margin: 8px 0 36px; padding: 22px 12px; background: #fff; border-radius: 20px; box-shadow: 0 6px 18px rgba(0,0,0,.06); }
     .eq-item { display: flex; flex-direction: column; align-items: center; gap: 8px; flex: 0 1 84px; min-width: 0; }
     .eq-label { font-size: 14px; font-weight: 600; color: #1E2126; text-align: center; line-height: 1.25; }
@@ -125,14 +129,14 @@
   <p class="slide-num">6 of 10</p>
   <h2>One Answer About Each Loved&nbsp;One</h2>
   <p>Looop sends alerts about health, fitness, spending, activity, weather, crime, and the shape of each day. All of it comes together in one answer about each Loved One, kept current through the day: A Typical Day, or an Unusual Day that might be worth a&nbsp;call.</p>
-<ul>
-<li><strong>Severe Weather:</strong> Storms, floods, and extreme heat or cold, in more than 50&nbsp;countries.</li>
-<li><strong>Nearby Crime:</strong> At the distance the family chooses, in all 50 US&nbsp;states.</li>
-<li><strong>Safe Arrivals:</strong> At saved places, hospitals, police stations, and&nbsp;airports.</li>
-<li><strong>Inactivity:</strong> A phone untouched for hours, or three days at&nbsp;home.</li>
-<li><strong>Unusual Spending:</strong> A large charge on a linked account, an early sign of a&nbsp;scam.</li>
-<li><strong>Health:</strong> Unusual heart rate, breathing rate, or sleep, through Apple&nbsp;Health.</li>
-<li><strong>Fitness:</strong> Steps and workouts that fall off from someone's usual&nbsp;days.</li>
+<ul class="icon-list">
+<li><span class="icon-badge icon--orange"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6 16.326A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 .5 8.973"/><path d="m13 12-3 5h4l-3 5"/></svg></span><span><strong>Severe Weather:</strong> Storms, floods, and extreme heat or cold, in more than 50&nbsp;countries.</span></li>
+<li><span class="icon-badge icon--orange"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M7 18v-6a5 5 0 1 1 10 0v6"/><path d="M5 21a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-1a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2z"/><path d="M21 12h1"/><path d="M18.5 4.5 18 5"/><path d="M2 12h1"/><path d="M12 2v1"/><path d="m4.929 4.929.707.707"/><path d="M12 12v6"/></svg></span><span><strong>Nearby Crime:</strong> At the distance the family chooses, in all 50 US&nbsp;states.</span></li>
+<li><span class="icon-badge icon--orange"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 7v4"/><path d="M14 21v-3a2 2 0 0 0-4 0v3"/><path d="M14 9h-4"/><path d="M18 11h2a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-9a2 2 0 0 1 2-2h2"/><path d="M18 21V5a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16"/></svg></span><span><strong>Safe Arrivals:</strong> At saved places, hospitals, police stations, and&nbsp;airports.</span></li>
+<li><span class="icon-badge icon--orange"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"/><path d="M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg></span><span><strong>Inactivity:</strong> A phone untouched for hours, or three days at&nbsp;home.</span></li>
+<li><span class="icon-badge icon--orange"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="20" height="14" x="2" y="5" rx="2"/><line x1="2" x2="22" y1="10" y2="10"/><path d="M6 14h2"/></svg></span><span><strong>Unusual Spending:</strong> A large charge on a linked account, an early sign of a&nbsp;scam.</span></li>
+<li><span class="icon-badge icon--green"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"/><path d="M3.22 13H9.5l.5-1 2 4.5 2-7 1.5 3.5h5.27"/></svg></span><span><strong>Health:</strong> Unusual heart rate, breathing rate, or sleep, through Apple&nbsp;Health.</span></li>
+<li><span class="icon-badge icon--green"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M17.596 12.768a2 2 0 1 0 2.829-2.829l-1.768-1.767a2 2 0 0 0 2.828-2.829l-2.828-2.828a2 2 0 0 0-2.829 2.828l-1.767-1.768a2 2 0 1 0-2.829 2.829z"/><path d="m2.5 21.5 1.4-1.4"/><path d="m20.1 3.9 1.4-1.4"/><path d="M5.343 21.485a2 2 0 1 0 2.829-2.828l1.767 1.768a2 2 0 1 0 2.829-2.829l-6.364-6.364a2 2 0 1 0-2.829 2.829l1.768 1.767a2 2 0 0 0-2.828 2.829z"/><path d="m9.6 14.4 4.8-4.8"/></svg></span><span><strong>Fitness:</strong> Steps and workouts that fall off from someone's usual&nbsp;days.</span></li>
 </ul>
 <div class="hero-shot"><img src="../../images/home/duo-aging.webp" width="1200" height="1060" loading="lazy" alt="Two phones showing Looop alerts and a Typical or Unusual Day for each Loved One"></div>
 </section>
