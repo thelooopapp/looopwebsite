@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 16:50 CT
+
+### Changed
+- Investor, deck, and partner pages: removed the VentureBeat battery line from "Why Looop Wins" and rewrote copy against the copywriter guide's AI-tells table (no "this, not that" contrasts, colon reveals, triplet or paired headings, or filler).
+
 ## 2026-11-06 16:40 CT
 
 ### Changed
