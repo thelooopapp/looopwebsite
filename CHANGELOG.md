@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 18:25 CT
+
+### Changed
+- Investor and pitch pages: alert labels in Title Case (Severe Weather, Nearby Crime, Safe Arrivals, Unusual Spending, One Answer).
+
 ## 2026-11-06 18:22 CT
 
 ### Changed
