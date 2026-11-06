@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 17:55 CT
+
+### Changed
+- Investor page: one idea per paragraph throughout, shorter privacy point, plainer wording ("Meta ad campaign," "sign-up," "paying family groups"), Weather Grid image 25% smaller. Partner page links removed from the email notes.
+
 ## 2026-11-06 17:45 CT
 
 ### Removed
