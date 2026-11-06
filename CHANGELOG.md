@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 16:00 CT
+
+### Changed
+- Investor page now carries the full pitch except the ask: added Go-to-Market and The Next 12 Months, and folded the competitive landscape into The Gap Looop Fills.
+
 ## 2026-11-06 15:55 CT
 
 ### Changed
