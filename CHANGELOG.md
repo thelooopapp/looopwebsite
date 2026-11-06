@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 16:20 CT
+
+### Changed
+- Investor page: "Why Looop Wins" now shows the widget on its own instead of the full Home Screen.
+
 ## 2026-11-06 16:15 CT
 
 ### Changed
