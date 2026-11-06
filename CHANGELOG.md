@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 16:05 CT
+
+### Changed
+- Investor page: added the family map image above "Why Now."
+
 ## 2026-11-06 16:00 CT
 
 ### Changed
