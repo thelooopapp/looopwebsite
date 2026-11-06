@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 18:22 CT
+
+### Changed
+- Investor and pitch pages: Health and Fitness are now bullets in "The Product," the family map line is gone, and the section ends on what the alerts do for a family.
+
 ## 2026-11-06 18:18 CT
 
 ### Changed
