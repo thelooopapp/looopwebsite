@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 16:30 CT
+
+### Changed
+- Investor page: split "Business Model and Market" into "The Opportunity" (market size and the coming growth in older adults, after "The Gap Looop Fills") and "Business Model" (pricing, the trial, what Looop Plus adds, and how the price compares with Life360, Luffu, and medical alert services).
+
 ## 2026-11-06 16:20 CT
 
 ### Changed
