@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 15:35 CT
+
+### Changed
+- Investor and partner pages: rewrote "Why Looop Wins" around one easy answer built from each loved one's own patterns, backed by background reliability, with the no-data-sales promise as its own closing line. Removed Android roadmap mentions. Headings now use title case.
+
 ## 2026-11-06 15:20 CT
 
 ### Changed
