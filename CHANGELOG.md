@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 17:15 CT
+
+### Changed
+- Investor page: "Why Now" lists Life360 and Luffu as indented examples, and adds a separate paragraph on device adoption among older adults (Pew smartphone and smartwatch figures).
+
 ## 2026-11-06 17:05 CT
 
 ### Changed
