@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 18:15 CT
+
+### Changed
+- Investor and pitch pages: competitor names are no longer bold. "The Product" bullets now lead with the alerts to highlight (Severe weather, Nearby crime, Safe arrivals, Inactivity, Unusual spending), each followed by what it means.
+
 ## 2026-11-06 18:10 CT
 
 ### Added
