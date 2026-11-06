@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 15:40 CT
+
+### Added
+- Investor page: "The Gap Looop Fills" section after "Why Now."
+
 ## 2026-11-06 15:35 CT
 
 ### Changed
