@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 15:50 CT
+
+### Removed
+- Unlisted investor videos page. Videos are now made only for application forms that ask for one, and uploaded straight to those forms.
+
 ## 2026-11-06 15:40 CT
 
 ### Added
