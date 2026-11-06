@@ -1,5 +1,5 @@
 ---
-title: "Looop brings aging-parent alerts to the phone and watch a parent already owns, with nothing new to buy"
+title: "Looop brings aging-parent safety alerts to the phone a parent already carries, with nothing new to buy"
 slug: nothing-new-to-buy
 status: draft
 legal_review: false
@@ -8,13 +8,13 @@ placeholders: ["[RELEASE DATE]", "team quote approval"]
 ---
 
 
-# Looop brings aging-parent alerts to the phone and watch a parent already owns, with nothing new to buy
+# Looop brings aging-parent safety alerts to the phone a parent already carries, with nothing new to buy
 
-## New wearables for aging parents are on preorder for 2027. Looop is on the App Store today and works with iPhone, Apple Watch, Oura, and Whoop.
+## As new wearables for aging parents open for preorder, Looop is on the App Store today and works with the iPhone, Apple Watch, Oura, and Whoop a family already owns.
 
 **AUSTIN, Texas, [RELEASE DATE]:** LooopApp LLC, an Austin startup, said today that families can get alerts about a parent's health, fitness, unusual spending, activity, severe weather, and nearby crime without buying a new device. Looop runs on the iPhone a parent already carries. If the parent chooses to share, it reads the Apple Watch, Oura Ring, or Whoop they already wear, through Apple Health. There's nothing new for the parent to wear or charge.
 
-Families caring for a parent from a distance are being offered more hardware this year. In August, Luffu, a company started by Fitbit's co-founders, [opened preorders](https://www.axios.com/2026/08/25/luffu-fitness-band-aging-parents) for Luffu Link, a screenless LTE band for the person being cared for. Luffu [lists the band](https://luffu.com/pages/order) at $299.99, or $249.99 on preorder, with a required Family Plan of $19.99 a month for up to four people, and expects it to ship in early 2027.
+New hardware for aging parents is arriving this year. In August, Luffu, a family health company started by Fitbit's co-founders, [opened preorders](https://www.axios.com/2026/08/25/luffu-fitness-band-aging-parents) for Luffu Link, a screenless LTE band for the person being cared for. Luffu's app already reads Apple Health, Fitbit, and other wearables; the band adds help messages, check-ins, and location sharing that work with no phone nearby. Luffu [lists the band](https://luffu.com/products/luffu-link) at $299.99, or $249.99 on preorder, with a required Family Plan of $19.99 a month for up to four people, and expects it to ship in early 2027.
 
 Looop launched on the App Store in May 2026, and families can download it today.
 
@@ -37,7 +37,7 @@ Every loved one joins Looop by invitation and decides whether to add Health & Fi
 
 **How the two compare**
 
-Luffu offers things Looop doesn't, including a band that stays connected over LTE with no phone nearby, logs for medications, meals, and doctor visits, and support for Android phones. Looop adds unusual spending, severe weather, and nearby crime to the same daily answer, works in more than 50 countries, and uses devices a family already owns. A side-by-side comparison, with sources, is at https://www.thelooopapp.com/looop-vs-luffu.html.
+Both apps read the health data from wearables a family already owns. Luffu offers things Looop doesn't, including a family health record for medications, meals, and doctor visits, kids and pets in the same app, and a band with a help button that works with no phone nearby. Looop's safety alerts run on the iPhone a parent already carries, and it adds unusual spending, severe weather in more than 50 countries, and nearby crime to the same daily answer. A side-by-side comparison, with sources, is at https://www.thelooopapp.com/looop-vs-luffu.html.
 
 **Private by design**
 

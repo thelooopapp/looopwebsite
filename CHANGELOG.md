@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 17:40 CT
+
+### Changed
+- Looop vs. Luffu (hidden draft) and the Luffu press release rewritten for like-for-like comparisons. Luffu's app also reads Apple Health, Fitbit, and other wearables, so the pages no longer imply Luffu requires its band. Luffu Link is now described as an optional band that adds phone-free help messages, check-ins, location sharing, and voice logging. Removed band-only rows compared against Looop app features (charging, US-only band vs. Looop weather abroad). Added a fair health-data row (both read existing wearables), a "Does Luffu work without its band?" FAQ, and "Works with wearables you already own" under what Luffu does well. New angle: Looop's safety alerts run on the iPhone a parent already carries.
+
 ## 2026-11-06 16:24 CT
 
 ### Added

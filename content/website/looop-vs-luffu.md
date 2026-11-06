@@ -7,71 +7,68 @@ legal_notes: "Names a competitor (Luffu). Hidden: noindex, not in the sitemap, n
 
 # Looop vs. Luffu
 
-Hero: Luffu's new band is $299.99, plus a monthly plan. / Looop works with the phone and watch Mom already owns. / Nothing new for her to wear or charge.
+Hero: Luffu's safety features come with a $299.99 band. / Looop's safety alerts run on the iPhone Mom already carries. / Weather, crime, and spending, in one daily answer.
 
 ## Which one fits your family?
 
 | Choose Looop if you want | Choose Luffu if you want |
 | --- | --- |
-| Nothing new to buy | A new $299.99 band for Mom to wear ($249.99 on preorder) |
-| The iPhone and watch she already has | Another device for her to charge every few days |
-| Alerts on the App Store today | A band that ships in early 2027 |
-| Weather alerts in more than 50 countries | A band that works only in the US |
-| Your family's data never for sale | A Family Plan the band requires, $19.99 a month |
+| Safety alerts from the iPhone she already carries | Help messages and check-ins from a new $299.99 band |
+| Weather, crime, and spending in the same daily answer | A family health record for medications, meals, and doctor visits |
+| Alerts that run on their own, with nothing to log | Logs you add by voice, text, or photo |
+| An app on the App Store today | An app in beta, with the band shipping in early 2027 |
 
 ## Looop vs. Luffu in 30 seconds
 
 | | Looop | Luffu |
 | --- | --- | --- |
-| Nothing new to buy or charge | yes: Works with the iPhone and watch she already has | part: Its app reads Apple Health and Fitbit; its new Luffu Link band is $299.99 |
-| Ready to download today | yes: On the App Store for iPhone | part: Limited beta; the band ships in early 2027 |
+| Safety alerts with no new device to buy | yes: Runs on the iPhone she already carries | part: Help messages, check-ins, and location sharing come with the $299.99 Luffu Link band |
+| Health from the wearables she already owns | yes: Apple Watch, Oura, and Whoop, through Apple Health | myes: Apple Health, Fitbit, and other wearables |
+| Ready to download today | yes: On the App Store for iPhone | part: In beta; Luffu says Family Plans open later this year |
 | A heads-up about an unusually large charge | yes: Optional, via Plaid | part: Not listed on Luffu's site |
 | Nearby crime alerts, at a distance you choose | yes: All 50 US states, 1 to 10 miles | part: Not listed on Luffu's site |
 | Severe weather heads-up near a Loved One | yes: More than 50 countries | part: Not listed on Luffu's site |
-| A nudge when a drive, a walk, or phone use looks unusual | yes: Included | part: Flags changes in health and activity |
-| Hospital, police, and airport arrival alerts, automatically | yes: Included | part: The band can share location with family |
-| Alerts that work when they travel abroad | yes: Weather alerts in more than 50 countries | no: Luffu Link works only in the US |
+| A nudge when a drive, a walk, or phone use looks unusual | yes: Included | part: Flags changes in health and activity patterns |
+| Hospital, police, and airport arrival alerts, automatically | yes: Included | part: Not listed on Luffu's site |
 | No advertising partners | yes: Doesn't work with advertisers | no: Its privacy notice allows sharing non-health information with ad partners |
-| Health & Fitness sharing through Apple Health | yes: Apple Watch, Oura, and Whoop | myes: Apple Health and Fitbit, plus its own band |
 
 ## At a glance
 
 | | Looop | Luffu |
 | --- | --- | --- |
-| What it is | A safety notifications app: alerts that tell you when to check in | A family health app, plus a new LTE band for the person being cared for |
+| What it is | A safety notifications app: alerts that tell you when to check in | A family health app, with an optional LTE band for the person being cared for |
 | Built for | People caring from a distance: aging parents, kids at college, siblings, and friends who look out for each other | The family member who manages everyone's health: kids, partners, aging parents, and pets |
-| What you're notified about | Health, fitness, and unusual spending alerts if a Loved One chooses to share, unusual activity, an Unusual Day, nearby crime (all 50 US states), severe weather, arrivals and departures at saved places, arrivals at a hospital, police station, or airport, a phone untouched for hours, and low battery | Changes in health and activity, like missed medications or shifts in sleep, plus help and check-in messages from the band |
-| What to buy | Nothing. Looop runs on iPhone and works with the Apple Watch, Oura Ring, or Whoop they already own, through Apple Health | The app reads Apple Health and Fitbit. Luffu Link, a screenless LTE band, is $299.99 ($249.99 on preorder) and ships in early 2027 |
-| Monthly cost | Free for the first two weeks | The band requires a Family Plan: $19.99 a month or $199.99 a year for up to four people, or $29.99 a month for up to eight |
-| Charging | Nothing new. Looop uses the phone and watch they already charge | Luffu Link lasts up to five days per charge, with GPS off |
-| Help in an emergency | Call 911 in one tap, plus up to three emergency contacts for each Loved One. Looop doesn't offer dispatch or crash detection | The band sends help messages with location to trusted contacts. It doesn't call 911 |
-| Away from the phone | Looop runs on the Loved One's iPhone | The band stays connected over LTE with no phone nearby, in the US |
-| Where it works | Weather alerts in more than 50 countries; crime alerts in all 50 US states | Luffu Link works only in the US |
+| What you're notified about | Health, fitness, and unusual spending alerts if a Loved One chooses to share, unusual activity, an Unusual Day, nearby crime (all 50 US states), severe weather, arrivals and departures at saved places, arrivals at a hospital, police station, or airport, a phone untouched for hours, and low battery | Changes in health and activity patterns, like missed medications. With the band: help and check-in messages |
+| Health data | Apple Watch, Oura Ring, or Whoop, through Apple Health, if a Loved One chooses to share | Apple Health, Fitbit, and other wearables, plus medical records, medications, meals, and symptoms your family logs |
+| New hardware | None. Looop runs on iPhone and the watch or ring they already own | Optional. Luffu Link is $299.99 ($249.99 on preorder) and ships in early 2027 |
+| Monthly cost | Free for the first two weeks | Family Plan: $19.99 a month or $199.99 a year for up to four people, or $29.99 a month for up to eight. Required for the band |
+| Help in an emergency | Call 911 in one tap, plus up to three emergency contacts for each Loved One. Looop doesn't offer dispatch or crash detection | With the band, a button sends a help message with location to trusted contacts. It doesn't call 911 |
+| Away from the phone | Looop runs on the Loved One's iPhone | Luffu Link stays connected over LTE with no phone nearby, in the US only |
 | Your data | Never sold, and no advertisers. Bank linking is optional and runs through Plaid | Says it doesn't "sell" consumer health data. May share non-health personal information with third-party advertising partners |
-| Platforms | iPhone | iPhone app; the band works with iPhone and Android |
+| Platforms | iPhone | The band works with iPhone and Android |
 
 ## What Luffu does well
 
-- **Built by Fitbit's founders** James Park and Eric Friedman started Fitbit in 2007. They [announced Luffu](https://www.prnewswire.com/news-releases/from-the-founders-of-fitbit-introducing-luffu-your-guardian-for-family-health--safety-302676975.html) in February 2026, and they know how to make a band people wear every day.
-- **Medications, meals, and doctor visits** Families can log medications, meals, symptoms, and care plans by voice, text, or photo, and see them next to health readings.
-- **Works without a phone nearby** Luffu Link has LTE and GPS built in, with no carrier plan needed, so a parent can send a help or check-in message from the wrist.
-- **The whole household** Luffu covers kids, partners, aging parents, and pets, for the person who keeps track of everyone's health.
-- **Questions in plain language** You can ask the app about your family's health information and get answers, insights, or charts you can save and share.
-- **iPhone and Android** Luffu lists the Link band as working with iPhone and Android phones.
+- **Built by Fitbit's founders** James Park and Eric Friedman started Fitbit in 2007 and [announced Luffu](https://www.prnewswire.com/news-releases/from-the-founders-of-fitbit-introducing-luffu-your-guardian-for-family-health--safety-302676975.html) in February 2026. They've built wearables before, and it shows in the band's design.
+- **Works with wearables you already own** Luffu's app reads Apple Health, Fitbit, and other wearables, so a family can start without buying anything new.
+- **Medications, meals, and doctor visits** Families can log medications, meals, symptoms, medical records, and care plans by voice, text, or photo, and see them next to health readings.
+- **A band that works without a phone** Luffu Link has LTE and GPS built in, with no carrier plan needed. A parent can press a button to send a help message, or double-tap to say they're okay.
+- **The whole household** Luffu covers kids, partners, aging parents, and pets, for the person who keeps up with everyone's health.
+- **Questions in plain language** You can ask about your family's health information and get answers, insights, or charts you can save and share.
 
 ## Where Looop and Luffu part ways
 
-### Nothing new to buy, nothing new to charge
+### Safety alerts from the phone she already carries
 
-Looop runs on the iPhone your Loved One already carries. If they add Health & Fitness sharing, it reads their Apple Watch, Oura Ring, or Whoop through Apple Health. There's no band to order, set up, or charge.
+Looop's safety alerts run on the iPhone your Loved One already carries: arrivals at a hospital, police station, or airport, a drive or a walk that looks unusual, a phone untouched for hours, and low battery. There's no band to order, set up, or charge.
 
-Luffu's app also reads Apple Health and Fitbit. Its new band, [Luffu Link](https://luffu.com/products/luffu-link), is $299.99, or $249.99 on preorder. The band requires a Luffu Family Plan, sold separately, at $19.99 a month for up to four people, and its battery lasts up to five days with GPS off.
+For health readings, the two are alike: Luffu's app also reads Apple Health, Fitbit, and other wearables. For safety, Luffu lists help messages, check-ins, and location sharing as features of [Luffu Link](https://luffu.com/products/luffu-link), a $299.99 band ($249.99 on preorder) that needs a Luffu Family Plan and is expected to ship in early 2027.
 
 ### On the App Store today
 
 Looop launched on the App Store in May 2026, and families can download it today.
 
-Luffu [announced its app](https://www.engadget.com/mobile/fitbit-founders-launch-luffu-a-way-to-integrate-your-familys-health-data-173251994.html) in February 2026 as a limited beta with a waitlist. Its [order page](https://luffu.com/pages/order) says the app will be available "later this year," and Luffu Link is expected to ship in early 2027.
+Luffu [announced its app](https://www.engadget.com/mobile/fitbit-founders-launch-luffu-a-way-to-integrate-your-familys-health-data-173251994.html) in February 2026 as a beta. Its [Luffu Link page](https://luffu.com/products/luffu-link) says Family Plans will be available "later this year."
 
 ### A heads-up about an unusually large charge
 
@@ -83,15 +80,15 @@ We didn't find money or spending features listed on [Luffu's site](https://www.l
 
 Looop tells you when severe weather heads toward a Loved One, in more than 50 countries, and when crime is reported nearby, in all 50 US states, at the distance your family picks: 1, 3, 5, or 10 miles.
 
-Luffu's site describes health tracking, help messages, check-ins, and location sharing. We didn't find weather or crime alerts listed on [luffu.com](https://www.luffu.com/) or the [Luffu Link page](https://luffu.com/products/luffu-link).
+Luffu focuses on health, and we didn't find weather or crime alerts listed on [luffu.com](https://www.luffu.com/) or the [Luffu Link page](https://luffu.com/products/luffu-link).
 
 In Looop, weather and crime are part of a holistic approach to family care: weather, crime, spending, health, fitness, activity, and the shape of each day. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-### Alerts that travel with them
+### Alerts that run on their own
 
-Mom's winter in Florida, Dad's wine tour in Italy, a semester in Spain: Looop's weather alerts work in more than 50 countries.
+Looop doesn't ask anyone to log anything. Once a Loved One joins, it learns their routine and speaks up when a day looks different.
 
-Luffu says on its [order page](https://luffu.com/pages/order) that, for now, Luffu Link "only works within the United States."
+Luffu also flags changes on its own, and it goes further as a family health record: medications, meals, symptoms, and doctor visits that your family logs by voice, text, or photo. Its [day in the life](https://luffu.com/pages/life-with-luffu) page shows a Morning Brief, a Concierge that plans dinner around everyone's diet, and a Family Retrospective at night. Some families will love that.
 
 ### No advertising partners
 
@@ -99,38 +96,32 @@ Looop never sells your data and doesn't work with advertisers. There are no ads 
 
 Luffu's [privacy notice](https://luffu.com/policies/privacy-policy) (last updated August 23, 2026) says it does not "sell" consumer health data, as defined under state health privacy laws. The same notice says, "We may share your non-health personal information with third-party advertising partners."
 
-### Looop sticks to one job
-
-Looop is built to tell you when to check in, and it uses only what it needs to tell whether something unusual is going on.
-
-Luffu is aiming wider. Its [day in the life](https://luffu.com/pages/life-with-luffu) page shows a Morning Brief, medication and meal logs, a Concierge that plans dinner around everyone's diet, a dog's walks, and a Family Retrospective at night. A home device, Luffu Frame, is coming. Some families will love that.
-
 ## Where Luffu may fit better
 
 - **A parent who doesn't carry a smartphone** Looop runs on the Loved One's iPhone. Luffu Link stays connected over LTE with no phone nearby, in the US.
 - **Android families** Looop is iPhone only today. Luffu lists its band as working with iPhone and Android.
-- **Managing medications and appointments** If you're the one keeping up with prescriptions, meals, symptoms, and doctor visits, Luffu is built to log them all.
+- **A family health record** If you're the one keeping up with prescriptions, meals, symptoms, and doctor visits, Luffu is built to log them all in one place.
 - **One button for help** Luffu Link sends a voice message and location to trusted contacts at the press of a button. Looop puts 911 and emergency contacts one tap away on the phone.
 - **Kids, partners, and pets in one place** If you want the whole household's health in one app, pets included, Luffu covers that. Looop is only for people.
-- **A parent who'd like a simple band** If Mom doesn't wear a watch and would like a screenless band, Luffu Link is designed for that.
+- **Answers about your family's health** If you'd like to ask questions about your family's health records in plain language, Luffu offers that. Looop doesn't.
 
-Choose Luffu if you want a new $299.99 band for Mom to wear, another device for her to charge, a Family Plan to keep it connected, and a band that ships in early 2027 and works only in the US.
+Choose Luffu if you want a family health record you keep by voice, text, or photo, kids and pets in the same app, and a $299.99 band with a help button for a parent who doesn't carry a phone.
 
-Choose Looop if you want nothing new to buy, the iPhone and watch she already has, alerts on the App Store today, and your family's data never for sale.
+Choose Looop if you want safety alerts from the iPhone she already carries, weather, crime, and spending in the same daily answer, an app on the App Store today, and your family's data never for sale.
 
 ## Questions families ask
 
 **Is Looop or Luffu better for my family?**
 
-Looop is built for families who care from a distance: parents living separately or a few states away, a relative living alone, kids at college, or siblings and friends who look out for each other. It tells you when to check in, using the phone and watch your family already has. Choose Luffu if you want a new $299.99 band for Mom to wear, another device for her to charge, a Family Plan to keep it connected, and a band that ships in early 2027 and works only in the US. Choose Looop if you want nothing new to buy, the iPhone and watch she already has, alerts on the App Store today, and your family's data never for sale.
+Looop is built for families who care from a distance: parents living separately or a few states away, a relative living alone, kids at college, or siblings and friends who look out for each other. It tells you when to check in. Choose Luffu if you want a family health record you keep by voice, text, or photo, kids and pets in the same app, and a $299.99 band with a help button for a parent who doesn't carry a phone. Choose Looop if you want safety alerts from the iPhone she already carries, weather, crime, and spending in the same daily answer, an app on the App Store today, and your family's data never for sale.
 
 **Do I need to buy anything to use Looop?**
 
 No. Looop runs on iPhone. If a Loved One adds Health & Fitness sharing, Looop reads their Apple Watch, Oura Ring, or Whoop through Apple Health. Looop is free for the first two weeks.
 
-**Does Luffu need its band?**
+**Does Luffu work without its band?**
 
-Luffu's app also reads Apple Health and Fitbit. Luffu Link and the Family Plan it requires are sold separately. The band is $299.99 ($249.99 on preorder) and is expected to ship in early 2027.
+Yes. Luffu's app reads Apple Health, Fitbit, and other wearables, and your family can add logs by voice, text, or photo. Luffu Link adds its own health sensors, LTE so it works with no phone nearby in the US, a button for help messages to trusted contacts, a double-tap check-in, location sharing, and voice logging. The band is $299.99 ($249.99 on preorder), needs a Luffu Family Plan, and is expected to ship in early 2027.
 
 **Can Looop or Luffu call 911 for us?**
 
@@ -142,7 +133,7 @@ Yes. Severe weather alerts work in more than 50 countries, and crime alerts work
 
 **Does Looop work on Android?**
 
-Not today. Looop is available for iPhone on the App Store. If your family uses Android phones, Luffu may be a better fit for now.
+Not today. Looop is available for iPhone on the App Store. If your family uses Android phones, Luffu may be a better fit.
 
 **Does Looop sell my data?**
 
