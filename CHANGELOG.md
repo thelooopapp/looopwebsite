@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 16:10 CT
+
+### Changed
+- Investor page: added the Home Screen widget image to "Why Looop Wins."
+
 ## 2026-11-06 16:05 CT
 
 ### Changed
