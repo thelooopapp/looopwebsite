@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 17:05 CT
+
+### Changed
+- Investor, deck, and partner pages: replaced the Life360-only trademark line with one notice per page that names Looop and every other company or product mentioned on that page.
+
 ## 2026-11-06 17:00 CT
 
 ### Removed
