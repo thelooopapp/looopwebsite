@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 17:20 CT
+
+### Changed
+- Investor page: "The Gap Looop Fills" now separates the app-stack problem, each alternative (Life360, Find My, medical alert services, Luffu) as its own item, and Looop's answer.
+
 ## 2026-11-06 17:15 CT
 
 ### Changed
