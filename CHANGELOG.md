@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 17:45 CT
+
+### Removed
+- Unlisted partners page.
+
 ## 2026-11-06 17:40 CT
 
 ### Changed
