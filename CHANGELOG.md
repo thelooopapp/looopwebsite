@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 15:55 CT
+
+### Changed
+- Investor page: the Founder section now tells the founder story: from Life360 family to a family spread across five cities, the 2025 Hill Country flood, and building Looop.
+
 ## 2026-11-06 15:50 CT
 
 ### Removed
