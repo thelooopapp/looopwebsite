@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 17:57 CT
+
+### Changed
+- Looop vs. Luffu (hidden draft) and its press release: removed the claim that Luffu's safety features require its band. Luffu's site says the app alone watches for missed medications and changes in health and activity; only the help button, check-ins, and location sharing are listed under Luffu Link. New hero in full sentences: "Luffu brings your family's health into one app. / Looop reads the watch she already wears, and adds alerts about weather, crime, and spending. / You can download Looop today." The difference is now the kinds of alerts (weather, crime, spending, hospital and airport arrivals, nothing to log), not hardware. Release retitled "Looop adds weather, crime, and spending alerts to the health data families already share" (slug unchanged).
+
 ## 2026-11-06 17:40 CT
 
 ### Changed

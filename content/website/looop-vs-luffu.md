@@ -7,22 +7,21 @@ legal_notes: "Names a competitor (Luffu). Hidden: noindex, not in the sitemap, n
 
 # Looop vs. Luffu
 
-Hero: Luffu's safety features come with a $299.99 band. / Looop's safety alerts run on the iPhone Mom already carries. / Weather, crime, and spending, in one daily answer.
+Hero: Luffu brings your family's health into one app. / Looop reads the watch she already wears, and adds alerts about weather, crime, and spending. / You can download Looop today.
 
 ## Which one fits your family?
 
 | Choose Looop if you want | Choose Luffu if you want |
 | --- | --- |
-| Safety alerts from the iPhone she already carries | Help messages and check-ins from a new $299.99 band |
-| Weather, crime, and spending in the same daily answer | A family health record for medications, meals, and doctor visits |
+| Alerts about weather, crime, and unusual spending | A health record for medications, meals, and doctor visits |
 | Alerts that run on their own, with nothing to log | Logs you add by voice, text, or photo |
-| An app on the App Store today | An app in beta, with the band shipping in early 2027 |
+| An app on the App Store today | An app in beta, with a band shipping in early 2027 |
+| Your family's data never for sale | A band with a help button, for a parent who doesn't carry a phone |
 
 ## Looop vs. Luffu in 30 seconds
 
 | | Looop | Luffu |
 | --- | --- | --- |
-| Safety alerts with no new device to buy | yes: Runs on the iPhone she already carries | part: Help messages, check-ins, and location sharing come with the $299.99 Luffu Link band |
 | Health from the wearables she already owns | yes: Apple Watch, Oura, and Whoop, through Apple Health | myes: Apple Health, Fitbit, and other wearables |
 | Ready to download today | yes: On the App Store for iPhone | part: In beta; Luffu says Family Plans open later this year |
 | A heads-up about an unusually large charge | yes: Optional, via Plaid | part: Not listed on Luffu's site |
@@ -58,11 +57,11 @@ Hero: Luffu's safety features come with a $299.99 band. / Looop's safety alerts 
 
 ## Where Looop and Luffu part ways
 
-### Safety alerts from the phone she already carries
+### Alerts about her day, beyond her health
 
-Looop's safety alerts run on the iPhone your Loved One already carries: arrivals at a hospital, police station, or airport, a drive or a walk that looks unusual, a phone untouched for hours, and low battery. There's no band to order, set up, or charge.
+Looop tells you when a Loved One arrives at a hospital, police station, or airport, when a drive or a walk looks unusual, and when her phone sits untouched for hours. These alerts run on the iPhone she already carries.
 
-For health readings, the two are alike: Luffu's app also reads Apple Health, Fitbit, and other wearables. For safety, Luffu lists help messages, check-ins, and location sharing as features of [Luffu Link](https://luffu.com/products/luffu-link), a $299.99 band ($249.99 on preorder) that needs a Luffu Family Plan and is expected to ship in early 2027.
+Luffu's alerts center on health: its site says the app watches for missed medications and changes in health and activity patterns. Luffu lists location sharing, check-ins, and a help button as features of [Luffu Link](https://luffu.com/products/luffu-link), its $299.99 band ($249.99 on preorder), which is expected to ship in early 2027.
 
 ### On the App Store today
 
@@ -107,13 +106,13 @@ Luffu's [privacy notice](https://luffu.com/policies/privacy-policy) (last update
 
 Choose Luffu if you want a family health record you keep by voice, text, or photo, kids and pets in the same app, and a $299.99 band with a help button for a parent who doesn't carry a phone.
 
-Choose Looop if you want safety alerts from the iPhone she already carries, weather, crime, and spending in the same daily answer, an app on the App Store today, and your family's data never for sale.
+Choose Looop if you want alerts about weather, crime, and unusual spending, nothing to log, an app on the App Store today, and your family's data never for sale.
 
 ## Questions families ask
 
 **Is Looop or Luffu better for my family?**
 
-Looop is built for families who care from a distance: parents living separately or a few states away, a relative living alone, kids at college, or siblings and friends who look out for each other. It tells you when to check in. Choose Luffu if you want a family health record you keep by voice, text, or photo, kids and pets in the same app, and a $299.99 band with a help button for a parent who doesn't carry a phone. Choose Looop if you want safety alerts from the iPhone she already carries, weather, crime, and spending in the same daily answer, an app on the App Store today, and your family's data never for sale.
+Looop is built for families who care from a distance: parents living separately or a few states away, a relative living alone, kids at college, or siblings and friends who look out for each other. It tells you when to check in. Choose Luffu if you want a family health record you keep by voice, text, or photo, kids and pets in the same app, and a $299.99 band with a help button for a parent who doesn't carry a phone. Choose Looop if you want alerts about weather, crime, and unusual spending, nothing to log, an app on the App Store today, and your family's data never for sale.
 
 **Do I need to buy anything to use Looop?**
 

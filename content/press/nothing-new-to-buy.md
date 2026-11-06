@@ -1,5 +1,5 @@
 ---
-title: "Looop brings aging-parent safety alerts to the phone a parent already carries, with nothing new to buy"
+title: "Looop adds weather, crime, and spending alerts to the health data families already share"
 slug: nothing-new-to-buy
 status: draft
 legal_review: false
@@ -8,13 +8,13 @@ placeholders: ["[RELEASE DATE]", "team quote approval"]
 ---
 
 
-# Looop brings aging-parent safety alerts to the phone a parent already carries, with nothing new to buy
+# Looop adds weather, crime, and spending alerts to the health data families already share
 
-## As new wearables for aging parents open for preorder, Looop is on the App Store today and works with the iPhone, Apple Watch, Oura, and Whoop a family already owns.
+## Family health apps read the watch a parent already wears. Looop does too, and it also tells families about storms, nearby crime, and unusual spending. It's on the App Store today.
 
-**AUSTIN, Texas, [RELEASE DATE]:** LooopApp LLC, an Austin startup, said today that families can get alerts about a parent's health, fitness, unusual spending, activity, severe weather, and nearby crime without buying a new device. Looop runs on the iPhone a parent already carries. If the parent chooses to share, it reads the Apple Watch, Oura Ring, or Whoop they already wear, through Apple Health. There's nothing new for the parent to wear or charge.
+**AUSTIN, Texas, [RELEASE DATE]:** LooopApp LLC, an Austin startup, said today that its Looop app sends families alerts that go beyond a parent's health: severe weather in more than 50 countries, nearby crime in all 50 US states, unusually large spending on a linked account, and arrivals at a hospital, police station, or airport. Looop runs on the iPhone a parent already carries. If the parent chooses to share, it reads the Apple Watch, Oura Ring, or Whoop they already wear, through Apple Health, and there's nothing to log.
 
-New hardware for aging parents is arriving this year. In August, Luffu, a family health company started by Fitbit's co-founders, [opened preorders](https://www.axios.com/2026/08/25/luffu-fitness-band-aging-parents) for Luffu Link, a screenless LTE band for the person being cared for. Luffu's app already reads Apple Health, Fitbit, and other wearables; the band adds help messages, check-ins, and location sharing that work with no phone nearby. Luffu [lists the band](https://luffu.com/products/luffu-link) at $299.99, or $249.99 on preorder, with a required Family Plan of $19.99 a month for up to four people, and expects it to ship in early 2027.
+Family health apps are a growing category. Luffu, started by Fitbit's co-founders, [announced its app](https://www.engadget.com/mobile/fitbit-founders-launch-luffu-a-way-to-integrate-your-familys-health-data-173251994.html) in February 2026 as a beta that reads Apple Health, Fitbit, and other wearables and watches for changes in health and activity patterns. In August it [opened preorders](https://www.axios.com/2026/08/25/luffu-fitness-band-aging-parents) for Luffu Link, a screenless LTE band that adds a help button, check-ins, and location sharing with no phone nearby. Luffu [lists the band](https://luffu.com/products/luffu-link) at $299.99, or $249.99 on preorder, with a required Family Plan of $19.99 a month for up to four people, and expects it to ship in early 2027. We didn't find weather, crime, or spending alerts listed on Luffu's site.
 
 Looop launched on the App Store in May 2026, and families can download it today.
 
@@ -33,11 +33,11 @@ Each day, all of it comes together in one answer: a Typical Day, or an Unusual D
 
 Every loved one joins Looop by invitation and decides whether to add Health & Fitness sharing or link a bank account.
 
-"Most of our parents already carry an iPhone, and a lot of them already wear a watch or a ring. We didn't want to give Mom one more thing to wear and remember to charge. Looop works with what she already has, and it tells us when it's worth a call," said the team behind Looop.
+"Mom's health is one part of her day. A storm rolling toward her town, a strange charge on her card, a trip to the ER: those are the things that make us pick up the phone. Looop puts all of it in one answer, using the phone and watch she already has," said the team behind Looop.
 
 **How the two compare**
 
-Both apps read the health data from wearables a family already owns. Luffu offers things Looop doesn't, including a family health record for medications, meals, and doctor visits, kids and pets in the same app, and a band with a help button that works with no phone nearby. Looop's safety alerts run on the iPhone a parent already carries, and it adds unusual spending, severe weather in more than 50 countries, and nearby crime to the same daily answer. A side-by-side comparison, with sources, is at https://www.thelooopapp.com/looop-vs-luffu.html.
+Both apps read the health data from wearables a family already owns. Luffu offers things Looop doesn't, including a family health record for medications, meals, and doctor visits, kids and pets in the same app, and a band with a help button that works with no phone nearby. Looop sends alerts Luffu's site doesn't list, including severe weather, nearby crime, unusual spending, and arrivals at a hospital, police station, or airport, and it's available today. A side-by-side comparison, with sources, is at https://www.thelooopapp.com/looop-vs-luffu.html.
 
 **Private by design**
 
