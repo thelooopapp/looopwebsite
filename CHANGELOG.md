@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 16:15 CT
+
+### Changed
+- Investor page: the opening paragraph now states Looop's own benefits; competitor comparisons stay in the later sections.
+
 ## 2026-11-06 16:10 CT
 
 ### Changed
