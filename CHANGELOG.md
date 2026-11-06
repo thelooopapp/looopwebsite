@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 16:40 CT
+
+### Changed
+- Investor page: added the Weather Grid image above "The Product," removed the Go-to-Market section (and the matching deck bullet), tightened phrasing throughout, and reworded the founder story's opening.
+
 ## 2026-11-06 16:30 CT
 
 ### Changed
