@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 17:40 CT
+
+### Changed
+- Investor, deck, and partner pages: brought into line with the copywriter guide: "Loved One" capitalized everywhere, the holistic list in press order, "unusual spending" for the alert, and "Health & Fitness sharing" for the Apple Health feature.
+
 ## 2026-11-06 17:35 CT
 
 ### Changed
