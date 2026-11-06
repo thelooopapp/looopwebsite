@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 15:20 CT
+
+### Changed
+- Investor and partner pages: removed the round details, the Save as PDF, pitch deck and videos buttons, and the November dates. Deck's last slide is now "What's next." Headline reads "Know Loved Ones are safe, across any distance." Founder story now says a family of five in five cities.
+
 ## 2026-11-06 15:10 CT
 
 ### New pages (unlisted)
