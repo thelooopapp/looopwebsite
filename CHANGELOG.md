@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 18:10 CT
+
+### Added
+- Investor page: a one-row "equation" strip at the end of "The Gap Looop Fills" (severe weather + crime + health + fitness + activity = one answer), using the site's alert icons.
+
 ## 2026-11-06 18:05 CT
 
 ### Changed

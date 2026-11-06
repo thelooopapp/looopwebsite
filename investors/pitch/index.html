@@ -28,6 +28,11 @@
     .article-body th { color: #1B73C6; font-weight: 700; }
     .hero-shot { margin: 8px 0 32px; text-align: center; }
     .hero-shot img { max-width: 100%; height: auto; }
+    .equation { display: flex; flex-wrap: nowrap; align-items: flex-start; justify-content: center; gap: 6px; margin: 8px 0 36px; padding: 22px 12px; background: #fff; border-radius: 20px; box-shadow: 0 6px 18px rgba(0,0,0,.06); }
+    .eq-item { display: flex; flex-direction: column; align-items: center; gap: 8px; flex: 0 1 84px; min-width: 0; }
+    .eq-label { font-size: 14px; font-weight: 600; color: #1E2126; text-align: center; line-height: 1.25; }
+    .eq-op { flex: 0 0 auto; font-size: 24px; font-weight: 700; color: #5B626C; line-height: 44px; }
+    @media (max-width: 640px) { .equation { gap: 2px; padding: 16px 6px; } .eq-item .icon-badge { transform: scale(.8); } .eq-item { gap: 2px; } .eq-label { font-size: 11px; } .eq-op { font-size: 16px; line-height: 40px; } }
     .split { display: flex; gap: 28px; align-items: stretch; margin-bottom: 24px; }
     .split-text { flex: 1 1 0; }
     .split-text p:last-child { margin-bottom: 0; }
