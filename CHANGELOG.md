@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 18:28 CT
+
+### Removed
+- Investor page: the Weather Grid image in "The Gap Looop Fills."
+
 ## 2026-11-06 18:25 CT
 
 ### Changed
