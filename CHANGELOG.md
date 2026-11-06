@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 18:05 CT
+
+### Changed
+- Investor page: corrected how Looop works (status at a glance any time of day, not once a day; only activity, health, and phone use are measured against a person's normal), fixed Find My, Luffu, and pricing claims, and dropped an unsourced line.
+- Pitch deck moved from /investors/deck.html to /investors/pitch/ and rebuilt to match the investor page, section for section.
+
 ## 2026-11-06 17:55 CT
 
 ### Changed
