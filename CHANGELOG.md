@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 17:00 CT
+
+### Removed
+- Investor page: "The Next 12 Months" section.
+
 ## 2026-11-06 16:55 CT
 
 ### Changed
