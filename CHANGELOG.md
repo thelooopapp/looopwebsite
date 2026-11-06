@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 18:40 CT
+
+### Added
+- Investor page: "The Opportunity" now has a bar chart of smartphone ownership among Americans 65 and older, 2012 to 2026, redrawn from Pew Research Center data. The chart and its source line link to Pew's Mobile Fact Sheet.
+
 ## 2026-11-06 18:32 CT
 
 ### Changed
