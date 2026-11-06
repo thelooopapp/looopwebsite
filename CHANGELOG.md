@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 17:25 CT
+
+### Changed
+- Investor, deck, and partner pages: capitalized the first word after every colon.
+
 ## 2026-11-06 17:20 CT
 
 ### Changed
