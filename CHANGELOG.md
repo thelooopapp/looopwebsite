@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 18:44 CT
+
+### Changed
+- Investor page: the Pew smartphone chart is now a line chart, with years spaced to scale.
+
 ## 2026-11-06 18:40 CT
 
 ### Added
