@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 16:55 CT
+
+### Changed
+- Investor page: Weather Grid image is smaller and now closes "The Gap Looop Fills," above "The Opportunity."
+
 ## 2026-11-06 16:50 CT
 
 ### Changed
