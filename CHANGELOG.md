@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 16:24 CT
+
+### Added
+- Hidden draft: Looop vs. Luffu comparison page (`looop-vs-luffu.html`, copy source `content/website/looop-vs-luffu.md`). Same structure and tables as Looop vs. Life360 (Choose Looop if table, 30-second summary, At a glance, what Luffu does well, seven differences, where Luffu may fit better, scorecard, FAQ, sources). Luffu's column uses a muted version of Luffu's own sage, tan, and slate palette. Luffu facts checked Nov. 6, 2026. noindex, not in the sitemap, not linked from any page.
+- Hidden draft press release: "Looop brings aging-parent alerts to the phone and watch a parent already owns, with nothing new to buy" (`press/nothing-new-to-buy.html`, source `content/press/nothing-new-to-buy.md`). noindex, not on the newsroom. Needs a release date, quote approval, and legal review.
+
 ## 2026-11-06 18:44 CT
 
 ### Changed
