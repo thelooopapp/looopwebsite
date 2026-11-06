@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 15:10 CT
+
+### New pages (unlisted)
+- **Investor and partner pages, shared by link only** (`investors/index.html`, `investors/deck.html`, `investors/videos.html`, `partners/index.html`): an investor overview, a ten-slide web pitch deck with Save as PDF, a videos page (paste the unlisted YouTube IDs into the `VIDEOS` line near the bottom; until then each slot says "coming soon"), and a partner page for caregiving benefit platforms, employers, and home-care networks. Each page has `noindex, nofollow`, and none is linked from the nav, footer, `sitemap.xml`, or `llms.txt`. They use the article layout and page-level styles only, so no shared stylesheet changed.
+
 ## 2026-11-04 13:54 CT
 
 ### Copy
