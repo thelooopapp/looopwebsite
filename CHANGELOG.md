@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 17:35 CT
+
+### Changed
+- Investor page: square Weather Grid image now sits beside an expanded paragraph on Looop's daily answer and single place to look, sized to match the text; on phones it stacks below. "Why Looop Wins" now closes with privacy as a competitive advantage, backed by Pew data and Life360's ad revenue.
+
 ## 2026-11-06 17:25 CT
 
 ### Changed

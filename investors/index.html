@@ -28,6 +28,12 @@
     .article-body th { color: #1B73C6; font-weight: 700; }
     .hero-shot { margin: 8px 0 32px; text-align: center; }
     .hero-shot img { max-width: 100%; height: auto; }
+    .split { display: flex; gap: 28px; align-items: stretch; margin-bottom: 24px; }
+    .split-text { flex: 1 1 0; }
+    .split-text p:last-child { margin-bottom: 0; }
+    .split-img { flex: 0 0 300px; position: relative; }
+    .split-img img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; filter: drop-shadow(0 6px 18px rgba(0,0,0,.12)); }
+    @media (max-width: 640px) { .split { flex-direction: column; } .split-img { flex-basis: auto; width: 100%; max-width: 320px; aspect-ratio: 1 / 1; margin: 0 auto; } }
     .actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 8px 0 32px; }
     .actions a, .actions button { display: inline-block; padding: 12px 20px; border-radius: 999px; font: inherit; font-weight: 700; font-size: 15px; text-decoration: none; cursor: pointer; border: 2px solid #1B73C6; }
     .actions .primary { background: #1B73C6; color: #fff; }
@@ -94,8 +100,26 @@
 <li><strong>Medical alert services</strong> respond once there's an&nbsp;emergency.</li>
 <li><strong>Luffu</strong> asks families to buy and wear a new&nbsp;band.</li>
 </ul>
-<p>Looop gives families one daily answer about each loved one, from the phones and watches they already&nbsp;have.</p>
-<div class="hero-shot"><img src="../images/home/weather-grid-only.webp" width="492" height="682" loading="lazy" style="max-width:300px;margin:0 auto;display:block;filter:drop-shadow(0 6px 18px rgba(0,0,0,.12))" alt="Looop Weather Grid showing the 5-day forecast for Tony in San Diego, Bud in Austin, Mom in Chicago, and Sis in Madrid, side by side"></div>
+<div class="split"><div class="split-text">
+<p>Looop gives families one daily answer about each loved one: A Typical Day, or an Unusual Day that might be worth a call. It's also one place to look for everything they used to check in separate apps. The Weather Grid shows everyone's forecast at once, and alerts about crime, arrivals, and spending sit next to each person's answer, on the phones and watches they already&nbsp;have.</p>
+</div><div class="split-img"><img src="../images/home/weather-grid-square.webp" width="482" height="482" loading="lazy" alt="Looop Weather Grid showing three days of forecasts for Tony in San Diego, Bud in Austin, Mom in Chicago, and Sis in Madrid, side by side"></div></div>
+<script>
+(function () {
+  function fit() {
+    document.querySelectorAll('.split').forEach(function (el) {
+      var t = el.querySelector('.split-text'), m = el.querySelector('.split-img');
+      if (window.innerWidth <= 640) { m.style.flexBasis = ''; return; }
+      var W = el.getBoundingClientRect().width, lo = 160, hi = W * 0.5;
+      for (var k = 0; k < 14; k++) {
+        var mid = (lo + hi) / 2; m.style.flexBasis = mid + 'px';
+        if (t.getBoundingClientRect().height > mid) lo = mid; else hi = mid;
+      }
+      m.style.flexBasis = hi + 'px';
+    });
+  }
+  window.addEventListener('load', fit); window.addEventListener('resize', fit); fit();
+})();
+</script>
 <h2>The&nbsp;Opportunity</h2>
 <p>There are 63 million family caregivers in the US, up 45% in a decade (<a href="https://www.aarp.org/caregiving/basics/caregiving-in-us-survey-2025/" rel="noopener">AARP/NAC 2025</a>). Because each caregiver who wants alerts subscribes, the market at $49.99 a year is about $3.2&nbsp;billion.</p>
 <p>The number will keep growing. By 2030, every baby boomer will be 65 or older, and the Census Bureau projects that older adults will outnumber children for the first time in US history by 2034 (<a href="https://www.census.gov/library/publications/2020/demo/p25-1144.html" rel="noopener">US Census Bureau</a>). More of those parents will live alone, and more of their children will live in other&nbsp;cities.</p>
