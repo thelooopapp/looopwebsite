@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 18:18 CT
+
+### Changed
+- Investor page: added Unusual spending to the equation strip.
+
 ## 2026-11-06 18:15 CT
 
 ### Changed
