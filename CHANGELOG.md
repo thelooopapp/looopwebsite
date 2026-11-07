@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 18:41 CT
+
+### Changed
+- Looop vs. Luffu (hidden draft) rebuilt on the proposal that won a five-agent review (copywriter base, legal rules). Positioning: Luffu keeps your family's health in one place (a record you keep); Looop sends a heads-up when Mom's day looks unusual (a heads-up you get), with nothing to log, on the App Store today. New hero: "Luffu brings your family's health into one app. / Looop sends a heads-up when Mom's day looks unusual. / There's nothing to log, and you can download it today." Intro opens with "Luffu's app works without its band, and both apps read the watch she already wears." New neutral "Not listed on luffu.com" table mark (never No or Partly for an absent feature). Rows Luffu wins (medications and records, Android, phone-free band) left out of the tables and covered in What Luffu does well and Where Luffu may fit better, as on the Life360 page. Ads row relabeled to what each privacy notice allows, with Luffu's exact quote. Removed unsourced "$199.99 a year," "no carrier plan needed," present-tense "in beta," "focuses on health," "learns," 9to5Mac, and the AI-training clause. Store check recorded: no Luffu app on the App Store Nov 6, 2026; Luffu's Link page says the app will be available later this year.
+
 ## 2026-11-06 17:57 CT
 
 ### Changed
