@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 19:01 CT
+
+### Changed
+- Looop vs. Luffu (hidden draft): hero and intro now lead with Looop's strength, that it covers more of her day than her health. Hero: "Luffu is built around your family's health. / Looop also tells you about the storm, the unusual charge, and the ER visit. / You'll know when her whole day looks unusual." Intro opens on what Looop adds beyond the watch; the band and wearable facts move to the Luffu paragraph. "Log" replaced with "keep up with" or "enter" throughout.
+
 ## 2026-11-06 18:41 CT
 
 ### Changed
