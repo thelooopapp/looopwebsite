@@ -7,7 +7,7 @@ legal_notes: "Names a competitor (Luffu). Hidden: noindex, not in the sitemap, n
 
 # Looop vs. Luffu
 
-Hero: Luffu is built around your family's health. / Looop also tells you about the storm, the unusual charge, and the ER visit. / You'll know when her whole day looks unusual.
+Hero: Luffu is built around your family's health. / Looop brings her whole life into one daily answer. / One app for everything you worry about.
 
 ## Which one fits your family?
 

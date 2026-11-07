@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 19:02 CT
+
+### Changed
+- Looop vs. Luffu (hidden draft): positioning is now holistic. Luffu is built around one part of family care, health; Looop brings weather, crime, spending, health, fitness, activity, and the shape of her day together in one daily answer. Hero: "Luffu is built around your family's health. / Looop brings her whole life into one daily answer. / One app for everything you worry about." Title: "Her Whole Life, Not Just Her Health."
+
 ## 2026-11-06 19:01 CT
 
 ### Changed
