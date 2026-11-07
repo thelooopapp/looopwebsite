@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-06 19:14 CT
+
+### Changed
+- Looop vs. Luffu (hidden draft) rebuilt on the round 2 five-agent review winner (redteam base, 4 of 5; legal hero, 3 of 5). Hero: "Looop brings your family's whole day into one answer. / You'll know who's okay and who might need a call. / No one in your family has to enter anything." All copy is plural (no "her," "she," or "Mom" framing); "log" appears nowhere; Luffu is described only in its own words ("health, safety, and wellness"), never "built around health." Tables favor Looop with no Luffu-win rows; Luffu's wins sit in What Luffu does well and Where Luffu may fit better. New rows: "One answer each day" (Choose table), "No new hardware to buy" tie, "Not listed" cells dated with a footnote that it doesn't mean Luffu will never offer it; Luffu's own "subject to change" on Cost and Hardware; "Neither app calls 911 for you" opens the emergency section; new FAQ on covering a parent in another state and a kid at college. Pets removed (unsourced). App Store check (Nov 6, 2026, none found) added to Sources.
+
 ## 2026-11-06 19:02 CT
 
 ### Changed
