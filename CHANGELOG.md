@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 15:58 CT
+
+### Changed
+- Comparison pages, "Which one is right for you?" scorecard: the competitor column (Luffu, Life360) now uses neutral gray bullets instead of X marks. An X read as "doesn't have it" next to things the competitor does offer (Luffu's medication alerts and daily summaries, Life360's GPS tracking). Looop's column keeps its green checks.
+
 ## 2026-11-09 15:45 CT
 
 ### Changed
