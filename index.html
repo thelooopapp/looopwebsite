@@ -72,7 +72,7 @@
         <p>Looop learns the routines that make up a typical day for each Loved One. It works quietly in the background, flags shifting patterns, and tells you when it's time to check&nbsp;in.</p>
       </div>
       <figure class="datahub" id="datahub">
-        <img class="dh-poster" src="images/home/datahub/poster.webp" width="1400" height="1136" decoding="async" alt="Looop listens to signals like weather, crime nearby, driving, heart rate, spending and phone use, and shows My Family with Mom, Dad and Sis each having a Typical Day. When something is unusual, that person turns orange with the reason, like a Tornado Warning, and Looop says it's time to check in.">
+        <img class="dh-poster" src="images/home/datahub/poster.webp?v=03c47b65" width="1400" height="1136" decoding="async" alt="Looop listens to signals like weather, crime nearby, driving, heart rate, spending and phone use, and shows My Family with Mom, Dad and Sis each having a Typical Day. When something is unusual, that person turns orange with the reason, like a Tornado Warning, and Looop says it's time to check in.">
         <div class="dh-stage" aria-hidden="true"></div>
       </figure>
       <div class="head">
@@ -351,7 +351,7 @@
   function fit() { stage.style.zoom = fig.clientWidth / 1700; }
   function loadImg(src) { return new Promise(function (res) { var i = new Image(); i.onload = i.onerror = function () { (i.decode ? i.decode() : Promise.resolve()).then(res, res); }; i.src = src; }); }
   function start() {
-    fetch('images/home/datahub/stage.html').then(function (r) { if (!r.ok) throw 0; return r.text(); }).then(function (html) {
+    fetch('images/home/datahub/stage.html?v=1443af83').then(function (r) { if (!r.ok) throw 0; return r.text(); }).then(function (html) {
       var srcs = [];
       html.replace(/(?:src|href)="(images\/home\/[^"]+)"/g, function (m, u) { if (srcs.indexOf(u) < 0) srcs.push(u); });
       return Promise.all(srcs.map(loadImg).concat([document.fonts ? document.fonts.ready : null])).then(function () { return html; });
