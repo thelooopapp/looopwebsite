@@ -6,6 +6,7 @@ Changes to thelooopapp.com, newest first. This file is not published (see `_conf
 
 ### Changed
 - Looop vs. Life360, "Which one fits your family?" subtitle: "Calm alerts, or a live map." is now "Calm alerts, or GPS tracking."
+- Looop vs. Life360 hero: "Life360 is built around a live family map." is now "Life360 is built around GPS tracking."
 
 ## 2026-11-09 15:59 CT
 
