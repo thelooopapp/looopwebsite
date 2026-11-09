@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 15:54 CT
+
+### Changed
+- How It Works: removed the "look back at every alert from the past 24 hours" line under the alerts banner.
+
 ## 2026-11-09 15:52 CT
 
 ### Changed
