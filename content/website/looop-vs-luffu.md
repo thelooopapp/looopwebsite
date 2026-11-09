@@ -7,7 +7,7 @@ legal_notes: "Names a competitor (Luffu). Hidden: noindex, not in the sitemap, n
 
 # Looop vs. Luffu
 
-Hero: Luffu looks after their health. Looop looks after their whole day. / Health is one piece. Looop brings the rest into one daily answer. / It's automatic, and quiet when all is well.
+Hero: Looop looks after their whole day. Luffu looks after their health. / Health is one piece. Looop brings the rest into one daily answer. / It's automatic, and quiet when all is well.
 
 ## Which one fits your family?
 
