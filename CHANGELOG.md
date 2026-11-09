@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 16:15 CT
+
+### Changed
+- Looop vs. Life360, "Which one fits your family?" subtitle: "Calm alerts, or a live map." is now "Calm alerts, or GPS tracking."
+
 ## 2026-11-09 15:59 CT
 
 ### Changed
