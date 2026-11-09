@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 15:56 CT
+
+### Changed
+- How It Works: more space above the "Every family situation is different." banner (104px on desktop, 64px on phones) so the tilted phone no longer crowds the alert cards. `styles.css` version bumped on this page.
+
 ## 2026-11-09 15:54 CT
 
 ### Changed
