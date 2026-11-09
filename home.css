@@ -243,3 +243,7 @@
 .datahub .dh-stage { position: absolute; left: 0; top: 0; width: 1700px; height: 1380px; transform-origin: 0 0; visibility: hidden; pointer-events: none; -webkit-text-size-adjust: none; text-size-adjust: none; contain: layout paint; font-family: 'Plus Jakarta Sans', -apple-system, system-ui, sans-serif; line-height: normal; }
 .datahub.live .dh-stage { visibility: visible; }
 .datahub.live .dh-poster { visibility: hidden; }
+
+.datahub .dh-video{position:absolute;inset:0;width:100%;height:100%;display:block;opacity:0;pointer-events:none}
+.datahub.live-video .dh-video{opacity:1}
+.datahub.live-video .dh-poster{visibility:hidden}

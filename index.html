@@ -21,7 +21,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Albert+Sans:wght@900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="home.css?v=1108b">
+  <link rel="stylesheet" href="home.css?v=1108c">
   <link rel="stylesheet" href="map.css?v=1020b">
   <script src="map.js?v=1020a" defer></script>
   <link rel="stylesheet" href="footer.css?v=1019">
@@ -349,7 +349,27 @@
   var stage = fig.querySelector('.dh-stage');
   function fit() { stage.style.transform = 'scale(' + (fig.clientWidth / 1700) + ')'; }
   function loadImg(src) { return new Promise(function (res) { var i = new Image(); i.onload = i.onerror = function () { (i.decode ? i.decode() : Promise.resolve()).then(res, res); }; i.src = src; }); }
+  /* Phones and tablets get a looping video: it plays smoothly and survives pinch-zoom,
+     where hundreds of live animated layers can run a phone out of memory. */
+  function startVideo() {
+    var v = document.createElement('video');
+    v.className = 'dh-video';
+    v.muted = true; v.loop = true; v.playsInline = true; v.preload = 'auto';
+    v.setAttribute('muted', ''); v.setAttribute('playsinline', ''); v.setAttribute('aria-hidden', 'true');
+    v.src = 'images/home/datahub/datahub.mp4';
+    v.addEventListener('playing', function () { fig.classList.add('live-video'); });
+    fig.appendChild(v);
+    var vis = false;
+    function sync() {
+      if (vis && !document.hidden) { var pr = v.play(); if (pr && pr.catch) pr.catch(function () {}); }
+      else v.pause();
+    }
+    new IntersectionObserver(function (es) { vis = es[es.length - 1].isIntersecting; sync(); }, { rootMargin: '200px 0px' }).observe(fig);
+    document.addEventListener('visibilitychange', sync);
+  }
+  var touch = window.matchMedia && matchMedia('(hover: none) and (pointer: coarse)').matches;
   function start() {
+    if (touch) { startVideo(); return; }
     fetch('images/home/datahub/stage.html').then(function (r) { if (!r.ok) throw 0; return r.text(); }).then(function (html) {
       var srcs = [];
       html.replace(/(?:src|href)="(images\/home\/[^"]+)"/g, function (m, u) { if (srcs.indexOf(u) < 0) srcs.push(u); });
