@@ -49,10 +49,10 @@ Hero: Luffu looks after their health. Looop looks after their whole day. / Healt
 
 ## What Luffu does well
 
+- **A band that works without a phone nearby** Luffu Link has its own LTE and GPS, a help button for trusted contacts, a double-tap check-in, and up to five days of battery, in the US, expected early 2027.
 - **A shared health record** Medications, meals, medical records, vital signs, and doctor visits, added by voice, text, photo, or document, and shared with the parents, spouses, and caregivers you choose, with control over who can see or update what.
 - **Alerts that run on their own** Luffu watches for missed medications and changes in health and activity, and alerts you before they become concerns.
 - **Answers in plain language** Ask about the family's health information and get answers, insights, and charts you can adjust, save, and share.
-- **A band that works without a phone nearby** Luffu Link has its own LTE and GPS, a help button for trusted contacts, a double-tap check-in, and up to five days of battery, in the US, expected early 2027.
 
 ## Where Looop and Luffu part ways
 
