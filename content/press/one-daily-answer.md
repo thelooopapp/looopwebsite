@@ -14,9 +14,7 @@ placeholders: []
 
 **AUSTIN, Texas, Nov. 12, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app brings together the alerts families want about an aging parent who lives far away: severe weather in more than 50 countries, nearby crime in all 50 US states, unusually large spending on a linked account, and changes in sleep, heart rate, and activity from the Apple Watch, Oura, or Whoop a parent already wears. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-A parent's health is one part of her day. A storm heading toward her town, an unusually large charge on her card, a trip to the ER: those are the moments that make families pick up the phone. Today they're spread across a weather app, a banking app, a health app, and a map. Looop puts them in one place.
-
-Most family apps are built around a map: they answer "Where is she?" Looop answers the question families actually ask: "Is Mom okay today?"
+Families who look after a parent from a distance usually piece her day together from a weather app, a banking app, a health app, and a map. Looop puts it in one place.
 
 - **What's around her:** severe weather in more than 50 countries and nearby crime in all 50 US states, at the distance the family picks: 1, 3, 5, or 10 miles.
 - **Unusual spending:** a heads-up about unusually large spending on a linked account, which can be an early sign of a scam.
@@ -27,11 +25,11 @@ Most family apps are built around a map: they answer "Where is she?" Looop answe
 
 **Nothing new to buy**
 
-Looop runs on the iPhone a parent already carries. If she chooses to share, it reads the watch or ring she already wears, through Apple Health. There's no band, pendant, or base station to buy, nothing new for her to wear or charge, and no extra cellular plan. There's nothing for her to start, either: no check-ins, timers, or sessions to remember.
+Looop runs on the iPhone a parent already carries. If she chooses to share, it also reads the watch or ring she already wears, through Apple Health. There's no device to buy and nothing new for her to wear or charge, and she doesn't have to check in or start anything.
 
 **On the App Store today**
 
-Looop launched on the App Store in May 2026 and has shipped new features and updates steadily since. Families can download it today, sign up with a phone number, and invite a parent from their contacts.
+Looop launched on the App Store in May 2026 and has added features steadily since. Families download it, sign up with a phone number, and invite a parent from their contacts.
 
 Every Loved One joins Looop by invitation and decides whether to add Health & Fitness sharing or link a bank account.
 
@@ -39,7 +37,7 @@ Every Loved One joins Looop by invitation and decides whether to add Health & Fi
 
 **Peace of mind for you, independence for them**
 
-Looop doesn't ask anyone to watch a map. It stays quiet when a day looks like a parent's own normal and sends a heads-up when it doesn't, so families know when a call is worth making and parents keep their independence.
+Looop stays quiet when a day looks like a parent's own normal and sends a heads-up when it doesn't. Families know when a call is worth making, and parents keep their independence.
 
 **Your family's data isn't for sale**
 

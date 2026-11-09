@@ -60,7 +60,7 @@ Hero: Looop looks after their whole day. Luffu looks after their health. / Healt
 
 Looop reads the same health and fitness data from the watch they already wear. Then it adds the rest of their day: severe weather, nearby crime, an unusually large charge, a trip to the ER, a drive or a walk that looks unusual. Each day, all of it comes together in one answer about each Loved One: a Typical Day, or an Unusual Day that might be worth a call.
 
-Luffu covers health. It keeps medications, meals, medical records, and vital signs, and alerts you to changes in health and activity. For a family managing a diagnosis, that depth is the point.
+Luffu covers health. It keeps medications, meals, medical records, and vital signs, and alerts you to changes in health and activity.
 
 ### Looop is automatic
 

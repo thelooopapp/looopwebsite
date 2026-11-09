@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 18:45 CT
+
+### Changed
+- Hidden Nov. 12 release (`press/one-daily-answer.html` and its source), checked against the copywriter guidelines' AI-writing tells: the second paragraph no longer echoes the team quote (it repeated the quote's storm, charge, and ER fragments and colon setup); it now says families piece a parent's day together from a weather app, a banking app, a health app, and a map, and Looop puts it in one place. Dropped the map-versus-question contrast, since the About paragraph already carries the page's one contrast. "Nothing new to buy" no longer stacks lists (band, pendant, base station; check-ins, timers, sessions). "Peace of mind" section split into two plain sentences.
+- Looop vs. Luffu (hidden draft): removed "For a family managing a diagnosis, that depth is the point." from "Health, plus everything else," since the next section ends on the same line about the record.
+
 ## 2026-11-09 18:25 CT
 
 ### Added
