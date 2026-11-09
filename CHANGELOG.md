@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 15:25 CT
+
+### Changed
+- How It Works (`features.html`) now explains how Looop works, not only what it does. New "How Looop works" section under the hero: three steps (invite your family, Looop learns their usual routine, you get an alert when something changes) and "Where Looop gets its information" (public sources, their iPhone, and what they choose to share). Hero lead, alerts subtitle, Unusual Day, the alerts note, at-a-glance, check-in subtitle, health line, setup bullets and closing CTA reworded in plain English. Three new FAQs (how Looop knows something's unusual, how often you'll hear from it, what a Loved One has to do), also in the FAQ structured data. "GPS" removed from two FAQ answers. New meta description.
+
 ## 2026-11-09 15:20 CT
 
 ### Changed
