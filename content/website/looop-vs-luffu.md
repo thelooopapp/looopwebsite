@@ -26,7 +26,7 @@ Hero: Looop brings your family's whole day into one answer. / You'll know who's 
 | Severe weather and nearby crime alerts | yes: Weather in more than 50 countries; crime in all 50 US states, at 1, 3, 5, or 10 miles | nl: Not on luffu.com (Nov. 6, 2026) |
 | A heads-up about an unusually large charge | yes: Optional, through a Plaid bank link | nl: Not on luffu.com (Nov. 6, 2026) |
 | Alerts about their day: an unusual drive, walk, or phone use, a phone untouched for hours, an arrival at a hospital, police station, or airport | yes: Included, from the iPhone they carry | nl: Not on luffu.com. Location sharing comes with the $299.99 Luffu Link, early 2027 |
-| On the App Store today | yes: For iPhone | part: In beta, by waitlist. Luffu says later this year |
+| On the App Store today | yes: For iPhone | part: In beta, by waitlist. Luffu says later this year (checked Nov. 9, 2026) |
 | A privacy notice that rules out sharing with advertising partners | yes: Looop doesn't work with advertisers | no: May share non-health personal information with advertising partners |
 | Automatic alerts | yes: Once a Loved One joins, there's nothing to do | myes: Alerts on changes. Medications, meals, and visits are what the family adds |
 | Health and fitness from a watch or ring they already own | yes: Apple Watch, Oura, and Whoop, through Apple Health | myes: Apple Health and Fitbit |
@@ -73,13 +73,13 @@ Luffu is built around a record your family keeps. Its [home page](https://www.lu
 
 Looop tells you when severe weather is heading toward a Loved One, in more than 50 countries, and when crime is reported nearby, in all 50 US states, at the distance your family picks: 1, 3, 5, or 10 miles. Instead of checking the weather in five cities, families get one heads-up when it matters.
 
-We didn't find weather or crime alerts on [luffu.com](https://www.luffu.com/) or the [Luffu Link page](https://luffu.com/products/luffu-link), checked November 6, 2026. Luffu Link lists location sharing, notifications, and help and check-in messages, and the band is expected in early 2027.
+Luffu doesn't offer weather or crime alerts. Its [app](https://www.luffu.com/) covers health, and its [Luffu Link band](https://luffu.com/products/luffu-link) adds location sharing, notifications, and help and check-in messages, expected early 2027.
 
 ### A heads-up about an unusually large charge
 
 If a Loved One links a bank account, Looop can let you know about unusually large spending, with a threshold you set. A sudden large payment can be an early sign of a scam, so you can call that same day. Bank linking is optional, runs through Plaid, and is never used for ads or sold.
 
-We didn't find money or spending features on [luffu.com](https://www.luffu.com/), checked November 6, 2026. Luffu's day-in-the-life page shows to-dos, meals, and a dinner plan, and its Link page covers health, location, and help messages.
+Luffu doesn't offer spending alerts. Its [focus](https://www.luffu.com/) is health: medications, meals, medical records, and vital signs.
 
 ### Help in an emergency
 
@@ -91,13 +91,13 @@ Luffu's [Link page](https://luffu.com/products/luffu-link) answers "Does Luffu L
 
 Looop never sells your data and doesn't work with advertisers. There are no ads and no sponsored offers in your notifications. Your family's data isn't for sale.
 
-Luffu's [privacy notice](https://luffu.com/policies/privacy-policy), last updated August 23, 2026, says it does not "sell" consumer health data, as defined under state health privacy laws. The same notice says, "We may share your non-health personal information with third-party advertising partners." It covers Luffu's website and mobile app. We quote both sentences so you can read them yourself.
+Luffu's [privacy notice](https://luffu.com/policies/privacy-policy), last updated August 23, 2026, says it does not "sell" consumer health data, as defined under state health privacy laws. The same notice says, "We may share your non-health personal information with third-party advertising partners." The notice covers Luffu's website and mobile app.
 
 ### You can download Looop today
 
 Looop launched on the App Store in May 2026. Download it, sign up with your phone number, and invite your family from your contacts.
 
-Luffu [announced its app](https://www.engadget.com/mobile/fitbit-founders-launch-luffu-a-way-to-integrate-your-familys-health-data-173251994.html) on February 3, 2026, as a beta with a waitlist. We found no Luffu app on the App Store on November 6, 2026. Its [Luffu Link page](https://luffu.com/products/luffu-link) says the app will be available "later this year" and the band is "expected to ship early 2027."
+Luffu [announced its app](https://www.engadget.com/mobile/fitbit-founders-launch-luffu-a-way-to-integrate-your-familys-health-data-173251994.html) on February 3, 2026, as a beta with a waitlist. It isn't on the App Store yet. Its [Luffu Link page](https://luffu.com/products/luffu-link) says the app will be available "later this year" and the band is "expected to ship early 2027."
 
 ## Where Luffu may fit better
 
@@ -161,6 +161,6 @@ No. Looop never sells your data and doesn't work with advertisers. There are no 
 - Launch and beta: [Luffu announcement (PR Newswire, Feb. 3, 2026)](https://www.prnewswire.com/news-releases/from-the-founders-of-fitbit-introducing-luffu-your-guardian-for-family-health--safety-302676975.html), [Engadget, Feb. 3, 2026](https://www.engadget.com/mobile/fitbit-founders-launch-luffu-a-way-to-integrate-your-familys-health-data-173251994.html)
 - Luffu Link announcement: [Axios, Aug. 25, 2026](https://www.axios.com/2026/08/25/luffu-fitness-band-aging-parents)
 - Health data and advertising partners: [Luffu privacy notice, last updated Aug. 23, 2026](https://luffu.com/policies/privacy-policy)
-- App Store check for a Luffu app: [November 6, 2026, none found](https://apps.apple.com/us/)
+- App Store check: [no Luffu app listed, November 9, 2026](https://apps.apple.com/us/)
 
 Luffu facts checked November 6, 2026. Luffu, Luffu Link, Fitbit, Apple, iPhone, Apple Watch, Apple Health, App Store, Oura, Whoop, Android, and Plaid are trademarks of their respective owners. Looop is not affiliated with any of them.
