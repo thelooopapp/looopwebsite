@@ -1,45 +1,47 @@
 ---
-title: "Looop adds weather, crime, and spending alerts to the health data families already share"
+title: "Looop brings weather, crime, spending, and health alerts for aging parents into one daily answer"
 slug: nothing-new-to-buy
 status: draft
-legal_review: false
-legal_notes: "Names a competitor (Luffu). Every Luffu statement was checked against its linked source on Nov. 6, 2026 (luffu.com product and order pages, privacy notice, PR Newswire, Axios, HIT Consultant). Does not claim Luffu lacks any feature, does not say Luffu's app needs its band, and says the band is on preorder. Hidden draft: noindex, not in the sitemap, not on the newsroom. Needs: release date, approved team quote, legal sign-off, dated PDFs of the Luffu pages in marketing/archive/."
-placeholders: ["[RELEASE DATE]", "team quote approval"]
+release_date: "2026-11-12"
+notes: "Stands alone: names no competitor (owner decision Nov. 9, 2026; Luffu is named only in reporter pitches). Team quote approved Nov. 9. Hidden draft: noindex, not in the sitemap, not on the newsroom, until Nov. 12."
+placeholders: []
 ---
 
 
-# Looop adds weather, crime, and spending alerts to the health data families already share
+# Looop brings weather, crime, spending, and health alerts for aging parents into one daily answer
 
-## Family health apps read the watch a parent already wears. Looop does too, and it also tells families about storms, nearby crime, and unusual spending. It's on the App Store today.
+## It works with wearables parents already have, nothing new to buy, and it's on the App Store today.
 
-**AUSTIN, Texas, [RELEASE DATE]:** LooopApp LLC, an Austin startup, said today that its Looop app sends families alerts that go beyond a parent's health: severe weather in more than 50 countries, nearby crime in all 50 US states, unusually large spending on a linked account, and arrivals at a hospital, police station, or airport. Looop runs on the iPhone a parent already carries. If the parent chooses to share, it reads the Apple Watch, Oura Ring, or Whoop they already wear, through Apple Health, and there's nothing to log.
+**AUSTIN, Texas, Nov. 12, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app brings together the alerts families want about an aging parent who lives far away: severe weather in more than 50 countries, nearby crime in all 50 US states, unusually large spending on a linked account, and changes in sleep, heart rate, and activity from the Apple Watch, Oura, or Whoop a parent already wears. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
 
-Family health apps are a growing category. Luffu, started by Fitbit's co-founders, [announced its app](https://www.engadget.com/mobile/fitbit-founders-launch-luffu-a-way-to-integrate-your-familys-health-data-173251994.html) in February 2026 as a beta that reads Apple Health, Fitbit, and other wearables and watches for changes in health and activity patterns. In August it [opened preorders](https://www.axios.com/2026/08/25/luffu-fitness-band-aging-parents) for Luffu Link, a screenless LTE band that adds a help button, check-ins, and location sharing with no phone nearby. Luffu [lists the band](https://luffu.com/products/luffu-link) at $299.99, or $249.99 on preorder, with a required Family Plan of $19.99 a month for up to four people, and expects it to ship in early 2027. We didn't find weather, crime, or spending alerts listed on Luffu's site.
-
-Looop launched on the App Store in May 2026, and families can download it today.
+A parent's health is one part of her day. A storm heading toward her town, an unusually large charge on her card, a trip to the ER: those are the moments that make families pick up the phone. Today they're spread across a weather app, a banking app, a health app, and a map. Looop puts them in one place.
 
 Most family apps are built around a map: they answer "Where is she?" Looop answers the question families actually ask: "Is Mom okay today?"
 
-Looop brings health, fitness, spending, activity, weather, crime, and the shape of each day into one place, so families aren't piecing it together from a health app, a banking app, and the weather in five cities.
-
+- **What's around her:** severe weather in more than 50 countries and nearby crime in all 50 US states, at the distance the family picks: 1, 3, 5, or 10 miles.
+- **Unusual spending:** a heads-up about unusually large spending on a linked account, which can be an early sign of a scam.
+- **Where she is:** a heads-up when she arrives at a hospital or ER, a police station, or an airport, and a map for when you need it.
 - **Her health:** heart rate, breathing, and sleep, through Apple Health and devices like Apple Watch, Oura, and Whoop.
 - **How she's moving:** steps, walks, and workouts, from the same devices.
-- **Unusual spending:** a heads-up about unusually large spending on a linked account, which can be an early sign of a scam.
 - **What's changed:** walking, driving, time spent in one place, phone use that's higher or lower than usual, and a phone left untouched for hours.
-- **Where she is:** a heads-up when she arrives at a hospital or ER, a police station, or an airport, and a map for when you need it.
-- **What's around her:** severe weather in more than 50 countries and nearby crime in all 50 US states.
 
-Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
+**Nothing new to buy**
 
-Every loved one joins Looop by invitation and decides whether to add Health & Fitness sharing or link a bank account.
+Looop runs on the iPhone a parent already carries. If she chooses to share, it reads the watch or ring she already wears, through Apple Health. There's no band, pendant, or base station to buy, nothing new for her to wear or charge, and no extra cellular plan. There's nothing for her to start, either: no check-ins, timers, or sessions to remember.
+
+**On the App Store today**
+
+Looop launched on the App Store in May 2026 and has shipped new features and updates steadily since. Families can download it today, sign up with a phone number, and invite a parent from their contacts.
+
+Every Loved One joins Looop by invitation and decides whether to add Health & Fitness sharing or link a bank account.
 
 "Mom's health is one part of her day. A storm rolling toward her town, a strange charge on her card, a trip to the ER: those are the things that make us pick up the phone. Looop puts all of it in one answer, using the phone and watch she already has," said the team behind Looop.
 
-**How the two compare**
+**Peace of mind for you, independence for them**
 
-Both apps read the health data from wearables a family already owns. Luffu offers things Looop doesn't, including a family health record for medications, meals, and doctor visits, kids and pets in the same app, and a band with a help button that works with no phone nearby. Looop sends alerts Luffu's site doesn't list, including severe weather, nearby crime, unusual spending, and arrivals at a hospital, police station, or airport, and it's available today. A side-by-side comparison, with sources, is at https://www.thelooopapp.com/looop-vs-luffu.html.
+Looop doesn't ask anyone to watch a map. It stays quiet when a day looks like a parent's own normal and sends a heads-up when it doesn't, so families know when a call is worth making and parents keep their independence.
 
-**Private by design**
+**Your family's data isn't for sale**
 
 Looop never sells your data and doesn't work with advertisers. Its notifications carry no ads or sponsored offers.
 
@@ -49,9 +51,9 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their loved ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, fitness, activity, and the shape of each day come together in one answer, so families know when to check in and loved ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their Loved Ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, fitness, activity, and the shape of each day come together in one answer, so families know when to check in and Loved Ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
-Luffu, Luffu Link, Fitbit, Apple, iPhone, Apple Watch, Apple Health, Oura, and Whoop are trademarks of their respective owners. Looop is not affiliated with any of them.
+Apple, iPhone, Apple Watch, Apple Health, App Store, Oura, and Whoop are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 **Media Contact**
 

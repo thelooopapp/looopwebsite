@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 17:30 CT
+
+### Changed
+- Hidden draft press release rewritten for Thu Nov. 12 (`press/nothing-new-to-buy.html`, source `content/press/nothing-new-to-buy.md`): new headline "Looop brings weather, crime, spending, and health alerts for aging parents into one daily answer" and subhead "It works with wearables parents already have, nothing new to buy, and it's on the App Store today." The release now stands alone and names no competitor (owner decision: Luffu is named only in reporter pitches), so the Luffu paragraph, the "How the two compare" section and the link to the Looop vs. Luffu page are gone. Order: more than health first, then "Nothing new to buy" and "On the App Store today," with the approved lines "Peace of mind for you, independence for them" and "Your family's data isn't for sale" as section heads. Team quote approved. Still noindex, not on the newsroom, not in the sitemap; the go-live changes are on the `press-2026-11-12` branch.
+
 ## 2026-11-09 16:05 CT
 
 ### Changed
