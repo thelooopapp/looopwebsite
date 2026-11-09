@@ -358,10 +358,34 @@
       stage.innerHTML = html;
       fit();
       if ('ResizeObserver' in window) new ResizeObserver(fit).observe(fig); else window.addEventListener('resize', fit);
-      requestAnimationFrame(function () { requestAnimationFrame(function () {
-        if (stage.getAnimations) { var t0 = document.timeline.currentTime; stage.getAnimations({ subtree: true }).forEach(function (a) { a.startTime = t0; }); }
-        fig.classList.add('live');
-      }); });
+      /* Run the animation only while it is on screen and the page is not pinch-zoomed.
+         Zooming makes phones re-render hundreds of animated layers at high resolution,
+         which can exhaust memory; the poster (identical to frame 1) stands in instead. */
+      var active = null, onScreen = true, vv = window.visualViewport;
+      function zoomed() { return !!vv && vv.scale > 1.05; }
+      function update() {
+        var want = onScreen && !zoomed() && !document.hidden;
+        if (want === active) return;
+        active = want;
+        if (want) {
+          stage.style.display = '';
+          fit();
+          requestAnimationFrame(function () { requestAnimationFrame(function () {
+            if (!active) return;
+            if (stage.getAnimations) { var t0 = document.timeline.currentTime; stage.getAnimations({ subtree: true }).forEach(function (a) { a.startTime = t0; }); }
+            fig.classList.add('live');
+          }); });
+        } else {
+          fig.classList.remove('live');
+          stage.style.display = 'none';
+        }
+      }
+      var tick = null;
+      function soon() { if (tick) return; tick = requestAnimationFrame(function () { tick = null; update(); }); }
+      if (vv) { vv.addEventListener('resize', soon); vv.addEventListener('scroll', soon); }
+      document.addEventListener('visibilitychange', soon);
+      new IntersectionObserver(function (es) { onScreen = es[es.length - 1].isIntersecting; soon(); }, { rootMargin: '200px 0px' }).observe(fig);
+      update();
     }).catch(function () { /* keep the poster */ });
   }
   new IntersectionObserver(function (entries, io) {
