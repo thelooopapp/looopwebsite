@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 15:52 CT
+
+### Changed
+- How It Works: "From public sources" is now "From official sources": severe weather alerts from official weather and emergency agencies, and crimes reported near them by local agencies (matching the crime coverage page).
+
 ## 2026-11-09 15:58 CT
 
 ### Changed

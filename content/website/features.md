@@ -36,7 +36,7 @@ Image: lockscreen-phones.png
 
 ### Where Looop gets its information
 
-- **From public sources.** Severe weather alerts from official weather agencies, and crime reported near them.
+- **From official sources.** Severe weather alerts from official weather and emergency agencies, and crimes reported near them by local agencies.
 - **From their iPhone.** When they walk or drive, how much they use their phone, their battery level, and when they arrive at places you've saved, like home.
 - **If they choose to share.** A checking or credit card account they connect, for unusually large purchases, and their Apple Watch or smart ring, through the Apple Health app, for heart rate, sleep, steps, and workouts.
 
