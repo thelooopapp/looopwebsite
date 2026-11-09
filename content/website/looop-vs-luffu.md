@@ -24,7 +24,7 @@ Hero: Luffu looks after their health. Looop looks after their whole day. / Healt
 | | Looop | Luffu |
 | --- | --- | --- |
 | Severe weather and nearby crime alerts | yes: Weather in more than 50 countries; crime in all 50 US states, at 1, 3, 5, or 10 miles | nl: Not supported |
-| Unusual spending alerts | yes: Optional bank link | nl: Not supported |
+| Unusual spending alerts | yes: Included | nl: Not supported |
 | Alerts about their day: an unusual drive or walk, a phone untouched for hours, a trip to the ER | yes: Included | nl: Not supported. Location sharing comes with the $299.99 Luffu Link, early 2027 |
 | On the App Store today | yes: For iPhone | part: In beta, by waitlist. Full release expected later this year |
 | No advertisers | yes: Never | no: May share non-health information with advertisers |
@@ -38,13 +38,13 @@ Hero: Luffu looks after their health. Looop looks after their whole day. / Healt
 | --- | --- | --- |
 | What it is | A safety notifications app: health plus weather, crime, spending, and how each day is going, in one daily answer | A family health app, with an optional $299.99 band expected early 2027 |
 | Built for | Anyone who worries about someone far away: aging parents, kids at college, siblings, partners, and friends. Looop looks after their whole day, not only their health | The family member who manages everyone's health: medications, records, and doctor visits |
-| What you get alerts about | Severe weather, nearby crime, unusual spending, an Unusual Day, an unusual drive or walk, a trip to the ER, a phone untouched for hours, low battery, and health and fitness if a Loved One chooses to share | Missed medications and changes in health and activity. Location sharing and a help button come with Luffu Link |
+| What you get alerts about | Severe weather, nearby crime, unusual spending, an Unusual Day, an unusual drive or walk, a trip to the ER, a phone untouched for hours, low battery, and health and fitness | Missed medications and changes in health and activity. Location sharing and a help button come with Luffu Link |
 | What you have to do | Nothing after setup | Add medications, meals, symptoms, records, and doctor visits by voice, text, or photo |
-| Works with | Apple Watch, Oura Ring, or Whoop, if a Loved One chooses to share | Apple Health and Fitbit |
+| Works with | Apple Watch, Oura Ring, or Whoop | Apple Health and Fitbit |
 | Anything to buy? | No. Looop uses the iPhone and watch they already have | Optional. The Luffu Link band is $299.99 ($249.99 on preorder), plus a Family Plan, expected early 2027 |
 | Cost | $4.99 a month | Family Plan: $19.99 a month for up to four people, or $29.99 for up to eight. Required for the band |
-| Help in an emergency | 911 and up to three emergency contacts, one tap away. Looop doesn't detect emergencies | The $299.99 Luffu Link's button texts trusted contacts. It doesn't call 911 |
-| Your privacy | Never sold. No advertisers. Bank linking is optional | Doesn't sell health data. May share other personal information with advertisers |
+| Help in an emergency | 911 and up to three emergency contacts, one tap away | The $299.99 Luffu Link's button texts trusted contacts. It doesn't call 911 |
+| Your privacy | Never sold. No advertisers. No ads | Doesn't sell health data. May share other personal information with advertisers |
 | Phones | iPhone | iPhone and Android |
 
 ## What Luffu does well
@@ -77,15 +77,15 @@ Luffu doesn't offer weather or crime alerts. Its [app](https://www.luffu.com/) c
 
 ### A heads-up about an unusually large charge
 
-If a Loved One links a bank account, Looop can let you know about unusually large spending, with a threshold you set. A sudden large payment can be an early sign of a scam, so you can call that same day. Bank linking is optional, runs through Plaid, and is never used for ads or sold.
+When a Loved One links a bank account, Looop lets you know about an unusually large charge, with a threshold you set. A sudden large payment can be an early sign of a scam, so you can call that same day. Looop never sells that information.
 
 Luffu doesn't offer spending alerts. Its [focus](https://www.luffu.com/) is health: medications, meals, medical records, and vital signs.
 
 ### Help in an emergency
 
-Neither app calls 911 for you. Looop puts 911 and up to three emergency contacts for each Loved One one tap away, on the iPhone they already carry. It doesn't offer dispatch or crash detection, and it doesn't detect emergencies. If you think someone is in danger, call 911 first.
+Looop puts 911 and up to three emergency contacts for each Loved One one tap away, on the phone they already carry. Looop doesn't detect emergencies, so if you think someone is in danger, call 911 first.
 
-Luffu's [Link page](https://luffu.com/products/luffu-link) answers "Does Luffu Link call 911 or emergency services?" with "No, it does not. However, it will contact trusted people that you specify via the Luffu app." The band's button sends help to those contacts, and a double tap lets family know you're okay. Those features need cellular coverage and work only in the US, per the same page.
+Luffu's [Link page](https://luffu.com/products/luffu-link) answers "Does Luffu Link call 911 or emergency services?" with "No, it does not. However, it will contact trusted people that you specify via the Luffu app." The band's button sends help to those contacts, and a double tap lets family know you're okay. The band works in the US only.
 
 ### Advertisers and your data
 
@@ -140,7 +140,7 @@ Yes. Luffu's app reads Apple Health and Fitbit, flags health and activity change
 
 **Can Looop or Luffu call 911 for us?**
 
-Neither one calls 911 for you. Looop lets you call 911 in one tap and save up to three emergency contacts for each Loved One. Luffu Link sends help messages to the trusted contacts you set up, and it doesn't call 911. Looop helps you know when to check in. It doesn't detect emergencies. If you think someone is in danger, call 911 first.
+Neither one calls 911 for you. Looop puts 911 and up to three emergency contacts for each Loved One one tap away. Luffu Link's button texts the contacts you set up. If you think someone is in danger, call 911 first.
 
 **Does Looop send weather and crime alerts?**
 
@@ -148,7 +148,7 @@ Yes. Severe weather alerts work in more than 50 countries, and crime alerts work
 
 **Does Looop work on Android?**
 
-Not today. Looop is available for iPhone on the App Store. If your family uses Android phones, Luffu runs on Android 14 and up.
+Not yet. Looop is on the App Store for iPhone.
 
 **Does Looop sell our data?**
 
