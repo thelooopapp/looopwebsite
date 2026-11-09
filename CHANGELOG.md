@@ -2,6 +2,15 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 15:50 CT
+
+### Changed
+- One shared health banner, same words everywhere (Features, For Grown-Up Families, Looop vs. Life360, Looop vs. Luffu). Health is part of Looop's single daily answer, not a separate add-on, so the banner no longer says "adding" or "alerts are included":
+  - Title: "One answer each day, health included"
+  - Line: "Sleep, heart rate, and steps join weather, places, and the rest of their day. Works with devices they already own."
+  - Link: "See how it works →" (to apple-health.html)
+  Each copy carries an HTML comment marking it as the shared banner. Any session editing one copy should change all four the same way.
+
 ## 2026-11-09 15:45 CT
 
 ### Changed
