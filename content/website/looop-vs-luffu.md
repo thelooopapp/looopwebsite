@@ -111,9 +111,13 @@ Choose Looop if you want health plus everything else: weather, crime, spending, 
 
 ## Questions families ask
 
+**What is the difference between Looop and Luffu?**
+
+Looop is a safety notifications app that covers a Loved One's whole day: severe weather, nearby crime, unusual spending, a trip to the ER, an unusual drive or walk, and their health and fitness, in one automatic daily answer. Luffu is a family health app: a shared record of medications, meals, and medical records that your family keeps, with alerts when health or activity changes, and a $299.99 band expected in early 2027. Looop is on the App Store today for iPhone. Luffu's app is in beta by waitlist.
+
 **Is Looop or Luffu better for our family?**
 
-Looop is built for families who care from a distance: parents a few states away, a relative living alone, kids at college, or siblings and friends who look out for each other. It tells you when to check in, about the whole of a day. Luffu is built for the caregiver who keeps up with the family's medications, records, and doctor visits in one place, with alerts when health or activity changes. If your family needs a health record, Luffu is built for that. If you want one automatic daily answer, that's Looop.
+Looop, if you want to know when it's worth a call about anything in their day, with nothing for your family to do. Luffu, if you want to keep the family's health records in one place. Looop is built for families who care from a distance: parents a few states away, a relative living alone, kids at college, or siblings and friends who look out for each other. It reads the watch they already wear and adds weather, crime, spending, and how each day is going. Luffu is built for the caregiver who manages medications, records, and doctor visits for everyone.
 
 **Can one Looop cover a parent in another state and a kid at college?**
 
@@ -121,7 +125,7 @@ Yes. Each Loved One gets their own daily answer, based on their own routine. A s
 
 **Does Looop help with medications?**
 
-No. Looop keeps no medication list, care plan, or records. If that's the job, Luffu is built for it.
+No. Looop keeps no medication list or records. Looop is built to tell you when a Loved One's day looks unusual, across their health, the weather, nearby crime, spending, and activity, with nothing for anyone to maintain. If your family needs a health record, Luffu is built for that.
 
 **Does anyone in our family have to do anything each day?**
 

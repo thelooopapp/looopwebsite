@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 16:05 CT
+
+### Changed
+- Looop vs. Luffu and Looop vs. Life360 FAQs, for search and AI answer engines: each FAQ now opens with "What is the difference between Looop and [X]?" answered in one direct paragraph that states Looop's approach (one automatic daily answer about the whole day, no ads, data never for sale, $4.99 a month) and the competitor's category. The Luffu "better for our family" and medications answers lead with the direct answer and Looop's strength. The Android answer on both pages is "Not yet. Looop is on the App Store for iPhone," with no competitor referral. FAQPage JSON-LD updated to match the HTML on both pages, and a WebPage node added to each page's schema graph (name, description, dateModified, publisher, and both apps as SoftwareApplication, with Looop's $4.99 a month offer).
+
 ## 2026-11-09 16:02 CT
 
 ### Changed
