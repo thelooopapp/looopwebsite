@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 16:02 CT
+
+### Changed
+- Shared Health & Fitness banner (Features, For grown-up families, Looop vs. Life360, Looop vs. Luffu): subtitle cut to "Works with devices they already own." The sentence "Sleep, heart rate, and steps join weather, places, and the rest of their day." buried the lead. Title stays "Health & Fitness". All four pages identical.
+
 ## 2026-11-09 16:15 CT
 
 ### Changed
