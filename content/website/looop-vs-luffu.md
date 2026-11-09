@@ -102,10 +102,8 @@ Luffu announced its app in February 2026 as a beta with a waitlist. It isn't on 
 
 - **Medications, records, and doctor visits** If someone in your family keeps up with prescriptions, care plans, and medical records for everyone, Luffu is built to keep them in one place. Looop keeps no health record.
 - **Questions about the family's health** If you want to ask about a medication's side effects and get an answer, Luffu offers that. Looop doesn't.
-- **One person managing everyone's information** One person can manage everything on behalf of the family and control what each person can see or update.
 - **A parent who leaves the phone at home** Looop runs on the Loved One's iPhone. Luffu Link stays connected over its own LTE in the US, expected early 2027.
 - **A help button on the wrist** If you want a parent to press a button and reach trusted contacts without a phone nearby, that's what Luffu Link is for.
-- **Android households** Looop is iPhone only today. Luffu runs on iOS and Android.
 
 Choose Luffu if you want a health app: a shared record your family keeps, answers to health questions, and a band with a help button for a parent who leaves the phone at home.
 
