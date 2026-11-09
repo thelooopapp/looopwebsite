@@ -69,7 +69,7 @@
       <div class="head">
         <p class="eyebrow">"Know what changed, and when to&nbsp;call."</p>
         <h2>Looop watches for changes</h2>
-        <p>Looop learns the routines that make up a typical day for each Loved One, from weather and crime nearby to driving, heart rate, and spending. It works quietly in the background, flags shifting patterns, and tells you when it's time to check&nbsp;in.</p>
+        <p>Looop learns the routines that make up a typical day for each Loved One. It works quietly in the background, flags shifting patterns, and tells you when it's time to check&nbsp;in.</p>
       </div>
       <figure class="datahub" id="datahub">
         <img class="dh-poster" src="images/home/datahub/poster.webp" width="1400" height="1136" decoding="async" alt="Looop listens to signals like weather, crime nearby, driving, heart rate, spending and phone use, and shows My Family with Mom, Dad and Sis each having a Typical Day. When something is unusual, that person turns orange with the reason, like a Tornado Warning, and Looop says it's time to check in.">
@@ -358,13 +358,10 @@
       stage.innerHTML = html;
       fit();
       if ('ResizeObserver' in window) new ResizeObserver(fit).observe(fig); else window.addEventListener('resize', fit);
-      /* Run the animation only while it is on screen and the page is not pinch-zoomed.
-         Zooming makes phones re-render hundreds of animated layers at high resolution,
-         which can exhaust memory; the poster (identical to frame 1) stands in instead. */
-      var active = null, onScreen = true, vv = window.visualViewport;
-      function zoomed() { return !!vv && vv.scale > 1.05; }
+      /* Run the animation only while it is on screen and the tab is visible. */
+      var active = null, onScreen = true;
       function update() {
-        var want = onScreen && !zoomed() && !document.hidden;
+        var want = onScreen && !document.hidden;
         if (want === active) return;
         active = want;
         if (want) {
@@ -382,7 +379,6 @@
       }
       var tick = null;
       function soon() { if (tick) return; tick = requestAnimationFrame(function () { tick = null; update(); }); }
-      if (vv) { vv.addEventListener('resize', soon); vv.addEventListener('scroll', soon); }
       document.addEventListener('visibilitychange', soon);
       new IntersectionObserver(function (es) { onScreen = es[es.length - 1].isIntersecting; soon(); }, { rootMargin: '200px 0px' }).observe(fig);
       update();
