@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 15:35 CT
+
+### Changed
+- How It Works: the alerts note is replaced by the home page's "Every family situation is different." banner with the Alerts for Mom screenshot (tap to enlarge); the 24-hour alert history line sits under it. Alert and "How Looop works" icons are now brand blue instead of orange, so they don't read as warnings. Banner styles added to `styles.css` (scoped to `.inner-page`, copied from `home.css`); version 1109d on this page; Albert Sans 900 loaded for the banner title.
+
 ## 2026-11-09 15:19 CT
 
 ### Changed
