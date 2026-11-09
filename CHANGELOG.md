@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 18:25 CT
+
+### Added
+- IndexNow key file (`0a8eb55710d5b2d085be1a413ab06dc2.txt` at the site root), so new pages can be announced to Bing and other IndexNow search engines the moment they go live. First use: the Nov. 12 press release (`press/one-daily-answer.html`), pinged by the go-live task. Google doesn't use IndexNow; ask Google through Search Console's URL Inspection.
+
 ## 2026-11-09 18:10 CT
 
 ### Changed
