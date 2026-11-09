@@ -60,43 +60,43 @@ Hero: Luffu looks after their health. Looop looks after their whole day. / Healt
 
 Looop reads the same health and fitness data from the watch they already wear. Then it adds the rest of their day: severe weather, nearby crime, an unusually large charge, a trip to the ER, a drive or a walk that looks unusual. Each day, all of it comes together in one answer about each Loved One: a Typical Day, or an Unusual Day that might be worth a call.
 
-Luffu covers health. Its [app](https://www.luffu.com/) keeps medications, meals, medical records, and vital signs, and alerts you to changes in health and activity. For a family managing a diagnosis, that depth is the point. It's also one piece of what Looop covers.
+Luffu covers health. It keeps medications, meals, medical records, and vital signs, and alerts you to changes in health and activity. For a family managing a diagnosis, that depth is the point. It's also one piece of what Looop covers.
 
 ### Looop is automatic
 
 A Loved One accepts an invitation once. After that, Looop is automatic: quiet when a day looks like their own normal, and a heads-up when it doesn't. There's no record to keep.
 
-Luffu is built around a record your family keeps. Its [home page](https://www.luffu.com/) describes adding medications, meals, medical records, and vital signs by voice, text, photo, or document, then asking questions about what's there. For a family managing a diagnosis, that record is the point. For a family that wants to know everyone's okay, it's one more thing to do.
+Luffu is built around a record your family keeps: medications, meals, medical records, and vital signs, added by voice, text, photo, or document, with answers to questions about what's there. For a family managing a diagnosis, that record is the point. For a family that wants to know everyone's okay, it's one more thing to do.
 
 ### Severe weather and nearby crime
 
 Looop tells you when severe weather is heading toward a Loved One, in more than 50 countries, and when crime is reported nearby, in all 50 US states, at the distance your family picks: 1, 3, 5, or 10 miles. Instead of checking the weather in five cities, families get one heads-up when it matters.
 
-Luffu doesn't offer weather or crime alerts. Its [app](https://www.luffu.com/) covers health, and its [Luffu Link band](https://luffu.com/products/luffu-link) adds location sharing, notifications, and help and check-in messages, expected early 2027.
+Luffu doesn't offer weather or crime alerts. The app covers health, and the $299.99 Luffu Link band adds location sharing and a help button, expected early 2027.
 
 ### A heads-up about an unusually large charge
 
 When a Loved One links a bank account, Looop lets you know about an unusually large charge, with a threshold you set. A sudden large payment can be an early sign of a scam, so you can call that same day. Looop never sells that information.
 
-Luffu doesn't offer spending alerts. Its [focus](https://www.luffu.com/) is health: medications, meals, medical records, and vital signs.
+Luffu doesn't offer spending alerts. Its focus is health: medications, meals, medical records, and vital signs.
 
 ### Help in an emergency
 
 Looop puts 911 and up to three emergency contacts for each Loved One one tap away, on the phone they already carry. Looop doesn't detect emergencies, so if you think someone is in danger, call 911 first.
 
-Luffu's [Link page](https://luffu.com/products/luffu-link) answers "Does Luffu Link call 911 or emergency services?" with "No, it does not. However, it will contact trusted people that you specify via the Luffu app." The band's button sends help to those contacts, and a double tap lets family know you're okay. The band works in the US only.
+Luffu Link doesn't call 911 either. Its button texts the trusted contacts you set up, and a double tap lets family know you're okay. The band works in the US only.
 
 ### Advertisers and your data
 
 Looop never sells your data and doesn't work with advertisers. There are no ads and no sponsored offers in your notifications. Your family's data isn't for sale.
 
-Luffu's [privacy notice](https://luffu.com/policies/privacy-policy), last updated August 23, 2026, says it does not "sell" consumer health data, as defined under state health privacy laws. The same notice says, "We may share your non-health personal information with third-party advertising partners." The notice covers Luffu's website and mobile app.
+Luffu doesn't sell health data. Its privacy notice (August 23, 2026) says it "may share your non-health personal information with third-party advertising partners."
 
 ### You can download Looop today
 
 Looop launched on the App Store in May 2026. Download it, sign up with your phone number, and invite your family from your contacts.
 
-Luffu [announced its app](https://www.engadget.com/mobile/fitbit-founders-launch-luffu-a-way-to-integrate-your-familys-health-data-173251994.html) on February 3, 2026, as a beta with a waitlist. It isn't on the App Store yet. Its [Luffu Link page](https://luffu.com/products/luffu-link) says the app will be available "later this year" and the band is "expected to ship early 2027."
+Luffu announced its app in February 2026 as a beta with a waitlist. It isn't on the App Store yet. Full release is expected later this year, and the band is expected to ship in early 2027.
 
 ## Where Luffu may fit better
 
