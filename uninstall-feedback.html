@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <title>Tell Us Why You're Leaving | Looop</title>
+  <meta name="description" content="A one-minute survey for people uninstalling Looop.">
+  <link rel="stylesheet" href="styles.css?v=1020f">
+  <link rel="icon" type="image/png" href="images/logo_small.png">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    /* Uninstall survey. Opened from the app icon's "Uninstalling? Tell us why"
+       long-press item. Answers go to POST /public/uninstall_feedback (anonymous)
+       and show on the users dashboard. Reason keys must match REASONS in
+       apiv2/src/routes/uninstall_feedback.js. */
+    .survey-page .page-hero { padding-bottom: 8px; }
+    .survey-page .page-hero h1 { margin-bottom: 12px; }
+    .survey-page .page-hero .lead { margin: 0 auto; }
+    .survey-page .page-section { padding-top: 24px; }
+    .survey { max-width: 640px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+    .survey .q { background: #fff; border-radius: 24px; padding: 22px 20px; box-shadow: 0 2px 10px rgba(20, 30, 50, 0.07); border: 0; margin: 0; min-width: 0; }
+    .survey legend, .survey .q-label { display: block; float: left; width: 100%; font-weight: 800; font-size: 18px; color: #1E2126; line-height: 1.35; margin-bottom: 4px; padding: 0; }
+    .survey .q-hint { clear: both; color: #5B626C; font-size: 15px; margin: 0 0 12px; }
+    .survey .req { color: #C62828; font-weight: 700; }
+    .survey .options { clear: both; display: flex; flex-direction: column; gap: 8px; }
+    .survey .opt { display: flex; align-items: flex-start; gap: 12px; min-height: 48px; padding: 12px 14px; border: 1.5px solid #DDE3EC; border-radius: 14px; cursor: pointer; font-weight: 600; color: #1E2126; line-height: 1.4; transition: border-color .15s, background .15s; }
+    .survey .opt:hover { border-color: #9DB7DD; }
+    .survey .opt input { flex: none; width: 20px; height: 20px; margin: 1px 0 0; accent-color: #1B73C6; }
+    .survey .opt:has(input:checked) { border-color: #1B73C6; background: #EEF4FC; }
+    .survey .opt:has(input:focus-visible) { outline: 3px solid #9DB7DD; outline-offset: 2px; }
+    .survey textarea, .survey select, .survey input[type="text"] { clear: both; display: block; width: 100%; font: inherit; font-size: 16px; color: #1E2126; background: #fff; border: 1.5px solid #DDE3EC; border-radius: 14px; padding: 12px 14px; }
+    .survey textarea { min-height: 120px; resize: vertical; }
+    .survey select { min-height: 48px; }
+    .survey textarea:focus, .survey select:focus, .survey input[type="text"]:focus { outline: none; border-color: #1B73C6; }
+    .survey #otherReason { margin-top: 8px; }
+    .survey [hidden] { display: none !important; }
+    .survey .q.invalid { box-shadow: 0 0 0 2px #C62828; }
+    .survey .q-error { display: none; clear: both; color: #C62828; font-weight: 600; font-size: 15px; margin-top: 10px; }
+    .survey .q.invalid .q-error { display: block; }
+    .survey .consent { color: #5B626C; font-size: 14px; line-height: 1.5; text-align: center; margin: 0 8px; }
+    .survey .send { display: block; width: 100%; min-height: 54px; border: 0; border-radius: 999px; background: #1B73C6; color: #fff; font: inherit; font-size: 18px; font-weight: 800; cursor: pointer; }
+    .survey .send:disabled { opacity: .6; cursor: default; }
+    .survey .form-error { display: none; color: #C62828; font-weight: 600; text-align: center; margin: 0; }
+    .thanks { display: none; max-width: 640px; margin: 0 auto; background: #fff; border-radius: 24px; padding: 32px 24px; text-align: center; box-shadow: 0 2px 10px rgba(20, 30, 50, 0.07); }
+    .thanks h2 { margin-bottom: 10px; }
+    .thanks p { margin: 0 0 10px; }
+    .done .survey { display: none; }
+    .done .thanks { display: block; }
+    .done .page-hero { display: none; }
+    @media (max-width: 768px) {
+      .survey-page .page-section { padding-left: 16px; padding-right: 16px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav class="navbar">
+  <a href="index.html" class="logo"><img src="images/logo_small.png" alt="Looop"><img class="wordmark" src="images/looop-wordmark.png?v=2" alt="" width="301" height="132"></a>
+</nav>
+
+<main class="inner-page survey-page" id="page">
+  <section class="page-hero">
+    <h1>Sorry to see you&nbsp;go</h1>
+    <p class="lead">Tell us why you're uninstalling Looop. It takes less than a minute, and we read every&nbsp;answer.</p>
+  </section>
+
+  <section class="page-section">
+    <div class="section-inner">
+      <form class="survey" id="survey" novalidate>
+
+        <fieldset class="q" id="qReasons">
+          <legend>Why are you uninstalling Looop? <span class="req" aria-hidden="true">*</span></legend>
+          <p class="q-hint">Pick all that apply.</p>
+          <div class="options">
+            <label class="opt"><input type="checkbox" name="reasons" value="too_expensive">Too expensive, not worth the Looop Plus+ price</label>
+            <label class="opt"><input type="checkbox" name="reasons" value="data_privacy">Uncomfortable with Looop having my data</label>
+            <label class="opt"><input type="checkbox" name="reasons" value="no_longer_needed">No longer needed, my situation changed</label>
+            <label class="opt"><input type="checkbox" name="reasons" value="battery">Battery drain</label>
+            <label class="opt"><input type="checkbox" name="reasons" value="switched_app">Switched to another app (Apple Find My, Life360, etc.)</label>
+            <label class="opt"><input type="checkbox" name="reasons" value="switching_phones">Just switching phones, still using Looop</label>
+            <label class="opt"><input type="checkbox" name="reasons" value="felt_tracked">Felt too tracked or watched by others in my group</label>
+            <label class="opt"><input type="checkbox" name="reasons" value="others_stopped">My family or friends didn't join, or stopped using it</label>
+            <label class="opt"><input type="checkbox" name="reasons" value="setup_hard">Setup was confusing or asked for too many permissions</label>
+            <label class="opt"><input type="checkbox" name="reasons" value="account_issues">Trouble signing in or with my account</label>
+            <label class="opt"><input type="checkbox" name="reasons" value="too_many_notifications">Too many notifications</label>
+            <label class="opt"><input type="checkbox" name="reasons" value="location_accuracy">Location wasn't accurate</label>
+            <label class="opt"><input type="checkbox" name="reasons" value="dont_use_enough">I don't use it enough</label>
+            <label class="opt"><input type="checkbox" name="reasons" value="other" id="reasonOther">Other</label>
+          </div>
+          <input type="text" id="otherReason" maxlength="500" placeholder="Tell us more" aria-label="Other reason" hidden>
+          <p class="q-error">Pick at least one reason.</p>
+        </fieldset>
+
+        <div class="q">
+          <label class="q-label" for="comments">Anything else you'd like the team to&nbsp;know?</label>
+          <p class="q-hint">Optional.</p>
+          <textarea id="comments" maxlength="2000"></textarea>
+        </div>
+
+        <div class="q" id="qCountry">
+          <label class="q-label" for="country">Which country do you live in? <span class="req" aria-hidden="true">*</span></label>
+          <p class="q-hint"></p>
+          <select id="country" required>
+            <option value="">Choose a country</option>
+            <option>Argentina</option>
+            <option>Australia</option>
+            <option>Brazil</option>
+            <option>Canada</option>
+            <option>Chile</option>
+            <option>Colombia</option>
+            <option>France</option>
+            <option>Germany</option>
+            <option>India</option>
+            <option>Indonesia</option>
+            <option>Ireland</option>
+            <option>Italy</option>
+            <option>Japan</option>
+            <option>Malaysia</option>
+            <option>Mexico</option>
+            <option>Netherlands</option>
+            <option>New Zealand</option>
+            <option>Philippines</option>
+            <option>Singapore</option>
+            <option>South Africa</option>
+            <option>Spain</option>
+            <option>Sweden</option>
+            <option>United Arab Emirates</option>
+            <option>United Kingdom</option>
+            <option>United States</option>
+            <option>Other</option>
+          </select>
+          <p class="q-error">Choose a country.</p>
+        </div>
+
+        <fieldset class="q" id="qPhone">
+          <legend>What kind of phone do you use? <span class="req" aria-hidden="true">*</span></legend>
+          <p class="q-hint"></p>
+          <div class="options">
+            <label class="opt"><input type="radio" name="phoneType" value="ios">iPhone</label>
+            <label class="opt"><input type="radio" name="phoneType" value="android">Android</label>
+            <label class="opt"><input type="radio" name="phoneType" value="not_sure">Not sure</label>
+          </div>
+          <p class="q-error">Pick one.</p>
+        </fieldset>
+
+        <p class="consent">By tapping Send, you agree Looop can use your answers to improve the app. Your answers aren't tied to your name or phone number. See our <a href="useragreement.html" class="text-link">User Agreement</a> and <a href="privacy.html" class="text-link">Privacy Policy</a>.</p>
+        <button type="submit" class="send" id="send">Send</button>
+        <p class="form-error" id="formError" role="alert">That didn't go through. Check your connection and tap Send again.</p>
+      </form>
+
+      <div class="thanks" id="thanks" role="status">
+        <h2>Thank you</h2>
+        <p>Your answer is in. It helps us make Looop better for every&nbsp;family.</p>
+        <p>If something is broken and you'd like help, reach us through <a href="index.html#contact" class="text-link">Get in Touch</a>.</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script>
+(function () {
+  var API = 'https://apiv2-web-1066452328823.us-central1.run.app/public/uninstall_feedback';
+  var params = new URLSearchParams(window.location.search);
+  var p = function (k) { var v = params.get(k); return v ? v.slice(0, 80) : null; };
+
+  // The app tells us the platform, so don't ask what phone they use.
+  var knownPlatform = p('platform') === 'ios' ? 'ios' : null;
+  if (knownPlatform) document.getElementById('qPhone').hidden = true;
+
+  // Pre-pick the country from the app (region code) or the browser locale.
+  var REGION_NAMES = {
+    AR: 'Argentina', AU: 'Australia', BR: 'Brazil', CA: 'Canada', CL: 'Chile', CO: 'Colombia',
+    FR: 'France', DE: 'Germany', IN: 'India', ID: 'Indonesia', IE: 'Ireland', IT: 'Italy',
+    JP: 'Japan', MY: 'Malaysia', MX: 'Mexico', NL: 'Netherlands', NZ: 'New Zealand',
+    PH: 'Philippines', SG: 'Singapore', ZA: 'South Africa', ES: 'Spain', SE: 'Sweden',
+    AE: 'United Arab Emirates', GB: 'United Kingdom', US: 'United States'
+  };
+  var region = (p('country') || (navigator.language || '').split('-')[1] || '').toUpperCase();
+  if (REGION_NAMES[region]) document.getElementById('country').value = REGION_NAMES[region];
+
+  var otherBox = document.getElementById('reasonOther');
+  var otherText = document.getElementById('otherReason');
+  otherBox.addEventListener('change', function () {
+    otherText.hidden = !otherBox.checked;
+    if (otherBox.checked) otherText.focus();
+  });
+
+  var form = document.getElementById('survey');
+  form.addEventListener('change', function (e) {
+    var q = e.target.closest('.q');
+    if (q) q.classList.remove('invalid');
+  });
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var reasons = Array.prototype.map.call(form.querySelectorAll('input[name="reasons"]:checked'), function (i) { return i.value; });
+    var country = document.getElementById('country').value;
+    var phoneEl = form.querySelector('input[name="phoneType"]:checked');
+    var phoneType = knownPlatform || (phoneEl ? phoneEl.value : null);
+
+    var firstBad = null;
+    function check(ok, id) {
+      var el = document.getElementById(id);
+      el.classList.toggle('invalid', !ok);
+      if (!ok && !firstBad) firstBad = el;
+    }
+    check(reasons.length > 0, 'qReasons');
+    check(!!country, 'qCountry');
+    if (!knownPlatform) check(!!phoneType, 'qPhone');
+    if (firstBad) { firstBad.scrollIntoView({ behavior: 'smooth', block: 'center' }); return; }
+
+    var send = document.getElementById('send');
+    var formError = document.getElementById('formError');
+    send.disabled = true;
+    send.textContent = 'Sending…';
+    formError.style.display = 'none';
+
+    fetch(API, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        reasons: reasons,
+        otherReason: otherBox.checked ? otherText.value : null,
+        comments: document.getElementById('comments').value,
+        country: country,
+        phoneType: phoneType,
+        source: p('source') || 'web',
+        appVersion: p('app_version'),
+        osVersion: p('os'),
+        device: p('device'),
+        membership: p('membership'),
+        tenureDays: p('tenure_days')
+      })
+    }).then(function (r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      document.getElementById('page').classList.add('done');
+      window.scrollTo(0, 0);
+    }).catch(function () {
+      send.disabled = false;
+      send.textContent = 'Send';
+      formError.style.display = 'block';
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

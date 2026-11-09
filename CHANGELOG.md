@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 12:30 CT
+
+### New Pages
+- Added `uninstall-feedback.html`, the one-minute uninstall survey opened by the app icon's "Uninstalling? Tell us why" long-press item. Modeled on Life360's: why they're leaving (pick all that apply, with Looop-specific reasons), an optional comment, country (pre-picked from the app or browser), and phone type (skipped when the app says it's an iPhone). Posts anonymous answers to `/public/uninstall_feedback` on apiv2-web, which show on the users dashboard. Not indexed and not in the sitemap or navigation.
+
 ## 2026-11-06 19:14 CT
 
 ### Changed
