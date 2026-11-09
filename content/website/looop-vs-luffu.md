@@ -7,7 +7,7 @@ legal_notes: "Names a competitor (Luffu). Hidden: noindex, not in the sitemap, n
 
 # Looop vs. Luffu
 
-Hero: Looop brings your family's whole day into one answer. / You'll know who's okay and who might need a call. / It's automatic, and quiet when all is well.
+Hero: Luffu looks after their health. Looop looks after their whole day. / Health is one piece. Looop brings the rest into one daily answer. / It's automatic, and quiet when all is well.
 
 ## Which one fits your family?
 
@@ -24,28 +24,28 @@ Hero: Looop brings your family's whole day into one answer. / You'll know who's 
 | | Looop | Luffu |
 | --- | --- | --- |
 | Severe weather and nearby crime alerts | yes: Weather in more than 50 countries; crime in all 50 US states, at 1, 3, 5, or 10 miles | nl: Not supported |
-| A heads-up about an unusually large charge | yes: Optional, through a Plaid bank link | nl: Not supported |
-| Alerts about their day: an unusual drive, walk, or phone use, a phone untouched for hours, an arrival at a hospital, police station, or airport | yes: Included, from the iPhone they carry | nl: Not supported. Location sharing comes with the $299.99 Luffu Link, early 2027 |
+| Unusual spending alerts | yes: Optional bank link | nl: Not supported |
+| Alerts about their day: an unusual drive or walk, a phone untouched for hours, a trip to the ER | yes: Included | nl: Not supported. Location sharing comes with the $299.99 Luffu Link, early 2027 |
 | On the App Store today | yes: For iPhone | part: In beta, by waitlist. Full release expected later this year |
-| A privacy notice that rules out sharing with advertising partners | yes: Looop doesn't work with advertisers | no: May share non-health personal information with advertising partners |
-| Automatic alerts about more than health | yes: Health, weather, crime, spending, activity, and arrivals, with nothing for your family to do | part: Health only: missed medications and changes in health and activity |
-| Health and fitness from a watch or ring they already own | yes: Apple Watch, Oura, and Whoop, through Apple Health | myes: Apple Health and Fitbit |
-| No new hardware to buy | yes: Looop runs on the iPhone and the watch or ring they already own | myes: The app works without the band. Luffu Link is $299.99, plus a Family Plan |
+| No advertisers | yes: Never | no: May share non-health information with advertisers |
+| Alerts beyond health | yes: Health, weather, crime, spending, activity, and arrivals, with nothing for your family to do | part: Health only: missed medications and changes in health and activity |
+| Works with the watch they already wear | yes: Apple Watch, Oura, and Whoop | myes: Apple Health and Fitbit |
+| Nothing new to buy | yes: Uses the iPhone and watch they already have | myes: The app works without the band. Luffu Link is $299.99, plus a Family Plan |
 
 ## At a glance
 
 | | Looop | Luffu |
 | --- | --- | --- |
-| What it is | A safety notifications app: one daily answer about each Loved One, and alerts that tell you when to check in | A family health and wellness app, with an optional $299.99 band expected early 2027 |
-| Built for | People caring from a distance: aging parents, kids at college, siblings, partners, and friends who look out for each other | The caregiver who keeps up with everyone's health, sharing with parents, spouses, and caregivers |
-| What you're notified about | Health, fitness, and unusual spending alerts if a Loved One chooses to share, unusual activity, an Unusual Day, severe weather, nearby crime in all 50 US states, arrivals and departures at saved places, arrivals at a hospital, police station, or airport, a phone untouched for hours, and low battery | Missed medications and changes in health and activity. Location sharing and a help button come with Luffu Link |
-| What your family puts in | Nothing after setup. Looop keeps no health record | Medications, meals, symptoms, medical records, and doctor visits, by voice, text, photo, document, or app integration, with answers to questions in plain language |
-| Health data | Apple Watch, Oura Ring, or Whoop, through Apple Health, if a Loved One chooses to share | Apple Health and Fitbit, plus what your family adds |
-| Hardware | None. Looop runs on the iPhone and the watch or ring they already own | Optional. Luffu Link is $299.99 ($249.99 on preorder), needs a Family Plan, and is expected early 2027 |
+| What it is | A safety notifications app: health plus weather, crime, spending, and how each day is going, in one daily answer | A family health app, with an optional $299.99 band expected early 2027 |
+| Built for | Anyone who worries about someone far away: aging parents, kids at college, siblings, partners, and friends. Looop looks after their whole day, not only their health | The family member who manages everyone's health: medications, records, and doctor visits |
+| What you get alerts about | Severe weather, nearby crime, unusual spending, an Unusual Day, an unusual drive or walk, a trip to the ER, a phone untouched for hours, low battery, and health and fitness if a Loved One chooses to share | Missed medications and changes in health and activity. Location sharing and a help button come with Luffu Link |
+| What you have to do | Nothing after setup | Add medications, meals, symptoms, records, and doctor visits by voice, text, or photo |
+| Works with | Apple Watch, Oura Ring, or Whoop, if a Loved One chooses to share | Apple Health and Fitbit |
+| Anything to buy? | No. Looop uses the iPhone and watch they already have | Optional. The Luffu Link band is $299.99 ($249.99 on preorder), plus a Family Plan, expected early 2027 |
 | Cost | [LOOOP MONTHLY PRICE] a month | Family Plan: $19.99 a month for up to four people, or $29.99 for up to eight. Required for the band |
-| Help in an emergency | Call 911 in one tap, plus up to three emergency contacts for each Loved One. Looop doesn't offer dispatch or crash detection, and it doesn't detect emergencies | The $299.99 Luffu Link's button texts trusted contacts. It doesn't call 911 |
-| Your data | Never sold, and no advertisers. Bank linking is optional and runs through Plaid | Doesn't "sell" consumer health data. May share non-health personal information with advertising partners |
-| Platforms | iPhone | iOS 18 and Android 14 and up |
+| Help in an emergency | 911 and up to three emergency contacts, one tap away. Looop doesn't detect emergencies | The $299.99 Luffu Link's button texts trusted contacts. It doesn't call 911 |
+| Your privacy | Never sold. No advertisers. Bank linking is optional | Doesn't sell health data. May share other personal information with advertisers |
+| Phones | iPhone | iPhone and Android |
 
 ## What Luffu does well
 
@@ -57,11 +57,11 @@ Hero: Looop brings your family's whole day into one answer. / You'll know who's 
 
 ## Where Looop and Luffu part ways
 
-### The whole of their day, in one answer
+### Health, plus everything else
 
-Looop takes a holistic approach to family care. Each day, severe weather, nearby crime, an unusually large charge, health and fitness readings, and the shape of the day come together in one answer about each Loved One: a Typical Day, or an Unusual Day that might be worth a call. It's all in one place, so you're not checking five apps to piece together how everyone's doing.
+Looop reads the same health and fitness data from the watch they already wear. Then it adds the rest of their day: severe weather, nearby crime, an unusually large charge, a trip to the ER, a drive or a walk that looks unusual. Each day, all of it comes together in one answer about each Loved One: a Typical Day, or an Unusual Day that might be worth a call.
 
-Luffu's [home page](https://www.luffu.com/) describes a different center: "stay on top of your whole family's health, safety, and wellbeing," with alerts for "missed medications, shifting health and activity patterns." Its [day in the life](https://luffu.com/pages/life-with-luffu) page shows a morning summary, a doctor visit with care plan updates, a question about a medication's side effects, and an evening recap. For a family managing a diagnosis, that depth is the point.
+Luffu covers health. Its [app](https://www.luffu.com/) keeps medications, meals, medical records, and vital signs, and alerts you to changes in health and activity. For a family managing a diagnosis, that depth is the point. It's also one piece of what Looop covers.
 
 ### Looop is automatic
 
@@ -108,9 +108,9 @@ Luffu [announced its app](https://www.engadget.com/mobile/fitbit-founders-launch
 - **A help button on the wrist** If you want a parent to press a button and reach trusted contacts without a phone nearby, that's what Luffu Link is for.
 - **Android households** Looop is iPhone only today. Luffu runs on iOS and Android.
 
-Choose Luffu if you want a shared family health record your family adds to by voice, text, photo, or document, answers to health questions in plain language, and a band with a help button for a parent who leaves the phone at home.
+Choose Luffu if you want a health app: a shared record your family keeps, answers to health questions, and a band with a help button for a parent who leaves the phone at home.
 
-Choose Looop if you want one daily answer about each person you love that covers weather, crime, spending, health, fitness, and activity, automatic alerts, an app on the App Store today, and your family's data never for sale.
+Choose Looop if you want health plus everything else: weather, crime, spending, and how each day is going, in one automatic daily answer, on the App Store today, with your family's data never for sale.
 
 ## Questions families ask
 
