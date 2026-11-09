@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 15:59 CT
+
+### Changed
+- How It Works: the alerts banner now sits evenly between the alert cards and the next section (112px above and below on desktop, 80px on phones).
+
 ## 2026-11-09 16:10 CT
 
 ### Changed
