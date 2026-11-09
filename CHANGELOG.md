@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 19:05 CT
+
+### Changed
+- Hidden Nov. 12 release (`press/one-daily-answer.html` and its source): new team quote, approved by the owner, without stacked fragments or a colon reveal: "Our own parents live hours away, and the calls we make usually start with a storm heading for Mom's town or a big charge on her card, not her sleep score. Looop puts all of that in the same answer as her health, using the phone and watch she already has."
+
 ## 2026-11-09 18:45 CT
 
 ### Changed

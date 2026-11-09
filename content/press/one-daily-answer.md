@@ -33,7 +33,7 @@ Looop launched on the App Store in May 2026 and has added features steadily sinc
 
 Every Loved One joins Looop by invitation and decides whether to add Health & Fitness sharing or link a bank account.
 
-"Mom's health is one part of her day. A storm rolling toward her town, a strange charge on her card, a trip to the ER: those are the things that make us pick up the phone. Looop puts all of it in one answer, using the phone and watch she already has," said the team behind Looop.
+"Our own parents live hours away, and the calls we make usually start with a storm heading for Mom's town or a big charge on her card, not her sleep score. Looop puts all of that in the same answer as her health, using the phone and watch she already has," said the team behind Looop.
 
 **Peace of mind for you, independence for them**
 
