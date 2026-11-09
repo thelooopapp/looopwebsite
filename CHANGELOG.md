@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 18:10 CT
+
+### Changed
+- Hidden Nov. 12 press release renamed to match its headline: `press/nothing-new-to-buy.html` is now `press/one-daily-answer.html` (source `content/press/one-daily-answer.md`), with the canonical link, og:url and NewsArticle data updated. Nothing linked the old address and no email had gone out. Still noindex and off the newsroom; the go-live changes are on the rebuilt `press-2026-11-12` branch.
+
 ## 2026-11-09 17:30 CT
 
 ### Changed

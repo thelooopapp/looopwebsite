@@ -1,6 +1,6 @@
 ---
 title: "Looop brings weather, crime, spending, and health alerts for aging parents into one daily answer"
-slug: nothing-new-to-buy
+slug: one-daily-answer
 status: draft
 release_date: "2026-11-12"
 notes: "Stands alone: names no competitor (owner decision Nov. 9, 2026; Luffu is named only in reporter pitches). Team quote approved Nov. 9. Hidden draft: noindex, not in the sitemap, not on the newsroom, until Nov. 12."
