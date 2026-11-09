@@ -77,103 +77,103 @@
 @keyframes pill-alert-pop{0%{transform:scale(1)}6.438%{transform:scale(.9)}6.979%{transform:scale(1.08)}7.500%{transform:scale(.98)}7.917%{transform:scale(1)}18.938%{transform:scale(.9)}19.479%{transform:scale(1.08)}20.000%{transform:scale(.98)}20.417%{transform:scale(1)}31.438%{transform:scale(.9)}31.979%{transform:scale(1.08)}32.500%{transform:scale(.98)}32.917%{transform:scale(1)}43.938%{transform:scale(.9)}44.479%{transform:scale(1.08)}45.000%{transform:scale(.98)}45.417%{transform:scale(1)}56.437%{transform:scale(.9)}56.979%{transform:scale(1.08)}57.500%{transform:scale(.98)}57.917%{transform:scale(1)}68.938%{transform:scale(.9)}69.479%{transform:scale(1.08)}70.000%{transform:scale(.98)}70.417%{transform:scale(1)}81.438%{transform:scale(.9)}81.979%{transform:scale(1.08)}82.500%{transform:scale(.98)}82.917%{transform:scale(1)}93.938%{transform:scale(.9)}94.479%{transform:scale(1.08)}95.000%{transform:scale(.98)}95.417%{transform:scale(1)}100%{transform:scale(1)}}
 @keyframes pill-ok-pop{0%{transform:scale(1)}11.229%{transform:scale(.9)}11.771%{transform:scale(1.08)}12.292%{transform:scale(.98)}12.708%{transform:scale(1)}23.729%{transform:scale(.9)}24.271%{transform:scale(1.08)}24.792%{transform:scale(.98)}25.208%{transform:scale(1)}36.229%{transform:scale(.9)}36.771%{transform:scale(1.08)}37.292%{transform:scale(.98)}37.708%{transform:scale(1)}48.729%{transform:scale(.9)}49.271%{transform:scale(1.08)}49.792%{transform:scale(.98)}50.208%{transform:scale(1)}61.229%{transform:scale(.9)}61.771%{transform:scale(1.08)}62.292%{transform:scale(.98)}62.708%{transform:scale(1)}73.729%{transform:scale(.9)}74.271%{transform:scale(1.08)}74.792%{transform:scale(.98)}75.208%{transform:scale(1)}86.229%{transform:scale(.9)}86.771%{transform:scale(1.08)}87.292%{transform:scale(.98)}87.708%{transform:scale(1)}98.729%{transform:scale(.9)}99.271%{transform:scale(1.08)}99.792%{transform:scale(.98)}100.000%{transform:scale(1)}100%{transform:scale(1)}}
 
-.hwalking-st{animation:hwalking-k-step 3.2s linear infinite}
+.hwalking-st{transform-box:view-box;animation:hwalking-k-step 3.2s linear infinite}
 .hwalking-d{animation-delay:-1.6s}
 .hwalking-ro{transform-box:fill-box;transform-origin:50% 100%;animation:hwalking-k-roll 3.2s linear infinite}
-.hwalking-gr{animation:hwalking-k-gr 1.6s linear infinite}
-@keyframes hwalking-k-step{0%{transform:translate(22px,0)}50%{transform:translate(-22px,0)}58%{transform:translate(-16px,-6px)}75%{transform:translate(0,-10px)}92%{transform:translate(18px,-3px)}100%{transform:translate(22px,0)}}
+.hwalking-gr{transform-box:view-box;animation:hwalking-k-gr 1.6s linear infinite}
+@keyframes hwalking-k-step{0%{transform:translate(11%,0)}50%{transform:translate(-11%,0)}58%{transform:translate(-8%,-3%)}75%{transform:translate(0,-5%)}92%{transform:translate(9%,-1.5%)}100%{transform:translate(11%,0)}}
 @keyframes hwalking-k-roll{0%,46%{transform:rotate(0)}57%{transform:rotate(10deg)}75%{transform:rotate(0)}90%{transform:rotate(-8deg)}100%{transform:rotate(0)}}
-@keyframes hwalking-k-gr{to{transform:translateX(-68px)}}
+@keyframes hwalking-k-gr{to{transform:translateX(-34%)}}
 
-.hdriving-wh{animation:hdriving-k-spin 2.4s linear infinite}
-.hdriving-rd{animation:hdriving-k-rd .44s linear infinite}
-.hdriving-bob{animation:hdriving-k-bob .9s ease-in-out infinite}
-.hdriving-sp{animation:hdriving-k-sp 1.2s linear infinite}
+.hdriving-wh{transform-box:view-box;animation:hdriving-k-spin 2.4s linear infinite}
+.hdriving-rd{transform-box:view-box;animation:hdriving-k-rd .44s linear infinite}
+.hdriving-bob{transform-box:view-box;animation:hdriving-k-bob .9s ease-in-out infinite}
+.hdriving-sp{transform-box:view-box;animation:hdriving-k-sp 1.2s linear infinite}
 .hdriving-sp2{animation-delay:-.4s}.hdriving-sp3{animation-delay:-.8s}
 @keyframes hdriving-k-spin{to{transform:rotate(360deg)}}
-@keyframes hdriving-k-rd{to{transform:translateX(-60px)}}
-@keyframes hdriving-k-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
-@keyframes hdriving-k-sp{0%{transform:translateX(20px);opacity:0}30%{opacity:1}100%{transform:translateX(-30px);opacity:0}}
+@keyframes hdriving-k-rd{to{transform:translateX(-30%)}}
+@keyframes hdriving-k-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-1%)}}
+@keyframes hdriving-k-sp{0%{transform:translateX(10%);opacity:0}30%{opacity:1}100%{transform:translateX(-15%);opacity:0}}
 
-.hring-fl{animation:hring-k-fl 3s ease-in-out infinite}
+.hring-fl{transform-box:view-box;animation:hring-k-fl 3s ease-in-out infinite}
 .hring-sh{animation:hring-k-sh 3s ease-in-out infinite;transform-box:view-box;transform-origin:50% 88%}
-.hring-shine{animation:hring-k-shine 3s ease-in-out infinite}
-.hring-led{animation:hring-k-led 1s ease-in-out infinite}
-.hring-w{animation:hring-k-w 1.5s ease-out infinite;opacity:0}
+.hring-shine{transform-box:view-box;animation:hring-k-shine 3s ease-in-out infinite}
+.hring-led{transform-box:view-box;animation:hring-k-led 1s ease-in-out infinite}
+.hring-w{transform-box:view-box;animation:hring-k-w 1.5s ease-out infinite;opacity:0}
 .hring-w2{animation-delay:.2s}.hring-w3{animation-delay:.4s}
-.hring-pk{animation:hring-k-pk 1.5s ease-in infinite;opacity:0}
+.hring-pk{transform-box:view-box;animation:hring-k-pk 1.5s ease-in infinite;opacity:0}
 .hring-pk2{animation-delay:.5s}.hring-pk3{animation-delay:1s}
-@keyframes hring-k-fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@keyframes hring-k-fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-3%)}}
 @keyframes hring-k-sh{0%,100%{transform:scaleX(1);opacity:.5}50%{transform:scaleX(.85);opacity:.3}}
-@keyframes hring-k-shine{0%,20%{transform:translateX(-90px)}70%,100%{transform:translateX(110px)}}
+@keyframes hring-k-shine{0%,20%{transform:translateX(-45%)}70%,100%{transform:translateX(55%)}}
 @keyframes hring-k-led{0%,100%{opacity:.3}50%{opacity:1}}
 @keyframes hring-k-w{0%{opacity:0}25%{opacity:1}100%{opacity:0}}
-@keyframes hring-k-pk{0%{transform:translateY(0);opacity:0}20%{opacity:1}100%{transform:translateY(-24px);opacity:0}}
+@keyframes hring-k-pk{0%{transform:translateY(0);opacity:0}20%{opacity:1}100%{transform:translateY(-12%);opacity:0}}
 
-.hwatch-r1{animation:hwatch-k-r1 4s ease-in-out infinite}
-.hwatch-r2{animation:hwatch-k-r2 4s ease-in-out infinite}
+.hwatch-r1{transform-box:view-box;animation:hwatch-k-r1 4s ease-in-out infinite}
+.hwatch-r2{transform-box:view-box;animation:hwatch-k-r2 4s ease-in-out infinite}
 .hwatch-hand{transform-box:view-box;transform-origin:50% 50%;animation:hwatch-k-spin 8s linear infinite}
-.hwatch-dot{animation:hwatch-k-led 1s ease-in-out infinite}
+.hwatch-dot{transform-box:view-box;animation:hwatch-k-led 1s ease-in-out infinite}
 @keyframes hwatch-k-r1{0%{stroke-dashoffset:1;opacity:1}70%{stroke-dashoffset:.08;opacity:1}90%{stroke-dashoffset:.08;opacity:0}100%{stroke-dashoffset:1;opacity:0}}
 @keyframes hwatch-k-r2{0%,10%{stroke-dashoffset:1;opacity:1}75%{stroke-dashoffset:.3;opacity:1}90%{stroke-dashoffset:.3;opacity:0}100%{stroke-dashoffset:1;opacity:0}}
 @keyframes hwatch-k-spin{to{transform:rotate(360deg)}}
 @keyframes hwatch-k-led{0%,100%{opacity:.3}50%{opacity:1}}
 
-.hphone-feed{animation:hphone-k-feed 3.6s cubic-bezier(.5,0,.3,1) infinite}
-@keyframes hphone-k-feed{0%,25%{transform:translateY(0)}45%,75%{transform:translateY(-56px)}95%,100%{transform:translateY(-112px)}}
+.hphone-feed{transform-box:view-box;animation:hphone-k-feed 3.6s cubic-bezier(.5,0,.3,1) infinite}
+@keyframes hphone-k-feed{0%,25%{transform:translateY(0)}45%,75%{transform:translateY(-28%)}95%,100%{transform:translateY(-56%)}}
 .hphone-th{transform-box:view-box;transform-origin:71% 59.5%;animation:hphone-k-th 1.8s ease-in-out infinite}
 @keyframes hphone-k-th{0%{transform:rotate(7.7deg) scale(1.015)}40%{transform:rotate(-3.3deg) scale(1.015)}48%,50%{transform:rotate(-3.3deg) scale(1)}90%{transform:rotate(8.8deg) scale(1)}100%{transform:rotate(7.7deg) scale(1.015)}}
 
 .hweather-sun{transform-box:view-box;transform-origin:65.25% 35%;animation:hweather-k-spin 10s linear infinite}
-.hweather-cl{animation:hweather-k-cl 4s ease-in-out infinite}
-.hweather-drop{animation:hweather-k-drop 1s linear infinite}
-.hweather-bolt{animation:hweather-k-bolt 3.2s linear infinite}
-.hweather-flash{animation:hweather-k-flash 3.2s linear infinite}
+.hweather-cl{transform-box:view-box;animation:hweather-k-cl 4s ease-in-out infinite}
+.hweather-drop{transform-box:view-box;animation:hweather-k-drop 1s linear infinite}
+.hweather-bolt{transform-box:view-box;animation:hweather-k-bolt 3.2s linear infinite}
+.hweather-flash{transform-box:view-box;animation:hweather-k-flash 3.2s linear infinite}
 @keyframes hweather-k-spin{to{transform:rotate(360deg)}}
-@keyframes hweather-k-cl{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
-@keyframes hweather-k-drop{0%{transform:translateY(-6px);opacity:0}20%{opacity:1}100%{transform:translateY(34px);opacity:0}}
+@keyframes hweather-k-cl{0%,100%{transform:translateX(0)}50%{transform:translateX(2.5%)}}
+@keyframes hweather-k-drop{0%{transform:translateY(-3%);opacity:0}20%{opacity:1}100%{transform:translateY(17%);opacity:0}}
 @keyframes hweather-k-bolt{0%,72%{opacity:0}74%{opacity:1}77%{opacity:.2}80%{opacity:1}90%{opacity:1}96%,100%{opacity:0}}
 @keyframes hweather-k-flash{0%,72%{opacity:0}74%{opacity:.5}77%{opacity:0}80%{opacity:.4}86%,100%{opacity:0}}
 
-.hcrime-red{animation:hcrime-k-red .8s steps(1) infinite}
-.hcrime-blu{animation:hcrime-k-red .8s steps(1) infinite;animation-delay:-.4s}
-.hcrime-rg{animation:hcrime-k-glow .8s steps(1) infinite}
-.hcrime-bg{animation:hcrime-k-glow .8s steps(1) infinite;animation-delay:-.4s}
-.hcrime-car{animation:hcrime-k-bob .7s ease-in-out infinite}
+.hcrime-red{transform-box:view-box;animation:hcrime-k-red .8s steps(1) infinite}
+.hcrime-blu{transform-box:view-box;animation:hcrime-k-red .8s steps(1) infinite;animation-delay:-.4s}
+.hcrime-rg{transform-box:view-box;animation:hcrime-k-glow .8s steps(1) infinite}
+.hcrime-bg{transform-box:view-box;animation:hcrime-k-glow .8s steps(1) infinite;animation-delay:-.4s}
+.hcrime-car{transform-box:view-box;animation:hcrime-k-bob .7s ease-in-out infinite}
 @keyframes hcrime-k-red{0%{opacity:1}50%{opacity:0}}
 @keyframes hcrime-k-glow{0%{opacity:.45}50%{opacity:0}}
-@keyframes hcrime-k-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-1.5px)}}
+@keyframes hcrime-k-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-0.75%)}}
 
 .hcreditcard-cd{transform-box:view-box;transform-origin:43.5% 51%;animation:hcreditcard-k-cd 3s ease-in-out infinite}
-.hcreditcard-shine{animation:hcreditcard-k-shine 3s ease-in-out infinite}
-.hcreditcard-w{animation:hcreditcard-k-w 1.5s ease-out infinite;opacity:0}
+.hcreditcard-shine{transform-box:view-box;animation:hcreditcard-k-shine 3s ease-in-out infinite}
+.hcreditcard-w{transform-box:view-box;animation:hcreditcard-k-w 1.5s ease-out infinite;opacity:0}
 .hcreditcard-w2{animation-delay:.25s}.hcreditcard-w3{animation-delay:.5s}
-@keyframes hcreditcard-k-cd{0%,100%{transform:rotate(-6deg) translateX(0)}50%{transform:rotate(0) translateX(8px)}}
-@keyframes hcreditcard-k-shine{0%,30%{transform:translateX(-80px)}75%,100%{transform:translateX(170px)}}
+@keyframes hcreditcard-k-cd{0%,100%{transform:rotate(-6deg) translateX(0)}50%{transform:rotate(0) translateX(4%)}}
+@keyframes hcreditcard-k-shine{0%,30%{transform:translateX(-40%)}75%,100%{transform:translateX(85%)}}
 @keyframes hcreditcard-k-w{0%{opacity:0}30%{opacity:1}100%{opacity:0}}
 
-.hcheckingaccount-sig{stroke-dasharray:1 1;animation:hcheckingaccount-k-sig 4.4s ease-in-out infinite}
+.hcheckingaccount-sig{transform-box:view-box;stroke-dasharray:1 1;animation:hcheckingaccount-k-sig 4.4s ease-in-out infinite}
 .hcheckingaccount-badge{transform-box:view-box;transform-origin:80% 31%;animation:hcheckingaccount-k-badge 4.4s ease-in-out infinite}
-.hcheckingaccount-amt{animation:hcheckingaccount-k-amt 4.4s ease-in-out infinite}
+.hcheckingaccount-amt{transform-box:view-box;animation:hcheckingaccount-k-amt 4.4s ease-in-out infinite}
 @keyframes hcheckingaccount-k-sig{0%,8%{stroke-dashoffset:1;opacity:1}50%{stroke-dashoffset:0;opacity:1}88%{stroke-dashoffset:0;opacity:1}96%,100%{stroke-dashoffset:0;opacity:0}}
 @keyframes hcheckingaccount-k-badge{0%,52%{transform:scale(0)}60%{transform:scale(1.15)}66%,88%{transform:scale(1)}96%,100%{transform:scale(0)}}
 @keyframes hcheckingaccount-k-amt{0%,4%{opacity:0}10%,90%{opacity:1}97%,100%{opacity:0}}
 
 .hexercise-db{transform-box:view-box;transform-origin:50% 50%;animation:hexercise-k-lift 2.4s ease-in-out infinite}
 .hexercise-sh{transform-box:view-box;transform-origin:50% 84%;animation:hexercise-k-sh 2.4s ease-in-out infinite}
-.hexercise-ml{animation:hexercise-k-ml 2.4s ease-in-out infinite}
-@keyframes hexercise-k-lift{0%,100%{transform:translateY(22px) rotate(0)}45%,55%{transform:translateY(-18px) rotate(-4deg)}}
+.hexercise-ml{transform-box:view-box;animation:hexercise-k-ml 2.4s ease-in-out infinite}
+@keyframes hexercise-k-lift{0%,100%{transform:translateY(11%) rotate(0)}45%,55%{transform:translateY(-9%) rotate(-4deg)}}
 @keyframes hexercise-k-sh{0%,100%{transform:scaleX(1);opacity:.9}45%,55%{transform:scaleX(.6);opacity:.4}}
-@keyframes hexercise-k-ml{0%,15%{opacity:0;transform:translateY(0)}30%{opacity:1}45%{opacity:0;transform:translateY(10px)}100%{opacity:0}}
+@keyframes hexercise-k-ml{0%,15%{opacity:0;transform:translateY(0)}30%{opacity:1}45%{opacity:0;transform:translateY(5%)}100%{opacity:0}}
 
-.hheartrate-ecg{animation:hheartrate-k-ecg 1.2s linear infinite}
+.hheartrate-ecg{transform-box:view-box;animation:hheartrate-k-ecg 1.2s linear infinite}
 .hheartrate-ht{transform-box:view-box;transform-origin:50% 48%;animation:hheartrate-k-beat 1.2s ease-out infinite}
 .hheartrate-halo{transform-box:view-box;transform-origin:50% 48%;animation:hheartrate-k-halo 1.2s ease-out infinite}
-@keyframes hheartrate-k-ecg{to{transform:translateX(-100px)}}
+@keyframes hheartrate-k-ecg{to{transform:translateX(-50%)}}
 @keyframes hheartrate-k-beat{0%{transform:scale(1)}10%{transform:scale(1.13)}22%{transform:scale(.98)}32%{transform:scale(1.08)}48%,100%{transform:scale(1)}}
 @keyframes hheartrate-k-halo{0%{transform:scale(.9);opacity:.5}60%,100%{transform:scale(1.35);opacity:0}}
 
-.hbattery-last{animation:hbattery-k-last 2.4s ease-in-out infinite}
+.hbattery-last{transform-box:view-box;animation:hbattery-k-last 2.4s ease-in-out infinite}
 @keyframes hbattery-k-last{0%,100%{opacity:1}50%{opacity:.1}}
 
 </style>
