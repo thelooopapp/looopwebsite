@@ -21,7 +21,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Albert+Sans:wght@900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="home.css?v=1021d">
+  <link rel="stylesheet" href="home.css?v=1108a">
   <link rel="stylesheet" href="map.css?v=1020b">
   <script src="map.js?v=1020a" defer></script>
   <link rel="stylesheet" href="footer.css?v=1019">
@@ -49,10 +49,10 @@
       <div class="faces" aria-hidden="true">
         <img src="images/home/dad.jpg" alt=""><img src="images/home/sis.jpg" alt=""><img class="lead" src="images/home/mom.jpg" alt=""><img src="images/home/tony.jpg" alt=""><img src="images/home/june.jpg" alt="">
       </div>
-      <h1>Peace of mind for you,<br><span class="pill">independence for them</span></h1>
+      <h1>Peace of Mind that<br><span class="pill">Loved Ones are Safe</span></h1>
       <div class="pitch">
-        <p class="big k g">Looop is a safety notifications app.</p>
-        <p class="lede">Safety alerts instead of tracking. It tells you when to check in, so the people you love can live their lives.</p>
+        <p class="big k g">Know when to check in.</p>
+        <p class="lede">Get alerts about Severe Weather, Nearby Crime, and more wherever they go.</p>
         <p class="big k o">Know they're safe, across any distance.</p>
       </div>
       <a class="badge" href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111"><img src="images/appstore-badge.png" alt="Download on the App Store"></a>
@@ -66,6 +66,10 @@
 <main>
   <section class="band" id="who">
     <div class="wrap">
+      <figure class="datahub" id="datahub">
+        <img class="dh-poster" src="images/home/datahub/poster.webp" width="1400" height="1136" decoding="async" alt="Looop listens to signals like weather, crime nearby, driving, heart rate, spending and phone use, and shows My Family with Mom, Dad and Sis each having a Typical Day. When something is unusual, that person turns orange with the reason, like a Tornado Warning, and Looop says it's time to check in.">
+        <div class="dh-stage" aria-hidden="true"></div>
+      </figure>
       <div class="head">
         <p class="eyebrow">"5 Loved Ones in 4 different&nbsp;cities."</p>
         <h2>Find your people</h2>
@@ -331,5 +335,34 @@
       });
     })();
   </script>
+<script>
+/* Data hub animation: show the poster instantly, swap to the live animation once everything it needs has loaded. */
+(function () {
+  var fig = document.getElementById('datahub');
+  if (!fig || !window.fetch || !('IntersectionObserver' in window)) return;
+  if (window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  var stage = fig.querySelector('.dh-stage');
+  function fit() { stage.style.transform = 'scale(' + (fig.clientWidth / 1700) + ')'; }
+  function loadImg(src) { return new Promise(function (res) { var i = new Image(); i.onload = i.onerror = function () { (i.decode ? i.decode() : Promise.resolve()).then(res, res); }; i.src = src; }); }
+  function start() {
+    fetch('images/home/datahub/stage.html').then(function (r) { if (!r.ok) throw 0; return r.text(); }).then(function (html) {
+      var srcs = [];
+      html.replace(/(?:src|href)="(images\/home\/[^"]+)"/g, function (m, u) { if (srcs.indexOf(u) < 0) srcs.push(u); });
+      return Promise.all(srcs.map(loadImg).concat([document.fonts ? document.fonts.ready : null])).then(function () { return html; });
+    }).then(function (html) {
+      stage.innerHTML = html;
+      fit();
+      if ('ResizeObserver' in window) new ResizeObserver(fit).observe(fig); else window.addEventListener('resize', fit);
+      requestAnimationFrame(function () { requestAnimationFrame(function () {
+        if (stage.getAnimations) { var t0 = document.timeline.currentTime; stage.getAnimations({ subtree: true }).forEach(function (a) { a.startTime = t0; }); }
+        fig.classList.add('live');
+      }); });
+    }).catch(function () { /* keep the poster */ });
+  }
+  new IntersectionObserver(function (entries, io) {
+    if (entries.some(function (e) { return e.isIntersecting; })) { io.disconnect(); start(); }
+  }, { rootMargin: '600px 0px' }).observe(fig);
+})();
+</script>
 </body>
 </html>
