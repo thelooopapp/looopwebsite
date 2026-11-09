@@ -65,9 +65,9 @@ Luffu's [home page](https://www.luffu.com/) describes a different center: "stay 
 
 ### Looop is automatic
 
-A Loved One accepts an invitation once. After that, Looop is automatic: quiet when a day looks like their own normal, and a heads-up when it doesn't. Looop keeps no medication list, care plan, or records.
+A Loved One accepts an invitation once. After that, Looop is automatic: quiet when a day looks like their own normal, and a heads-up when it doesn't. There's no record to keep.
 
-Luffu flags changes on its own too. Its [home page](https://www.luffu.com/) also describes a record the family builds: "Use voice, text, photos, documents, or app integrations to instantly record information, from medical records and medications to meals and vital signs," and a plain-language Q&A over all of it. Whether that record is worth keeping depends on whether your family needs one.
+Luffu is built around a record your family keeps. Its [home page](https://www.luffu.com/) describes adding medications, meals, medical records, and vital signs by voice, text, photo, or document, then asking questions about what's there. For a family managing a diagnosis, that record is the point. For a family that wants to know everyone's okay, it's one more thing to do.
 
 ### Severe weather and nearby crime
 
