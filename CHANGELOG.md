@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 15:20 CT
+
+### Changed
+- Apple Health page: merged the two overlapping device sections ("Connects to Apple Health in one tap" with Apple Watch/Oura/Whoop cards, and "More devices that work with Looop") into one "Works with devices you already own / No extra gadget to buy." section: a strip of four realistic, unbranded device images (watches, fitness bands, smart rings, exercise bikes and treadmills), two cards on how to connect (Apple Watch: tap "Turn On All"; every other device: turn on Apple Health once in its own app), the full green list of devices with how each connects, and the green data note. `#devices` still resolves inside it.
+- Conservative brand list: Amazfit, Apple Watch, Coros, Fitbit, Garmin, Oura Ring, Peloton, Polar, RingConn, Suunto, Ultrahuman, Whoop, Withings ScanWatch. Removed scales, blood pressure cuffs and glucose monitors (Looop doesn't read them) and sleep-only beds.
+- Removed "exercise minutes" from the page (alerts list, daily stats copy, data note): Looop does not read Apple Activity rings.
+- "Works with devices you already own" also woven into the Features health section and Health & Fitness link card, the same link card on For Grown-Up Families, and llms.txt, phrased as "No extra gadget to buy" without naming any competitor.
+
 ## 2026-11-09 15:16 CT
 
 ### Changed

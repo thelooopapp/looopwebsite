@@ -1944,4 +1944,16 @@ a.health-link .hl-art img { position: absolute; left: 50%; top: 12px; width: 230
   a.health-link .hl-art img { top: 12px; width: 220px; }
   a.health-link .hl-title { font-size: 18px; }
 }
-}
+
+/* Apple Health page: one "works with" section — device strip, how to connect, brand chips */
+.inner-page .device-strip { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-top: 32px; }
+.inner-page .device-strip figure { margin: 0; text-align: center; }
+.inner-page .device-strip img { width: 100%; max-width: 200px; height: auto; display: block; margin: 0 auto; }
+.inner-page .device-strip figcaption { margin-top: 6px; font-size: 15px; font-weight: 600; color: #1E2126; }
+@media (max-width: 640px) { .inner-page .device-strip { grid-template-columns: repeat(2, 1fr); gap: 8px 12px; } }
+.inner-page .connect-steps { margin-top: 32px; }
+.inner-page .connect-steps h3 { margin-top: 12px; }
+.inner-page #works-with .device-list-card { margin-top: 24px; }
+.inner-page #works-with .note { background: #EAF7EE; border-left-color: #34B254; }
+.inner-page .check-list--green li::before { background: #34B254; box-shadow: inset 0 0 0 4px #CDEFD6; }
+.inner-page .device-list { margin-top: 8px; }
