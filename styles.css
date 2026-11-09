@@ -1928,21 +1928,22 @@ p, li, td, blockquote { text-wrap: pretty; }
 
 /* Wide link card to the Health and Fitness page (apple-health.html): copy on the left, the supported devices on the right.
    Sits full width under a pair of cards. No animation. Stacks on phones. */
-a.health-link { display: flex; align-items: stretch; justify-content: space-between; gap: 20px; margin-top: 16px; padding: 0 0 0 24px; border-radius: 20px; background: linear-gradient(90deg, #fff 0%, #fff 55%, #EEF5FF 100%); box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06); text-decoration: none; color: inherit; overflow: hidden; }
+a.health-link { display: flex; align-items: stretch; justify-content: space-between; gap: 20px; margin-top: 16px; padding: 0 0 0 24px; border-radius: 20px; background: #fff; box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06); text-decoration: none; color: inherit; overflow: hidden; }
 a.health-link > div:first-child { padding: 22px 0; align-self: center; }
 a.health-link p.hl-title { margin: 0; font-size: 19px; font-weight: 800; line-height: 1.25; letter-spacing: -0.01em; color: #1E2126; }
 a.health-link p.hl-sub { margin: 6px 0 0; font-size: 15px; line-height: 1.45; color: #5B626C; }
 a.health-link .hl-cta { display: inline-block; margin-top: 8px; font-size: 15px; font-weight: 800; color: #2E9B4A; }
 a.health-link, a.health-link * { text-decoration: none !important; }
 a.health-link:hover .hl-cta { text-decoration: underline !important; }
-a.health-link .hl-art { flex: none; width: 250px; height: 160px; overflow: hidden; position: relative; }
-a.health-link .hl-art img { position: absolute; left: 50%; top: 12px; width: 230px; height: auto; transform: translateX(-50%); }
+a.health-link .hl-devices { flex: none; display: flex; align-items: center; gap: 2px; padding: 12px 20px 12px 16px; background: #EEF5FF; }
+a.health-link .hl-devices img { width: 92px; height: 92px; object-fit: contain; }
 @media (max-width: 640px) {
-  a.health-link { flex-direction: column-reverse; gap: 0; padding: 0; background: #fff; }
+  a.health-link { flex-direction: column-reverse; gap: 0; padding: 0; }
   a.health-link > div:first-child { padding: 16px 18px 18px; }
-  a.health-link .hl-art { width: 100%; height: 150px; background: #EEF5FF; }
-  a.health-link .hl-art img { top: 12px; width: 220px; }
+  a.health-link .hl-devices { width: 100%; justify-content: center; gap: 4px; padding: 12px; }
+  a.health-link .hl-devices img { width: 68px; height: 68px; }
   a.health-link .hl-title { font-size: 18px; }
+}
 }
 
 /* Apple Health page: one "works with" section — device strip, how to connect, brand chips */

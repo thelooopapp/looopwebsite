@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 15:19 CT
+
+### Changed
+- Health & Fitness banner (Features, For grown-up families, Looop vs. Life360, Looop vs. Luffu): now shows the four unbranded device illustrations (sports watch, fitness band, smart ring, exercise bike) in a soft blue panel on the right; stacks above the text on phones. Stylesheet version 1109c.
+- Looop vs. Luffu: dropped "in Luffu's words" from the Choose table and Sources.
 ## 2026-11-09 15:25 CT
 
 ### Changed

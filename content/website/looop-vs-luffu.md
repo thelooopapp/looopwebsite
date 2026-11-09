@@ -13,7 +13,7 @@ Hero: Looop brings your family's whole day into one answer. / You'll know who's 
 
 | Choose Looop if you want | Choose Luffu if you want |
 | --- | --- |
-| Alerts about the whole of their day: severe weather, nearby crime, an unusually large charge, a hospital arrival, and their health and fitness | Alerts about their health, in Luffu's words: missed medications and shifting health and activity patterns |
+| Alerts about the whole of their day: severe weather, nearby crime, an unusually large charge, a hospital arrival, and their health and fitness | Alerts about their health: missed medications and changes in health and activity |
 | One answer each day about each person you love: a Typical Day, or an Unusual Day worth a call | A morning summary and an evening recap of the household's health |
 | Automatic. After a Loved One joins, there's nothing to do | Automatic alerts, plus a health record your family keeps |
 | 911 and up to three emergency contacts one tap away on the phone they already carry | A help button on the $299.99 Luffu Link band to text your contacts, expected early 2027 |
@@ -156,7 +156,7 @@ No. Looop never sells your data and doesn't work with advertisers. There are no 
 
 ## Sources
 
-- App features, in Luffu's words: [Luffu home page](https://www.luffu.com/), [Life with Luffu (luffu.com)](https://luffu.com/pages/life-with-luffu)
+- App features: [Luffu home page](https://www.luffu.com/), [Life with Luffu (luffu.com)](https://luffu.com/pages/life-with-luffu)
 - Luffu Link price, Family Plan, battery, phones, US only, cellular coverage, no 911, and app availability: [Luffu Link (luffu.com)](https://luffu.com/products/luffu-link)
 - Launch and beta: [Luffu announcement (PR Newswire, Feb. 3, 2026)](https://www.prnewswire.com/news-releases/from-the-founders-of-fitbit-introducing-luffu-your-guardian-for-family-health--safety-302676975.html), [Engadget, Feb. 3, 2026](https://www.engadget.com/mobile/fitbit-founders-launch-luffu-a-way-to-integrate-your-familys-health-data-173251994.html)
 - Luffu Link announcement: [Axios, Aug. 25, 2026](https://www.axios.com/2026/08/25/luffu-fitness-band-aging-parents)
