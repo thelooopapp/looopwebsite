@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 15:11 CT
+
+### Changed
+- Looop vs. Luffu (hidden draft): hero orange line is now "It's automatic, and quiet when all is well." Intro cut to two short paragraphs plus the pointer line. Table cells shortened to plain facts (no "Its notice says," no "as of November 6"); Luffu Link's $299.99 price added where the band is the answer; Luffu app marked "In beta, by waitlist" (rechecked Nov. 9, 2026: no App Store listing). "Enter anything" and "keep up with" replaced with "automatic." Row icons added to the At a glance table, as on the Life360 page. "Built by Fitbit's founders" card removed. Cost row now carries a [LOOOP MONTHLY PRICE] placeholder pending the real figure.
 ## 2026-11-09 12:30 CT
 
 ### New Pages
