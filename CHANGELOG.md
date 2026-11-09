@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 15:16 CT
+
+### Changed
+- Health & Fitness banner redesigned on Features, For grown-up families, Looop vs. Life360, and Looop vs. Luffu: the three device photos are replaced by the two-phone health illustration (`images/home/duo-health.webp`) in a soft blue panel on the right, bleeding off the card edge; on phones it sits above the text. Shared styles in `styles.css` (`a.health-link`, `.hl-art`); stylesheet version bumped to 1109a on those pages.
+- Looop vs. Luffu: first-person lines ("We didn't find," "We found no," "We quote") rewritten as plain statements ("Luffu doesn't offer weather or crime alerts," "It isn't on the App Store yet"). Store check dated Nov. 9, 2026.
+
 ## 2026-11-09 15:11 CT
 
 ### Changed
