@@ -21,7 +21,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Albert+Sans:wght@900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="home.css?v=1109d">
+  <link rel="stylesheet" href="home.css?v=1109e">
   <link rel="stylesheet" href="map.css?v=1020b">
   <script src="map.js?v=1020a" defer></script>
   <link rel="stylesheet" href="footer.css?v=1019">
@@ -75,7 +75,23 @@
         <img class="dh-poster" src="images/home/datahub/poster.webp?v=03c47b65" width="1400" height="1136" decoding="async" alt="Looop listens to signals like weather, crime nearby, driving, heart rate, spending and phone use, and shows My Family with Mom, Dad and Sis each having a Typical Day. When something is unusual, that person turns orange with the reason, like a Tornado Warning, and Looop says it's time to check in.">
         <div class="dh-stage" aria-hidden="true"></div>
       </figure>
-      <div class="dh-sub"><p><strong>Every family situation is different.</strong> <span>Choose which alerts fit your&nbsp;needs.</span> <span>Turn off what isn't&nbsp;helpful.</span></p></div>
+      <div class="dh-sub">
+        <p><strong>Every family situation is different.</strong> <span>Choose which alerts fit your&nbsp;needs.</span> <span>Turn off what isn't&nbsp;helpful.</span></p>
+        <button class="dh-shot" type="button" aria-label="View the Alerts for Mom screen full size">
+          <img loading="lazy" src="images/home/phone-alert-toggles.webp" width="605" height="1237" alt="Alerts for Mom screen with toggles for Unusual Day, Severe Weather, Nearby Crime, Arrive and Leave, Driving, Airports, Hospitals and ER, Heart Rate, Unusual Spending, and Phone Battery">
+        </button>
+      </div>
+      <dialog class="dh-zoom" id="dh-zoom" aria-label="Alerts for Mom screen">
+        <img src="images/home/phone-alert-toggles.webp" width="605" height="1237" alt="Alerts for Mom screen with all alert toggles turned on">
+        <button class="dh-zoom-close" type="button" aria-label="Close">&times;</button>
+      </dialog>
+      <script>
+        (function () {
+          var d = document.getElementById('dh-zoom');
+          document.querySelector('.dh-shot').addEventListener('click', function () { d.showModal(); });
+          d.addEventListener('click', function () { d.close(); });
+        })();
+      </script>
       <div class="head">
         <p class="eyebrow">"5 Loved Ones in 4 different&nbsp;cities."</p>
         <h2>Find your people</h2>
