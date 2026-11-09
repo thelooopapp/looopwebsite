@@ -2,6 +2,20 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 16:10 CT
+
+### Changed
+- Comparison pages (Looop vs. Luffu, Looop vs. Life360), sweep for statements a reader can't tie to one product, or that put the two products in the wrong order:
+  - Removed "Peace of mind for you, independence for them." from under both "Which one is right for you?" scorecards. Under the Life360 "Which one fits your family?" table the same tagline is now "Calm alerts, or a live map." (Looop first, matching the columns).
+  - Life360 hero now leads with Looop: "Looop tells you when it might be a good time to call. Life360 is built around a live family map." The orange line names Looop: "Looop stays quiet until it matters."
+  - Life360 "Made for families from day one": "Looop is an independent startup..." moved from Life360's paragraph to Looop's.
+  - Life360 "Nearby crime": the "In Looop, crime is one part of a holistic approach..." paragraph moved up to Looop's side, ahead of Life360's; the "What do Life360's Safety Incidents show?" link moved to the end of Life360's paragraph.
+  - Luffu hero: "It's automatic" is now "Looop is automatic".
+  - Luffu "Health, plus everything else": removed "It's also one piece of what Looop covers." from Luffu's paragraph (ambiguous "It").
+  - Luffu "Looop is automatic": "it's one more thing to do" is now "keeping that record is one more thing to do".
+  - Luffu "Help in an emergency": "Luffu Link doesn't call 911 either" is now "doesn't call 911" ("either" read as if Looop can't reach 911).
+  - Both pages: "Our promise / We never sell your data..." is now "Looop's promise / Looop never sells your data and doesn't work with advertisers", with "Read Looop's privacy promise". Life360: "Below, we compare" and "We want you to pick" no longer say "we".
+  - Looop's device list in the comparison rows now reads "Apple Watch, Oura, Whoop, Garmin, and more, through Apple Health" (it listed only three next to Luffu's "Apple Health and Fitbit").
 ## 2026-11-09 15:56 CT
 
 ### Changed
