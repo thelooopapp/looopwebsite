@@ -1975,3 +1975,8 @@ a.health-link .hl-devices img { width: 92px; height: 92px; object-fit: contain; 
 .dh-zoom img{display:block;width:auto;height:auto;max-width:100%;max-height:calc(100dvh - 48px)}
 .dh-zoom-close{position:fixed;top:16px;right:16px;width:44px;height:44px;border:0;border-radius:999px;background:#fff;color:#14213D;font-size:28px;line-height:1;cursor:pointer}
 @media (max-width:860px){.inner-page .dh-sub{min-height:0;gap:12px;padding:22px 16px 22px 20px;border-radius:20px}.inner-page .dh-title{font-size:24px;line-height:1.05}.inner-page .dh-text{font-size:17px;line-height:1.4}.inner-page .dh-text span{display:block}.inner-page .dh-shot{margin:-36px 0}.inner-page .dh-shot img{width:72px}}
+
+/* How It Works: one card per row, calm callouts (orange reads as a warning) */
+.inner-page .alert-list.one-col{grid-template-columns:1fr}
+.inner-page .one-app{margin:28px 0 0;max-width:none;padding:26px 32px;border-radius:22px;background:#1B73C6;color:#fff;font-weight:800;font-size:clamp(20px,2.4vw,26px);line-height:1.3;letter-spacing:-0.01em}
+.inner-page .note.note--info{background:#EAF2FB;border-left-color:#1B73C6}

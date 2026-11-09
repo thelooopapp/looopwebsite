@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-09 15:45 CT
+
+### Changed
+- How It Works: "How Looop works" steps and "Where Looop gets its information" now show one card per row. "If they choose to share" leads with the benefit (catching unusual spending that could be a scam; seeing heart rate, sleep, steps, and workouts). The orange "one app" note is now a bold brand-blue callout, and the emergency note and icons are blue instead of orange, so nothing on the page reads as a warning. Styles in `styles.css` (`.alert-list.one-col`, `.one-app`, `.note--info`); version 1109e.
+
 ## 2026-11-09 15:35 CT
 
 ### Changed
