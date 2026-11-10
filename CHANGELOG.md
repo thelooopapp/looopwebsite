@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-10 10:45 CT
+
+### Added
+- Ask Siri how-to page (`ask-siri.html`, unlisted and noindex like `add-widget.html`): how to start asking Siri about Loved Ones in Looop (iOS 17+), example questions for how they're doing, where they are, what they're up to, the weather near them, their phone, and everyone at once, how to make your own phrase in the Shortcuts app, and what to try if Siri doesn't understand. Hero picture `images/ask-siri.jpg`. The app's What's New popup links here ("Show me how").
+
 ## 2026-11-09 19:05 CT
 
 ### Changed

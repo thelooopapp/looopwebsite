@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <title>Ask Siri About Your Loved Ones | Looop</title>
+  <meta name="description" content="How to ask Siri how your Loved Ones are doing in Looop, where they are, the weather near them, and how their phone battery is holding up.">
+  <link rel="stylesheet" href="styles.css?v=1020f">
+  <link rel="icon" type="image/png" href="images/logo_small.png">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    /* Page-only styles for the Siri how-to. Same look as add-widget.html. */
+    .siri-page .page-hero { padding-bottom: 0; overflow: hidden; }
+    .siri-page .page-hero h1 { margin-bottom: 14px; }
+    .siri-page .page-hero .lead { margin: 0 auto; }
+    .siri-page .hero-shot { max-width: 400px; margin: 30px auto 0; }
+    .siri-page .hero-shot img { display: block; width: 100%; height: auto; }
+    .siri-page .page-hero + .page-section { padding-top: 48px; }
+
+    .siri-page .section-inner > h2 { text-align: center; }
+    .siri-page .section-inner > .section-subtitle { text-align: center; }
+    .siri-page .tip { max-width: 640px; margin: 0 auto 28px; }
+    .siri-page .tip p strong { color: #1E2126; }
+
+    .siri-page .steps { list-style: none; display: grid; grid-template-columns: 1fr; gap: 20px; margin: 0; padding: 0; }
+    .siri-page .step { background: #fff; border-radius: 28px; padding: 22px 22px 24px; box-shadow: 0 2px 10px rgba(20, 30, 50, 0.07); }
+    .siri-page .step-body { display: flex; gap: 14px; align-items: flex-start; }
+    .siri-page .num { flex: none; width: 34px; height: 34px; border-radius: 50%; background: #1B73C6; color: #fff; font-weight: 800; font-size: 17px; line-height: 34px; text-align: center; }
+    .siri-page .step-body p { margin: 0; color: #1E2126; font-weight: 600; line-height: 1.45; }
+    .siri-page .step-body p.aside { margin-top: 6px; color: #5B626C; font-weight: 500; font-size: 15px; }
+    .siri-page .step-body strong { color: #1B73C6; font-weight: 800; }
+
+    .siri-page .asks { display: grid; grid-template-columns: 1fr; gap: 20px; }
+    .siri-page .ask { background: #fff; border-radius: 28px; padding: 22px 24px; box-shadow: 0 2px 10px rgba(20, 30, 50, 0.07); }
+    .siri-page .ask h3 { margin: 0 0 12px; font-size: 20px; }
+    .siri-page .ask ul { list-style: none; margin: 0; padding: 0; }
+    .siri-page .ask li { background: #E8EEFB; border-radius: 16px; padding: 10px 14px; margin-bottom: 8px; color: #1E2126; font-weight: 600; }
+    .siri-page .ask li:last-child { margin-bottom: 0; }
+
+    .siri-page .facts { max-width: 760px; margin: 32px auto 0; }
+    .siri-page .facts h3 { margin-bottom: 10px; }
+    .siri-page .help { text-align: center; margin-top: 32px; }
+
+    @media (min-width: 640px) {
+      .siri-page .steps, .siri-page .asks { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 768px) {
+      .siri-page .page-section { padding-left: 16px; padding-right: 16px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav class="navbar">
+  <a href="index.html" class="logo"><img src="images/logo_small.png" alt="Looop"><img class="wordmark" src="images/looop-wordmark.png?v=2" alt="" width="301" height="132"></a>
+    <a class="nav-cta" href="https://apps.apple.com/us/app/looop-keep-loved-ones-safe/id6760598111" aria-label="Download Looop on the App Store"><img src="images/appstore-wordmark-white.png" alt="" width="124" height="31"></a>
+  <button class="hamburger" onclick="document.querySelector('.nav-links').classList.toggle('active')" aria-label="Menu"><span></span><span></span><span></span></button>
+  <ul class="nav-links">
+    <li><a href="features.html">How It Works</a></li>
+    <li><a href="who-its-for.html">Who It's For</a></li>
+    <li><a href="privacy-promise.html">Privacy</a></li>
+    <li><a href="blog/index.html">Resources</a></li>
+    <li><a href="index.html#contact">Get in Touch</a></li>
+  </ul>
+</nav>
+
+<main class="inner-page siri-page">
+  <section class="page-hero">
+    <h1>Ask Siri About Your Loved&nbsp;Ones</h1>
+    <p class="lead">Find out how your family is doing without opening the&nbsp;app.</p>
+    <div class="hero-shot">
+      <img src="images/ask-siri.jpg" width="987" height="855" alt="Siri answering &quot;Is Mom OK in Looop?&quot; with: Mom's having an Unusual Day. There's a Heat Advisory near Mom right now. It might be worth giving Mom a call.">
+    </div>
+  </section>
+
+  <section class="page-section" id="setup">
+    <div class="section-inner">
+      <h2>Get started</h2>
+      <p class="section-subtitle">Four quick steps. It takes about a&nbsp;minute.</p>
+
+      <div class="note tip">
+        <p><strong>You'll need:</strong> an iPhone with iOS 17 or newer and the latest version of Looop from the App&nbsp;Store.</p>
+      </div>
+
+      <ol class="steps">
+        <li class="step"><div class="step-body"><span class="num">1</span><div>
+          <p>Open the Looop app once and make sure you're signed&nbsp;in.</p>
+          <p class="aside">That way Siri has your Loved Ones to ask&nbsp;about.</p>
+        </div></div></li>
+
+        <li class="step"><div class="step-body"><span class="num">2</span><div>
+          <p>Make sure Siri is on. Go to <strong>Settings</strong>, then <strong>Apple Intelligence &amp;&nbsp;Siri</strong>.</p>
+          <p class="aside">On some iPhones this is just called <strong>Siri</strong>.</p>
+        </div></div></li>
+
+        <li class="step"><div class="step-body"><span class="num">3</span><div>
+          <p>Say <strong>"Hey Siri, how's everyone in&nbsp;Looop?"</strong></p>
+          <p class="aside">Ask this one first. It's how Siri learns your Loved Ones'&nbsp;names.</p>
+        </div></div></li>
+
+        <li class="step"><div class="step-body"><span class="num">4</span><div>
+          <p>Now ask about anyone by their first name, like <strong>"Hey Siri, is Mom OK in&nbsp;Looop?"</strong></p>
+          <p class="aside">Looop sounds just like "loop" when you say&nbsp;it.</p>
+        </div></div></li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="page-section" id="ask">
+    <div class="section-inner">
+      <h2>Things you can&nbsp;ask</h2>
+      <p class="section-subtitle">Use your own words. Just say "in Looop" at the end, or start with "Ask&nbsp;Looop."</p>
+
+      <div class="asks">
+        <div class="ask">
+          <h3>How they're doing</h3>
+          <ul>
+            <li>"Is Mom OK in Looop?"</li>
+            <li>"How's Ethan doing in Looop?"</li>
+            <li>"Should I be worried about Dad in Looop?"</li>
+            <li>"Does Grandma need a call in Looop?"</li>
+          </ul>
+        </div>
+        <div class="ask">
+          <h3>Where they are</h3>
+          <ul>
+            <li>"Where's Ethan in Looop?"</li>
+            <li>"Is Mom home in Looop?"</li>
+            <li>"Is Ethan driving in Looop?"</li>
+            <li>"Ask Looop where Dad is."</li>
+          </ul>
+        </div>
+        <div class="ask">
+          <h3>What they're up to</h3>
+          <ul>
+            <li>"What's Evelyn up to in Looop?"</li>
+            <li>"How's Ethan's day going in Looop?"</li>
+            <li>"Catch me up on Mom in Looop."</li>
+            <li>"Any news on Dad in Looop?"</li>
+          </ul>
+        </div>
+        <div class="ask">
+          <h3>The weather near them</h3>
+          <ul>
+            <li>"What's the weather near Mom in Looop?"</li>
+            <li>"Is it raining where Ethan is in Looop?"</li>
+            <li>"Are there any weather alerts for Dad in Looop?"</li>
+            <li>"Is it cold where Grandma is in Looop?"</li>
+          </ul>
+        </div>
+        <div class="ask">
+          <h3>Their phone</h3>
+          <ul>
+            <li>"Is Ethan's phone dead in Looop?"</li>
+            <li>"How much battery does Mom have in Looop?"</li>
+            <li>"Why can't I reach Dad in Looop?"</li>
+            <li>"When did Looop last hear from Evelyn?"</li>
+          </ul>
+        </div>
+        <div class="ask">
+          <h3>Everyone at once</h3>
+          <ul>
+            <li>"How's everyone in Looop?"</li>
+            <li>"Is everyone OK in Looop?"</li>
+            <li>"Who needs a call in Looop?"</li>
+            <li>"Is anyone having an Unusual Day in Looop?"</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="facts">
+        <h3>Good to know</h3>
+        <ul class="check-list">
+          <li>Siri answers in plain words. If someone is having an Unusual Day, Siri tells you&nbsp;why.</li>
+          <li>Your iPhone needs to be unlocked before Siri shares how someone is doing, where they are, or their phone battery. Questions about the weather work&nbsp;anytime.</li>
+          <li>Looop doesn't open. Siri gets the answer and reads it to&nbsp;you.</li>
+          <li>Siri knows everyone in your groups by the first name they use in&nbsp;Looop.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-section" id="own-words">
+    <div class="section-inner">
+      <h2>Make your own&nbsp;phrase</h2>
+      <p class="section-subtitle">Want to say something shorter, like "Family check"? Set it up once in the Shortcuts&nbsp;app.</p>
+
+      <ol class="steps">
+        <li class="step"><div class="step-body"><span class="num">1</span><div>
+          <p>Open the <strong>Shortcuts</strong> app and tap <strong>+</strong> in the top-right&nbsp;corner.</p>
+        </div></div></li>
+        <li class="step"><div class="step-body"><span class="num">2</span><div>
+          <p>Search for <strong>Looop</strong> and tap <strong>How's everyone?</strong></p>
+          <p class="aside">Or pick another question, like "Is a Loved One&nbsp;OK?"</p>
+        </div></div></li>
+        <li class="step"><div class="step-body"><span class="num">3</span><div>
+          <p>Tap the name at the top and call it something easy to say, like <strong>Family&nbsp;check</strong>.</p>
+        </div></div></li>
+        <li class="step"><div class="step-body"><span class="num">4</span><div>
+          <p>Tap <strong>Done</strong>. Now just say <strong>"Hey Siri, family&nbsp;check."</strong></p>
+        </div></div></li>
+      </ol>
+
+      <div class="facts">
+        <h3>If Siri doesn't understand</h3>
+        <ul class="check-list">
+          <li>Try starting with "Ask Looop," like "Ask Looop how everyone is&nbsp;doing."</li>
+          <li>Open Looop once, then ask&nbsp;again.</li>
+          <li>Restart your iPhone. Siri sometimes needs this after an&nbsp;update.</li>
+        </ul>
+      </div>
+      <p class="help">Still stuck? Send us a note through our <a href="index.html#contact" class="text-link">Get in Touch</a> form. We read&nbsp;everything.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="footer-content">
+    <div class="footer-col footer-brand">
+      <a href="index.html" class="footer-home" aria-label="Looop home"><img src="images/looop-wordmark-white.png" alt="Looop" class="footer-logo" width="300" height="131" loading="lazy"></a>
+      <p class="footer-tagline">Know they're safe, across any distance.</p>
+    </div>
+    <nav class="footer-col" aria-label="Product">
+      <h4>Product</h4>
+      <ul>
+        <li><a href="features.html">How It Works</a></li>
+        <li><a href="privacy-promise.html">Our Privacy Promise</a></li>
+        <li><a href="who-its-for.html">Who It's For</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-col" aria-label="Who it's for">
+      <h4>Who It's For</h4>
+      <ul>
+        <li><a href="for-aging-parents.html">Aging Parents</a></li>
+        <li><a href="for-college-families.html">College Families</a></li>
+        <li><a href="for-friends-and-siblings.html">Friends and Siblings</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-col" aria-label="Company">
+      <h4>Company</h4>
+      <ul>
+        <li><a href="press/index.html">Newsroom</a></li>
+        <li><a href="blog/index.html">Resources</a></li>
+        <li><a href="index.html#contact">Get in Touch</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-col" aria-label="Legal">
+      <h4>Legal</h4>
+      <ul>
+        <li><a href="privacy.html">Privacy Policy</a></li>
+        <li><a href="useragreement.html">User Agreement</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="footer-bottom">&copy; 2026 LooopApp LLC</div>
+</footer>
+
+</body>
+</html>
