@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-10 15:55 CT
+
+### Changed
+- Ask Siri page (`ask-siri.html`): every example now avoids words Siri keeps for its own commands, since those questions never reached Looop ("everyone" went to Intercom, "Where is" to Find My, "call" to Phone, battery and weather wordings to Siri's own answers). Setup step 2 is now "Hey Siri, ask Looop how my family is," the Shortcuts action is "How's my family?", and "Everyone at once" is now "Your whole family." Two new troubleshooting cards: "Siri talks about Intercom or the Home app" and "Siri searches the web for 'loop'." The Find My card now says to ask "Ask Looop where Mom is."
+
 ## 2026-11-10 13:00 CT
 
 ### Changed
