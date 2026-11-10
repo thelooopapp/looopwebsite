@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-10 12:30 CT
+
+### Changed
+- Ask Siri page (`ask-siri.html`) rebuilt as a picture-by-picture setup guide in the same layout as `add-widget.html`: open Looop, say "Hey Siri, how's everyone in Looop?", tap Turn On when the iPhone asks to turn on Looop with Siri, then ask about anyone. Optional "Make your own phrase" (Shortcuts) and "Siri didn't answer?" sections follow, and the example questions moved to the end. Highlights, list dots, and the note are brand blue on this page, since orange means an Unusual Day in Looop. The hero picture is now a see-through PNG (`images/ask-siri.png`) so it sits on the blue band without a white box, and its example says "her" after the first "Mom." `images/ask-siri.jpg` removed.
+
 ## 2026-11-10 10:45 CT
 
 ### Added
