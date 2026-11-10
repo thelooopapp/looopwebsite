@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-10 13:00 CT
+
+### Changed
+- Ask Siri page (`ask-siri.html`): the short "Siri didn't answer?" card is now a Troubleshooting section with nine cards, each naming what Siri did and the fixes to try, most common first: "I can't help you with that," Siri hearing a contact or translation request, Find My answering, a name Siri can't find, sign in, unlock, can't reach Looop, nothing to share about someone, and Siri not responding at all.
+
 ## 2026-11-10 12:30 CT
 
 ### Changed

@@ -42,14 +42,6 @@
     .siri-page .facts { max-width: 760px; margin: 32px auto 0; }
     .siri-page .facts h3 { margin-bottom: 10px; }
 
-    .siri-page .today { display: grid; grid-template-columns: 1fr; gap: 20px; align-items: center; background: #fff; border-radius: 28px; padding: 14px 14px 24px; box-shadow: 0 2px 10px rgba(20, 30, 50, 0.07); }
-    .siri-page .today .art { background: #E8EEFB; border-radius: 20px; overflow: hidden; line-height: 0; }
-    .siri-page .today .art svg { display: block; width: 100%; max-width: 300px; height: auto; margin: 0 auto; }
-    .siri-page .today-text { padding: 0 8px; }
-    .siri-page .today-text h2 { text-align: left; font-size: clamp(26px, 3.4vw, 36px); }
-    .siri-page .today-text ol { margin: 12px 0 0; padding-left: 22px; }
-    .siri-page .today-text li { margin-bottom: 6px; color: #1E2126; font-weight: 600; }
-    .siri-page #trouble { padding-top: 16px; }
 
     .siri-page .asks { display: grid; grid-template-columns: 1fr; gap: 20px; margin-top: 28px; }
     .siri-page .ask { background: #fff; border-radius: 28px; padding: 22px 24px; box-shadow: 0 2px 10px rgba(20, 30, 50, 0.07); }
@@ -58,14 +50,18 @@
     .siri-page .ask li { background: #E8EEFB; border-radius: 16px; padding: 10px 14px; margin-bottom: 8px; color: #1E2126; font-weight: 600; }
     .siri-page .ask li:last-child { margin-bottom: 0; }
     .siri-page .help { text-align: center; margin-top: 32px; }
+    .siri-page .fixes { display: grid; grid-template-columns: 1fr; gap: 20px; margin-top: 28px; }
+    .siri-page .fix { background: #fff; border-radius: 28px; padding: 22px 24px 12px; box-shadow: 0 2px 10px rgba(20, 30, 50, 0.07); }
+    .siri-page .fix h3 { margin: 0; font-size: 20px; line-height: 1.3; }
+    .siri-page .fix .check-list { margin-top: 12px; }
+    .siri-page .fix .check-list li { color: #1E2126; line-height: 1.5; }
 
     @media (min-width: 640px) {
-      .siri-page .steps, .siri-page .asks { grid-template-columns: 1fr 1fr; }
-      .siri-page .today { grid-template-columns: 1fr 1.2fr; padding: 14px 28px 14px 14px; }
-    }
+      .siri-page .steps, .siri-page .asks, .siri-page .fixes { grid-template-columns: 1fr 1fr; }
+      }
     @media (min-width: 960px) {
       .siri-page .steps.three { grid-template-columns: repeat(3, 1fr); }
-      .siri-page .asks { grid-template-columns: repeat(3, 1fr); }
+      .siri-page .asks, .siri-page .fixes { grid-template-columns: repeat(3, 1fr); }
     }
     @media (max-width: 768px) {
       .siri-page .page-section { padding-left: 16px; padding-right: 16px; }
@@ -419,34 +415,76 @@
     </div>
   </section>
 
-  <section class="page-section" id="trouble">
-    <div class="section-inner narrow">
-      <div class="today">
-        <div class="art">
-          <svg class="ill" viewBox="0 0 220 240" role="img" aria-label="Siri listening to &quot;Ask Looop how everyone is doing&quot;">
-            <use href="#phone" width="220" height="240"/>
-            <g clip-path="url(#scr)">
-              <use href="#status" width="220" height="240"/>
-              <rect x="36" y="20" width="148" height="320" fill="#141E32" fill-opacity="0.3"/>
-              <g filter="url(#lift)"><rect x="44" y="96" width="132" height="34" rx="12" fill="#fff" fill-opacity="0.96"/></g>
-              <text x="110" y="110" font-size="8" font-weight="600" fill="#5B626C" text-anchor="middle">“Ask Looop how</text>
-              <text x="110" y="121" font-size="8" font-weight="600" fill="#5B626C" text-anchor="middle">everyone is doing.”</text>
-              <use href="#siri" width="220" height="240"/>
-            </g>
-            <use href="#island" width="220" height="240"/>
-          </svg>
+  <section class="page-section" id="troubleshooting">
+    <div class="section-inner">
+      <h2>Troubleshooting</h2>
+      <p class="section-subtitle">Find what Siri did, then try the fixes under&nbsp;it.</p>
+
+      <div class="fixes">
+        <div class="fix">
+          <h3>Siri says "I can't help you with that."</h3>
+          <ul class="check-list">
+            <li>Ask again. If your iPhone asks to turn on Looop with Siri, tap <strong>Turn On</strong>.</li>
+            <li>Open Looop, make sure you're signed in, then ask again.</li>
+            <li>Restart your iPhone. Siri sometimes needs this after an update.</li>
+          </ul>
         </div>
-        <div class="today-text">
-          <h2>Siri didn't&nbsp;answer?</h2>
-          <ol>
-            <li>Ask again, and tap <strong>Turn On</strong> if your iPhone asks to turn on Looop with&nbsp;Siri.</li>
-            <li>Start with "Ask Looop," like "Ask Looop how everyone is&nbsp;doing."</li>
-            <li>Check that Siri is on: open Settings, then Apple Intelligence &amp;&nbsp;Siri.</li>
-            <li>Open Looop and make sure you're signed in, then ask&nbsp;again.</li>
-            <li>Restart your iPhone. Siri sometimes needs this after an&nbsp;update.</li>
-          </ol>
+        <div class="fix">
+          <h3>Siri asks whose contact info you want, or offers to translate</h3>
+          <ul class="check-list">
+            <li>Siri didn't catch "Looop." Start with it instead: "Ask Looop how everyone is doing."</li>
+            <li>Say Looop just like "loop."</li>
+          </ul>
+        </div>
+        <div class="fix">
+          <h3>Siri answers with Find My, or a map</h3>
+          <ul class="check-list">
+            <li>Add "in Looop" to the end, like "Is Mom OK in Looop?" Without it, Siri may pick another app.</li>
+          </ul>
+        </div>
+        <div class="fix">
+          <h3>Siri can't find someone</h3>
+          <ul class="check-list">
+            <li>Use the first name they go by in Looop. If they're "Mom" in Looop, say "Mom."</li>
+            <li>Ask "How's everyone in Looop?" once. That's how Siri learns new names.</li>
+            <li>Make sure they're in one of your Looop groups.</li>
+          </ul>
+        </div>
+        <div class="fix">
+          <h3>Siri asks you to open Looop and sign in</h3>
+          <ul class="check-list">
+            <li>Open Looop and sign in. Then you can close it and ask again.</li>
+          </ul>
+        </div>
+        <div class="fix">
+          <h3>Siri asks you to unlock your iPhone</h3>
+          <ul class="check-list">
+            <li>Unlock it and Siri will answer. This keeps anyone holding your locked iPhone from hearing about your family.</li>
+            <li>Questions about the weather work without unlocking.</li>
+          </ul>
+        </div>
+        <div class="fix">
+          <h3>Siri says it can't reach Looop right now</h3>
+          <ul class="check-list">
+            <li>Check that your iPhone is online, then try again in a minute.</li>
+          </ul>
+        </div>
+        <div class="fix">
+          <h3>Siri says there's nothing to share about someone</h3>
+          <ul class="check-list">
+            <li>They may not have finished setting up Looop yet. Their card in Looop shows what's left.</li>
+            <li>Alerts may be off for them. You can turn them on from their card in Looop.</li>
+          </ul>
+        </div>
+        <div class="fix">
+          <h3>Siri doesn't respond at all</h3>
+          <ul class="check-list">
+            <li>Open Settings, tap <strong>Apple Intelligence &amp; Siri</strong>, and make sure Siri is on.</li>
+            <li>Make sure your iPhone has iOS 17 or newer and the latest version of Looop.</li>
+          </ul>
         </div>
       </div>
+      <p class="help">Still stuck? Send us a note through our <a href="index.html#contact" class="text-link">Get in Touch</a> form. We read&nbsp;everything.</p>
     </div>
   </section>
 
@@ -505,7 +543,6 @@
           </ul>
         </div>
       </div>
-      <p class="help">Still stuck? Send us a note through our <a href="index.html#contact" class="text-link">Get in Touch</a> form. We read&nbsp;everything.</p>
     </div>
   </section>
 </main>
