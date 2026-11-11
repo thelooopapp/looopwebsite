@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 17:04 CT
+
+- **Pitch: slide 8 footnote cites the investor** - Found the investor source: Reece Frith of Blackwattle Investment Partners, "Life360: location is the new feedstock" on Livewire Markets, which calls Life360's location data market leading, updated every 1-4 seconds. The footnote now reads "Investor Blackwattle: Life360's always-on location data, updated every 1-4 seconds, is 'market leading' (Livewire)." and links to the article. PDF regenerated.
+
 ## 2026-11-11 17:01 CT
 
 - **Pitch: slide 8 footnote sourced to VentureBeat** - Searched past chats, the repos and the web for an investor saying background updates made Life360 the leader; none found (the Nov 6 session found none either). The footnote now cites the closest real source, VentureBeat's Life360 battery story: battery drain cost Life360 its first year (5,000 users) and early VC funding, until it fixed always-on location. Linked, with the larger tap area. PDF regenerated.
