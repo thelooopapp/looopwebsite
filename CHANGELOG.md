@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 15:06 CT
+
+### Changed
+- Investor pitch page and PDF: slide 1 drops the App Store badge and its three phones now sit level, showing more of each.
+
 ## 2026-11-11 14:36 CT
 
 ### Changed
