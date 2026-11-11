@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 14:36 CT
+
+### Changed
+- Investor pitch page and PDF: Jeff's photo on slides 2 and 12 is zoomed out a little (same circle size).
+
 ## 2026-11-11 14:19 CT
 
 ### Changed
