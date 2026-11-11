@@ -64,6 +64,7 @@
 
 
 
+
 <main class="pitch-wrap">
   <div class="pitch-head">
     <div>
@@ -103,7 +104,7 @@
 <div style="display: flex; gap: 40px; align-items: flex-start">
 <div style="flex: 1; display: flex; flex-direction: column; gap: 22px">
 <ul style="margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 16px">
-<li style="display: flex; gap: 14px; align-items: flex-start; font-size: 20px; line-height: 1.45; color: #1E2126"><span aria-hidden="true" style="flex-shrink: 0; width: 16px; height: 16px; margin-top: 6px; border-radius: 50%; background: #1B73C6; box-shadow: inset 0 0 0 4px #D3E6FA"></span><span>I’m responsible for <strong style="font-weight: 800">aging parents and college students</strong>.</span></li>
+<li style="display: flex; gap: 14px; align-items: flex-start; font-size: 20px; line-height: 1.45; color: #1E2126"><span aria-hidden="true" style="flex-shrink: 0; width: 16px; height: 16px; margin-top: 6px; border-radius: 50%; background: #1B73C6; box-shadow: inset 0 0 0 4px #D3E6FA"></span><span style="white-space: nowrap">I’m responsible for <strong style="font-weight: 800">aging parents and college students</strong>.</span></li>
 <li style="display: flex; gap: 14px; align-items: flex-start; font-size: 20px; line-height: 1.45; color: #1E2126"><span aria-hidden="true" style="flex-shrink: 0; width: 16px; height: 16px; margin-top: 6px; border-radius: 50%; background: #1B73C6; box-shadow: inset 0 0 0 4px #D3E6FA"></span><span>My family is in <strong style="font-weight: 800">5 cities in 3 states</strong>.</span></li>
 <li style="display: flex; gap: 14px; align-items: flex-start; font-size: 20px; line-height: 1.45; color: #1E2126"><span aria-hidden="true" style="flex-shrink: 0; width: 16px; height: 16px; margin-top: 6px; border-radius: 50%; background: #1B73C6; box-shadow: inset 0 0 0 4px #D3E6FA"></span><span>I use <strong style="font-weight: 800">multiple apps</strong> for location tracking, weather, crime, spending, health and more.</span></li>
 <li style="display: flex; gap: 14px; align-items: flex-start; font-size: 20px; line-height: 1.45; color: #1E2126"><span aria-hidden="true" style="flex-shrink: 0; width: 16px; height: 16px; margin-top: 6px; border-radius: 50%; background: #1B73C6; box-shadow: inset 0 0 0 4px #D3E6FA"></span><span><strong style="font-weight: 800">I don’t need all that.</strong></span></li>
@@ -356,6 +357,13 @@
   <div class="footer-bottom">&copy; 2026 LooopApp LLC</div>
 </footer>
 
+<script>
+(function(){
+  function fit(){ document.querySelectorAll('.deck-slide').forEach(function(s){ s.firstElementChild.style.transform='scale('+(s.clientWidth/1280)+')'; }); }
+  window.addEventListener('resize', fit); fit();
+  if (window.ResizeObserver) new ResizeObserver(fit).observe(document.querySelector('.deck'));
+})();
+</script>
 <script>
 (function(){
   function fit(){ document.querySelectorAll('.deck-slide').forEach(function(s){ s.firstElementChild.style.transform='scale('+(s.clientWidth/1280)+')'; }); }

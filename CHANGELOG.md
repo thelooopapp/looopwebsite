@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 15:11 CT
+
+### Changed
+- Investor pitch page and PDF: slide 2's first bullet ("I'm responsible for aging parents and college students.") stays on one line.
+
 ## 2026-11-11 15:09 CT
 
 ### Changed
