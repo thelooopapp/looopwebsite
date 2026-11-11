@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 16:58 CT
+
+- **Apple Health page: device pictures back in a row** - A stray closing brace after the `a.health-link` phone styles in `styles.css` made browsers drop the next rule, the `.device-strip` grid, so Watches, Fitness bands, Smart rings and Bikes stacked in one column. Removed the brace: four across on desktop, two by two on phones. All pages now load `styles.css?v=1111a` (they were on five different versions), so browsers pick up the fix.
+- **Pitch: footnote now links to a source** - Slide 8's footnote was plain text, so it couldn't be clicked. No source says reliable background updates "made Life360 the leader," so it now quotes Life360's CEO, Chris Hulls: "It's a lot harder to do location sharing well than it looks," linked to the CEO.com interview transcript, with a larger tap area. PDF regenerated.
+
 ## 2026-11-11 16:55 CT
 
 - **Pitch page on mobile** - Get in Touch and Download PDF now share one row on phones (each half the width, smaller text and icons; a bit smaller again at 360px and below). Checked 320 to 1280px wide: both buttons stay on one row with no clipping, and the page never scrolls sideways.

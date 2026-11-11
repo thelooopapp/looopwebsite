@@ -1944,7 +1944,6 @@ a.health-link .hl-devices img { width: 92px; height: 92px; object-fit: contain; 
   a.health-link .hl-devices img { width: 68px; height: 68px; }
   a.health-link .hl-title { font-size: 18px; }
 }
-}
 
 /* Apple Health page: one "works with" section — device strip, how to connect, brand chips */
 .inner-page .device-strip { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-top: 32px; }
