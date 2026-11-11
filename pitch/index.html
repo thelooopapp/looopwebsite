@@ -93,6 +93,7 @@
 
 
 
+
 <main class="pitch-wrap">
   <div class="pitch-head">
     <div>
@@ -100,7 +101,7 @@
     </div>
     <div class="pitch-actions">
       <a class="pdf-btn pdf-btn--ghost" href="mailto:jeff@thelooopapp.com"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1B73C6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>Get in Touch</a>
-      <a class="pdf-btn" href="Looop-Pitch.pdf?v=ea78803832" download="Looop-Pitch.pdf"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>Download PDF</a>
+      <a class="pdf-btn" href="Looop-Pitch.pdf?v=2f7e730d7e" download="Looop-Pitch.pdf"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>Download PDF</a>
     </div>
   </div>
   <div class="deck">
@@ -281,7 +282,7 @@
 
 </div>
 <img src="img/f372aae593.jpg" alt="Looop on the App Store: Keep Loved Ones Safe, rated 4.7, version 4.4.1 with Multiple Groups and a Home Screen Widget, and three preview screenshots" style="position: absolute; right: 64px; top: 121px; width: 298px; height: 500px; object-fit: cover; object-position: top; display: block; -webkit-mask-image: linear-gradient(#000 72%, transparent 100%); mask-image: linear-gradient(#000 72%, transparent 100%)">
-<p style="position: absolute; left: 64px; bottom: 14px; margin: 0; font-size: 13px; color: #9AA1AA"><a href="https://www.livewiremarkets.com/wires/life360-location-is-the-new-feedstock" target="_blank" rel="noopener" style="display: inline-block; margin: -14px -12px; padding: 14px 12px; color: inherit; text-decoration: underline; text-decoration-color: #C4C9CF; text-decoration-thickness: 1px; text-underline-offset: 3px">*Investor Blackwattle: Life360’s always-on location data, updated every 1–4 seconds, is “market leading” (Livewire).</a></p>
+<p style="position: absolute; left: 64px; bottom: 14px; margin: 0; font-size: 13px; color: #9AA1AA"><a href="https://www.livewiremarkets.com/wires/life360-location-is-the-new-feedstock" target="_blank" rel="noopener" style="display: inline-block; margin: -14px -12px; padding: 14px 12px; color: inherit; text-decoration: underline; text-decoration-color: #C4C9CF; text-decoration-thickness: 1px; text-underline-offset: 3px">*Robust background updates are key to Life360’s market lead. Investor Blackwattle calls its location data “market leading” (Livewire).</a></p>
 <img src="img/bbee63e576.png" alt="Looop" style="position: absolute; right: 56px; bottom: 36px; width: 92px; height: auto">
 </div></div></section>
 <section class="deck-slide" id="slide-9" aria-label="Slide 9 of 12"><div class="deck-inner"><div style="width: 1280px; height: 720px; box-sizing: border-box; position: relative; overflow: hidden; background: #1B73C6; color: #FFFFFF; font-family: 'Plus Jakarta Sans', system-ui, sans-serif; padding: 64px 64px 56px">
@@ -394,6 +395,13 @@
   <div class="footer-bottom">&copy; 2026 LooopApp LLC</div>
 </footer>
 
+<script>
+(function(){
+  function fit(){ document.querySelectorAll('.deck-slide').forEach(function(s){ s.firstElementChild.style.transform='scale('+(s.clientWidth/1280)+')'; }); }
+  window.addEventListener('resize', fit); fit();
+  if (window.ResizeObserver) new ResizeObserver(fit).observe(document.querySelector('.deck'));
+})();
+</script>
 <script>
 (function(){
   function fit(){ document.querySelectorAll('.deck-slide').forEach(function(s){ s.firstElementChild.style.transform='scale('+(s.clientWidth/1280)+')'; }); }

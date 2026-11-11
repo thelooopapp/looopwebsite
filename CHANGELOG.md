@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 17:48 CT
+
+- **Pitch: footnote generalized** - Slide 8's footnote drops the "every 1-4 seconds" detail and now reads: "Robust background updates are key to Life360's market lead. Investor Blackwattle calls its location data 'market leading' (Livewire)." Still linked to the Livewire article. PDF regenerated.
+
 ## 2026-11-11 17:10 CT
 
 - **Pitch: footnote reads as a link** - Slide 8's footnote has a clearer light gray underline (#C4C9CF, 1px, 3px offset) so people can tell it's clickable. On the artboard, hovering no longer turns it white on the white slide. PDF regenerated.
