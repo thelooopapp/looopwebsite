@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 17:10 CT
+
+- **Pitch: footnote reads as a link** - Slide 8's footnote has a clearer light gray underline (#C4C9CF, 1px, 3px offset) so people can tell it's clickable. On the artboard, hovering no longer turns it white on the white slide. PDF regenerated.
+
 ## 2026-11-11 17:04 CT
 
 - **Pitch: slide 8 footnote cites the investor** - Found the investor source: Reece Frith of Blackwattle Investment Partners, "Life360: location is the new feedstock" on Livewire Markets, which calls Life360's location data market leading, updated every 1-4 seconds. The footnote now reads "Investor Blackwattle: Life360's always-on location data, updated every 1-4 seconds, is 'market leading' (Livewire)." and links to the article. PDF regenerated.
