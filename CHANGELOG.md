@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 15:41 CT
+
+### Changed
+- Investor pitch page and PDF: new links. Slide 3's sources (AARP / NAC 2025, Pew 2026, AARP 2026) open the reports and its phones open the App Store listing. Slide 4's Life360 and Luffu names, logos and homepage screenshots open their sites, and "$500M+ Revenue · 100M+ Users" opens Life360's Q3 2026 results. Slide 9's device pictures open the Apple Health page.
+
 ## 2026-11-11 15:11 CT
 
 ### Changed
