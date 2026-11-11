@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 14:19 CT
+
+### Changed
+- Investor pitch page (`investors/pitch/`) and its PDF: synced with the latest deck. Slide 8's App Store image now starts level with the "live on the App Store" pill and fades out at the bottom; the founder slide's four link buttons are smaller and sit under the bullets.
+
 ## 2026-11-11 14:16 CT
 
 ### Changed
