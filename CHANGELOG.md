@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 17:01 CT
+
+- **Pitch: slide 8 footnote sourced to VentureBeat** - Searched past chats, the repos and the web for an investor saying background updates made Life360 the leader; none found (the Nov 6 session found none either). The footnote now cites the closest real source, VentureBeat's Life360 battery story: battery drain cost Life360 its first year (5,000 users) and early VC funding, until it fixed always-on location. Linked, with the larger tap area. PDF regenerated.
+
 ## 2026-11-11 16:58 CT
 
 - **Apple Health page: device pictures back in a row** - A stray closing brace after the `a.health-link` phone styles in `styles.css` made browsers drop the next rule, the `.device-strip` grid, so Watches, Fitness bands, Smart rings and Bikes stacked in one column. Removed the brace: four across on desktop, two by two on phones. All pages now load `styles.css?v=1111a` (they were on five different versions), so browsers pick up the fix.
