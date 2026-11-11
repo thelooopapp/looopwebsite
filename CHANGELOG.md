@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 16:41 CT
+
+- **Pitch: "What Looop reads" box back to white** - Keeps the matched layout (Looop logo on top, heading, dot bullets, same padding and corners) but on a white card with the dark logo, so it stands out on the blue slide. PDF regenerated.
+
 ## 2026-11-11 16:37 CT
 
 - **Pitch PDF: no more boxes around images** - The phone mockups (slides 1, 3, 5, 7) had a faint, nearly transparent haze across their whole rectangle; the CSS drop-shadow shadowed that haze too, leaving a visible box. Cleaned those images (alpha at or below 24 set to clear) and switched to the cleaned copies. The PDF is now built from 2x renders of each slide (`pdf.py`), with the links re-added, so shadows and fades look the same in every PDF viewer.
