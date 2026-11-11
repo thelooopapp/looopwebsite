@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 16:03 CT
+
+### Changed
+- Investor pitch page and PDF: slide 3 adds "78% of Americans 65+ own a smartphone" (Pew, Jan 2026); slide 5 adds "older adults are projected to outnumber children by 2034" (US Census Bureau); slide 8's spending alert now reads "Large charges, an early sign of a scam" and "Robust location monitoring*" has a footnote, "Reliable background updates made Life360 the leader"; slide 10's update count is now 559 (all commits since the repo started on March 19, 2026).
+
 ## 2026-11-11 15:41 CT
 
 ### Changed
