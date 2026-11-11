@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 14:16 CT
+
+### Changed
+- Investor pitch page (`investors/pitch/`): replaced the ten text slides with the new twelve-slide deck, shown as scaled 16:9 slides with the site's nav and footer. Adds a "Download PDF" button for `investors/pitch/Looop-Pitch.pdf` (one slide per page) and the slide images in `investors/pitch/img/`. Still unlisted: noindex, and not in the nav, sitemap or llms.txt.
+
 ## 2026-11-10 15:55 CT
 
 ### Changed
