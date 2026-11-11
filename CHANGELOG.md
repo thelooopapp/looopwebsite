@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 16:44 CT
+
+- **Pitch: Download PDF always gets the latest file** - The server lets browsers keep a PDF for 4 hours, so the button kept serving an older copy that still had the boxes. The link now carries a version from the file's contents (`Looop-Pitch.pdf?v=...`, set by `pdf.py` on each build), so a new PDF is always a new download. The saved file name stays Looop-Pitch.pdf.
+
 ## 2026-11-11 16:41 CT
 
 - **Pitch: "What Looop reads" box back to white** - Keeps the matched layout (Looop logo on top, heading, dot bullets, same padding and corners) but on a white card with the dark logo, so it stands out on the blue slide. PDF regenerated.
