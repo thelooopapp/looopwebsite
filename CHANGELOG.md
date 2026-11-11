@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 16:55 CT
+
+- **Pitch page on mobile** - Get in Touch and Download PDF now share one row on phones (each half the width, smaller text and icons; a bit smaller again at 360px and below). Checked 320 to 1280px wide: both buttons stay on one row with no clipping, and the page never scrolls sideways.
+
 ## 2026-11-11 16:50 CT
 
 - **Pitch: aging tech line fits on one line** - Slide 5 now reads "Aging tech: a projected $120B market by 2030 (AARP and CTA)." PDF regenerated.
