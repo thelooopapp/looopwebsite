@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 15:09 CT
+
+### Changed
+- Investor pitch page and PDF: slide 1's "Know they're safe, across any distance." fits on one line so the phones sit higher; slide 4 reads "$500M+ Revenue · 100M+ Users."
+
 ## 2026-11-11 15:06 CT
 
 ### Changed

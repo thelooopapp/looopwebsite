@@ -63,6 +63,7 @@
 
 
 
+
 <main class="pitch-wrap">
   <div class="pitch-head">
     <div>
@@ -86,7 +87,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; gap: 8px">
 <p style="margin: 0; font-size: 32px; line-height: 1.15; font-weight: 800; letter-spacing: -0.02em; color: #A6F0B0">Know when to check in.</p>
 <p style="margin: 0; max-width: 620px; font-size: 19px; line-height: 1.35; font-weight: 500; width: 459px; height: 54px">Get alerts about Severe Weather, Nearby Crime, and more wherever they go.</p>
-<p style="margin: 0; font-size: 32px; line-height: 1.15; font-weight: 800; letter-spacing: -0.02em; color: #FFCB70; width: 359px; height: 86px">Know they're safe, across any distance.</p>
+<p style="margin: 0; font-size: 32px; line-height: 1.15; font-weight: 800; letter-spacing: -0.02em; color: #FFCB70; white-space: nowrap">Know they're safe, across any distance.</p>
 </div>
 
 </div>
@@ -153,7 +154,7 @@
 <div style="flex: 1; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 48px; row-gap: 10px; align-items: start">
 <h2 style="margin: 0; font-size: 32px; font-weight: 800; display: flex; align-items: center; gap: 14px"><img src="img/1f3d16a299.png" alt="" style="width: 40px; height: 40px; border-radius: 10px; display: block">Life360</h2>
 <h2 style="margin: 0; font-size: 32px; font-weight: 800; display: flex; align-items: center; gap: 14px"><img src="img/f0baee6a88.png" alt="" style="width: 40px; height: 40px; display: block; object-fit: contain">Luffu</h2>
-<span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #1B73C6">$500M Revenue · 100M users</span>
+<span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #1B73C6">$500M+ Revenue · 100M+ Users</span>
 <span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #1B73C6">From Fitbit’s founders</span>
 <span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #B85C00">Focused on GPS tracking</span>
 <span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #B85C00">Focused on health</span>
@@ -355,6 +356,13 @@
   <div class="footer-bottom">&copy; 2026 LooopApp LLC</div>
 </footer>
 
+<script>
+(function(){
+  function fit(){ document.querySelectorAll('.deck-slide').forEach(function(s){ s.firstElementChild.style.transform='scale('+(s.clientWidth/1280)+')'; }); }
+  window.addEventListener('resize', fit); fit();
+  if (window.ResizeObserver) new ResizeObserver(fit).observe(document.querySelector('.deck'));
+})();
+</script>
 <script>
 (function(){
   function fit(){ document.querySelectorAll('.deck-slide').forEach(function(s){ s.firstElementChild.style.transform='scale('+(s.clientWidth/1280)+')'; }); }
