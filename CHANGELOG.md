@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 16:28 CT
+
+- **Pitch: Luffu source link, simpler page header** - On the Leaders slide, "From Fitbit's founders" now links to the Axios launch story (Feb 3, 2026), which reports Luffu is self-funded by Fitbit's co-founders after they left Google. The pitch page drops the "Looop Pitch" title; the note now reads "Please don't share or post it publicly." and is centered vertically with the Get in Touch and Download PDF buttons. PDF regenerated.
+
 ## 2026-11-11 16:22 CT
 
 - **Pitch: contact email** - The founder slide's last bullet is now jeff@thelooopapp.com with a mail icon, linked to email (bullet spacing tightened to fit). The pitch page adds a "Get in Touch" button, left of Download PDF, that opens an email to the same address. Removed the "For Investors" label above the page title. PDF regenerated.

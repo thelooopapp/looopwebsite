@@ -23,10 +23,10 @@
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
   .pitch-wrap { max-width: 1120px; margin: 0 auto; padding: 120px 24px 48px; }
-  .pitch-head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px 24px; margin-bottom: 28px; }
+  .pitch-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px 24px; margin-bottom: 28px; }
   .pitch-head h1 { margin: 0; font-size: 44px; line-height: 1.1; color: #1E2126; }
   .pitch-head .eyebrow { font-size: 15px; font-weight: 700; color: #1B73C6; }
-  .pitch-head .note { margin: 8px 0 0; font-size: 14px; color: #5B626C; }
+  .pitch-head .note { margin: 0; font-size: 14px; color: #5B626C; }
   .pdf-btn { display: inline-flex; align-items: center; gap: 10px; height: 52px; padding: 0 24px; border-radius: 18px; background: #1B73C6; color: #FFFFFF; font-size: 17px; font-weight: 800; box-shadow: 0 3px 10px rgba(15, 79, 146, 0.22); }
   .pdf-btn:hover { background: #0F4F92; }
   .pitch-actions { display: flex; flex-wrap: wrap; gap: 12px; }
@@ -76,11 +76,11 @@
 
 
 
+
 <main class="pitch-wrap">
   <div class="pitch-head">
     <div>
-      <h1>Looop&nbsp;Pitch</h1>
-      <p class="note">This page is shared by link only. Please don't post it publicly.</p>
+      <p class="note">This page is shared by link only. Please don't share or post it publicly.</p>
     </div>
     <div class="pitch-actions">
       <a class="pdf-btn pdf-btn--ghost" href="mailto:jeff@thelooopapp.com"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1B73C6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>Get in Touch</a>
@@ -173,7 +173,7 @@
 <h2 style="margin: 0; font-size: 32px; font-weight: 800; display: flex; align-items: center; gap: 14px"><a href="https://www.life360.com/" target="_blank" rel="noopener" style="color: inherit; text-decoration: none; display: flex; align-items: center; gap: 14px"><img src="img/1f3d16a299.png" alt="" style="width: 40px; height: 40px; border-radius: 10px; display: block">Life360</a></h2>
 <h2 style="margin: 0; font-size: 32px; font-weight: 800; display: flex; align-items: center; gap: 14px"><a href="https://www.luffu.com/" target="_blank" rel="noopener" style="color: inherit; text-decoration: none; display: flex; align-items: center; gap: 14px"><img src="img/f0baee6a88.png" alt="" style="width: 40px; height: 40px; display: block; object-fit: contain">Luffu</a></h2>
 <span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #1B73C6"><a href="https://www.sec.gov/Archives/edgar/data/0001581760/000158176026000185/life360incq326mediarelea.htm" target="_blank" rel="noopener" style="color: inherit; text-decoration: none">$500M+ Revenue · 100M+ Users</a></span>
-<span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #1B73C6">From Fitbit’s founders</span>
+<span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #1B73C6"><a href="https://www.axios.com/2026/02/03/fitbit-founders-ai-family-caregiving" target="_blank" rel="noopener" style="color: inherit; text-decoration: none">From Fitbit’s founders</a></span>
 <span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #B85C00">Focused on GPS tracking</span>
 <span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #B85C00">Focused on health</span>
 <p style="margin: 8px 0 0; font-size: 16px; line-height: 1.5; color: #5B626C">Calls <b>aging parents its next big business</b> and is hiring to build for them. Still built around a map, and funded partly by ads.</p>
@@ -377,6 +377,13 @@
   <div class="footer-bottom">&copy; 2026 LooopApp LLC</div>
 </footer>
 
+<script>
+(function(){
+  function fit(){ document.querySelectorAll('.deck-slide').forEach(function(s){ s.firstElementChild.style.transform='scale('+(s.clientWidth/1280)+')'; }); }
+  window.addEventListener('resize', fit); fit();
+  if (window.ResizeObserver) new ResizeObserver(fit).observe(document.querySelector('.deck'));
+})();
+</script>
 <script>
 (function(){
   function fit(){ document.querySelectorAll('.deck-slide').forEach(function(s){ s.firstElementChild.style.transform='scale('+(s.clientWidth/1280)+')'; }); }
