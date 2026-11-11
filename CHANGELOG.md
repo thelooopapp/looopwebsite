@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 16:07 CT
+
+### Changed
+- Investor pitch page and PDF: slide 11 adds "Pre-revenue, pre-marketing. Looop Plus and the free trial are live; no paid marketing yet." Slide 3's smartphone stat is now 79%, linked to Pew's Mobile Fact Sheet (2026 survey), to match the investors page.
+
 ## 2026-11-11 16:03 CT
 
 ### Changed
