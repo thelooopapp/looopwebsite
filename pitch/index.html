@@ -84,6 +84,7 @@
 
 
 
+
 <main class="pitch-wrap">
   <div class="pitch-head">
     <div>
@@ -91,7 +92,7 @@
     </div>
     <div class="pitch-actions">
       <a class="pdf-btn pdf-btn--ghost" href="mailto:jeff@thelooopapp.com"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1B73C6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>Get in Touch</a>
-      <a class="pdf-btn" href="Looop-Pitch.pdf?v=c3cb4c2384" download="Looop-Pitch.pdf"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>Download PDF</a>
+      <a class="pdf-btn" href="Looop-Pitch.pdf?v=8fa7942382" download="Looop-Pitch.pdf"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>Download PDF</a>
     </div>
   </div>
   <div class="deck">
@@ -205,7 +206,7 @@
 </div>
 <p style="margin: 0; font-size: 140px; line-height: 1; font-weight: 800; letter-spacing: -0.04em">$3.4B</p>
 <p style="margin: 18px 0 0; font-size: 21px; line-height: 1.4">global family safety app market in 2025, projected to reach <strong style="font-weight: 800">$12.6B by 2035</strong> (<a href="https://www.strategicrevenueinsights.com/industry/family-safety-apps-market" target="_blank" rel="noopener" style="color: inherit; text-decoration: underline; text-decoration-color: rgba(211, 230, 250, 0.6); text-underline-offset: 3px">Strategic Revenue Insights</a>)</p>
-<p style="margin: 20px 0 0; max-width: 620px; font-size: 19px; line-height: 1.45; color: #FFFFFF"><strong style="font-weight: 800">Aging tech:</strong> projected to be a $120B market by 2030 (<a href="https://www.aarp.org/press/releases/2025-1-8-new-report-finds-growing-interest-tech-aging-well-home/" target="_blank" rel="noopener" style="color: inherit; text-decoration: underline; text-decoration-color: rgba(211, 230, 250, 0.6); text-underline-offset: 3px">AARP&nbsp;and&nbsp;CTA</a>).</p>
+<p style="margin: 20px 0 0; max-width: 620px; font-size: 19px; line-height: 1.45; color: #FFFFFF"><strong style="font-weight: 800">Aging tech:</strong> a projected $120B market by 2030 (<a href="https://www.aarp.org/press/releases/2025-1-8-new-report-finds-growing-interest-tech-aging-well-home/" target="_blank" rel="noopener" style="color: inherit; text-decoration: underline; text-decoration-color: rgba(211, 230, 250, 0.6); text-underline-offset: 3px">AARP&nbsp;and&nbsp;CTA</a>).</p>
 <p style="margin: 14px 0 0; max-width: 620px; font-size: 19px; line-height: 1.45; color: #FFFFFF"><strong style="font-weight: 800">And growing:</strong> older adults are projected to outnumber children by 2034 (<a href="https://www.census.gov/newsroom/press-releases/2018/cb18-41-population-projections.html" target="_blank" rel="noopener" style="color: inherit; text-decoration: underline; text-decoration-color: rgba(211, 230, 250, 0.6); text-underline-offset: 3px">US Census Bureau</a>).</p></div>
 <div style="position: relative; width: 480px; height: 600px; flex-shrink: 0; margin-right: -16px">
 <img src="img/fd2236cdf6.png" alt="Looop Home Screen widget showing Dad, Mom and Sis safe and Uncle Tony time to check in" style="position: absolute; left: 0; top: 0; width: 270px; height: auto; display: block; filter: drop-shadow(0 24px 40px rgba(4, 28, 60, 0.35))">
@@ -385,6 +386,13 @@
   <div class="footer-bottom">&copy; 2026 LooopApp LLC</div>
 </footer>
 
+<script>
+(function(){
+  function fit(){ document.querySelectorAll('.deck-slide').forEach(function(s){ s.firstElementChild.style.transform='scale('+(s.clientWidth/1280)+')'; }); }
+  window.addEventListener('resize', fit); fit();
+  if (window.ResizeObserver) new ResizeObserver(fit).observe(document.querySelector('.deck'));
+})();
+</script>
 <script>
 (function(){
   function fit(){ document.querySelectorAll('.deck-slide').forEach(function(s){ s.firstElementChild.style.transform='scale('+(s.clientWidth/1280)+')'; }); }

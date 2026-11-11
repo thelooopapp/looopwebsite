@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 16:50 CT
+
+- **Pitch: aging tech line fits on one line** - Slide 5 now reads "Aging tech: a projected $120B market by 2030 (AARP and CTA)." PDF regenerated.
+
 ## 2026-11-11 16:47 CT
 
 - **Pitch: market size from published research** - Slide 5 replaces our own $3.8B estimate (63M caregivers x $4.99/month) with sourced figures: the global family safety app market at $3.4B in 2025, projected to $12.6B by 2035 (Strategic Revenue Insights), and aging tech projected at $120B by 2030 (AARP and CTA, Jan 2025), each linked. The Census line stays; the "Not counted" note is removed since it qualified our estimate. PDF regenerated.
