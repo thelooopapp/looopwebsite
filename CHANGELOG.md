@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 16:12 CT
+
+- **Pitch: device logos, Places count, bigger headers** - Slide 9's device chips are now each brand's App Store icon with its name below. Slide 10 adds "(80K+)" after Places (about 48K airports, 9K hospitals and 23K police stations), makes the "Integrations" and "How it runs" headers larger, and adds more space under the stats row. PDF regenerated.
+
 ## 2026-11-11 16:07 CT
 
 ### Changed
