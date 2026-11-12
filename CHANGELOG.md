@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 11:20 CT
+
+### Changed
+- Hidden Nov. 12 release (`press/one-daily-answer.html` and its source), swept for AI-writing tells: shorter subhead ("Health and activity alerts and a daily summary, plus severe weather, nearby crime, and unusual spending. It works with the watch, ring, or band they already have, and it's on the App Store today."); "Nothing new to buy" heading is now "Works with what they already have," so the next sentence no longer repeats it; the privacy section no longer repeats its heading or stacks three claims; "Peace of mind" no longer echoes the opening's "worth a call" and says Loved Ones get fewer "just checking" calls.
+- `images/press/looop-health-alerts.jpg`: white Looop wordmark added above "Peace of Mind that." 1200 x 630 JPG, 126 KB.
+
 ## 2026-11-12 10:45 CT
 
 ### Changed

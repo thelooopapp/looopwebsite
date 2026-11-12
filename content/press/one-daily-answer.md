@@ -10,7 +10,7 @@ placeholders: []
 
 # Looop helps families know their Loved Ones are safe, no matter the distance, starting with their health
 
-## Alerts about a Loved One's health and activity, a daily summary, and heads-ups about severe weather, nearby crime, and unusual spending, from the phone, watch, ring, or band they already have. Nothing new to buy, and it's on the App Store today.
+## Health and activity alerts and a daily summary, plus severe weather, nearby crime, and unusual spending. It works with the watch, ring, or band they already have, and it's on the App Store today.
 
 **AUSTIN, Texas, Nov. 12, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app helps families stay on top of a Loved One's health, safety, and wellbeing from a distance. It notices changes in their sleep, heart rate, and activity from the watch, smart ring, or fitness band they already wear, and sends a daily summary: a Typical Day, or an Unusual Day that might be worth a call.
 
@@ -24,7 +24,7 @@ Looop also brings severe weather, nearby crime, unusual spending, and a trip to 
 
 With Looop, families see how a Loved One is doing in one place, instead of checking a health app, a weather app, a banking app, and a map.
 
-**Nothing new to buy**
+**Works with what they already have**
 
 There's no device to buy and nothing new for them to wear. Looop works with the watches, smart rings, fitness bands, and exercise bikes they already use, through Apple Health. It's available now on the App Store, and each Loved One joins by invitation.
 
@@ -32,11 +32,11 @@ There's no device to buy and nothing new for them to wear. Looop works with the 
 
 **Peace of mind for you, independence for them**
 
-Looop stays quiet when a day looks like a Loved One's own normal and sends a heads-up when it doesn't. Families know when a call is worth making, and Loved Ones keep their independence.
+Looop stays quiet when a day looks like a Loved One's own normal, so there's no one to watch and fewer "just checking" calls. Loved Ones keep their independence.
 
 **Your family's data isn't for sale**
 
-Looop never sells your data, doesn't work with advertisers, and carries no ads or sponsored offers in its notifications.
+Looop doesn't work with advertisers, and its notifications carry no ads.
 
 **Availability**
 
