@@ -1,9 +1,9 @@
 ---
 title: "Looop helps families know their Loved Ones are safe, no matter the distance, starting with their health"
 slug: one-daily-answer
-status: draft
+status: published
 release_date: "2026-11-12"
-notes: "Stands alone: names no competitor (owner decision Nov. 9, 2026; Luffu is named only in reporter pitches). Team quote approved Nov. 9. Hidden draft: noindex, not in the sitemap, not on the newsroom, until Nov. 12."
+notes: "Stands alone: names no competitor (owner decision Nov. 9, 2026; Luffu is named only in reporter pitches). Team quote approved Nov. 9. Published Nov. 12, 2026."
 placeholders: []
 ---
 

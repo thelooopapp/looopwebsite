@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 publish
+
+### Added
+- **"One daily answer" press release goes live** (`press/one-daily-answer.html` and its `content/press/` source): removed noindex and the draft comment; byline, `datePublished` and `dateModified` set to Nov. 12, 2026; source status `published`. Newsroom card added at the top of the list, page added to `sitemap.xml` and `llms.txt`. The release names no competitor. The Looop vs. Luffu page stays noindex; reporter emails link it directly.
+
 ## 2026-11-12 13:45 CT
 
 ### Changed
