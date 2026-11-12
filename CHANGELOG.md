@@ -2,6 +2,12 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 10:45 CT
+
+### Changed
+- Hidden Nov. 12 release (`press/one-daily-answer.html` and its source): the story is about a Loved One, not Mom: "her," "she," "Mom," and "parent" are now "a Loved One" or "they," including the alert list labels (Health, Activity, Where they are, What's around them, Spending), the one-place line, the team quote, and the description.
+- `images/press/looop-health-alerts.jpg` re-rendered from HTML with the site's real font (Plus Jakarta Sans 800, -0.02em letter-spacing, 1.1 line-height) and the homepage hero's pill styling, so the title matches the website. 1200 x 630 JPG, 123 KB.
+
 ## 2026-11-12 10:15 CT
 
 ### Changed

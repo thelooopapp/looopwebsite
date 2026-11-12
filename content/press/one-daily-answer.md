@@ -10,29 +10,29 @@ placeholders: []
 
 # Looop helps families know their Loved Ones are safe, no matter the distance, starting with their health
 
-## Alerts about a parent's health and activity, a daily summary, and heads-ups about severe weather, nearby crime, and unusual spending, from the phone, watch, ring, or band she already has. Nothing new to buy, and it's on the App Store today.
+## Alerts about a Loved One's health and activity, a daily summary, and heads-ups about severe weather, nearby crime, and unusual spending, from the phone, watch, ring, or band they already have. Nothing new to buy, and it's on the App Store today.
 
-**AUSTIN, Texas, Nov. 12, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app helps families stay on top of an aging parent's health, safety, and wellbeing from a distance. It notices changes in her sleep, heart rate, and activity from the watch, smart ring, or fitness band she already wears, and sends a daily summary: a Typical Day, or an Unusual Day that might be worth a call.
+**AUSTIN, Texas, Nov. 12, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app helps families stay on top of a Loved One's health, safety, and wellbeing from a distance. It notices changes in their sleep, heart rate, and activity from the watch, smart ring, or fitness band they already wear, and sends a daily summary: a Typical Day, or an Unusual Day that might be worth a call.
 
 Looop also brings severe weather, nearby crime, unusual spending, and a trip to the ER into that same daily answer, with alerts families can act on.
 
-- **Her health:** heart rate, breathing, and sleep, through Apple Health.
-- **Her activity:** steps, walks, workouts, and driving, and a heads-up when her phone sits untouched for hours.
-- **Where she is:** a heads-up when she arrives at a hospital or ER, a police station, or an airport.
-- **What's around her:** severe weather and nearby crime.
-- **Her spending:** a heads-up about unusually large spending on a linked account, which can be an early sign of a scam.
+- **Health:** heart rate, breathing, and sleep, through Apple Health.
+- **Activity:** steps, walks, workouts, and driving, and a heads-up when their phone sits untouched for hours.
+- **Where they are:** a heads-up when they arrive at a hospital or ER, a police station, or an airport.
+- **What's around them:** severe weather and nearby crime.
+- **Spending:** a heads-up about unusually large spending on a linked account, which can be an early sign of a scam.
 
-With Looop, families see how Mom is doing in one place, instead of checking a health app, a weather app, a banking app, and a map.
+With Looop, families see how a Loved One is doing in one place, instead of checking a health app, a weather app, a banking app, and a map.
 
 **Nothing new to buy**
 
-There's no device to buy and nothing new for her to wear. Looop works with the watches, smart rings, fitness bands, and exercise bikes she already uses, through Apple Health. It's available now on the App Store, and each Loved One joins by invitation.
+There's no device to buy and nothing new for them to wear. Looop works with the watches, smart rings, fitness bands, and exercise bikes they already use, through Apple Health. It's available now on the App Store, and each Loved One joins by invitation.
 
-"Our own parents live hours away. We wanted Mom's health in one place, and we wanted the rest of her day there too, like a storm heading for her town or a big charge on her card. Looop puts all of it in one answer, using the phone and watch she already has," said the team behind Looop.
+"Our own families are spread out. We wanted our Loved Ones' health in one place, and we wanted the rest of their day there too, like a storm heading for their town or a big charge on their card. Looop puts all of it in one answer, using the phone and watch they already have," said the team behind Looop.
 
 **Peace of mind for you, independence for them**
 
-Looop stays quiet when a day looks like a parent's own normal and sends a heads-up when it doesn't. Families know when a call is worth making, and parents keep their independence.
+Looop stays quiet when a day looks like a Loved One's own normal and sends a heads-up when it doesn't. Families know when a call is worth making, and Loved Ones keep their independence.
 
 **Your family's data isn't for sale**
 
