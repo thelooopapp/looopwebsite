@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 08:55 CT
+
+### Changed
+- Hidden Nov. 12 release (`press/one-daily-answer.html` and its source) and its photo now show the kinds of devices Looop works with: the opening says changes come "from the watch, smart ring, or fitness band she already wears," and "Nothing new to buy" names watches, smart rings, fitness bands, and exercise bikes through Apple Health. `images/press/looop-health-alerts.jpg` (1200 x 630, 121 KB) now pairs the health-alerts screens with "Works with what they already have" over the same four device types, using the site's existing device art.
+
 ## 2026-11-12 08:30 CT
 
 ### Changed

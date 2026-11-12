@@ -10,9 +10,9 @@ placeholders: []
 
 # Looop helps families know their Loved Ones are safe, no matter the distance, starting with their health
 
-## Alerts about a parent's health and activity, a daily summary, and heads-ups about severe weather, nearby crime, and unusual spending, from the phone and watch she already has. Nothing new to buy, and it's on the App Store today.
+## Alerts about a parent's health and activity, a daily summary, and heads-ups about severe weather, nearby crime, and unusual spending, from the phone, watch, ring, or band she already has. Nothing new to buy, and it's on the App Store today.
 
-**AUSTIN, Texas, Nov. 12, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app helps families stay on top of an aging parent's health, safety, and wellbeing from a distance. It notices changes in her sleep, heart rate, and activity from the Apple Watch, Oura, or Whoop she already wears, and sends a daily summary: a Typical Day, or an Unusual Day that might be worth a call.
+**AUSTIN, Texas, Nov. 12, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app helps families stay on top of an aging parent's health, safety, and wellbeing from a distance. It notices changes in her sleep, heart rate, and activity from the watch, smart ring, or fitness band she already wears, and sends a daily summary: a Typical Day, or an Unusual Day that might be worth a call.
 
 Looop also brings severe weather, nearby crime, unusual spending, and a trip to the ER into that same daily answer, with alerts families can act on.
 
@@ -26,7 +26,7 @@ Most caregivers piece a parent's day together from a health app, a weather app, 
 
 **Nothing new to buy**
 
-Looop runs on the iPhone a parent already carries and, if she chooses to share, also reads the watch or ring she already wears. There's no device to buy and nothing new for her to wear or charge.
+Looop runs on the iPhone a parent already carries and, if she chooses to share, also reads the watches, smart rings, fitness bands, and exercise bikes she already uses, through Apple Health. There's no device to buy and nothing new for her to wear or charge.
 
 **On the App Store today**
 
@@ -50,7 +50,7 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 
 Looop is a safety notifications app that helps families know their Loved Ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where health, fitness, activity, weather, crime, spending, and the shape of each day come together in one answer, so families know when to check in and Loved Ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
-Apple, iPhone, Apple Watch, Apple Health, App Store, Oura, and Whoop are trademarks of their respective owners. Looop is not affiliated with any of them.
+Apple, iPhone, Apple Health, and App Store are trademarks of their respective owners. Looop is not affiliated with any of them.
 
 **Media Contact**
 
