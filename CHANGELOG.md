@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 08:30 CT
+
+### Press
+- **Earlier releases show their image too** (`press/launch-safety-notifications.html`, `press/data-is-not-ad-inventory.html`, `press/austin-startup-aging-parent-alerts.html`): each now shows `images/og-default.jpg` (1200x630, the phone with everyone in My Family having a Typical Day) at the top of the article body, above the subhead, styled the same way as the photo on the Nov. 12 release. It's the image these pages already used for link previews, so the page and its share card now match.
+
 ## 2026-11-12 publish
 
 ### Added
