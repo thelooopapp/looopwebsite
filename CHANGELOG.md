@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 12:05 CT
+
+### Changed
+- `images/press/looop-health-alerts.jpg`: the Looop wordmark is now as wide as "Peace of Mi," and the wordmark, the title, and the "Works with what you already have:" group are spaced evenly down the left side. 1200 x 630 JPG.
+
 ## 2026-11-12 11:45 CT
 
 ### Changed
