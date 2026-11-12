@@ -12,26 +12,23 @@ placeholders: []
 
 ## It works with wearables parents already have, nothing new to buy, and it's on the App Store today.
 
-**AUSTIN, Texas, Nov. 12, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app brings together the alerts families want about an aging parent who lives far away: severe weather in more than 50 countries, nearby crime in all 50 US states, unusually large spending on a linked account, and changes in sleep, heart rate, and activity from the Apple Watch, Oura, or Whoop a parent already wears. Each day, all of it comes together in one answer: a Typical Day, or an Unusual Day that might be worth a call.
+**AUSTIN, Texas, Nov. 12, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app brings together the alerts families want about an aging parent who lives far away: severe weather, nearby crime, unusual spending, and her health, including changes in sleep, heart rate, and activity from the Apple Watch, Oura, or Whoop she already wears. Every day, Looop sums up each Loved One's day as Typical or Unusual, so families know when it's worth a call to check in.
 
-Families who look after a parent from a distance usually piece her day together from a weather app, a banking app, a health app, and a map. Looop puts it in one place.
+Looop is built for caregivers who look after a parent's health, safety, and wellbeing from a distance. Most of them piece her day together from a weather app, a banking app, a health app, and a map. Looop puts it in one place, with alerts they can act on.
 
-- **What's around her:** severe weather in more than 50 countries and nearby crime in all 50 US states, at the distance the family picks: 1, 3, 5, or 10 miles.
+- **What's around her:** severe weather and nearby crime.
 - **Unusual spending:** a heads-up about unusually large spending on a linked account, which can be an early sign of a scam.
-- **Where she is:** a heads-up when she arrives at a hospital or ER, a police station, or an airport, and a map for when you need it.
-- **Her health:** heart rate, breathing, and sleep, through Apple Health and devices like Apple Watch, Oura, and Whoop.
-- **How she's moving:** steps, walks, and workouts, from the same devices.
-- **What's changed:** walking, driving, time spent in one place, phone use that's higher or lower than usual, and a phone left untouched for hours.
+- **Where she is:** a heads-up when she arrives at a hospital or ER, a police station, or an airport.
+- **Her health and fitness:** heart rate, breathing, sleep, steps, and workouts, through Apple Health.
+- **What's changed:** walking, driving, phone use, and a phone left untouched for hours.
 
 **Nothing new to buy**
 
-Looop runs on the iPhone a parent already carries. If she chooses to share, it also reads the watch or ring she already wears, through Apple Health. There's no device to buy and nothing new for her to wear or charge, and she doesn't have to check in or start anything.
+Looop runs on the iPhone a parent already carries and, if she chooses to share, also reads the watch or ring she already wears. There's no device to buy and nothing new for her to wear or charge.
 
 **On the App Store today**
 
-Looop launched on the App Store in May 2026 and has added features steadily since. Families download it, sign up with a phone number, and invite a parent from their contacts.
-
-Every Loved One joins Looop by invitation and decides whether to add Health & Fitness sharing or link a bank account.
+Looop launched on the App Store in May 2026. Every Loved One joins by invitation and decides whether to share health data or link a bank account.
 
 "Our own parents live hours away, and the calls we make usually start with a storm heading for Mom's town or a big charge on her card, not her sleep score. Looop puts all of that in the same answer as her health, using the phone and watch she already has," said the team behind Looop.
 
@@ -41,7 +38,7 @@ Looop stays quiet when a day looks like a parent's own normal and sends a heads-
 
 **Your family's data isn't for sale**
 
-Looop never sells your data and doesn't work with advertisers. Its notifications carry no ads or sponsored offers.
+Looop never sells your data, doesn't work with advertisers, and carries no ads or sponsored offers in its notifications.
 
 **Availability**
 

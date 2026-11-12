@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 07:05 CT
+
+### Changed
+- Hidden Nov. 12 release (`press/one-daily-answer.html` and its source) rewritten to get to the point for people who skim: the opening says Looop sums up each Loved One's day as Typical or Unusual every day; a new line says Looop is built for caregivers who look after a parent's health, safety, and wellbeing from a distance, with alerts they can act on; coverage counts (countries, states, mile options) are gone from the alert list; the list is shorter. Still noindex until published.
+
 ## 2026-11-11 21:16 CT
 
 - **Pitch: footnote names the analyst** - Slide 8's footnote now credits the author by name: "Robust background updates are key to Life360's lead. Reece Frith, Large Cap Investment Analyst at Blackwattle Investment Partners, calls its location data 'market leading' (Livewire)." Still one line, linked to the Livewire article. PDF regenerated.
