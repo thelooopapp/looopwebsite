@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 09:20 CT
+
+### Changed
+- `images/press/looop-health-alerts.jpg` (PRLog photo and the Nov. 12 release's share image) redone in the homepage hero style: brand blue, "Peace of Mind that" over the white "Loved Ones are Safe" pill, a "Works with what you already have:" tag over watches, smart rings, fitness bands, and exercise bikes (the health page's device art), and the lock-screen phone with heart rate, activity, and breathing alerts. 1200 x 630 JPG, 123 KB. Release page og:image:alt updated to match.
+
 ## 2026-11-12 08:55 CT
 
 ### Changed
