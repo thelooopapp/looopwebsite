@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 11:45 CT
+
+### Changed
+- `images/press/looop-health-alerts.jpg`: the Looop wordmark is now as wide as "Peace of Mind," with the logo and title at the top and the "Works with what you already have:" tag and devices at the bottom edge. 1200 x 630 JPG.
+
 ## 2026-11-12 11:20 CT
 
 ### Changed
