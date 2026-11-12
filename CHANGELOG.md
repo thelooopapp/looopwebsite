@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 12:20 CT
+
+### Changed
+- `images/press/looop-health-alerts.jpg`: the devices are now the focus: the title sits right under the wordmark, and the freed space goes to larger device art (184 px), a larger "Works with what you already have:" tag, and bold white labels. 1200 x 630 JPG.
+
 ## 2026-11-12 12:05 CT
 
 ### Changed
