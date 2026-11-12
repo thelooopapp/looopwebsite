@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 08:30 CT
+
+### Changed
+- Hidden Nov. 12 release (`press/one-daily-answer.html` and its source): headline now echoes the homepage hero and leads with health: "Looop helps families know their Loved Ones are safe, no matter the distance, starting with their health." New subhead: health and activity alerts and a daily summary first, then severe weather, nearby crime, and unusual spending, nothing new to buy, on the App Store today. Share image (og:image, twitter:image, NewsArticle image) is now the health-alerts screen.
+
+### Added
+- `images/press/looop-health-alerts.jpg` (1200 x 1060 JPG on white, from `images/home/duo-health.webp`): heart rate, activity, and breathing alerts plus Mom's daily summary. Used as the PRLog photo and the release's share image.
+
 ## 2026-11-12 08:00 CT
 
 ### Changed

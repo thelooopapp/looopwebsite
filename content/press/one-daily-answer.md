@@ -1,5 +1,5 @@
 ---
-title: "Looop brings health, activity, weather, crime, and spending alerts for aging parents into one daily answer"
+title: "Looop helps families know their Loved Ones are safe, no matter the distance, starting with their health"
 slug: one-daily-answer
 status: draft
 release_date: "2026-11-12"
@@ -8,9 +8,9 @@ placeholders: []
 ---
 
 
-# Looop brings health, activity, weather, crime, and spending alerts for aging parents into one daily answer
+# Looop helps families know their Loved Ones are safe, no matter the distance, starting with their health
 
-## It works with wearables parents already have, nothing new to buy, and it's on the App Store today.
+## Alerts about a parent's health and activity, a daily summary, and heads-ups about severe weather, nearby crime, and unusual spending, from the phone and watch she already has. Nothing new to buy, and it's on the App Store today.
 
 **AUSTIN, Texas, Nov. 12, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app helps families stay on top of an aging parent's health, safety, and wellbeing from a distance. It notices changes in her sleep, heart rate, and activity from the Apple Watch, Oura, or Whoop she already wears, and sends a daily summary: a Typical Day, or an Unusual Day that might be worth a call.
 
