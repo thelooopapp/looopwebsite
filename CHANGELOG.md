@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 12:40 CT
+
+### Changed
+- `images/press/looop-health-alerts.jpg`: the smart ring is now the realistic ring art in silver (from `dev-smart-ring.webp`); the previous silver ring had a highlight floating inside the opening. 1200 x 630 JPG, 121 KB.
+
 ## 2026-11-12 12:20 CT
 
 ### Changed
