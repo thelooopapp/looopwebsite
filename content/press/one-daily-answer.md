@@ -1,5 +1,5 @@
 ---
-title: "Looop brings weather, crime, spending, and health alerts for aging parents into one daily answer"
+title: "Looop brings health, activity, weather, crime, and spending alerts for aging parents into one daily answer"
 slug: one-daily-answer
 status: draft
 release_date: "2026-11-12"
@@ -8,19 +8,21 @@ placeholders: []
 ---
 
 
-# Looop brings weather, crime, spending, and health alerts for aging parents into one daily answer
+# Looop brings health, activity, weather, crime, and spending alerts for aging parents into one daily answer
 
 ## It works with wearables parents already have, nothing new to buy, and it's on the App Store today.
 
-**AUSTIN, Texas, Nov. 12, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app brings together the alerts families want about an aging parent who lives far away: severe weather, nearby crime, unusual spending, and her health, including changes in sleep, heart rate, and activity from the Apple Watch, Oura, or Whoop she already wears. Every day, Looop sums up each Loved One's day as Typical or Unusual, so families know when it's worth a call to check in.
+**AUSTIN, Texas, Nov. 12, 2026:** LooopApp LLC, an Austin startup, said today that its Looop app helps families stay on top of an aging parent's health, safety, and wellbeing from a distance. It notices changes in her sleep, heart rate, and activity from the Apple Watch, Oura, or Whoop she already wears, and sends a daily summary: a Typical Day, or an Unusual Day that might be worth a call.
 
-Looop is built for caregivers who look after a parent's health, safety, and wellbeing from a distance. Most of them piece her day together from a weather app, a banking app, a health app, and a map. Looop puts it in one place, with alerts they can act on.
+Looop also brings severe weather, nearby crime, unusual spending, and a trip to the ER into that same daily answer, with alerts families can act on.
 
-- **What's around her:** severe weather and nearby crime.
-- **Unusual spending:** a heads-up about unusually large spending on a linked account, which can be an early sign of a scam.
+- **Her health:** heart rate, breathing, and sleep, through Apple Health.
+- **Her activity:** steps, walks, workouts, and driving, and a heads-up when her phone sits untouched for hours.
 - **Where she is:** a heads-up when she arrives at a hospital or ER, a police station, or an airport.
-- **Her health and fitness:** heart rate, breathing, sleep, steps, and workouts, through Apple Health.
-- **What's changed:** walking, driving, phone use, and a phone left untouched for hours.
+- **What's around her:** severe weather and nearby crime.
+- **Her spending:** a heads-up about unusually large spending on a linked account, which can be an early sign of a scam.
+
+Most caregivers piece a parent's day together from a health app, a weather app, a banking app, and a map. Looop puts it in one place.
 
 **Nothing new to buy**
 
@@ -30,7 +32,7 @@ Looop runs on the iPhone a parent already carries and, if she chooses to share, 
 
 Looop launched on the App Store in May 2026. Every Loved One joins by invitation and decides whether to share health data or link a bank account.
 
-"Our own parents live hours away, and the calls we make usually start with a storm heading for Mom's town or a big charge on her card, not her sleep score. Looop puts all of that in the same answer as her health, using the phone and watch she already has," said the team behind Looop.
+"Our own parents live hours away. We wanted Mom's health in one place, and we wanted the rest of her day there too, like a storm heading for her town or a big charge on her card. Looop puts all of it in one answer, using the phone and watch she already has," said the team behind Looop.
 
 **Peace of mind for you, independence for them**
 
@@ -46,7 +48,7 @@ Looop is available now for iPhone on the App Store at https://apps.apple.com/us/
 
 **About Looop**
 
-Looop is a safety notifications app that helps families know their Loved Ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where weather, crime, spending, health, fitness, activity, and the shape of each day come together in one answer, so families know when to check in and Loved Ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
+Looop is a safety notifications app that helps families know their Loved Ones are safe, across any distance. It brings holistic family care to the people you love: safety alerts instead of tracking, where health, fitness, activity, weather, crime, spending, and the shape of each day come together in one answer, so families know when to check in and Loved Ones keep their independence. Looop has no ads, ever, and your family's data is never for sale. Learn more at https://www.thelooopapp.com.
 
 Apple, iPhone, Apple Watch, Apple Health, App Store, Oura, and Whoop are trademarks of their respective owners. Looop is not affiliated with any of them.
 

@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 08:00 CT
+
+### Changed
+- Hidden Nov. 12 release (`press/one-daily-answer.html` and its source) reordered health first, at the owner's direction: new headline "Looop brings health, activity, weather, crime, and spending alerts for aging parents into one daily answer" (title, social title, NewsArticle data, H1, description). The opening now says Looop helps families stay on top of an aging parent's health, safety, and wellbeing, notices changes in sleep, heart rate, and activity, and sends a daily summary; the next line adds severe weather, nearby crime, unusual spending, and a trip to the ER to the same daily answer. Alert list runs health, activity, arrivals, weather and crime, spending. New team quote, pending owner approval.
+
 ## 2026-11-12 07:05 CT
 
 ### Changed
