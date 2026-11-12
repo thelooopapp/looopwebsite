@@ -98,6 +98,7 @@
 
 
 
+
 <main class="pitch-wrap">
   <div class="pitch-head">
     <div>
@@ -105,7 +106,7 @@
     </div>
     <div class="pitch-actions">
       <a class="pdf-btn pdf-btn--ghost" href="mailto:jeff@thelooopapp.com"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1B73C6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>Get in Touch</a>
-      <a class="pdf-btn" href="Looop-Pitch.pdf?v=00a23830dd" download="Looop-Pitch.pdf"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>Download PDF</a>
+      <a class="pdf-btn" href="Looop-Pitch.pdf?v=8a013d2820" download="Looop-Pitch.pdf"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>Download PDF</a>
     </div>
   </div>
   <div class="deck">
@@ -195,8 +196,8 @@
 <h2 style="margin: 0; font-size: 32px; font-weight: 800; display: flex; align-items: center; gap: 14px"><a href="https://www.luffu.com/" target="_blank" rel="noopener" style="color: inherit; display: flex; align-items: center; gap: 14px; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent)"><img src="img/f0baee6a88.png" alt="" style="width: 40px; height: 40px; display: block; object-fit: contain">Luffu</a></h2>
 <span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #1B73C6"><a href="https://www.sec.gov/Archives/edgar/data/0001581760/000158176026000185/life360incq326mediarelea.htm" target="_blank" rel="noopener" style="color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent)">$500M+ Revenue · 100M+ Users</a></span>
 <span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #1B73C6"><a href="https://www.axios.com/2026/02/03/fitbit-founders-ai-family-caregiving" target="_blank" rel="noopener" style="color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent)">From Fitbit’s founders</a></span>
-<span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #B85C00">Focused on location</span>
-<span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #B85C00">Focused on health</span>
+<span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #B85C00">Focused on Location</span>
+<span style="font-size: 21px; line-height: 1.3; font-weight: 700; color: #B85C00">Focused on Health</span>
 <p style="margin: 8px 0 0; font-size: 16px; line-height: 1.5; color: #5B626C">Calls <b>aging parents its next big business</b> and is hiring to build for them. Still built around a map, and funded partly by ads.</p>
 <p style="margin: 8px 0 0; font-size: 16px; line-height: 1.5; color: #5B626C">A <b>family health app</b> in beta since Feb 2026. Next: a $299.99 band plus $19.99 a month, shipping early 2027.</p>
 <a href="https://www.life360.com/" target="_blank" rel="noopener" style="display: block"><img src="img/69a982ff67.jpg" alt="Top of the Life360 homepage" style="margin-top: 10px; width: 100%; height: 235px; object-fit: cover; object-position: top; display: block; border-radius: 14px 14px 0 0; -webkit-mask-image: linear-gradient(#000 70%, transparent 100%); mask-image: linear-gradient(#000 70%, transparent 100%)"></a>
@@ -399,6 +400,13 @@
   <div class="footer-bottom">&copy; 2026 LooopApp LLC</div>
 </footer>
 
+<script>
+(function(){
+  function fit(){ document.querySelectorAll('.deck-slide').forEach(function(s){ s.firstElementChild.style.transform='scale('+(s.clientWidth/1280)+')'; }); }
+  window.addEventListener('resize', fit); fit();
+  if (window.ResizeObserver) new ResizeObserver(fit).observe(document.querySelector('.deck'));
+})();
+</script>
 <script>
 (function(){
   function fit(){ document.querySelectorAll('.deck-slide').forEach(function(s){ s.firstElementChild.style.transform='scale('+(s.clientWidth/1280)+')'; }); }
