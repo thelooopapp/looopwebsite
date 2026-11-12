@@ -22,7 +22,7 @@ Looop also brings severe weather, nearby crime, unusual spending, and a trip to 
 - **What's around her:** severe weather and nearby crime.
 - **Her spending:** a heads-up about unusually large spending on a linked account, which can be an early sign of a scam.
 
-Most caregivers piece a parent's day together from a health app, a weather app, a banking app, and a map. Looop puts it in one place.
+With Looop, families see how Mom is doing in one place, instead of checking a health app, a weather app, a banking app, and a map.
 
 **Nothing new to buy**
 

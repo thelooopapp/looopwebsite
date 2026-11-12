@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 10:05 CT
+
+### Changed
+- Hidden Nov. 12 release (`press/one-daily-answer.html` and its source): "Most caregivers piece a parent's day together from..." is now benefit first: "With Looop, families see how Mom is doing in one place, instead of checking a health app, a weather app, a banking app, and a map."
+
 ## 2026-11-12 09:55 CT
 
 ### Changed
