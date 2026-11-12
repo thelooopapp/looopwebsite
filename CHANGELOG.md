@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 13:45 CT
+
+### Changed
+- Hidden Nov. 12 release (`press/one-daily-answer.html`): the PRLog photo (`images/press/looop-health-alerts.jpg`) now sits at the top of the article, above the subhead, full width with rounded corners and descriptive alt text.
+
 ## 2026-11-12 12:40 CT
 
 ### Changed
