@@ -2,6 +2,13 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 09:15 CT
+
+### Press
+- **New images for the earlier releases**, approved by the owner, replacing `og-default.jpg` from this morning. Each shows at the top of the article (above the subhead), as the link-preview image (og:image, twitter:image, alt text), and in the NewsArticle data, the same way the Nov. 12 release uses its photo.
+  - `images/press/looop-peace-of-mind.jpg` (1200x630 JPG, 79 KB) for the launch (`press/launch-safety-notifications.html`) and the Austin startup release (`press/austin-startup-aging-parent-alerts.html`): the homepage hero's "Peace of Mind that / Loved Ones are Safe" title on brand blue, with the Looop wordmark as wide as "Peace of Mind", and the lock-screen phone with Tornado Warning, Flash Flooding, and Campus Riot alerts.
+  - `images/press/looop-privacy-promise.jpg` (1200x630 JPG, 78 KB) for the data pledge (`press/data-is-not-ad-inventory.html`): the homepage's Privacy Promise band redrawn at 1200x630 with the wordmark: "Your family's data isn't for sale," "Family privacy, protected.," and the Never for Sale, No Ads Ever, Alerts Not Tracking, and Leave Anytime pills.
+
 ## 2026-11-12 08:30 CT
 
 ### Press
