@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 09:40 CT
+
+### Changed
+- Hidden Nov. 12 release (`press/one-daily-answer.html` and its source): "Nothing new to buy" now opens with that point ("There's no device to buy and nothing new for her to wear"), names the device types, and says Looop is available now on the App Store. Removed "if she chooses to share," the line about the iPhone she already carries, the launch date, and the separate "On the App Store today" section.
+
 ## 2026-11-12 09:20 CT
 
 ### Changed

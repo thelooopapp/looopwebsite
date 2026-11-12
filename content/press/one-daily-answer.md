@@ -26,11 +26,7 @@ Most caregivers piece a parent's day together from a health app, a weather app, 
 
 **Nothing new to buy**
 
-Looop runs on the iPhone a parent already carries and, if she chooses to share, also reads the watches, smart rings, fitness bands, and exercise bikes she already uses, through Apple Health. There's no device to buy and nothing new for her to wear or charge.
-
-**On the App Store today**
-
-Looop launched on the App Store in May 2026. Every Loved One joins by invitation and decides whether to share health data or link a bank account.
+There's no device to buy and nothing new for her to wear. Looop works with the watches, smart rings, fitness bands, and exercise bikes she already uses, through Apple Health. It's available now on the App Store, and each Loved One joins by invitation.
 
 "Our own parents live hours away. We wanted Mom's health in one place, and we wanted the rest of her day there too, like a storm heading for her town or a big charge on her card. Looop puts all of it in one answer, using the phone and watch she already has," said the team behind Looop.
 
