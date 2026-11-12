@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-11 21:16 CT
+
+- **Pitch: footnote names the analyst** - Slide 8's footnote now credits the author by name: "Robust background updates are key to Life360's lead. Reece Frith, Large Cap Investment Analyst at Blackwattle Investment Partners, calls its location data 'market leading' (Livewire)." Still one line, linked to the Livewire article. PDF regenerated.
+
 ## 2026-11-11 19:17 CT
 
 - **Pitch: every text link is underlined** - All text links in the deck now share one thin underline (1px, 3px below the text, in a softer shade of the text color): the Life360 and Luffu names, "$500M+ Revenue · 100M+ Users", "From Fitbit's founders", the source links on slides 3 and 5, the device names on slide 9, and the founder email. The slide 8 footnote keeps its light gray underline. The four founder buttons stay as buttons. PDF regenerated.
