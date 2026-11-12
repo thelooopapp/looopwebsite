@@ -2,6 +2,14 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-12 10:37 CT
+
+- **Pitch: capitalized focus lines** - Slide 4 now reads "Focused on Location" (Life360) and "Focused on Health" (Luffu). PDF regenerated.
+
+## 2026-11-12 10:28 CT
+
+- **Pitch: Life360 "Focused on location"** - Slide 4 now says Life360 is focused on location instead of "GPS tracking." PDF regenerated.
+
 ## 2026-11-12 10:26 CT
 
 - **Pitch: shorter slide 8 footnote** - Now reads "Continuous background location is Life360's moat, per Reece Frith of Blackwattle (Livewire)." This matches his argument that Life360 collects location continuously and that a competitor couldn't replicate it. Still linked to the Livewire article. PDF regenerated.
