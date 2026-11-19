@@ -102,7 +102,17 @@ main{padding-top:16px;padding-bottom:42px;display:flex;flex-direction:column;gap
 .g-zn b{display:block;font-size:.56rem;color:var(--text-2);font-weight:700;text-transform:uppercase;letter-spacing:.02em}
 .g-zn span{font-size:.55rem;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
 .panels{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;align-items:start}
-.panel{min-width:0}
+.panel{min-width:0;border-top:3px solid var(--meta)}
+.apple-status{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin-bottom:2px}
+.as-note{font-size:.72rem;color:var(--muted);line-height:1.4}
+.compare{border-top:3px solid var(--meta)}
+.cmp-row{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:clamp(8px,4vw,32px)}
+.cmp-item{display:flex;flex-direction:column;gap:6px;text-align:center;min-width:0}
+.cmp-lbl{font-size:.8rem;color:var(--text-2);font-weight:600}
+.cmp-val{font-size:clamp(1.9rem,9vw,2.7rem);font-weight:800;letter-spacing:-.02em;line-height:1}
+.cmp-sub{font-size:.66rem;color:var(--muted)}
+.cmp-win{display:inline-block;margin-top:3px;font-size:.58rem;font-weight:800;text-transform:uppercase;letter-spacing:.04em;color:var(--good);background:var(--good-t);padding:2px 8px;border-radius:999px}
+.cmp-vs{font-size:.72rem;font-weight:800;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
 .panel .ph{display:flex;align-items:center;gap:9px;padding:12px 15px;border-bottom:1px solid var(--border);border-radius:var(--r) var(--r) 0 0;background:var(--head)}
 .panel .ph .pic{width:19px;height:19px;flex:none;display:grid;place-items:center}
 .panel .ph .pic svg{width:100%;height:100%}
@@ -213,7 +223,6 @@ footer{color:var(--muted);font-size:.7rem;padding-block:4px 30px}
           <div class="tile"><div class="t-lbl">Installs</div><div class="t-val num" id="tInstalls">—</div><div class="t-sub" id="tInstallsSub">&nbsp;</div></div>
         </div>
         <div class="charts" id="mCharts"></div>
-        <div class="secttitle"><h3>The Test · Cost Per Install</h3><div class="bk" id="buckets"></div></div>
         <div class="g" id="gCTR"></div>
         <div><div class="secttitle"><h3>Ad Leaderboard · 18 Ads</h3></div>
           <div style="overflow-x:auto;min-width:0"><table><thead><tr><th>Ad (Tap to Watch)</th><th>Type</th><th class="r">Impr.</th><th class="r">CTR</th><th class="r">Spend</th><th class="r">Inst.</th><th class="r">CPI</th></tr></thead><tbody id="adbody"></tbody></table></div>
@@ -225,6 +234,10 @@ footer{color:var(--muted);font-size:.7rem;padding-block:4px 30px}
       <div class="pad block" id="appleBody"></div>
     </section>
   </div>
+  <section class="card compare pad" id="compareCard">
+    <div class="fh"><h2>The Test · Cost Per Install by Format</h2><span class="fsum" id="cmpSum"></span></div>
+    <div class="cmp-row" id="cmpRow"></div>
+  </section>
   <footer>Refreshes hourly · bands tuned for US iOS, editable</footer>
 </main>
 <script>
@@ -398,8 +411,19 @@ function render(){
   lineChart(document.getElementById("lcCPI"),{title:"Cost Per Install",series:m.trend.cpi,unit:"$",color:"var(--meta)",x0:xstart,empty:emptyMsg});
   lineChart(document.getElementById("lcInst"),{title:"Installs / Day",series:m.trend.installs,unit:"n",color:"var(--meta)",x0:xstart,empty:emptyMsg});
   lineChart(document.getElementById("lcCTR"),{title:"Click-Through Rate / Day",series:m.trend.ctr||[],unit:"%",color:"var(--meta)",x0:xstart,empty:emptyMsg});
-  var bkData=[["Siri: Long","siri",m.buckets.siri.cpi],["Notification: Short","notif",m.buckets.notif.cpi]];
-  document.getElementById("buckets").innerHTML=bkData.map(function(row){var cpi=row[2];var w=cpi==null?0:Math.min(100,cpi/7*100);var val=cpi==null?'<span style="color:var(--muted);font-weight:600">—</span>':"$"+cpi.toFixed(2);return '<div class="row"><span class="bname">'+row[0]+'</span><span class="meter"><i style="width:'+w+'%;background:'+cpiMark(cpi)+'"></i></span><span class="bval num" style="color:'+cpiMark(cpi)+'">'+val+'</span></div>';}).join("");
+  var sc=m.buckets.siri.cpi, nc=m.buckets.notif.cpi;
+  var lo=Math.min(sc==null?Infinity:sc,nc==null?Infinity:nc);
+  function cmpItem(name,cpi){
+    var val=cpi==null?'—':'$'+cpi.toFixed(2);
+    var win=(cpi!=null&&cpi===lo&&sc!=null&&nc!=null&&sc!==nc)?'<span class="cmp-win">Lower CPI</span>':'';
+    return '<div class="cmp-item"><div class="cmp-lbl">'+name+'</div><div class="cmp-val num" style="color:'+cpiMark(cpi)+'">'+val+'</div><div class="cmp-sub">cost per install</div>'+win+'</div>';
+  }
+  document.getElementById("cmpRow").innerHTML=cmpItem("Siri · Long",sc)+'<div class="cmp-vs">vs</div>'+cmpItem("Notification · Short",nc);
+  var cmpSum;
+  if(sc==null&&nc==null)cmpSum=m.delivering?"Awaiting the first installs to compare formats.":"Comparison begins once installs come in.";
+  else if(sc!=null&&nc!=null)cmpSum=(sc===nc)?"Both formats are matched on cost per install.":((sc<nc?"Siri · Long":"Notification · Short")+" is winning by $"+Math.abs(sc-nc).toFixed(2)+" per install.");
+  else cmpSum="Collecting installs for both formats.";
+  document.getElementById("cmpSum").textContent=cmpSum;
   document.getElementById("adbody").innerHTML=m.ads.map(function(ad){
     var dash='<span style="color:var(--muted)">—</span>';
     var cpi=ad.cpi==null?dash:'<span class="cpi" style="color:'+cpiMark(ad.cpi)+'">$'+ad.cpi.toFixed(2)+'</span>';
@@ -411,19 +435,18 @@ function render(){
       +'<td class="r num">$'+(ad.spend||0).toFixed(0)+'</td><td class="r num">'+ad.installs+'</td><td class="r num">'+cpi+'</td></tr>';
   }).join("");
   var ab=document.getElementById("appleBody");
-  if(a.connected&&a.hasData){
-    ab.innerHTML='<div class="tiles"><div class="tile"><div class="t-lbl">Total Downloads · All Sources</div><div class="t-val num">'+a.downloads+'</div><div class="t-sub num">+'+a.organic+' beyond Meta</div></div>'
-      +'<div class="tile"><div class="t-lbl">Product Page Views</div><div class="t-val num">'+a.pageViews.toLocaleString()+'</div><div class="t-sub">App Store listing visits</div></div></div>'
-      +'<div class="lc" id="lcDl" style="margin-top:2px"></div><div class="g" id="gConv"></div>'
-      +'<div class="tile"><div class="t-lbl">Reality Check</div><div class="t-sub" style="margin-top:6px;font-size:.76rem;line-height:1.55">Meta claims <b style="color:var(--text)">'+m.installs+'</b> installs · Apple counts <b style="color:var(--text)">'+a.downloads+'</b> real downloads. The gap is organic lift Meta didn\'t pay for.</div></div>';
-    lineChart(document.getElementById("lcDl"),{title:"Downloads / Day",series:a.trend.downloads,unit:"n",color:"var(--apple)",x0:pLabel.replace("last ","")});
-    gauge(document.getElementById("gConv"),{name:"App Store Conversion · Views → Downloads",value:a.conversion,unit:"%",max:60,zones:Z_CONV});
-  }else{
-    ab.innerHTML='<div class="empty"><span class="pill ok">Connected ✓</span><span class="big-e">First report is on its way</span>'
-      +'<span>App Store Connect is linked to <b style="color:var(--text)">Looop: Keep Loved Ones Safe</b>. Apple\'s download &amp; conversion data posts on about a one-day delay, so the first numbers land after the campaign delivers and Apple publishes the daily report.</span>'
-      +'<div class="g" id="gConvE" style="width:100%;margin-top:4px"></div></div>';
-    gauge(document.getElementById("gConvE"),{name:"App Store Conversion · Views → Downloads",value:null,unit:"%",max:60,zones:Z_CONV});
-  }
+  var hasD=a.connected&&a.hasData, dl=hasD?a.downloads:null, pv=hasD?a.pageViews:null;
+  ab.innerHTML='<div class="apple-status"><span class="pill ok">Connected ✓</span><span class="as-note">'
+      +(hasD?('App Store downloads over the '+pLabel+'.'):'Awaiting Apple&rsquo;s first daily report &mdash; downloads &amp; conversion post on a ~1-day delay.')+'</span></div>'
+    +'<div class="tiles"><div class="tile"><div class="t-lbl">Total Downloads · All Sources</div><div class="t-val num">'+(dl!=null?dl:'&mdash;')+'</div><div class="t-sub num">'+(hasD?('+'+a.organic+' beyond Meta'):'awaiting data')+'</div></div>'
+      +'<div class="tile"><div class="t-lbl">Product Page Views</div><div class="t-val num">'+(pv!=null?pv.toLocaleString():'&mdash;')+'</div><div class="t-sub">App Store listing visits</div></div></div>'
+    +'<div class="lc" id="lcDl" style="margin-top:2px"></div><div class="g" id="gConv"></div>'
+    +'<div class="tile"><div class="t-lbl">Reality Check</div><div class="t-sub" style="margin-top:6px;font-size:.76rem;line-height:1.55">'
+      +(hasD?('Meta claims <b style="color:var(--text)">'+m.installs+'</b> installs · Apple counts <b style="color:var(--text)">'+dl+'</b> real downloads. The gap is organic lift Meta didn\'t pay for.')
+            :('Meta reports <b style="color:var(--text)">'+m.installs+'</b> installs so far. Apple&rsquo;s independent download count fills in here once its daily report posts.'))
+      +'</div></div>';
+  lineChart(document.getElementById("lcDl"),{title:"Downloads / Day",series:(a.trend&&a.trend.downloads)||[],unit:"n",color:"var(--apple)",x0:pLabel.replace("last ",""),empty:"Starts once Apple posts daily downloads."});
+  gauge(document.getElementById("gConv"),{name:"App Store Conversion · Views → Downloads",value:hasD?a.conversion:null,unit:"%",max:60,zones:Z_CONV});
 }
 var state={mode:"real",period:"1w"};
 function setMode(m){state.mode=m;document.getElementById("mReal").setAttribute("aria-pressed",m==="real");document.getElementById("mRandom").setAttribute("aria-pressed",m==="random");document.body.setAttribute("data-mode",m);render();}
