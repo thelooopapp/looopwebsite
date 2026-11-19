@@ -53,6 +53,26 @@ main{padding-top:16px;padding-bottom:42px;display:flex;flex-direction:column;gap
 .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r)}
 .pad{padding:clamp(13px,3.5vw,17px)}
 .head-card{border-left:3px solid var(--meta)}
+.funnel{border-top:3px solid var(--meta)}
+.funnel .fh{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:15px}
+.funnel .fh h2{font-size:.95rem}
+.funnel .fh .fsum{font-size:.72rem;color:var(--muted)}
+.funnel-row{display:flex;align-items:stretch;gap:0;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:3px}
+.fstage{flex:1 1 0;min-width:140px;display:flex;flex-direction:column;gap:9px;padding:2px 3px 0}
+.fs-top{display:flex;align-items:center;gap:7px;min-height:17px}
+.fs-ic{height:14px;display:inline-flex;align-items:center;flex:none}
+.fs-ic svg{height:100%;width:auto}
+.fs-label{font-size:.72rem;color:var(--text-2);font-weight:600;line-height:1.15}
+.fs-val{font-size:clamp(1.55rem,5.5vw,2rem);font-weight:800;letter-spacing:-.02em;line-height:1}
+.fs-val.awaiting{font-size:.78rem;color:var(--muted);font-weight:600;padding:.5em 0}
+.fs-bar{height:7px;border-radius:999px;background:var(--track);overflow:hidden}
+.fs-bar>i{display:block;height:100%;border-radius:999px;transition:width .4s ease}
+.fs-sub{font-size:.66rem;color:var(--muted);line-height:1.3}
+.fconn{flex:none;width:52px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;align-self:center;padding-bottom:16px}
+.fconn .fc-rate{font-size:.7rem;font-weight:800;color:var(--text-2);font-variant-numeric:tabular-nums;white-space:nowrap}
+.fconn .fc-lbl{font-size:.52rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
+.fconn svg{width:15px;height:15px;color:var(--muted);opacity:.55}
+@media (max-width:560px){ .fstage{min-width:122px} .fconn{width:36px} }
 .head-grid{display:grid;grid-template-columns:1.2fr 1fr;gap:clamp(16px,4vw,24px);align-items:center}
 .big{display:flex;flex-direction:column;gap:7px;min-width:0}
 .big .lbl{font-size:.78rem;color:var(--text-2);display:flex;align-items:center;gap:8px;flex-wrap:wrap}
@@ -167,6 +187,10 @@ footer{color:var(--muted);font-size:.7rem;padding-block:4px 30px}
 </header>
 <main class="wrap">
   <div class="ribbon"><span class="dot"></span>Sample data: a preview of the layout. Switch to <b>&nbsp;Real</b> for live numbers.</div>
+  <section class="card funnel pad" id="funnelCard">
+    <div class="fh"><h2>User Journey · Full Funnel</h2><span class="fsum" id="fSum"></span></div>
+    <div class="funnel-row" id="funnelRow"></div>
+  </section>
   <section class="card head-card pad">
     <div class="head-grid">
       <div class="big">
@@ -206,6 +230,7 @@ footer{color:var(--muted);font-size:.7rem;padding-block:4px 30px}
 var IC_META='<svg viewBox="0 0 50 26" fill="none" aria-label="Meta"><path d="M4 13c0-5 3-9 7.5-9 6 0 9 9 13.5 9s7.5-9 13.5-9c4.5 0 7 4 7 9s-3 9-7.5 9c-6 0-8.5-9-13-9S17.5 22 11.5 22C7 22 4 18 4 13Z" stroke="#3987e5" stroke-width="3.4" stroke-linejoin="round"/></svg>';
 var IC_APPLE='<svg viewBox="0 0 24 24" aria-label="Apple"><path fill="#cfd5de" d="M17.05 12.04c-.03-2.6 2.12-3.85 2.22-3.91-1.21-1.77-3.09-2.01-3.76-2.04-1.6-.16-3.12.94-3.93.94-.81 0-2.06-.92-3.39-.89-1.74.03-3.35 1.01-4.25 2.57-1.81 3.14-.46 7.79 1.3 10.33.86 1.24 1.88 2.63 3.22 2.58 1.29-.05 1.78-.83 3.34-.83 1.56 0 2 .83 3.37.81 1.39-.03 2.27-1.26 3.12-2.51.98-1.44 1.39-2.83 1.41-2.9-.03-.01-2.71-1.04-2.74-4.11ZM14.6 4.38c.71-.86 1.19-2.06 1.06-3.26-1.02.04-2.26.68-3 1.54-.66.76-1.24 1.98-1.08 3.15 1.14.09 2.31-.58 3.02-1.43Z"/></svg>';
 var IC_PLAY='<svg class="play" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>';
+var IC_CHEV='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg>';
 function setIcons(){document.getElementById("icMeta").innerHTML=IC_META;document.getElementById("icApple").innerHTML=IC_APPLE;document.getElementById("icMB").innerHTML=IC_META;document.getElementById("icAB").innerHTML=IC_APPLE;}
 var CF="https://d2ol7oe51mr4n9.cloudfront.net/user_3F36CwSkBC1m5GQYAQ3uFxUildJ/";
 var ROSTER=[
@@ -282,25 +307,62 @@ function genRandom(days){
   function bk(b){var g=ads.filter(function(a){return a.bucket===b;});var s=g.reduce(function(a,x){return a+x.spend;},0),i=g.reduce(function(a,x){return a+x.installs;},0);return {cpi:+(s/Math.max(1,i)).toFixed(2)};}
   var dl=Math.round(installs*rnd(1.08,1.33)),conv=+rnd(28,46).toFixed(1);
   var np=days<=2?12:days;
-  return {meta:{delivering:true,spend:spend,budget:1000,installs:installs,cpi:+(spend/installs).toFixed(2),ctr:+(clicks/imp*100).toFixed(2),
+  return {meta:{delivering:true,spend:spend,budget:1000,impressions:imp,clicks:clicks,reach:Math.round(imp*0.62),installs:installs,cpi:+(spend/installs).toFixed(2),ctr:+(clicks/imp*100).toFixed(2),
       buckets:{siri:bk("siri"),notif:bk("notif")},ads:ads.sort(function(a,b){return a.cpi-b.cpi;}),
-      trend:{cpi:seriesGen(np,rnd(3,4.5),-0.03,0.4),installs:seriesGen(np,rnd(2,6),rnd(0.3,1.2),1.5)}},
+      trend:{cpi:seriesGen(np,rnd(3,4.5),-0.03,0.4),installs:seriesGen(np,rnd(2,6),rnd(0.3,1.2),1.5),ctr:seriesGen(np,rnd(1.1,2.3),0,0.3)}},
     apple:{connected:true,hasData:true,downloads:dl,pageViews:Math.round(dl/(conv/100)),conversion:conv,organic:dl-installs,blended:+(spend/dl).toFixed(2),trend:{downloads:seriesGen(np,rnd(2,7),rnd(0.4,1.4),1.6)}}};
 }
 function realDataset(){
-  return {meta:{delivering:false,spend:0,budget:1000,installs:0,cpi:null,ctr:null,buckets:{siri:{cpi:null},notif:{cpi:null}},
-      ads:ROSTER.map(function(r){return {name:r[0],bucket:r[1],url:r[2],imp:null,ctr:null,spend:0,installs:0,cpi:null};}),trend:{cpi:[],installs:[]}},
-    apple:{connected:true,hasData:false,trend:{downloads:[]}}};
+  return {meta:{delivering:false,spend:0,budget:1000,impressions:null,clicks:null,reach:null,installs:0,cpi:null,ctr:null,buckets:{siri:{cpi:null},notif:{cpi:null}},
+      ads:ROSTER.map(function(r){return {name:r[0],bucket:r[1],url:r[2],imp:null,ctr:null,spend:0,installs:0,cpi:null};}),trend:{cpi:[],installs:[],ctr:[]}},
+    apple:{connected:true,hasData:false,pageViews:null,downloads:null,trend:{downloads:[]}}};
 }
 var DATA=null, BAKED_UPDATED="Nov 18, 2026 · 9:05 PM CT";
 function currentReal(){ if(DATA&&DATA.periods&&DATA.periods[state.period])return DATA.periods[state.period]; if(DATA&&DATA.real)return DATA.real; return realDataset(); }
 function cpiMark(v){if(v==null)return "var(--muted)";if(v<3.5)return "var(--good)";if(v<5)return "var(--warn)";return "var(--bad)";}
+function renderFunnel(m,a){
+  var del=m.delivering;
+  var views=a.hasData?a.pageViews:null;
+  var installs=a.hasData?a.downloads:(del?m.installs:null);
+  var stages=[
+    {label:"Impressions",src:"meta",v:del?m.impressions:null,sub:del?("Reach "+(m.reach!=null?m.reach.toLocaleString():"—")):"In review"},
+    {label:"Clicks",src:"meta",v:del?m.clicks:null,sub:"Link taps"},
+    {label:"Product Page Views",src:"apple",v:views,sub:a.hasData?"App Store listing":"Awaiting Apple"},
+    {label:"Installs",src:"apple",v:installs,sub:a.hasData?"Real downloads":(del?"Meta-attributed":"Awaiting")}
+  ];
+  var maxv=Math.max.apply(null,stages.map(function(s){return s.v!=null?s.v:0;}))||1;
+  var col={meta:"var(--meta)",apple:"var(--apple)"};
+  var html="";
+  stages.forEach(function(s,i){
+    if(i>0){
+      var prev=stages[i-1].v,rate="—";
+      if(s.v!=null&&prev!=null&&prev>0)rate=(s.v/prev*100).toFixed(1)+"%";
+      html+='<div class="fconn"><span class="fc-rate">'+rate+'</span>'+IC_CHEV+'<span class="fc-lbl">of prev</span></div>';
+    }
+    var ic=s.src==="meta"?IC_META:IC_APPLE;
+    var w=s.v!=null?(s.v>0?Math.max(7,s.v/maxv*100):0):0;
+    var valhtml=s.v!=null?'<div class="fs-val num">'+s.v.toLocaleString()+'</div>':'<div class="fs-val awaiting">'+(a.connected&&s.src==="apple"&&del?"awaiting":"—")+'</div>';
+    html+='<div class="fstage"><div class="fs-top"><span class="fs-ic">'+ic+'</span><span class="fs-label">'+s.label+'</span></div>'
+      +valhtml+'<div class="fs-bar"><i style="width:'+w+'%;background:'+col[s.src]+'"></i></div>'
+      +'<div class="fs-sub">'+s.sub+'</div></div>';
+  });
+  document.getElementById("funnelRow").innerHTML=html;
+  var fs;
+  if(!del) fs="Campaign in review: the funnel fills as delivery begins.";
+  else {
+    fs=(m.impressions>0?(m.clicks/m.impressions*100).toFixed(1):"0")+"% click-through";
+    if(a.hasData) fs+=" · "+(m.impressions>0?(installs/m.impressions*100).toFixed(2):"0")+"% impression→install";
+    else fs+=" · App Store page views and installs post on a ~1-day delay";
+  }
+  document.getElementById("fSum").textContent=fs;
+}
 function render(){
   var days=({ "1d":1,"2d":2,"1w":7,"2w":14,"1mo":30 })[state.period];
   var d=state.mode==="real"?currentReal():genRandom(days);
   var m=d.meta,a=d.apple;
   document.getElementById("fUpdated").textContent=state.mode==="real"?((DATA&&DATA.updated)||BAKED_UPDATED):"sample";
   var pLabel=({ "1d":"last 24h","2d":"last 2 days","1w":"last 7 days","2w":"last 14 days","1mo":"last 30 days" })[state.period];
+  renderFunnel(m,a);
   var hb=document.getElementById("hBlend"),hn=document.getElementById("hBlendNote");
   if(a.connected&&a.hasData&&m.delivering){
     hb.innerHTML="$"+a.blended.toFixed(2)+' <small>/ download</small>';
@@ -320,9 +382,12 @@ function render(){
   document.getElementById("tInstalls").textContent=m.installs;
   document.getElementById("tInstallsSub").innerHTML=m.delivering?("over the "+pLabel):'<span class="pill wait">In review: no delivery yet</span>';
   var mc=document.getElementById("mCharts");
-  mc.innerHTML='<div class="lc" id="lcCPI"></div><div class="lc" id="lcInst"></div>';
-  lineChart(document.getElementById("lcCPI"),{title:"Cost Per Install",series:m.trend.cpi,unit:"$",color:"var(--meta)",x0:pLabel.replace("last ",""),empty:m.delivering?"":"Starts once the campaign is delivering."});
-  lineChart(document.getElementById("lcInst"),{title:"Installs / Day",series:m.trend.installs,unit:"n",color:"var(--meta)",x0:pLabel.replace("last ",""),empty:m.delivering?"":"Starts once the campaign is delivering."});
+  mc.innerHTML='<div class="lc" id="lcCPI"></div><div class="lc" id="lcInst"></div><div class="lc" id="lcCTR"></div>';
+  var xstart=pLabel.replace("last ","");
+  var emptyMsg=m.delivering?"Daily points appear as the campaign accrues more days.":"Starts once the campaign is delivering.";
+  lineChart(document.getElementById("lcCPI"),{title:"Cost Per Install",series:m.trend.cpi,unit:"$",color:"var(--meta)",x0:xstart,empty:emptyMsg});
+  lineChart(document.getElementById("lcInst"),{title:"Installs / Day",series:m.trend.installs,unit:"n",color:"var(--meta)",x0:xstart,empty:emptyMsg});
+  lineChart(document.getElementById("lcCTR"),{title:"Click-Through Rate / Day",series:m.trend.ctr||[],unit:"%",color:"var(--meta)",x0:xstart,empty:emptyMsg});
   var bkData=[["Siri: Long","siri",m.buckets.siri.cpi],["Notification: Short","notif",m.buckets.notif.cpi]];
   document.getElementById("buckets").innerHTML=bkData.map(function(row){var cpi=row[2];var w=cpi==null?0:Math.min(100,cpi/7*100);var val=cpi==null?'<span style="color:var(--muted);font-weight:600">—</span>':"$"+cpi.toFixed(2);return '<div class="row"><span class="bname">'+row[0]+'</span><span class="meter"><i style="width:'+w+'%;background:'+cpiMark(cpi)+'"></i></span><span class="bval num" style="color:'+cpiMark(cpi)+'">'+val+'</span></div>';}).join("");
   document.getElementById("adbody").innerHTML=m.ads.map(function(ad){
