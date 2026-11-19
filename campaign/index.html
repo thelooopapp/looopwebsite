@@ -105,7 +105,8 @@ main{padding-top:16px;padding-bottom:42px;display:flex;flex-direction:column;gap
 .panel{min-width:0;border-top:3px solid var(--meta)}
 .apple-status{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin-bottom:2px}
 .as-note{font-size:.72rem;color:var(--muted);line-height:1.4}
-.compare{border-top:3px solid var(--meta)}
+.compare,.leader{border-top:3px solid var(--meta)}
+.leader .adlink{max-width:340px}
 .cmp-row{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:clamp(8px,4vw,32px)}
 .cmp-item{display:flex;flex-direction:column;gap:6px;text-align:center;min-width:0}
 .cmp-lbl{font-size:.8rem;color:var(--text-2);font-weight:600}
@@ -224,9 +225,6 @@ footer{color:var(--muted);font-size:.7rem;padding-block:4px 30px}
         </div>
         <div class="charts" id="mCharts"></div>
         <div class="g" id="gCTR"></div>
-        <div><div class="secttitle"><h3>Ad Leaderboard · 18 Ads</h3></div>
-          <div style="overflow-x:auto;min-width:0"><table><thead><tr><th>Ad (Tap to Watch)</th><th>Type</th><th class="r">Impr.</th><th class="r">CTR</th><th class="r">Spend</th><th class="r">Inst.</th><th class="r">CPI</th></tr></thead><tbody id="adbody"></tbody></table></div>
-        </div>
       </div>
     </section>
     <section class="panel card">
@@ -234,6 +232,10 @@ footer{color:var(--muted);font-size:.7rem;padding-block:4px 30px}
       <div class="pad block" id="appleBody"></div>
     </section>
   </div>
+  <section class="card leader pad" id="leaderCard">
+    <div class="secttitle"><h3>Ad Leaderboard · 18 Ads</h3></div>
+    <div style="overflow-x:auto;min-width:0"><table><thead><tr><th>Ad (Tap to Watch)</th><th>Type</th><th class="r">Impr.</th><th class="r">CTR</th><th class="r">Avg Watch</th><th class="r">Spend</th><th class="r">Inst.</th><th class="r">CPI</th></tr></thead><tbody id="adbody"></tbody></table></div>
+  </section>
   <section class="card compare pad" id="compareCard">
     <div class="fh"><h2>The Test · Cost Per Install by Format</h2><span class="fsum" id="cmpSum"></span></div>
     <div class="cmp-row" id="cmpRow"></div>
@@ -317,7 +319,7 @@ function genRandom(days){
   var ads=ROSTER.map(function(r){
     var imp=Math.round(rnd(400,1600)*scale);var ctr=rnd(0.6,2.6);var clicks=Math.round(imp*ctr/100);
     var installs=Math.max(1,Math.round(clicks*rnd(0.07,0.2)));var cpi=+rnd(1.5,6.4).toFixed(2);
-    return {name:r[0],bucket:r[1],url:r[2],imp:imp,clicks:clicks,ctr:+ctr.toFixed(2),installs:installs,cpi:cpi,spend:+(installs*cpi).toFixed(2)};
+    return {name:r[0],bucket:r[1],url:r[2],imp:imp,clicks:clicks,ctr:+ctr.toFixed(2),watch:Math.round(rnd(5,20)),installs:installs,cpi:cpi,spend:+(installs*cpi).toFixed(2)};
   });
   function sum(k){return ads.reduce(function(a,x){return a+x[k];},0);}
   var spend=Math.min(1000,+sum("spend").toFixed(2)),installs=sum("installs"),clicks=sum("clicks"),imp=sum("imp");
@@ -331,7 +333,7 @@ function genRandom(days){
 }
 function realDataset(){
   return {meta:{delivering:false,spend:0,budget:1000,impressions:null,clicks:null,reach:null,installs:0,cpi:null,ctr:null,buckets:{siri:{cpi:null},notif:{cpi:null}},
-      ads:ROSTER.map(function(r){return {name:r[0],bucket:r[1],url:r[2],imp:null,ctr:null,spend:0,installs:0,cpi:null};}),trend:{cpi:[],installs:[],ctr:[]}},
+      ads:ROSTER.map(function(r){return {name:r[0],bucket:r[1],url:r[2],imp:null,ctr:null,watch:null,spend:0,installs:0,cpi:null};}),trend:{cpi:[],installs:[],ctr:[]}},
     apple:{connected:true,hasData:false,pageViews:null,downloads:null,trend:{downloads:[]}}};
 }
 var DATA=null, BAKED_UPDATED="Nov 18, 2026 · 9:05 PM CT";
@@ -429,9 +431,10 @@ function render(){
     var cpi=ad.cpi==null?dash:'<span class="cpi" style="color:'+cpiMark(ad.cpi)+'">$'+ad.cpi.toFixed(2)+'</span>';
     var impr=(ad.imp==null)?dash:ad.imp.toLocaleString();
     var ctr=(ad.ctr==null)?dash:ad.ctr.toFixed(2)+'%';
+    var watch=(ad.watch==null)?dash:ad.watch+'s';
     return '<tr><td><a class="adlink" href="'+ad.url+'" target="_blank" rel="noopener">'+IC_PLAY+'<span class="ellip">'+ad.name+'</span></a></td>'
       +'<td><span class="tag '+ad.bucket+'">'+(ad.bucket==="siri"?"Siri":"Notif")+'</span></td>'
-      +'<td class="r num">'+impr+'</td><td class="r num">'+ctr+'</td>'
+      +'<td class="r num">'+impr+'</td><td class="r num">'+ctr+'</td><td class="r num">'+watch+'</td>'
       +'<td class="r num">$'+(ad.spend||0).toFixed(0)+'</td><td class="r num">'+ad.installs+'</td><td class="r num">'+cpi+'</td></tr>';
   }).join("");
   var ab=document.getElementById("appleBody");
