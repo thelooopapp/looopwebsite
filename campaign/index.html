@@ -176,10 +176,7 @@ footer{color:var(--muted);font-size:.7rem;padding-block:4px 30px}
         <span class="subtitle">$1K Invite Test · Siri + Notification</span>
       </div>
       <div class="hctl">
-        <span class="updated">Updated <b id="fUpdated">—</b></span>
-        <button class="rbtn" id="refresh" title="Refresh latest data" aria-label="Refresh">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>
-        </button>
+        <span class="updated">Updated <b id="fUpdated">—</b> · auto every 15 min</span>
         <div class="seg mode" role="group" aria-label="Data mode">
           <button id="mReal" aria-pressed="true">Real</button>
           <button id="mRandom" aria-pressed="false">Sample</button>
@@ -240,7 +237,7 @@ footer{color:var(--muted);font-size:.7rem;padding-block:4px 30px}
     <div class="fh"><h2>The Test · Cost Per Install by Format</h2><span class="fsum" id="cmpSum"></span></div>
     <div class="cmp-row" id="cmpRow"></div>
   </section>
-  <footer>Refreshes hourly · bands tuned for US iOS, editable</footer>
+  <footer>Auto-refreshes every 15 minutes · bands tuned for US iOS, editable</footer>
 </main>
 <script>
 "use strict";
@@ -457,16 +454,14 @@ document.getElementById("mReal").addEventListener("click",function(){setMode("re
 document.getElementById("mRandom").addEventListener("click",function(){setMode("random");});
 var pseg=document.getElementById("periodSeg");
 pseg.addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;state.period=b.getAttribute("data-p");Array.prototype.forEach.call(pseg.children,function(c){c.setAttribute("aria-pressed",c===b);});render();});
-var rb=document.getElementById("refresh");
-function loadData(done){
-  fetch('data.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null;}).then(function(j){if(j)DATA=j;render();if(done)done();}).catch(function(){if(done)done();});
+function loadData(){
+  fetch('data.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null;}).then(function(j){if(j){DATA=j;render();}}).catch(function(){});
 }
-rb.addEventListener("click",function(){rb.classList.add("spin");loadData(function(){setTimeout(function(){rb.classList.remove("spin");},400);});});
 setIcons();
 document.body.setAttribute("data-mode","real");
 render();
 loadData();
-setInterval(function(){loadData();},1800000);
+setInterval(loadData,180000);
 </script>
 </body>
 </html>
