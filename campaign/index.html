@@ -356,7 +356,19 @@ var rb=document.getElementById("refresh");
 function loadData(done){
   fetch('data.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null;}).then(function(j){if(j)DATA=j;render();if(done)done();}).catch(function(){if(done)done();});
 }
-rb.addEventListener("click",function(){rb.classList.add("spin");loadData(function(){setTimeout(function(){rb.classList.remove("spin");},400);});});
+var refreshing=false;
+function stopSpin(){rb.classList.remove("spin");rb.removeAttribute("aria-busy");rb.disabled=false;refreshing=false;}
+rb.addEventListener("click",function(){
+  if(refreshing)return;
+  refreshing=true;
+  rb.classList.add("spin");
+  rb.setAttribute("aria-busy","true");
+  rb.disabled=true;
+  loadData(function(){
+    /* keep spinning until the re-rendered page has actually painted */
+    requestAnimationFrame(function(){requestAnimationFrame(stopSpin);});
+  });
+});
 setIcons();
 document.body.setAttribute("data-mode","real");
 render();
