@@ -293,7 +293,7 @@ function gauge(el,o){
   el.innerHTML='<div class="g-head"><span class="g-name">'+o.name+'</span><span class="g-val'+(has?'':' awaiting')+' num">'+(has?fmt(value):'awaiting data')+'</span></div><div class="g-body" style="--_fc:'+fc+'"><div class="g-track">'+flag+seg+dot+ref+'</div></div><div class="g-names">'+names+'</div>';
 }
 function lineChart(el,o){
-  var s=o.series||[];
+  var s=(o.series||[]).filter(function(v){return v!=null&&isFinite(v);}).map(Number);
   if(s.length<2){el.innerHTML='<div class="lc-head"><span class="lc-title">'+o.title+'</span></div><div class="lc-empty">'+(o.empty||'Collecting: points appear as data comes in.')+'</div>';return;}
   var max=Math.max.apply(null,s),min=Math.min.apply(null,s),rng=(max-min)||1,W=100,H=40,py=5,px=3;
   function X(i){return px+i/(s.length-1)*(W-2*px);}
@@ -302,7 +302,7 @@ function lineChart(el,o){
   s.forEach(function(v,i){line+=(i?'L':'M')+X(i).toFixed(2)+' '+Y(v).toFixed(2)+' ';area+=' L'+X(i).toFixed(2)+' '+Y(v).toFixed(2);});
   area+=' L'+(W-px)+' '+H+' Z';
   var lx=X(s.length-1),ly=Y(s[s.length-1]);
-  function fmt(v){return o.unit==='$'?'$'+v.toFixed(2):o.unit==='%'?v.toFixed(0)+'%':Math.round(v).toLocaleString();}
+  function fmt(v){if(v==null||!isFinite(v))return '—';return o.unit==='$'?'$'+v.toFixed(2):o.unit==='%'?v.toFixed(0)+'%':Math.round(v).toLocaleString();}
   el.innerHTML='<div class="lc-head"><span class="lc-title">'+o.title+'</span><span class="lc-last" style="color:'+o.color+'">'+fmt(s[s.length-1])+'</span></div>'
    +'<div class="lc-plot"><svg viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="none" aria-hidden="true">'
    +'<path d="'+area+'" fill="'+o.color+'" opacity="0.12"/>'
