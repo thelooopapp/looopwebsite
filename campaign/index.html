@@ -190,6 +190,18 @@ td.r,th.r{text-align:right;font-variant-numeric:tabular-nums}
 .plc-top{display:flex;justify-content:space-between;gap:10px;align-items:baseline;margin-bottom:5px;font-size:.78rem}
 .plc-name{color:var(--text-2);font-weight:600;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .plc-val{color:var(--muted);font-size:.72rem;white-space:nowrap;flex:none}
+.spark{display:inline-flex;align-items:flex-end;justify-content:flex-end;gap:2px;height:22px;width:38px;cursor:pointer;vertical-align:middle}
+.spark i{display:block;width:5px;min-height:3px;background:var(--meta);border-radius:1px}
+.spark:hover i,.spark:focus i{background:#5aa0ec}
+.rtip{position:fixed;z-index:60;background:var(--head);border:1px solid var(--border);border-radius:11px;padding:11px 13px;box-shadow:0 10px 30px rgba(0,0,0,.45);pointer-events:none}
+.rtip-h{font-size:.66rem;color:var(--muted);margin-bottom:10px;text-align:center}
+.rtip-bars{display:flex;gap:9px;align-items:flex-end}
+.rtip-col{display:flex;flex-direction:column;align-items:center;width:36px}
+.rtip-track{height:72px;width:18px;display:flex;align-items:flex-end;background:var(--track);border-radius:3px;overflow:hidden}
+.rtip-bar{width:100%;background:var(--meta);border-radius:3px 3px 0 0}
+.rtip-val{font-size:.74rem;font-weight:800;color:var(--text);margin-top:6px;font-variant-numeric:tabular-nums}
+.rtip-lbl{font-size:.6rem;color:var(--muted);margin-top:3px}
+.rtip-cnt{font-size:.6rem;color:var(--text-2);margin-top:1px;font-variant-numeric:tabular-nums}
 footer{color:var(--muted);font-size:.7rem;padding-block:4px 30px}
 @media (max-width:820px){ .head-grid{grid-template-columns:1fr} .panels{grid-template-columns:1fr} }
 @media (max-width:460px){ .htop{gap:9px} .bk .bname{width:92px} .adlink{max-width:160px} th,td{padding:7px 5px} }
@@ -263,7 +275,7 @@ footer{color:var(--muted);font-size:.7rem;padding-block:4px 30px}
   </div>
   <section class="card leader pad" id="leaderCard">
     <div class="secttitle"><h3>Ad Leaderboard · 18 Ads</h3></div>
-    <div style="overflow-x:auto;min-width:0"><table class="sortable"><thead><tr><th data-k="name">Ad (Tap to Watch)<i class="sarr"></i></th><th data-k="bucket">Type<i class="sarr"></i></th><th class="r" data-k="imp">Impr.<i class="sarr"></i></th><th class="r" data-k="ctr">CTR<i class="sarr"></i></th><th class="r" data-k="watch">Avg Watch<i class="sarr"></i></th><th class="r" data-k="thruplay">ThruPlay<i class="sarr"></i></th><th class="r" data-k="spend">Spend<i class="sarr"></i></th><th class="r" data-k="installs">Inst.<i class="sarr"></i></th><th class="r" data-k="cpi">CPI<i class="sarr"></i></th></tr></thead><tbody id="adbody"></tbody></table></div>
+    <div style="overflow-x:auto;min-width:0"><table class="sortable"><thead><tr><th data-k="name">Ad (Tap to Watch)<i class="sarr"></i></th><th data-k="bucket">Type<i class="sarr"></i></th><th class="r" data-k="imp">Impr.<i class="sarr"></i></th><th class="r" data-k="ctr">CTR<i class="sarr"></i></th><th class="r" data-k="watch">Avg Watch<i class="sarr"></i></th><th class="r" data-k="tpr">ThruPlay<i class="sarr"></i></th><th class="r" data-k="r100">Retention<i class="sarr"></i></th><th class="r" data-k="spend">Spend<i class="sarr"></i></th><th class="r" data-k="installs">Inst.<i class="sarr"></i></th><th class="r" data-k="cpi">CPI<i class="sarr"></i></th></tr></thead><tbody id="adbody"></tbody></table></div>
   </section>
   <section class="card compare pad" id="compareCard">
     <div class="fh"><h2>The Test · Cost Per Install by Format</h2><span class="fsum" id="cmpSum"></span></div>
@@ -423,6 +435,36 @@ function renderFunnel(m,a){
   }
   document.getElementById("fSum").textContent=fs;
 }
+function retSpark(r){
+  if(!r||!r.plays)return '<span style="color:var(--muted)">—</span>';
+  var pl=r.plays,vals=[r.p25,r.p50,r.p75,r.p95,r.p100];
+  var pts=vals.map(function(v){return Math.round((v||0)/pl*100);});
+  var bars=pts.map(function(p){return '<i style="height:'+p+'%"></i>';}).join("");
+  return '<span class="spark" tabindex="0" role="img" aria-label="Retention curve" data-r="'+pts.join(',')+'" data-c="'+vals.map(function(v){return v||0;}).join(',')+'" data-p="'+pl+'">'+bars+'</span>';
+}
+(function(){
+  var tip=null,LAB=['25%','50%','75%','95%','100%'];
+  function ensure(){if(!tip){tip=document.createElement('div');tip.className='rtip';tip.style.display='none';document.body.appendChild(tip);}return tip;}
+  function show(el){
+    var r=el.getAttribute('data-r').split(',').map(Number),c=el.getAttribute('data-c').split(',').map(Number),pl=+el.getAttribute('data-p');
+    var t=ensure();
+    t.innerHTML='<div class="rtip-h">Watched through · of '+pl.toLocaleString()+' plays</div><div class="rtip-bars">'
+      +r.map(function(p,i){return '<div class="rtip-col"><div class="rtip-track"><div class="rtip-bar" style="height:'+Math.max(2,p)+'%"></div></div><div class="rtip-val">'+p+'%</div><div class="rtip-lbl">'+LAB[i]+'</div><div class="rtip-cnt">'+c[i].toLocaleString()+'</div></div>';}).join("")
+      +'</div>';
+    t.style.display='block';
+    var b=el.getBoundingClientRect(),tw=t.offsetWidth,th=t.offsetHeight;
+    var left=Math.max(8,Math.min(b.left+b.width/2-tw/2,window.innerWidth-tw-8));
+    var top=b.top-th-8; if(top<8)top=b.bottom+8;
+    t.style.left=left+'px'; t.style.top=top+'px';
+  }
+  function hide(){if(tip)tip.style.display='none';}
+  document.addEventListener('mouseover',function(e){var s=e.target.closest&&e.target.closest('.spark');if(s)show(s);});
+  document.addEventListener('mouseout',function(e){var s=e.target.closest&&e.target.closest('.spark');if(s)hide();});
+  document.addEventListener('focusin',function(e){var s=e.target.closest&&e.target.closest('.spark');if(s)show(s);});
+  document.addEventListener('focusout',hide);
+  window.addEventListener('scroll',hide,true);
+  document.addEventListener('click',function(e){var s=e.target.closest&&e.target.closest('.spark');if(s){if(tip&&tip.style.display==='block')hide();else show(s);}else hide();});
+})();
 function render(){
   var days=({ "1d":1,"2d":2,"1w":7,"2w":14,"1mo":30 })[state.period];
   var d=state.mode==="real"?currentReal():genRandom(days);
@@ -472,12 +514,20 @@ function render(){
   if(_wv.length){var _sw=0,_si=0;_wv.forEach(function(x){var _w=x.imp||0;_sw+=x.watch*_w;_si+=_w;if(x.bucket==="siri")_bs+=_w;else _bn+=_w;});_tw=_si>0?Math.round(_sw/_si):Math.round(_wv.reduce(function(a,b){return a+b.watch;},0)/_wv.length);}
   var _db=_bs>=_bn?"siri":"notif";
   var _tp=m.ads.reduce(function(a,b){return a+(b.thruplay||0);},0),_hasTp=m.ads.some(function(x){return x.thruplay!=null;});
+  var _ragg={plays:0,p25:0,p50:0,p75:0,p95:0,p100:0},_hasRet=false;
+  m.ads.forEach(function(a){
+    a.tpr=(a.thruplay!=null&&a.imp)?+(a.thruplay/a.imp*100).toFixed(1):null;
+    a.r100=(a.ret&&a.ret.plays)?+(a.ret.p100/a.ret.plays*100).toFixed(1):null;
+    if(a.ret&&a.ret.plays){_hasRet=true;_ragg.plays+=a.ret.plays;_ragg.p25+=a.ret.p25||0;_ragg.p50+=a.ret.p50||0;_ragg.p75+=a.ret.p75||0;_ragg.p95+=a.ret.p95||0;_ragg.p100+=a.ret.p100||0;}
+  });
+  var _tpr=(_hasTp&&m.impressions)?(_tp/m.impressions*100):null;
   var _sd='<span style="color:var(--muted)">—</span>';
   var sumRow='<tr class="sumrow"><td></td><td></td>'
     +'<td class="r num">'+(m.impressions==null?_sd:m.impressions.toLocaleString())+'</td>'
     +'<td class="r num">'+(m.ctr==null?_sd:m.ctr.toFixed(2)+'%')+'</td>'
     +'<td class="r num">'+(_tw==null?_sd:'<span style="color:'+watchMark(_db,_tw)+'">'+_tw+'s</span>')+'</td>'
-    +'<td class="r num">'+(_hasTp?_tp.toLocaleString():_sd)+'</td>'
+    +'<td class="r num">'+(_tpr==null?_sd:_tpr.toFixed(1)+'%')+'</td>'
+    +'<td class="r">'+(_hasRet?retSpark(_ragg):_sd)+'</td>'
     +'<td class="r num">$'+(m.spend||0).toFixed(0)+'</td>'
     +'<td class="r num">'+(m.installs==null?_sd:m.installs)+'</td>'
     +'<td class="r num">'+(m.cpi==null?_sd:'<span class="cpi" style="color:'+cpiMark(m.cpi)+'">$'+m.cpi.toFixed(2)+'</span>')+'</td></tr>';
@@ -487,11 +537,12 @@ function render(){
     var impr=(ad.imp==null)?dash:ad.imp.toLocaleString();
     var ctr=(ad.ctr==null)?dash:ad.ctr.toFixed(2)+'%';
     var watch=(ad.watch==null)?dash:'<span style="color:'+watchMark(ad.bucket,ad.watch)+';font-weight:800">'+ad.watch+'s</span>';
-    var tp=(ad.thruplay==null)?dash:ad.thruplay.toLocaleString();
+    var tp=(ad.tpr==null)?dash:'<span title="'+(ad.thruplay||0)+' of '+(ad.imp||0)+' watched through">'+ad.tpr.toFixed(1)+'%</span>';
     return '<tr><td><a class="adlink" href="'+ad.url+'" target="_blank" rel="noopener">'+IC_PLAY+'<span class="ellip">'+ad.name+'</span></a></td>'
       +'<td><span class="tag '+ad.bucket+'">'+(ad.bucket==="siri"?"Siri":"Notif")+'</span></td>'
       +'<td class="r num">'+impr+'</td><td class="r num">'+ctr+'</td><td class="r num">'+watch+'</td>'
       +'<td class="r num">'+tp+'</td>'
+      +'<td class="r">'+retSpark(ad.ret)+'</td>'
       +'<td class="r num">$'+(ad.spend||0).toFixed(0)+'</td><td class="r num">'+ad.installs+'</td><td class="r num">'+cpi+'</td></tr>';
   }).join("");
   updateSortArrows();
