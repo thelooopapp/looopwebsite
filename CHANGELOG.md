@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 16:50 CT
+
+### Pages
+- **`/invite` new second line** (`images/invite-messages.png`, `invite.html`): the text bubble now has "To look out for each other" as its second line, with the same spacing between lines.
+
 ## 2026-11-22 16:30 CT
 
 ### Pages
