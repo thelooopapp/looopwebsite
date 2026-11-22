@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 15:20 CT
+
+### Pages
+- **`/invite` image keeps the link-card footer** (`images/invite-messages.png`, `invite.html`): the invite screenshot sits in the same style as the Messages link preview, with the gray bottom bar (Looop icon, "Looop - Keep Loved Ones Safe", "Peace of Mind for Families") and rounded corners.
+
 ## 2026-11-22 15:00 CT
 
 ### Pages
