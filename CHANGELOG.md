@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 13:05 CT
+
+### Pages
+- **`/invite` image: full question mark** (`images/invite-messages.png`): the "?" after "Storm near Mom" was clipped by the X button in the source screenshot; redrawn as a complete "?" in the same heavy weight.
+
 ## 2026-11-22 12:50 CT
 
 ### Pages
