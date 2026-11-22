@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 12:50 CT
+
+### Pages
+- **`/invite` bubble matches the card width** (`images/invite-messages.png`, `invite.html`): the text bubble was narrower than the App Store card at the top of the image; both are now the same width, with the bubble text slightly smaller to fit.
+
 ## 2026-11-22 12:35 CT
 
 ### Pages
