@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 15:00 CT
+
+### Pages
+- **`/invite` image swapped** (`images/invite-messages.png`, `invite.html`): the image message under the text bubble is now the invite screenshot ("Keep Loved Ones safe, stay in the Looop", with the Hospital Arrival, Flash Flooding and Campus Riot notifications) instead of the App Store link card. Image link version bumped so browsers load the new picture.
+
 ## 2026-11-22 14:00 CT
 
 ### Pages
