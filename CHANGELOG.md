@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 15:35 CT
+
+### Pages
+- **`/invite` caption wording** (`invite.html`): the line above the link now reads "Click here to learn more:" (was "Clicking the link leads to"), and the trailing period after the link is gone.
+
 ## 2026-11-22 15:20 CT
 
 ### Pages
