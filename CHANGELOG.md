@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 13:20 CT
+
+### Pages
+- **`/invite` wording** (`images/invite-messages.png`, `invite.html`): the first line now reads "I've added you to my Looop!" (text size nudged down a touch so it stays on one line).
+
 ## 2026-11-22 13:05 CT
 
 ### Pages
