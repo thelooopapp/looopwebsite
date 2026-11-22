@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 12:00 CT
+
+### Pages
+- **New unlisted invite page** at `/invite` (`invite.html`): a centered, responsive page showing two text messages ("I've added you to Looop! It's Free :) Use the code NFT-WTR. Download it here:" plus the App Store card as the image message, `images/invite-messages.png`). The image and the "Looop on the App Store" caption link both go to the Looop invite page on the App Store. Marked `noindex, nofollow` and left out of the sitemap and navigation.
+
 ## 2026-11-12 10:37 CT
 
 - **Pitch: capitalized focus lines** - Slide 4 now reads "Focused on Location" (Life360) and "Focused on Health" (Luffu). PDF regenerated.
