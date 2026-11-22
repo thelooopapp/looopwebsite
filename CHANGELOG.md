@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 14:00 CT
+
+### Pages
+- **`/invite` caption layout** (`invite.html`): "Clicking the link leads to" is now its own line, and the whole "Looop on the App Store" link sits on a single line under it (it was splitting across two lines).
+
 ## 2026-11-22 13:40 CT
 
 ### Pages
