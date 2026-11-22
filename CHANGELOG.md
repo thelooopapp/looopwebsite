@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 16:05 CT
+
+### Pages
+- **`/invite` download line** (`images/invite-messages.png`, `invite.html`): the last line of the text bubble now says "You can download it here:" (was "Download it here:").
+
 ## 2026-11-22 15:50 CT
 
 ### Pages
