@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 13:40 CT
+
+### Pages
+- **`/invite` image cache-bust** (`invite.html`): the image link now carries a version tag so browsers that cached the earlier picture fetch the current one.
+
 ## 2026-11-22 13:20 CT
 
 ### Pages
