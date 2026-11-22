@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 15:50 CT
+
+### Pages
+- **`/invite` code line** (`images/invite-messages.png`, `invite.html`): the text bubble now says "Join me with code NFT-WTR" (was "Use the code NFT-WTR").
+
 ## 2026-11-22 15:35 CT
 
 ### Pages
