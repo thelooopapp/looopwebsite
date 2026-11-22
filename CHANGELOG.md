@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 17:20 CT
+
+### Pages
+- **`/invite` screenshot order** (`images/invite-messages.png`, `invite.html`): in the screenshot, the Flash Flooding notification for Dad is now on top and Mom's Hospital Arrival is second.
+
 ## 2026-11-22 16:50 CT
 
 ### Pages
