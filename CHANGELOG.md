@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 12:35 CT
+
+### Pages
+- **`/invite` caption line break** (`invite.html`): "on the App Store" now sits on its own line under "Looop" in the link text.
+
 ## 2026-11-22 12:20 CT
 
 ### Pages
