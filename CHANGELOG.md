@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-22 12:20 CT
+
+### Pages
+- **`/invite` mobile scroll room** (`invite.html`): added blank space under the "Looop on the App Store" link on phones (60% of screen height) so it can be scrolled up to the middle of the screen. Desktop is unchanged.
+
 ## 2026-11-22 12:00 CT
 
 ### Pages
