@@ -121,12 +121,12 @@ To apply: update `primary_keyword` in each `content/` source, then tune the H1/t
 | `robots.txt` allows every crawler, including AI search crawlers (OAI-SearchBot, PerplexityBot, Claude-SearchBot) | **Done**. Leave it open |
 | Bing verified (`msvalidate.01`); IndexNow key file at the root | **Done**. Ping IndexNow for every new or changed URL |
 | Apple Smart App Banner | **Declined** by the owner, Nov 24 (it's visible to visitors and doesn't help ranking) |
-| Campaign token (`?ct=page-name`) on every App Store link, so App Store Connect shows which pages lead to installs | **To do.** Invisible to visitors; none of the 123 links has one |
-| Submit every sitemap URL to Bing through IndexNow in one batch | **To do** |
+| Campaign link (`?pt=PROVIDER&ct=page-name`) on every App Store link, so App Store Connect shows which pages lead to installs | **Blocked** until the owner supplies the provider token (`pt`) from App Store Connect > App Analytics > Campaigns. Apple counts a campaign only when both `pt` and `ct` are present. Invisible to visitors; none of the 123 links has one |
+| Submit every sitemap URL to Bing through IndexNow in one batch | **To do, after the next merge to `main`.** The cloud environment blocks `api.indexnow.org`; submit the 30 URLs in Bing Webmaster Tools > URL Submission, or from any machine with the IndexNow key |
 | Verify the domain in **Google Search Console** and submit `sitemap.xml` | **Done** (owner confirmed Nov 24) |
 | Submit `sitemap.xml` in **Bing Webmaster Tools** | **Done** (owner confirmed Nov 24) |
 | `http://thelooopapp.com` redirect: one hop to `https://www.thelooopapp.com/` (Cloudflare redirect rule, "Always Use HTTPS") | **Owner.** Not checked since Oct 23 |
-| Home page structured data (invisible): add `offers` ($4.99 a month) to MobileApplication, and bring its description in line with the approved list ("weather, crime, spending, health, fitness, activity, and the shape of each day"; it leaves out fitness today). `aggregateRating` once the App Store rating is real | **To do** (owner to confirm) |
+| Home page structured data (invisible): MobileApplication `offers` (free to use; Looop Plus at $4.99 a month for alerts, the same two offers as the comparison pages) and the approved list in its description ("weather, crime, spending, health, fitness, activity, and the shape of each day"). `aggregateRating` once the App Store rating is real | **Done** Nov 24 (`index.html`). Google also needs `aggregateRating` before it shows an app rich result |
 | Compress the remaining large PNGs used on live pages | Ongoing |
 
 ### 5.2 Content: new pages to write (in priority order)
