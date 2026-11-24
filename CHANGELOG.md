@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-24 04:50 CT
+
+### Docs
+- **`SEO_STRATEGY.md` updated** (not published; no page changes): adds people searching for Life360 and similar apps as a goal, with Nov 24 research on what ranks for competitor searches and what AI assistants cite (Reddit far more than directories). New keyword rows and briefs for `blog/life360-for-aging-parents.html`, `blog/find-my-and-looop.html`, the comparison hub, and the rollout's vs pages. Status brought up to date: Looop vs. Life360 is live but linked only from the Resources index, Best Life360 Alternatives is still out of the build, brief #1 is unwritten, For Aging Parents is thin (648 words, no FAQ), and no page has an Apple Smart App Banner. Records the owner's Nov 24 decisions: Search Console and Bing are set up; Best Life360 Alternatives and the four held guides go live after a fact re-check; the comparison link goes in the home page's privacy band and in the audience pages; the home page `<title>` and meta description name aging parents (hero unchanged); and a paid test is approved: Apple Ads first (about $560 over 4 weeks, break-even about $7.50 per trial start, stop rules), with Google and Microsoft ads only if that works. Also adds 19 audit prompts and a roadmap from Nov 24 to Feb 20. The Oct 23 "consider a footer link" idea is ruled out per ROLLOUT_STRATEGY.md.
+
 ## 2026-11-22 17:20 CT
 
 ### Pages
