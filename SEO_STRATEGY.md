@@ -81,7 +81,7 @@ To apply: update `primary_keyword` in each `content/` source, then tune the H1/t
 | Verify the domain in **Google Search Console** (Domain property via Cloudflare DNS TXT) and submit `sitemap.xml` | **Owner**: needs your Google login |
 | Submit `sitemap.xml` in **Bing Webmaster Tools** (site is already verified via `msvalidate.01`), and turn on IndexNow there | **Owner** |
 | `http://thelooopapp.com` redirects to `http://www...` then to `https`. Make it one hop: Cloudflare > Rules > Redirect `thelooopapp.com/*` to `https://www.thelooopapp.com/$1` (301), and turn on "Always Use HTTPS" | **Owner**: Cloudflare dashboard |
-| Add `offers` (price) and, once there are enough ratings, `aggregateRating` to the MobileApplication schema. Google needs both for an app rich result | Later: needs the real price and App Store rating |
+| Add `offers` (price) and, once there are enough ratings, `aggregateRating` to the MobileApplication schema. Google needs both for an app rich result | Later: needs the App Store rating. Price: free to use, with Looop Plus at $4.99 a month for alerts; list both as two offers (as on the comparison pages) |
 | Compress the remaining large PNGs used on live pages (press screenshots are downloads, leave them) | Ongoing |
 
 ### 5.2 Content: new pages to write (in priority order)

@@ -42,7 +42,7 @@ Hero: Looop looks after their whole day. Luffu looks after their health. / Healt
 | What you have to do | Nothing after setup | Add medications, meals, symptoms, records, and doctor visits by voice, text, or photo |
 | Works with | Apple Watch, Oura Ring, Whoop, Garmin, and more, through Apple Health | Apple Health and Fitbit |
 | Anything to buy? | No. Looop uses the iPhone and watch they already have | Optional. The Luffu Link band is $299.99 ($249.99 on preorder), plus a Family Plan, expected early 2027 |
-| Cost | $4.99 a month | Family Plan: $19.99 a month for up to four people, or $29.99 for up to eight. Required for the band |
+| Cost | Free to use; alerts with Looop Plus, $4.99 a month | Family Plan: $19.99 a month for up to four people, or $29.99 for up to eight. Required for the band |
 | Help in an emergency | 911 and up to three emergency contacts, one tap away | The $299.99 Luffu Link's button texts trusted contacts. It doesn't call 911 |
 | Your privacy | Never sold. No advertisers. No ads | Doesn't sell health data. May share other personal information with advertisers |
 | Phones | iPhone | iPhone and Android |
