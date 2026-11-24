@@ -2,6 +2,10 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-24 12:40 CT
+
+### Pages
+- **Looop's price, free to use** (`looop-vs-luffu.html`, `content/website/looop-vs-luffu.md`): the Looop vs. Luffu Cost row now reads "Free to use; alerts with Looop Plus, $4.99 a month" instead of "$4.99 a month." Schema on the page lists two offers: free, and Looop Plus at $4.99. The Looop vs. Life360 page keeps "$4.99 a month" on purpose (Looop is cheaper than Life360's paid plans).
 ## 2026-11-24 12:28 CT
 
 ### Docs
