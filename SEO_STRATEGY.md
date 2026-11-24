@@ -8,10 +8,10 @@ Read with the marketing docs in the app repo (`looop/marketing/`): MARKET_POSITI
 
 - **New goal added: people searching for Life360 and similar apps.** Section 3 has fresh research on what ranks for competitor searches, section 4 adds a competitor keyword map, and section 5.2 puts two Life360 pages near the top of the content list.
 - **Status brought up to date.** The Looop vs. Life360 page is live and indexed (it wasn't in the Oct 23 plan as a ranking page). Best Life360 Alternatives was taken out of the build on Oct 26 for revision. Brief #1 (apps to check on an aging parent) is still unwritten.
-- **Gaps found in the site source:** the vs page is linked only from the Resources index, For Aging Parents is thin, and no page has an Apple Smart App Banner (section 5.1 and 5.4).
+- **Gaps found in the site source:** the vs page is linked only from the Resources index, and For Aging Parents is thin (section 5.3).
 - **Off-site plan corrected by research:** Reddit is what AI assistants cite most for "which app should I use"; Capterra helps in Google but rarely in AI answers (section 5.5 and 7).
 - **The roadmap (section 8) restarts from Nov 24** and uses the holiday window.
-- **Owner decisions, Nov 24 (section 9):** Search Console and Bing are set up with the sitemap submitted; Best Life360 Alternatives and the four held guides go live once their facts are re-checked; the comparison link goes on the home page (spot in 5.7) and the audience pages; the home page title names aging parents (5.7); a small ad budget is approved for the test plan in 5.6.
+- **Owner decisions, Nov 24 (section 9):** Search Console and Bing are set up with the sitemap submitted; Best Life360 Alternatives and the four held guides go live once their facts are re-checked; a small ad budget is approved for the test plan in 5.6. **Declined:** small edits to existing pages (home page title and description, comparison links on the home and audience pages, shorter guide titles, the App Store banner). They'd water down the existing copy, make it too specific to aging parents, and do little for search. Effort goes to new pages and links from other sites instead.
 
 ## 1. Goal and how we measure it
 
@@ -81,7 +81,7 @@ Primary keywords already live in each page's `content/` front matter. A few over
 
 | URL | Primary keyword | Note |
 |---|---|---|
-| `/` | family safety notifications app; second: app for aging parents | Brand + category. New title and description in 5.7 (approved Nov 24) |
+| `/` | family safety notifications app | Brand + category. Title and description stay as they are (owner, Nov 24) |
 | `features.html` | family safety alerts app | Was "family safety notifications" (same as tracking-vs-knowing) |
 | `blog/tracking-vs-knowing.html` | family app without tracking | Was "family safety notifications" |
 | `for-aging-parents.html` | app for aging parents living alone | Commercial intent |
@@ -120,11 +120,13 @@ To apply: update `primary_keyword` in each `content/` source, then tune the H1/t
 | `llms.txt` lists every indexable page and guide, with the positioning and the Life360 contrast | **Done** and current. Google doesn't use it; keep it anyway, it costs nothing |
 | `robots.txt` allows every crawler, including AI search crawlers (OAI-SearchBot, PerplexityBot, Claude-SearchBot) | **Done**. Leave it open |
 | Bing verified (`msvalidate.01`); IndexNow key file at the root | **Done**. Ping IndexNow for every new or changed URL |
-| **Apple Smart App Banner**: `<meta name="apple-itunes-app" content="app-id=6760598111">` on every page | **To do.** No page has it today. Search visitors on iPhone get a one-tap route to the App Store |
+| Apple Smart App Banner | **Declined** by the owner, Nov 24 (it's visible to visitors and doesn't help ranking) |
+| Campaign token (`?ct=page-name`) on every App Store link, so App Store Connect shows which pages lead to installs | **To do.** Invisible to visitors; none of the 123 links has one |
+| Submit every sitemap URL to Bing through IndexNow in one batch | **To do** |
 | Verify the domain in **Google Search Console** and submit `sitemap.xml` | **Done** (owner confirmed Nov 24) |
 | Submit `sitemap.xml` in **Bing Webmaster Tools** | **Done** (owner confirmed Nov 24) |
 | `http://thelooopapp.com` redirect: one hop to `https://www.thelooopapp.com/` (Cloudflare redirect rule, "Always Use HTTPS") | **Owner.** Not checked since Oct 23 |
-| Add `offers` ($4.99 a month) to the MobileApplication schema; add `aggregateRating` once the App Store rating is real | The price is now known ($4.99 a month, COPYWRITER_GUIDELINES.md). `aggregateRating` later |
+| Home page structured data (invisible): add `offers` ($4.99 a month) to MobileApplication, and bring its description in line with the approved list ("weather, crime, spending, health, fitness, activity, and the shape of each day"; it leaves out fitness today). `aggregateRating` once the App Store rating is real | **To do** (owner to confirm) |
 | Compress the remaining large PNGs used on live pages | Ongoing |
 
 ### 5.2 Content: new pages to write (in priority order)
@@ -149,24 +151,19 @@ For every page that should be quoted by AI assistants: under the H1, a 40 to 60 
 
 ### 5.3 Content: what already exists
 
-- **Looop vs. Life360 is live** (4,400 words, side-by-side table, 12-question FAQ with FAQPage schema, Safety Incidents and Subscription Tracker facts already updated). It needs links (5.4), a "Switching from Life360 for a parent" FAQ, and a quarterly fact check with the "Last checked" line updated.
+- **Looop vs. Life360 is live** (4,400 words, side-by-side table, 12-question FAQ with FAQPage schema, Safety Incidents and Subscription Tracker facts already updated). It needs a "Switching from Life360 for a parent" FAQ, and a quarterly fact check with the "Last checked" line updated.
 - **For Aging Parents is thin:** 648 words, no FAQ. It's the commercial page for the core audience. Grow it to about 1,500 words: what you'll get a heads-up about, "works alongside Find My, Check In, and Health Sharing," "a quiet phone is only one signal" (answers inactivity apps without naming them), and a 6 to 8 question FAQ with FAQPage schema. The hero stays within the hero rules.
 - **Held:** Best Life360 Alternatives (excluded from the build since Oct 26) and four `noindex` guides (`mom-isnt-a-pet`, `mom-doesnt-need-a-super-app`, `storm-heads-up-not-ad-slot`, `whos-paying-for-your-family-safety-app`). The four guides name Life360 and support the comparison pages. Approved by the owner on Nov 24: re-check every competitor fact against COMPETITORS.md and the live sources, update the "Last checked" line, then remove `noindex` and add each to the sitemap and `llms.txt`.
 - **Keyword overlaps**: apply the section 4 map.
-- **Titles over about 60 characters** get cut off in Google. Shorter options for the next copy pass:
-  - `before-you-link-moms-bank-account` (81): "Linking a Parent's Bank Account to an App? 5 Questions | Looop"
-  - `apple-watch-aging-parents` (77): "Apple Watch for Aging Parents: Health Sharing, Explained | Looop"
-  - `holiday-visit-checklist` (77): "Holiday Visit Checklist: What to Notice in Aging Parents | Looop"
-  - `long-distance-caregiving-report` (74): "Long-Distance Caregiving Statistics (2026 Report) | Looop"
-  - `looop-vs-life360` (71): "Looop vs. Life360: A Life360 Alternative for Adults | Looop"
+- **Long titles on existing guides stay as they are** (owner, Nov 24). New pages keep the 60-character rule in section 6.
 - **Holiday Visit Checklist:** this is its season. Add a "set it up together while you're home" step (consent first) before the first week of December.
 - **Refresh cadence**: re-check the caregiving report and scams guide each January (new AARP / FBI IC3 numbers); re-check every comparison page each quarter and the same day a competitor makes news. Update `dateModified` by editing the page (the sitemap `lastmod` follows the commit date).
 
 ### 5.4 Internal linking
 
 - **Done:** each of the 10 indexable guides ends with a "Keep reading" list of 3 related guides.
-- **To do first: link to Looop vs. Life360** (approved Nov 24). Today it's linked only from the Resources index. The home page spot is in 5.7. On the audience pages, add one in-body link each: Features (a new question in "Questions, answered": "How is Looop different from other family apps?", answered with the category line and the link), For Aging Parents (at the end of "Built for every kind of family"), and For Grown-Up Families (in "Your family grew up. Your app should too.", right after the then-and-now table that already sets up the comparison). Link `blog/how-location-apps-make-money.html` to the vs page's privacy section. These pages don't name Life360 in their own copy; the link text names the comparison ("See how Looop compares"). Point every one of these links at the comparison hub once it exists.
-- **Next:** one in-body link from each product page to its matching guide (`for-aging-parents.html` to `blog/how-to-check-on-aging-parents.html`, `for-college-families.html` to `blog/crime-near-mom-not-a-crime-map.html`). Descriptive anchor text, not "read more."
+- **Links to Looop vs. Life360 come from new pages, not edits to existing ones** (owner, Nov 24: no added links on the home page, audience pages, or existing guides). The vs page is linked from the Resources index today; Best Life360 Alternatives, the four held guides, the new Life360 and roundup pages, and the comparison hub will all link to it.
+- **On hold** (owner, Nov 24, no added links on existing pages): one in-body link from each product page to its matching guide (`for-aging-parents.html` to `blog/how-to-check-on-aging-parents.html`, `for-college-families.html` to `blog/crime-near-mom-not-a-crime-map.html`). Descriptive anchor text, not "read more."
 - **Ruled out:** a footer or menu link to the vs page. ROLLOUT_STRATEGY.md keeps navigation as it is; comparison pages are reached from Resources, the hub, and related pages.
 
 ### 5.5 Off-site: authority and links
@@ -217,29 +214,6 @@ The site has almost no backlinks yet. In order of payoff:
 
 *Total:* about $560 for 4 weeks, and at most about $860 over 8 weeks if phase 1 earns phase 2.
 
-### 5.7 Home page: the comparison link and the title (approved Nov 24)
-
-**Where the comparison link goes: the privacy band** (`section#privacy`). Under "Read Our Privacy Promise," add a second link in the same style (`a.more`): **"See how Looop compares"**, pointing at `looop-vs-life360.html` now and at the comparison hub once it exists.
-
-- **Privacy is the clearest difference** from Life360 (its ad business and the Subscription Tracker terms), so a reader there is already comparing.
-- **It adds no second contrast line.** The home page already has its one map-versus-alerts contrast: the "You've outgrown your family monitoring app" banner right below the privacy band. The copywriter guide allows one such contrast per page, so a separate "How Looop compares" band with the category line (the rollout's first idea) would make two, side by side.
-- **No new layout:** it reuses the existing link style, and it's in the page body, not the menu or footer (ruled out in 5.4).
-- The link text names the comparison, not Life360; only the comparison page names it.
-
-**Where the title changes: the `<title>` tag and the meta description**, which are what Google and Bing show as the result's headline and snippet. Leave the hero, the social title, and the page's look alone:
-
-| Element | Now | Change to |
-|---|---|---|
-| `<title>` | Looop: Family Safety Notifications, Across Any Distance | **Looop: Safety Notifications for Aging Parents and Family** (56 characters) |
-| Meta description | Looop is a safety notifications app. It tells you when to check in on the people you love, with alerts for severe weather, nearby crime, and unusual days. | **Looop is a safety notifications app for aging parents and family far away. Know when to check in, with alerts for storms, nearby crime, and unusual days.** (153 characters) |
-| Hero `h1` "Peace of Mind that Loved Ones are Safe" | | **No change.** It's the brand line that the press headlines echo, and the hero rules keep it under 8 words |
-| `og:title` "Peace of mind for you, independence for them" | | **No change.** It reads better as a social share line |
-
-- **Why this wording:** "safety notifications" keeps Looop's category and the home page's primary keyword; "aging parents" puts the core audience in the headline people see in search; "and family" keeps college families, siblings, and friends in. "Aging parents," never "elderly" or "seniors."
-- **No clash with For Aging Parents:** the home page aims at the short search ("app for aging parents"); For Aging Parents keeps the long one ("app for aging parents living alone").
-- **Mirror it** in the home page's `content/` source, and in section 4 add "app for aging parents" as the home page's second keyword.
-- **Check after 4 weeks in Search Console:** home page impressions for "aging parents" searches should rise, and clicks on "Looop" searches shouldn't fall.
-
 ## 6. On-page checklist for every new page
 
 - Unique `<title>` of 60 characters or fewer with the primary keyword near the front, ending in ` | Looop`.
@@ -248,7 +222,7 @@ The site has almost no backlinks yet. In order of payoff:
 - The primary keyword in the title, H1, first paragraph, and meta description, once each.
 - Pages meant to be quoted (comparisons, roundups, guides): a 40 to 60 word answer right under the H1 that names the apps and makes sense on its own.
 - `<link rel="canonical">` with the full `https://www.thelooopapp.com/...html` URL.
-- Open Graph + Twitter tags (copy the block from any guide). The Smart App Banner meta.
+- Open Graph + Twitter tags (copy the block from any guide).
 - JSON-LD: BreadcrumbList on every page; BlogPosting on guides; FAQPage when the page has a `<details>` FAQ. Markup matches the visible text.
 - Images: WebP, `width`/`height` set, `loading="lazy"` below the fold, descriptive `alt`.
 - Guides: a "Keep reading" block, plus one link to the matching product page.
@@ -297,7 +271,7 @@ Where Looop is missing, the fix is usually an earned mention (5.5) or a clearer 
 
 | When | Work |
 |---|---|
-| Nov 24 to Dec 5 | Smart App Banner sitewide. Home page title, description, and privacy-band link (5.7). In-body links to the vs page from Features, For Aging Parents, and For Grown-Up Families (5.4). Re-check facts, then publish Best Life360 Alternatives and the four held guides (5.2 #1, 5.3). Owner: confirm the Cloudflare redirect; decide on AdServices attribution (5.6). Holiday Visit Checklist update. Prompt audit #1 as a baseline |
+| Nov 24 to Dec 5 | Invisible fixes: campaign tokens on App Store links, the app's price and description in the home page's structured data, one IndexNow batch (5.1). Directory profiles: AlternativeTo, Crunchbase, Wikidata, Product Hunt (5.5). Re-check facts, then publish Best Life360 Alternatives and the four held guides (5.2 #1, 5.3). Owner: confirm the Cloudflare redirect; decide on AdServices attribution (5.6). Holiday Visit Checklist update. Prompt audit #1 as a baseline |
 | Dec 5 to Jan 5 | Life360 for aging parents (5.2 #2). Apps to check on an aging parent (5.2 #3). Grow For Aging Parents (5.3). Pitch *Savvy Senior*, Caring.com, seniorsite.org, and the Life360 roundups (5.5). AlternativeTo, Product Hunt, Crunchbase, Wikidata. Apple Ads phase 1, with two custom product pages (5.6) |
 | Jan 5 to Feb 20 | Apple Ads 4-week review; Google and Microsoft ads phase 2 only if phase 1 is under break-even (5.6). Weather alerts page (5.2 #4). Find My and Looop (5.2 #5). Comparison hub, then Looop vs. iSharing and Family Nest (5.2 #6). January refresh of the caregiving report and scams guide. First GSC review: improve pages at positions 8 to 20 first. Prompt audit #3 |
 | After Feb 20 | GeoZilla and OnStar Guardian pages, the privacy label study, the YouTube videos, Oct 23 briefs (parent not answering, moving away), the college checklist by July. Quarterly comparison fact checks; same-day updates when a competitor makes news |
@@ -308,9 +282,8 @@ Answered Nov 24, 2026:
 
 1. **Search Console and Bing:** set up, with the sitemap submitted. An export of the last 28 days would set the baseline for section 1.
 2. **Best Life360 Alternatives and the four held guides:** go live once their facts are re-checked (5.2 #1, 5.3).
-3. **Comparison links:** approved for the home page and the audience pages. Home page spot: the privacy band (5.7). Audience-page spots: 5.4.
-4. **Home page title:** names aging parents, in the `<title>` and meta description only (5.7).
-5. **Ad budget:** approved if the plan is efficient. Plan, break-even, and stop rules in 5.6.
+3. **Small visible edits to existing pages: declined.** No comparison links added to the home page, audience pages, or existing guides; the home page title and description, the existing guide titles, and the hero stay as they are; no App Store banner. They'd water down the copy, make it too specific to aging parents, and do little for search.
+4. **Ad budget:** approved if the plan is efficient. Plan, break-even, and stop rules in 5.6.
 
 Still open:
 

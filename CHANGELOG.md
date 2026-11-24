@@ -2,6 +2,11 @@
 
 Changes to thelooopapp.com, newest first. This file is not published (see `_config.yml`).
 
+## 2026-11-24 12:28 CT
+
+### Docs
+- **`SEO_STRATEGY.md`: small visible edits declined** (not published; no page changes). The owner decided against changing existing pages for search: no new home page title or description, no comparison links added to the home page, audience pages, or existing guides, no shorter guide titles, and no App Store banner. They'd water down the copy, make it too specific to aging parents, and do little for search. Section 5.7 is removed, and sections 4, 5.1, 5.3, 5.4, 8, and 9 are updated to match. Invisible fixes are added instead: campaign tokens on App Store links, the app's price and fitness wording in the home page's structured data, and one IndexNow batch.
+
 ## 2026-11-24 04:50 CT
 
 ### Docs
